@@ -1,0 +1,46 @@
+<?php
+// Imports the Farhoon Elementor templates and builds the pages. Run with: wp eval-file <this file> --user=<admin>
+if (!defined('ABSPATH') || !class_exists('\Elementor\Plugin')) { exit("needs WordPress with Elementor\n"); }
+$base = 'https://tahahhussain.github.io/farhoon/wp/';
+$pages = [
+  ['farhoon-1-home', 'الرئيسية', 'home', ''],
+  ['farhoon-2-about', 'من نحن', 'about', ''],
+  ['farhoon-3-rafiq', 'رفيق الطاعة', 'rafiq', ''],
+  ['farhoon-4-games', 'ألعابنا', 'games', ''],
+  ['farhoon-5-contact', 'تواصل معنا', 'contact', ''],
+  ['farhoon-6-rafiq-privacy', 'سياسة الخصوصية', 'privacy', 'rafiq'],
+];
+$source = \Elementor\Plugin::$instance->templates_manager->get_source('local');
+$ids = [];
+foreach ($pages as [$file, $title, $slug, $parent]) {
+  $res = wp_remote_get($base . $file . '.json', ['timeout' => 60]);
+  if (is_wp_error($res) || wp_remote_retrieve_response_code($res) !== 200) { echo "FAILED download $file\n"; continue; }
+  $tmp = wp_tempnam($file . '.json');
+  file_put_contents($tmp, wp_remote_retrieve_body($res));
+  $items = $source->import_template($file . '.json', $tmp);
+  @unlink($tmp);
+  if (is_wp_error($items) || empty($items[0]['template_id'])) { echo "FAILED import $file\n"; continue; }
+  $tpl = $items[0]['template_id'];
+  $parent_id = $parent ? ($ids[$parent] ?? 0) : 0;
+  $existing = get_page_by_path($parent ? "$parent/$slug" : $slug, OBJECT, 'page');
+  $id = $existing ? $existing->ID : wp_insert_post(['post_title' => $title, 'post_name' => $slug, 'post_status' => 'publish', 'post_type' => 'page', 'post_parent' => $parent_id]);
+  foreach (['_elementor_data', '_elementor_page_settings', '_elementor_version'] as $k) {
+    update_post_meta($id, $k, wp_slash(get_post_meta($tpl, $k, true)));
+  }
+  update_post_meta($id, '_elementor_edit_mode', 'builder');
+  update_post_meta($id, '_wp_page_template', 'elementor_canvas');
+  $ids[$slug] = $id;
+  echo "OK $slug page=$id template=$tpl " . get_permalink($id) . "\n";
+}
+if (!empty($ids['home'])) { update_option('show_on_front', 'page'); update_option('page_on_front', $ids['home']); }
+// The WordPress sample post and page go to the trash.
+foreach (get_posts(['post_type' => 'post', 'name' => 'hello-world', 'post_status' => 'any']) as $p) wp_trash_post($p->ID);
+$sample = get_page_by_path('sample-page'); if ($sample) wp_trash_post($sample->ID);
+// The app links to /rafiq/privacy.html; send it to the WordPress page.
+$ht = ABSPATH . '.htaccess';
+$rule = "Redirect 301 /rafiq/privacy.html " . home_url('/rafiq/privacy/') . "\n";
+$cur = file_exists($ht) ? file_get_contents($ht) : '';
+if (strpos($cur, '/rafiq/privacy.html') === false) { file_put_contents($ht, "# Farhoon: app privacy link\n" . $rule . $cur); echo "redirect added\n"; }
+\Elementor\Plugin::$instance->files_manager->clear_cache();
+flush_rewrite_rules();
+echo "DONE\n";

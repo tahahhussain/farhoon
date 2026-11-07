@@ -1,0 +1,601 @@
+{
+ "version": "0.4",
+ "title": "فرحون - تواصل معنا",
+ "type": "page",
+ "content": [
+  {
+   "id": "8dc8132",
+   "elType": "section",
+   "settings": {
+    "layout": "boxed",
+    "content_width": {
+     "unit": "px",
+     "size": 1140,
+     "sizes": []
+    },
+    "gap": "default",
+    "background_background": "classic",
+    "background_color": "#1B1446",
+    "padding": {
+     "unit": "px",
+     "top": "12",
+     "right": "20",
+     "bottom": "12",
+     "left": "20",
+     "isLinked": false
+    },
+    "padding_mobile": {
+     "unit": "px",
+     "top": "36",
+     "right": "12",
+     "bottom": "36",
+     "left": "12",
+     "isLinked": false
+    },
+    "content_position": "middle",
+    "structure": "20"
+   },
+   "elements": [
+    {
+     "id": "1d17d92",
+     "elType": "column",
+     "settings": {
+      "_column_size": 30,
+      "_inline_size": null
+     },
+     "elements": [
+      {
+       "id": "3653f93",
+       "elType": "widget",
+       "settings": {
+        "image": {
+         "url": "https://tahahhussain.github.io/farhoon/assets/wp/logo-dark.png",
+         "id": "",
+         "alt": "",
+         "source": "url"
+        },
+        "image_size": "full",
+        "align": "right",
+        "width": {
+         "unit": "px",
+         "size": 120,
+         "sizes": []
+        },
+        "link_to": "custom",
+        "link": {
+         "url": "/",
+         "is_external": "",
+         "nofollow": "",
+         "custom_attributes": ""
+        }
+       },
+       "elements": [],
+       "widgetType": "image"
+      }
+     ],
+     "isInner": false
+    },
+    {
+     "id": "61f2e0b",
+     "elType": "column",
+     "settings": {
+      "_column_size": 70,
+      "_inline_size": null
+     },
+     "elements": [
+      {
+       "id": "7f3aa5f",
+       "elType": "widget",
+       "settings": {
+        "editor": "<p style=\"margin:0\"><a href=\"/\" style=\"color:#FFFFFF;text-decoration:none\">الرئيسية</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href=\"/about/\" style=\"color:#FFFFFF;text-decoration:none\">من نحن</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href=\"/rafiq/\" style=\"color:#FFFFFF;text-decoration:none\">رفيق الطاعة</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href=\"/games/\" style=\"color:#FFFFFF;text-decoration:none\">ألعابنا</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href=\"/contact/\" style=\"color:#FFFFFF;text-decoration:none\">تواصل معنا</a></p>",
+        "text_color": "#FFFFFF",
+        "align": "left",
+        "typography_typography": "custom",
+        "typography_font_family": "Baloo Bhaijaan 2",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 17,
+         "sizes": []
+        },
+        "typography_font_weight": "400",
+        "typography_font_size_mobile": {
+         "unit": "px",
+         "size": 15,
+         "sizes": []
+        },
+        "typography_line_height": {
+         "unit": "em",
+         "size": 1.75,
+         "sizes": []
+        }
+       },
+       "elements": [],
+       "widgetType": "text-editor"
+      }
+     ],
+     "isInner": false
+    }
+   ],
+   "isInner": false
+  },
+  {
+   "id": "0203702",
+   "elType": "section",
+   "settings": {
+    "layout": "boxed",
+    "content_width": {
+     "unit": "px",
+     "size": 1140,
+     "sizes": []
+    },
+    "gap": "default",
+    "background_background": "classic",
+    "background_color": "#1B1446",
+    "padding": {
+     "unit": "px",
+     "top": "64",
+     "right": "20",
+     "bottom": "64",
+     "left": "20",
+     "isLinked": false
+    },
+    "padding_mobile": {
+     "unit": "px",
+     "top": "36",
+     "right": "12",
+     "bottom": "36",
+     "left": "12",
+     "isLinked": false
+    },
+    "structure": "10"
+   },
+   "elements": [
+    {
+     "id": "5dc0513",
+     "elType": "column",
+     "settings": {
+      "_column_size": 100,
+      "_inline_size": null
+     },
+     "elements": [
+      {
+       "id": "0993af1",
+       "elType": "widget",
+       "settings": {
+        "title": "تواصل معنا",
+        "header_size": "h1",
+        "align": "center",
+        "align_mobile": "center",
+        "title_color": "#FFFFFF",
+        "typography_typography": "custom",
+        "typography_font_family": "Baloo Bhaijaan 2",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 52,
+         "sizes": []
+        },
+        "typography_font_weight": "800",
+        "typography_font_size_mobile": {
+         "unit": "px",
+         "size": 36,
+         "sizes": []
+        },
+        "typography_line_height": {
+         "unit": "em",
+         "size": 1.3,
+         "sizes": []
+        }
+       },
+       "elements": [],
+       "widgetType": "heading"
+      },
+      {
+       "id": "e1580d5",
+       "elType": "widget",
+       "settings": {
+        "editor": "<p>يسعدنا أن نسمع منك.</p>",
+        "text_color": "#E6E3F5",
+        "align": "center",
+        "typography_typography": "custom",
+        "typography_font_family": "Baloo Bhaijaan 2",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 20,
+         "sizes": []
+        },
+        "typography_font_weight": "400",
+        "typography_font_size_mobile": {
+         "unit": "px",
+         "size": 18,
+         "sizes": []
+        },
+        "typography_line_height": {
+         "unit": "em",
+         "size": 1.75,
+         "sizes": []
+        }
+       },
+       "elements": [],
+       "widgetType": "text-editor"
+      }
+     ],
+     "isInner": false
+    }
+   ],
+   "isInner": false
+  },
+  {
+   "id": "f70889a",
+   "elType": "section",
+   "settings": {
+    "layout": "boxed",
+    "content_width": {
+     "unit": "px",
+     "size": 1140,
+     "sizes": []
+    },
+    "gap": "default",
+    "background_background": "classic",
+    "background_color": "#FFFBF2",
+    "padding": {
+     "unit": "px",
+     "top": "72",
+     "right": "20",
+     "bottom": "72",
+     "left": "20",
+     "isLinked": false
+    },
+    "padding_mobile": {
+     "unit": "px",
+     "top": "36",
+     "right": "12",
+     "bottom": "36",
+     "left": "12",
+     "isLinked": false
+    },
+    "content_position": "middle",
+    "structure": "20"
+   },
+   "elements": [
+    {
+     "id": "583dd43",
+     "elType": "column",
+     "settings": {
+      "_column_size": 35,
+      "_inline_size": null
+     },
+     "elements": [
+      {
+       "id": "4cb2e94",
+       "elType": "widget",
+       "settings": {
+        "image": {
+         "url": "https://tahahhussain.github.io/farhoon/assets/wp/face-circle.png",
+         "id": "",
+         "alt": "",
+         "source": "url"
+        },
+        "image_size": "full",
+        "align": "center",
+        "width": {
+         "unit": "px",
+         "size": 200,
+         "sizes": []
+        }
+       },
+       "elements": [],
+       "widgetType": "image"
+      }
+     ],
+     "isInner": false
+    },
+    {
+     "id": "a6e721c",
+     "elType": "column",
+     "settings": {
+      "_column_size": 65,
+      "_inline_size": null
+     },
+     "elements": [
+      {
+       "id": "487a6ae",
+       "elType": "widget",
+       "settings": {
+        "title": "راسلنا على البريد",
+        "header_size": "h2",
+        "align": "right",
+        "align_mobile": "right",
+        "title_color": "#1B1446",
+        "typography_typography": "custom",
+        "typography_font_family": "Baloo Bhaijaan 2",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 34,
+         "sizes": []
+        },
+        "typography_font_weight": "800",
+        "typography_font_size_mobile": {
+         "unit": "px",
+         "size": 23,
+         "sizes": []
+        },
+        "typography_line_height": {
+         "unit": "em",
+         "size": 1.3,
+         "sizes": []
+        }
+       },
+       "elements": [],
+       "widgetType": "heading"
+      },
+      {
+       "id": "f26daa6",
+       "elType": "widget",
+       "settings": {
+        "editor": "<p>نقرأ كل رسالة، ونردّ عليها في أقرب وقت.</p>",
+        "text_color": "#24324A",
+        "align": "right",
+        "typography_typography": "custom",
+        "typography_font_family": "Baloo Bhaijaan 2",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 18,
+         "sizes": []
+        },
+        "typography_font_weight": "400",
+        "typography_font_size_mobile": {
+         "unit": "px",
+         "size": 16,
+         "sizes": []
+        },
+        "typography_line_height": {
+         "unit": "em",
+         "size": 1.75,
+         "sizes": []
+        }
+       },
+       "elements": [],
+       "widgetType": "text-editor"
+      },
+      {
+       "id": "3d9cc2b",
+       "elType": "widget",
+       "settings": {
+        "text": "hello@farhoon.com",
+        "link": {
+         "url": "mailto:hello@farhoon.com",
+         "is_external": "",
+         "nofollow": "",
+         "custom_attributes": ""
+        },
+        "align": "right",
+        "align_mobile": "center",
+        "background_color": "#1B1446",
+        "button_text_color": "#FFFFFF",
+        "hover_color": "#FFFFFF",
+        "button_background_hover_color": "#1B1446",
+        "border_radius": {
+         "unit": "px",
+         "top": "16",
+         "right": "16",
+         "bottom": "16",
+         "left": "16",
+         "isLinked": true
+        },
+        "text_padding": {
+         "unit": "px",
+         "top": "14",
+         "right": "28",
+         "bottom": "14",
+         "left": "28",
+         "isLinked": false
+        },
+        "typography_typography": "custom",
+        "typography_font_family": "Baloo Bhaijaan 2",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 18,
+         "sizes": []
+        },
+        "typography_font_weight": "700"
+       },
+       "elements": [],
+       "widgetType": "button"
+      },
+      {
+       "id": "1f9e639",
+       "elType": "widget",
+       "settings": {
+        "editor": "<p><b>راسلنا عن:</b></p><ul><li>اقتراح ميزة أو قسم جديد.</li><li>خطأ في نص أو آية أو حديث أو حساب.</li><li>مشكلة في التطبيق على هاتفك، مع اسم الهاتف ونظامه.</li><li>التعاون معنا.</li></ul>",
+        "text_color": "#24324A",
+        "align": "right",
+        "typography_typography": "custom",
+        "typography_font_family": "Baloo Bhaijaan 2",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 17,
+         "sizes": []
+        },
+        "typography_font_weight": "400",
+        "typography_font_size_mobile": {
+         "unit": "px",
+         "size": 15,
+         "sizes": []
+        },
+        "typography_line_height": {
+         "unit": "em",
+         "size": 1.75,
+         "sizes": []
+        }
+       },
+       "elements": [],
+       "widgetType": "text-editor"
+      }
+     ],
+     "isInner": false
+    }
+   ],
+   "isInner": false
+  },
+  {
+   "id": "a6b6d48",
+   "elType": "section",
+   "settings": {
+    "layout": "boxed",
+    "content_width": {
+     "unit": "px",
+     "size": 1140,
+     "sizes": []
+    },
+    "gap": "default",
+    "background_background": "classic",
+    "background_color": "#1B1446",
+    "padding": {
+     "unit": "px",
+     "top": "28",
+     "right": "20",
+     "bottom": "28",
+     "left": "20",
+     "isLinked": false
+    },
+    "padding_mobile": {
+     "unit": "px",
+     "top": "36",
+     "right": "12",
+     "bottom": "36",
+     "left": "12",
+     "isLinked": false
+    },
+    "content_position": "middle",
+    "structure": "30"
+   },
+   "elements": [
+    {
+     "id": "320bab2",
+     "elType": "column",
+     "settings": {
+      "_column_size": 25,
+      "_inline_size": null
+     },
+     "elements": [
+      {
+       "id": "159b17c",
+       "elType": "widget",
+       "settings": {
+        "image": {
+         "url": "https://tahahhussain.github.io/farhoon/assets/wp/logo-dark.png",
+         "id": "",
+         "alt": "",
+         "source": "url"
+        },
+        "image_size": "full",
+        "align": "right",
+        "width": {
+         "unit": "px",
+         "size": 100,
+         "sizes": []
+        },
+        "link_to": "custom",
+        "link": {
+         "url": "/",
+         "is_external": "",
+         "nofollow": "",
+         "custom_attributes": ""
+        }
+       },
+       "elements": [],
+       "widgetType": "image"
+      }
+     ],
+     "isInner": false
+    },
+    {
+     "id": "0e446b8",
+     "elType": "column",
+     "settings": {
+      "_column_size": 50,
+      "_inline_size": null
+     },
+     "elements": [
+      {
+       "id": "e7839a5",
+       "elType": "widget",
+       "settings": {
+        "editor": "<p style=\"margin:0\"><a href=\"/\" style=\"color:#FFFFFF;text-decoration:none\">الرئيسية</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href=\"/about/\" style=\"color:#FFFFFF;text-decoration:none\">من نحن</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href=\"/rafiq/\" style=\"color:#FFFFFF;text-decoration:none\">رفيق الطاعة</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href=\"/games/\" style=\"color:#FFFFFF;text-decoration:none\">ألعابنا</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href=\"/contact/\" style=\"color:#FFFFFF;text-decoration:none\">تواصل معنا</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href=\"/rafiq/privacy/\" style=\"color:#FFFFFF;text-decoration:none\">سياسة الخصوصية</a></p>",
+        "text_color": "#FFFFFF",
+        "align": "center",
+        "typography_typography": "custom",
+        "typography_font_family": "Baloo Bhaijaan 2",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 15,
+         "sizes": []
+        },
+        "typography_font_weight": "400",
+        "typography_font_size_mobile": {
+         "unit": "px",
+         "size": 15,
+         "sizes": []
+        },
+        "typography_line_height": {
+         "unit": "em",
+         "size": 1.75,
+         "sizes": []
+        }
+       },
+       "elements": [],
+       "widgetType": "text-editor"
+      }
+     ],
+     "isInner": false
+    },
+    {
+     "id": "e2f1741",
+     "elType": "column",
+     "settings": {
+      "_column_size": 25,
+      "_inline_size": null
+     },
+     "elements": [
+      {
+       "id": "2071e16",
+       "elType": "widget",
+       "settings": {
+        "editor": "<p style=\"margin:0\">© ٢٠٢٦ فرحون<br><a href=\"mailto:hello@farhoon.com\" style=\"color:#FFC531\">hello@farhoon.com</a></p>",
+        "text_color": "#C9C5E0",
+        "align": "left",
+        "typography_typography": "custom",
+        "typography_font_family": "Baloo Bhaijaan 2",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 15,
+         "sizes": []
+        },
+        "typography_font_weight": "400",
+        "typography_font_size_mobile": {
+         "unit": "px",
+         "size": 15,
+         "sizes": []
+        },
+        "typography_line_height": {
+         "unit": "em",
+         "size": 1.75,
+         "sizes": []
+        }
+       },
+       "elements": [],
+       "widgetType": "text-editor"
+      }
+     ],
+     "isInner": false
+    }
+   ],
+   "isInner": false
+  }
+ ],
+ "page_settings": {
+  "template": "elementor_canvas",
+  "background_background": "classic",
+  "background_color": "#FFFBF2"
+ }
+}
