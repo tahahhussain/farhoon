@@ -53,11 +53,12 @@
         "image": {
          "url": "https://tahahhussain.github.io/farhoon/assets/wp/logo-dark.png",
          "id": "",
-         "alt": "",
+         "alt": "Farhoon home",
          "source": "url"
         },
         "image_size": "full",
         "align": "start",
+        "caption_source": "none",
         "width": {
          "unit": "px",
          "size": 116,
@@ -90,7 +91,7 @@
        "id": "f64fdfe",
        "elType": "widget",
        "settings": {
-        "html": "<nav class=\"f-nav\" aria-label=\"Main menu\"><input type=\"checkbox\" id=\"f-menu\" class=\"f-toggle\"><label for=\"f-menu\" class=\"f-burger\" aria-label=\"Menu\"><span></span><span></span><span></span></label><ul><li><a class=\"\" href=\"/en/\">Home</a></li><li><a class=\"\" href=\"/en/about/\">About</a></li><li><a class=\"on\" href=\"/en/rafiq/\">Rafiq Al-Taa</a></li><li><a class=\"\" href=\"/en/games/\">Games</a></li><li><a class=\"\" href=\"/en/blog/\">Blog</a></li><li><a class=\"\" href=\"/en/contact/\">Contact</a></li><li><a class=\"f-lang\" href=\"/rafiq/\" lang=\"ar\">العربية</a></li></ul></nav>"
+        "html": "<nav class=\"f-nav\" aria-label=\"Main menu\"><input type=\"checkbox\" id=\"f-menu\" class=\"f-toggle\"><label for=\"f-menu\" class=\"f-burger\"><span class=\"f-sr\">Open menu</span><span></span><span></span><span></span></label><ul><li><a class=\"\" href=\"/en/\">Home</a></li><li><a class=\"\" href=\"/en/about/\">About</a></li><li><a class=\"on\" href=\"/en/rafiq/\">Rafiq Al-Taa</a></li><li><a class=\"\" href=\"/en/games/\">Games</a></li><li><a class=\"\" href=\"/en/blog/\">Blog</a></li><li><a class=\"\" href=\"/en/contact/\">Contact</a></li><li><a class=\"f-lang\" href=\"/rafiq/\" lang=\"ar\">العربية</a></li></ul></nav>"
        },
        "elements": [],
        "widgetType": "html"
@@ -385,11 +386,12 @@
         "image": {
          "url": "https://tahahhussain.github.io/farhoon/assets/wp/logo-dark.png",
          "id": "",
-         "alt": "",
+         "alt": "Farhoon",
          "source": "url"
         },
         "image_size": "full",
         "align": "start",
+        "caption_source": "none",
         "width": {
          "unit": "px",
          "size": 100,
