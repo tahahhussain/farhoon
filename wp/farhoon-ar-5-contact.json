@@ -26,10 +26,10 @@
     },
     "padding_mobile": {
      "unit": "px",
-     "top": "36",
-     "right": "12",
-     "bottom": "36",
-     "left": "12",
+     "top": "6",
+     "right": "8",
+     "bottom": "6",
+     "left": "8",
      "isLinked": false
     },
     "structure": "20",
@@ -57,7 +57,7 @@
          "source": "url"
         },
         "image_size": "full",
-        "align": "right",
+        "align": "start",
         "width": {
          "unit": "px",
          "size": 116,
@@ -288,8 +288,8 @@
        "settings": {
         "title": "راسلنا على البريد",
         "header_size": "h2",
-        "align": "right",
-        "align_mobile": "right",
+        "align": "start",
+        "align_mobile": "start",
         "title_color": "#1B1446",
         "typography_typography": "custom",
         "typography_font_family": "Baloo Bhaijaan 2",
@@ -319,7 +319,7 @@
        "settings": {
         "editor": "<p>نقرأ كل رسالة، ونردّ عليها في أقرب وقت.</p>",
         "text_color": "#24324A",
-        "align": "right",
+        "align": "start",
         "typography_typography": "custom",
         "typography_font_family": "Baloo Bhaijaan 2",
         "typography_font_size": {
@@ -353,7 +353,7 @@
          "nofollow": "",
          "custom_attributes": ""
         },
-        "align": "right",
+        "align": "start",
         "align_mobile": "center",
         "background_color": "#1B1446",
         "button_text_color": "#FFFFFF",
@@ -393,7 +393,7 @@
        "settings": {
         "editor": "<p><b>راسلنا عن:</b></p><ul><li>اقتراح ميزة أو قسم جديد.</li><li>خطأ في نص أو آية أو حديث أو حساب.</li><li>مشكلة في التطبيق على هاتفك، مع اسم الهاتف ونظامه.</li><li>التعاون معنا.</li></ul>",
         "text_color": "#24324A",
-        "align": "right",
+        "align": "start",
         "typography_typography": "custom",
         "typography_font_family": "Baloo Bhaijaan 2",
         "typography_font_size": {
@@ -475,7 +475,7 @@
          "source": "url"
         },
         "image_size": "full",
-        "align": "right",
+        "align": "start",
         "width": {
          "unit": "px",
          "size": 100,
@@ -549,7 +549,7 @@
        "settings": {
         "editor": "<p style=\"margin:0\">© ٢٠٢٦ فرحون<br><a href=\"mailto:hello@farhoon.com\" style=\"color:#FFC531\">hello@farhoon.com</a></p>",
         "text_color": "#C9C5E0",
-        "align": "left",
+        "align": "end",
         "typography_typography": "custom",
         "typography_font_family": "Baloo Bhaijaan 2",
         "typography_font_size": {

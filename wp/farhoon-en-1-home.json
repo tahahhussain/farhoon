@@ -26,10 +26,10 @@
     },
     "padding_mobile": {
      "unit": "px",
-     "top": "36",
-     "right": "12",
-     "bottom": "36",
-     "left": "12",
+     "top": "6",
+     "right": "8",
+     "bottom": "6",
+     "left": "8",
      "isLinked": false
     },
     "structure": "20",
@@ -57,7 +57,7 @@
          "source": "url"
         },
         "image_size": "full",
-        "align": "left",
+        "align": "start",
         "width": {
          "unit": "px",
          "size": 116,
@@ -149,7 +149,7 @@
        "settings": {
         "editor": "<p><span class=\"f-kicker\">An Arabic apps and games studio</span></p>",
         "text_color": "#FFC531",
-        "align": "left",
+        "align": "start",
         "typography_typography": "custom",
         "typography_font_family": "Baloo Bhaijaan 2",
         "typography_font_size": {
@@ -178,8 +178,8 @@
        "settings": {
         "title": "We make what <span style=\"color:#FFC531\">delights</span> and benefits",
         "header_size": "h1",
-        "align": "left",
-        "align_mobile": "left",
+        "align": "start",
+        "align_mobile": "start",
         "title_color": "#FFFFFF",
         "typography_typography": "custom",
         "typography_font_family": "Baloo Bhaijaan 2",
@@ -209,7 +209,7 @@
        "settings": {
         "editor": "<p>Farhoon is an Arabic studio making apps and games for Arab families: clear Arabic, cheerful design, and full respect for your privacy.</p>",
         "text_color": "#E6E3F5",
-        "align": "left",
+        "align": "start",
         "typography_typography": "custom",
         "typography_font_family": "Baloo Bhaijaan 2",
         "typography_font_size": {
@@ -243,7 +243,7 @@
          "nofollow": "",
          "custom_attributes": ""
         },
-        "align": "left",
+        "align": "start",
         "align_mobile": "center",
         "background_color": "#FFC531",
         "button_text_color": "#1B1446",
@@ -288,7 +288,7 @@
          "nofollow": "",
          "custom_attributes": ""
         },
-        "align": "left",
+        "align": "start",
         "align_mobile": "center",
         "background_color": "#2A2163",
         "button_text_color": "#FFFFFF",
@@ -412,8 +412,8 @@
        "settings": {
         "title": "Our goal",
         "header_size": "h2",
-        "align": "left",
-        "align_mobile": "left",
+        "align": "start",
+        "align_mobile": "start",
         "title_color": "#1B1446",
         "typography_typography": "custom",
         "typography_font_family": "Baloo Bhaijaan 2",
@@ -443,7 +443,7 @@
        "settings": {
         "editor": "<p>That every Arab home finds on its phone what benefits and delights it, in its own language, without paying for it with its privacy.</p>",
         "text_color": "#5B6478",
-        "align": "left",
+        "align": "start",
         "typography_typography": "custom",
         "typography_font_family": "Baloo Bhaijaan 2",
         "typography_font_size": {
@@ -603,7 +603,7 @@
         },
         "title_text": "Arabic first",
         "description_text": "Clear Modern Standard Arabic every Arab understands, designed right-to-left from the first step.",
-        "text_align": "left",
+        "text_align": "start",
         "title_color": "#1B1446",
         "description_color": "#5B6478",
         "title_size": "h3",
@@ -733,7 +733,7 @@
         },
         "title_text": "Useful and joyful",
         "description_text": "Everything we make has real value and a cheerful design that brings joy.",
-        "text_align": "left",
+        "text_align": "start",
         "title_color": "#1B1446",
         "description_color": "#5B6478",
         "title_size": "h3",
@@ -863,7 +863,7 @@
         },
         "title_text": "Your privacy",
         "description_text": "We collect as little as possible, and what you enter stays on your phone wherever we can.",
-        "text_align": "left",
+        "text_align": "start",
         "title_color": "#1B1446",
         "description_color": "#5B6478",
         "title_size": "h3",
@@ -993,7 +993,7 @@
         },
         "title_text": "Simple for everyone",
         "description_text": "Easy screens for young and old, with clear text and few steps.",
-        "text_align": "left",
+        "text_align": "start",
         "title_color": "#1B1446",
         "description_color": "#5B6478",
         "title_size": "h3",
@@ -1075,8 +1075,8 @@
        "settings": {
         "title": "Our apps",
         "header_size": "h2",
-        "align": "left",
-        "align_mobile": "left",
+        "align": "start",
+        "align_mobile": "start",
         "title_color": "#1B1446",
         "typography_typography": "custom",
         "typography_font_family": "Baloo Bhaijaan 2",
@@ -1211,7 +1211,7 @@
          "source": "url"
         },
         "image_size": "full",
-        "align": "left",
+        "align": "start",
         "width": {
          "unit": "px",
          "size": 96,
@@ -1242,8 +1242,8 @@
        "settings": {
         "title": "Rafiq Al-Taa",
         "header_size": "h3",
-        "align": "left",
-        "align_mobile": "left",
+        "align": "start",
+        "align_mobile": "start",
         "title_color": "#1E5B46",
         "typography_typography": "custom",
         "typography_font_family": "Baloo Bhaijaan 2",
@@ -1273,7 +1273,7 @@
        "settings": {
         "editor": "<p>Your daily companion for Quran, prayer and dhikr. A complete Islamic app, a lasting charity, with more than twenty sections.</p>",
         "text_color": "#5B6478",
-        "align": "left",
+        "align": "start",
         "typography_typography": "custom",
         "typography_font_family": "Baloo Bhaijaan 2",
         "typography_font_size": {
@@ -1302,7 +1302,7 @@
        "settings": {
         "editor": "<p><span class=\"f-chip\" style=\"background:#E7F1EC\">Free</span><span class=\"f-chip\" style=\"background:#E7F1EC\">No ads</span><span class=\"f-chip\" style=\"background:#E7F1EC\">No account</span><span class=\"f-chip\" style=\"background:#E7F1EC\">Data stays on your phone</span></p>",
         "text_color": "#5B6478",
-        "align": "left",
+        "align": "start",
         "typography_typography": "custom",
         "typography_font_family": "Baloo Bhaijaan 2",
         "typography_font_size": {
@@ -1336,7 +1336,7 @@
          "nofollow": "",
          "custom_attributes": ""
         },
-        "align": "left",
+        "align": "start",
         "align_mobile": "center",
         "background_color": "#1E5B46",
         "button_text_color": "#FFFFFF",
@@ -1514,7 +1514,7 @@
        "settings": {
         "editor": "<p><span class=\"f-kicker f-kicker-dark\">Coming soon</span></p>",
         "text_color": "#1B1446",
-        "align": "left",
+        "align": "start",
         "typography_typography": "custom",
         "typography_font_family": "Baloo Bhaijaan 2",
         "typography_font_size": {
@@ -1543,8 +1543,8 @@
        "settings": {
         "title": "Islamic apps for kids we are building",
         "header_size": "h2",
-        "align": "left",
-        "align_mobile": "left",
+        "align": "start",
+        "align_mobile": "start",
         "title_color": "#1B1446",
         "typography_typography": "custom",
         "typography_font_family": "Baloo Bhaijaan 2",
@@ -1574,7 +1574,7 @@
        "settings": {
         "editor": "<p>We are designing apps that teach children their faith through play: lovable characters, motion and sound, games and rewards that bring them back every day, and that parents can trust.</p>",
         "text_color": "#5B6478",
-        "align": "left",
+        "align": "start",
         "typography_typography": "custom",
         "typography_font_family": "Baloo Bhaijaan 2",
         "typography_font_size": {
@@ -1734,7 +1734,7 @@
         },
         "title_text": "Farhoon Learns to Pray",
         "description_text": "Children learn wudu and prayer step by step with Farhoon, through movement and sound, copying each step.<br><span class=\"f-badge\">Coming soon</span>",
-        "text_align": "left",
+        "text_align": "start",
         "title_color": "#1B1446",
         "description_color": "#5B6478",
         "title_size": "h3",
@@ -1864,7 +1864,7 @@
         },
         "title_text": "My Letters, My Quran",
         "description_text": "Quranic letters and short surahs by finger tracing, listening and repeating, with stars and rewards.<br><span class=\"f-badge\">Coming soon</span>",
-        "text_align": "left",
+        "text_align": "start",
         "title_color": "#1B1446",
         "description_color": "#5B6478",
         "title_size": "h3",
@@ -1994,7 +1994,7 @@
         },
         "title_text": "Interactive Prophet Stories",
         "description_text": "Animated stories where the child chooses and answers, each ending with a mini game and a lesson.<br><span class=\"f-badge\">Coming soon</span>",
-        "text_align": "left",
+        "text_align": "start",
         "title_color": "#1B1446",
         "description_color": "#5B6478",
         "title_size": "h3",
@@ -2124,7 +2124,7 @@
         },
         "title_text": "My Little Adhkar",
         "description_text": "A daily routine for morning, evening and bedtime adhkar, cheered on by a character who celebrates each one.<br><span class=\"f-badge\">Coming soon</span>",
-        "text_align": "left",
+        "text_align": "start",
         "title_color": "#1B1446",
         "description_color": "#5B6478",
         "title_size": "h3",
@@ -2290,7 +2290,7 @@
         },
         "title_text": "My Good Manners",
         "description_text": "Everyday moments where the child picks the right choice: honesty, kindness and respect for parents.<br><span class=\"f-badge\">Coming soon</span>",
-        "text_align": "left",
+        "text_align": "start",
         "title_color": "#1B1446",
         "description_color": "#5B6478",
         "title_size": "h3",
@@ -2420,7 +2420,7 @@
         },
         "title_text": "My Journey to Makkah",
         "description_text": "A play journey to discover the Kaaba and the steps of Hajj and Umrah.<br><span class=\"f-badge\">Coming soon</span>",
-        "text_align": "left",
+        "text_align": "start",
         "title_color": "#1B1446",
         "description_color": "#5B6478",
         "title_size": "h3",
@@ -2550,7 +2550,7 @@
         },
         "title_text": "Allah's Names for Kids",
         "description_text": "Cards and matching games that explain the meanings in words children understand.<br><span class=\"f-badge\">Coming soon</span>",
-        "text_align": "left",
+        "text_align": "start",
         "title_color": "#1B1446",
         "description_color": "#5B6478",
         "title_size": "h3",
@@ -2680,7 +2680,7 @@
         },
         "title_text": "Garden of Good Deeds",
         "description_text": "Every good deed plants a tree in their garden, and parents can follow along.<br><span class=\"f-badge\">Coming soon</span>",
-        "text_align": "left",
+        "text_align": "start",
         "title_color": "#1B1446",
         "description_color": "#5B6478",
         "title_size": "h3",
@@ -2872,7 +2872,7 @@
         },
         "title_text": "Lovable characters",
         "description_text": "Farhoon and friends join the child at every step.",
-        "text_align": "left",
+        "text_align": "start",
         "title_color": "#1B1446",
         "description_color": "#5B6478",
         "title_size": "h3",
@@ -2950,7 +2950,7 @@
         },
         "title_text": "Motion and sound",
         "description_text": "Animation and audio that hold attention and help memory.",
-        "text_align": "left",
+        "text_align": "start",
         "title_color": "#1B1446",
         "description_color": "#5B6478",
         "title_size": "h3",
@@ -3028,7 +3028,7 @@
         },
         "title_text": "Games and rewards",
         "description_text": "Stars, stickers and levels that bring them back every day.",
-        "text_align": "left",
+        "text_align": "start",
         "title_color": "#1B1446",
         "description_color": "#5B6478",
         "title_size": "h3",
@@ -3106,7 +3106,7 @@
         },
         "title_text": "With parents",
         "description_text": "No ads, and parents can see what their child learned.",
-        "text_align": "left",
+        "text_align": "start",
         "title_color": "#1B1446",
         "description_color": "#5B6478",
         "title_size": "h3",
@@ -3188,8 +3188,8 @@
        "settings": {
         "title": "Our games",
         "header_size": "h2",
-        "align": "left",
-        "align_mobile": "left",
+        "align": "start",
+        "align_mobile": "start",
         "title_color": "#1B1446",
         "typography_typography": "custom",
         "typography_font_family": "Baloo Bhaijaan 2",
@@ -3219,7 +3219,7 @@
        "settings": {
         "editor": "<p>Colourful Arabic games for little ones, in the works now. We will announce them here.</p>",
         "text_color": "#5B6478",
-        "align": "left",
+        "align": "start",
         "typography_typography": "custom",
         "typography_font_family": "Baloo Bhaijaan 2",
         "typography_font_size": {
@@ -3253,7 +3253,7 @@
          "nofollow": "",
          "custom_attributes": ""
         },
-        "align": "left",
+        "align": "start",
         "align_mobile": "center",
         "background_color": "#1B1446",
         "button_text_color": "#FFFFFF",
@@ -4314,8 +4314,8 @@
        "settings": {
         "title": "Get in touch",
         "header_size": "h2",
-        "align": "left",
-        "align_mobile": "left",
+        "align": "start",
+        "align_mobile": "start",
         "title_color": "#1B1446",
         "typography_typography": "custom",
         "typography_font_family": "Baloo Bhaijaan 2",
@@ -4345,7 +4345,7 @@
        "settings": {
         "editor": "<p>For a suggestion, a note on one of our apps, or a correction, write to us. We are happy to reply.</p>",
         "text_color": "#24324A",
-        "align": "left",
+        "align": "start",
         "typography_typography": "custom",
         "typography_font_family": "Baloo Bhaijaan 2",
         "typography_font_size": {
@@ -4379,7 +4379,7 @@
          "nofollow": "",
          "custom_attributes": ""
         },
-        "align": "left",
+        "align": "start",
         "align_mobile": "center",
         "background_color": "#1B1446",
         "button_text_color": "#FFFFFF",
@@ -4472,7 +4472,7 @@
          "source": "url"
         },
         "image_size": "full",
-        "align": "left",
+        "align": "start",
         "width": {
          "unit": "px",
          "size": 100,
@@ -4546,7 +4546,7 @@
        "settings": {
         "editor": "<p style=\"margin:0\">© 2026 Farhoon<br><a href=\"mailto:hello@farhoon.com\" style=\"color:#FFC531\">hello@farhoon.com</a></p>",
         "text_color": "#C9C5E0",
-        "align": "right",
+        "align": "end",
         "typography_typography": "custom",
         "typography_font_family": "Baloo Bhaijaan 2",
         "typography_font_size": {

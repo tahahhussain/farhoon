@@ -26,10 +26,10 @@
     },
     "padding_mobile": {
      "unit": "px",
-     "top": "36",
-     "right": "12",
-     "bottom": "36",
-     "left": "12",
+     "top": "6",
+     "right": "8",
+     "bottom": "6",
+     "left": "8",
      "isLinked": false
     },
     "structure": "20",
@@ -57,7 +57,7 @@
          "source": "url"
         },
         "image_size": "full",
-        "align": "left",
+        "align": "start",
         "width": {
          "unit": "px",
          "size": 116,
@@ -256,8 +256,8 @@
        "settings": {
         "title": "Our goal",
         "header_size": "h2",
-        "align": "left",
-        "align_mobile": "left",
+        "align": "start",
+        "align_mobile": "start",
         "title_color": "#1B1446",
         "typography_typography": "custom",
         "typography_font_family": "Baloo Bhaijaan 2",
@@ -287,7 +287,7 @@
        "settings": {
         "editor": "<p>That every Arab home finds on its phone what benefits and delights it, in its own language, without paying for it with its privacy.</p><p>Farhoon began with <b>Rafiq Al-Taa</b>, a lasting charity that gathers what a Muslim needs each day. We are now building games and apps that teach children their faith and make them happy.</p>",
         "text_color": "#5B6478",
-        "align": "left",
+        "align": "start",
         "typography_typography": "custom",
         "typography_font_family": "Baloo Bhaijaan 2",
         "typography_font_size": {
@@ -400,8 +400,8 @@
        "settings": {
         "title": "What we believe",
         "header_size": "h2",
-        "align": "left",
-        "align_mobile": "left",
+        "align": "start",
+        "align_mobile": "start",
         "title_color": "#1B1446",
         "typography_typography": "custom",
         "typography_font_family": "Baloo Bhaijaan 2",
@@ -562,7 +562,7 @@
         },
         "title_text": "Arabic first",
         "description_text": "Clear Modern Standard Arabic every Arab understands, designed right-to-left from the first step.",
-        "text_align": "left",
+        "text_align": "start",
         "title_color": "#1B1446",
         "description_color": "#5B6478",
         "title_size": "h3",
@@ -692,7 +692,7 @@
         },
         "title_text": "Useful and joyful",
         "description_text": "Everything we make has real value and a cheerful design that brings joy.",
-        "text_align": "left",
+        "text_align": "start",
         "title_color": "#1B1446",
         "description_color": "#5B6478",
         "title_size": "h3",
@@ -822,7 +822,7 @@
         },
         "title_text": "Your privacy",
         "description_text": "We collect as little as possible, and what you enter stays on your phone wherever we can.",
-        "text_align": "left",
+        "text_align": "start",
         "title_color": "#1B1446",
         "description_color": "#5B6478",
         "title_size": "h3",
@@ -952,7 +952,7 @@
         },
         "title_text": "Simple for everyone",
         "description_text": "Easy screens for young and old, with clear text and few steps.",
-        "text_align": "left",
+        "text_align": "start",
         "title_color": "#1B1446",
         "description_color": "#5B6478",
         "title_size": "h3",
@@ -1034,8 +1034,8 @@
        "settings": {
         "title": "How we work",
         "header_size": "h2",
-        "align": "left",
-        "align_mobile": "left",
+        "align": "start",
+        "align_mobile": "start",
         "title_color": "#1B1446",
         "typography_typography": "custom",
         "typography_font_family": "Baloo Bhaijaan 2",
@@ -1065,7 +1065,7 @@
        "settings": {
         "editor": "<ul><li>Every text is written in clear Arabic and reviewed before release.</li><li>We test our apps on real phones and many screen sizes.</li><li>No account unless it is needed, and your data stays on your phone wherever possible.</li><li>We listen to your feedback and fix mistakes quickly.</li></ul>",
         "text_color": "#24324A",
-        "align": "left",
+        "align": "start",
         "typography_typography": "custom",
         "typography_font_family": "Baloo Bhaijaan 2",
         "typography_font_size": {
@@ -1174,8 +1174,8 @@
        "settings": {
         "title": "Get in touch",
         "header_size": "h2",
-        "align": "left",
-        "align_mobile": "left",
+        "align": "start",
+        "align_mobile": "start",
         "title_color": "#1B1446",
         "typography_typography": "custom",
         "typography_font_family": "Baloo Bhaijaan 2",
@@ -1205,7 +1205,7 @@
        "settings": {
         "editor": "<p>For a suggestion, a note on one of our apps, or a correction, write to us. We are happy to reply.</p>",
         "text_color": "#24324A",
-        "align": "left",
+        "align": "start",
         "typography_typography": "custom",
         "typography_font_family": "Baloo Bhaijaan 2",
         "typography_font_size": {
@@ -1239,7 +1239,7 @@
          "nofollow": "",
          "custom_attributes": ""
         },
-        "align": "left",
+        "align": "start",
         "align_mobile": "center",
         "background_color": "#1B1446",
         "button_text_color": "#FFFFFF",
@@ -1332,7 +1332,7 @@
          "source": "url"
         },
         "image_size": "full",
-        "align": "left",
+        "align": "start",
         "width": {
          "unit": "px",
          "size": 100,
@@ -1406,7 +1406,7 @@
        "settings": {
         "editor": "<p style=\"margin:0\">© 2026 Farhoon<br><a href=\"mailto:hello@farhoon.com\" style=\"color:#FFC531\">hello@farhoon.com</a></p>",
         "text_color": "#C9C5E0",
-        "align": "right",
+        "align": "end",
         "typography_typography": "custom",
         "typography_font_family": "Baloo Bhaijaan 2",
         "typography_font_size": {

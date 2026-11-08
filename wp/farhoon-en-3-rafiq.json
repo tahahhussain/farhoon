@@ -26,10 +26,10 @@
     },
     "padding_mobile": {
      "unit": "px",
-     "top": "36",
-     "right": "12",
-     "bottom": "36",
-     "left": "12",
+     "top": "6",
+     "right": "8",
+     "bottom": "6",
+     "left": "8",
      "isLinked": false
     },
     "structure": "20",
@@ -57,7 +57,7 @@
          "source": "url"
         },
         "image_size": "full",
-        "align": "left",
+        "align": "start",
         "width": {
          "unit": "px",
          "size": 116,
@@ -4235,8 +4235,8 @@
        "settings": {
         "title": "Get in touch",
         "header_size": "h2",
-        "align": "left",
-        "align_mobile": "left",
+        "align": "start",
+        "align_mobile": "start",
         "title_color": "#1B1446",
         "typography_typography": "custom",
         "typography_font_family": "Baloo Bhaijaan 2",
@@ -4266,7 +4266,7 @@
        "settings": {
         "editor": "<p>For a suggestion, a note on one of our apps, or a correction, write to us. We are happy to reply.</p>",
         "text_color": "#24324A",
-        "align": "left",
+        "align": "start",
         "typography_typography": "custom",
         "typography_font_family": "Baloo Bhaijaan 2",
         "typography_font_size": {
@@ -4300,7 +4300,7 @@
          "nofollow": "",
          "custom_attributes": ""
         },
-        "align": "left",
+        "align": "start",
         "align_mobile": "center",
         "background_color": "#1B1446",
         "button_text_color": "#FFFFFF",
@@ -4393,7 +4393,7 @@
          "source": "url"
         },
         "image_size": "full",
-        "align": "left",
+        "align": "start",
         "width": {
          "unit": "px",
          "size": 100,
@@ -4467,7 +4467,7 @@
        "settings": {
         "editor": "<p style=\"margin:0\">© 2026 Farhoon<br><a href=\"mailto:hello@farhoon.com\" style=\"color:#FFC531\">hello@farhoon.com</a></p>",
         "text_color": "#C9C5E0",
-        "align": "right",
+        "align": "end",
         "typography_typography": "custom",
         "typography_font_family": "Baloo Bhaijaan 2",
         "typography_font_size": {

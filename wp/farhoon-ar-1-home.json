@@ -26,10 +26,10 @@
     },
     "padding_mobile": {
      "unit": "px",
-     "top": "36",
-     "right": "12",
-     "bottom": "36",
-     "left": "12",
+     "top": "6",
+     "right": "8",
+     "bottom": "6",
+     "left": "8",
      "isLinked": false
     },
     "structure": "20",
@@ -57,7 +57,7 @@
          "source": "url"
         },
         "image_size": "full",
-        "align": "right",
+        "align": "start",
         "width": {
          "unit": "px",
          "size": 116,
@@ -149,7 +149,7 @@
        "settings": {
         "editor": "<p><span class=\"f-kicker\">استوديو عربي للتطبيقات والألعاب</span></p>",
         "text_color": "#FFC531",
-        "align": "right",
+        "align": "start",
         "typography_typography": "custom",
         "typography_font_family": "Baloo Bhaijaan 2",
         "typography_font_size": {
@@ -178,8 +178,8 @@
        "settings": {
         "title": "نصنع ما <span style=\"color:#FFC531\">يُفرح</span> القلب وينفع",
         "header_size": "h1",
-        "align": "right",
-        "align_mobile": "right",
+        "align": "start",
+        "align_mobile": "start",
         "title_color": "#FFFFFF",
         "typography_typography": "custom",
         "typography_font_family": "Baloo Bhaijaan 2",
@@ -209,7 +209,7 @@
        "settings": {
         "editor": "<p>فرحون استوديو عربي يصنع تطبيقات وألعابًا للأسرة العربية: بعربية سليمة، وتصميم مبهج، واحترام كامل لخصوصيتك.</p>",
         "text_color": "#E6E3F5",
-        "align": "right",
+        "align": "start",
         "typography_typography": "custom",
         "typography_font_family": "Baloo Bhaijaan 2",
         "typography_font_size": {
@@ -243,7 +243,7 @@
          "nofollow": "",
          "custom_attributes": ""
         },
-        "align": "right",
+        "align": "start",
         "align_mobile": "center",
         "background_color": "#FFC531",
         "button_text_color": "#1B1446",
@@ -288,7 +288,7 @@
          "nofollow": "",
          "custom_attributes": ""
         },
-        "align": "right",
+        "align": "start",
         "align_mobile": "center",
         "background_color": "#2A2163",
         "button_text_color": "#FFFFFF",
@@ -412,8 +412,8 @@
        "settings": {
         "title": "هدفنا",
         "header_size": "h2",
-        "align": "right",
-        "align_mobile": "right",
+        "align": "start",
+        "align_mobile": "start",
         "title_color": "#1B1446",
         "typography_typography": "custom",
         "typography_font_family": "Baloo Bhaijaan 2",
@@ -443,7 +443,7 @@
        "settings": {
         "editor": "<p>أن يجد كل بيت عربي على هاتفه ما ينفعه ويُسعده، بلغته، ومن غير أن يدفع ثمن ذلك من خصوصيته.</p>",
         "text_color": "#5B6478",
-        "align": "right",
+        "align": "start",
         "typography_typography": "custom",
         "typography_font_family": "Baloo Bhaijaan 2",
         "typography_font_size": {
@@ -603,7 +603,7 @@
         },
         "title_text": "العربية أولًا",
         "description_text": "نكتب بعربية فصحى واضحة يفهمها كل العرب، ونصمّم من اليمين إلى اليسار من أول خطوة.",
-        "text_align": "right",
+        "text_align": "start",
         "title_color": "#1B1446",
         "description_color": "#5B6478",
         "title_size": "h3",
@@ -733,7 +733,7 @@
         },
         "title_text": "نافع ومبهج",
         "description_text": "كل ما نصنعه له فائدة حقيقية، ويُقدَّم بشكل جميل يُفرح من يستخدمه.",
-        "text_align": "right",
+        "text_align": "start",
         "title_color": "#1B1446",
         "description_color": "#5B6478",
         "title_size": "h3",
@@ -863,7 +863,7 @@
         },
         "title_text": "خصوصيتك محفوظة",
         "description_text": "نجمع أقل قدر ممكن من البيانات، وما تكتبه في تطبيقاتنا يبقى على هاتفك ما أمكن.",
-        "text_align": "right",
+        "text_align": "start",
         "title_color": "#1B1446",
         "description_color": "#5B6478",
         "title_size": "h3",
@@ -993,7 +993,7 @@
         },
         "title_text": "بسيط للجميع",
         "description_text": "واجهات سهلة يستخدمها الكبير والصغير، بخط واضح وخطوات قليلة.",
-        "text_align": "right",
+        "text_align": "start",
         "title_color": "#1B1446",
         "description_color": "#5B6478",
         "title_size": "h3",
@@ -1075,8 +1075,8 @@
        "settings": {
         "title": "تطبيقاتنا",
         "header_size": "h2",
-        "align": "right",
-        "align_mobile": "right",
+        "align": "start",
+        "align_mobile": "start",
         "title_color": "#1B1446",
         "typography_typography": "custom",
         "typography_font_family": "Baloo Bhaijaan 2",
@@ -1211,7 +1211,7 @@
          "source": "url"
         },
         "image_size": "full",
-        "align": "right",
+        "align": "start",
         "width": {
          "unit": "px",
          "size": 96,
@@ -1242,8 +1242,8 @@
        "settings": {
         "title": "رفيق الطاعة",
         "header_size": "h3",
-        "align": "right",
-        "align_mobile": "right",
+        "align": "start",
+        "align_mobile": "start",
         "title_color": "#1E5B46",
         "typography_typography": "custom",
         "typography_font_family": "Baloo Bhaijaan 2",
@@ -1273,7 +1273,7 @@
        "settings": {
         "editor": "<p>رفيقك اليومي في القرآن والصلاة والذكر. تطبيق إسلامي شامل، صدقة جارية، يضم أكثر من عشرين قسمًا.</p>",
         "text_color": "#5B6478",
-        "align": "right",
+        "align": "start",
         "typography_typography": "custom",
         "typography_font_family": "Baloo Bhaijaan 2",
         "typography_font_size": {
@@ -1302,7 +1302,7 @@
        "settings": {
         "editor": "<p><span class=\"f-chip\" style=\"background:#E7F1EC\">مجاني</span><span class=\"f-chip\" style=\"background:#E7F1EC\">بدون إعلانات</span><span class=\"f-chip\" style=\"background:#E7F1EC\">بدون حساب</span><span class=\"f-chip\" style=\"background:#E7F1EC\">بياناتك على هاتفك</span></p>",
         "text_color": "#5B6478",
-        "align": "right",
+        "align": "start",
         "typography_typography": "custom",
         "typography_font_family": "Baloo Bhaijaan 2",
         "typography_font_size": {
@@ -1336,7 +1336,7 @@
          "nofollow": "",
          "custom_attributes": ""
         },
-        "align": "right",
+        "align": "start",
         "align_mobile": "center",
         "background_color": "#1E5B46",
         "button_text_color": "#FFFFFF",
@@ -1514,7 +1514,7 @@
        "settings": {
         "editor": "<p><span class=\"f-kicker f-kicker-dark\">قريبًا بإذن الله</span></p>",
         "text_color": "#1B1446",
-        "align": "right",
+        "align": "start",
         "typography_typography": "custom",
         "typography_font_family": "Baloo Bhaijaan 2",
         "typography_font_size": {
@@ -1543,8 +1543,8 @@
        "settings": {
         "title": "تطبيقات دينية للأطفال نعمل عليها",
         "header_size": "h2",
-        "align": "right",
-        "align_mobile": "right",
+        "align": "start",
+        "align_mobile": "start",
         "title_color": "#1B1446",
         "typography_typography": "custom",
         "typography_font_family": "Baloo Bhaijaan 2",
@@ -1574,7 +1574,7 @@
        "settings": {
         "editor": "<p>نصمّم تطبيقات تعلّم الصغار دينهم باللعب: شخصيات محبوبة، وحركات وأصوات، وألعاب ومكافآت، يعود إليها الطفل كل يوم بفرح، ويطمئن إليها الوالدان.</p>",
         "text_color": "#5B6478",
-        "align": "right",
+        "align": "start",
         "typography_typography": "custom",
         "typography_font_family": "Baloo Bhaijaan 2",
         "typography_font_size": {
@@ -1734,7 +1734,7 @@
         },
         "title_text": "فرحون يتعلّم الصلاة",
         "description_text": "يتعلّم الطفل الوضوء والصلاة خطوة بخطوة مع فرحون، بالحركة والصوت، ويقلّده في كل حركة.<br><span class=\"f-badge\">قريبًا</span>",
-        "text_align": "right",
+        "text_align": "start",
         "title_color": "#1B1446",
         "description_color": "#5B6478",
         "title_size": "h3",
@@ -1864,7 +1864,7 @@
         },
         "title_text": "حروفي وقرآني",
         "description_text": "حروف القرآن وقصار السور بالتتبّع بالإصبع والاستماع والتكرار، مع نجوم ومكافآت.<br><span class=\"f-badge\">قريبًا</span>",
-        "text_align": "right",
+        "text_align": "start",
         "title_color": "#1B1446",
         "description_color": "#5B6478",
         "title_size": "h3",
@@ -1994,7 +1994,7 @@
         },
         "title_text": "قصص الأنبياء التفاعلية",
         "description_text": "قصص متحركة يختار فيها الطفل ويجيب، وتنتهي كل قصة بلعبة صغيرة ودرس.<br><span class=\"f-badge\">قريبًا</span>",
-        "text_align": "right",
+        "text_align": "start",
         "title_color": "#1B1446",
         "description_color": "#5B6478",
         "title_size": "h3",
@@ -2124,7 +2124,7 @@
         },
         "title_text": "أذكاري الصغيرة",
         "description_text": "روتين يومي لأذكار الصباح والمساء والنوم، تشجّعه فيه شخصية تفرح كلما أتمّه.<br><span class=\"f-badge\">قريبًا</span>",
-        "text_align": "right",
+        "text_align": "start",
         "title_color": "#1B1446",
         "description_color": "#5B6478",
         "title_size": "h3",
@@ -2290,7 +2290,7 @@
         },
         "title_text": "أخلاقي الجميلة",
         "description_text": "مواقف يومية يختار فيها الطفل التصرف الصحيح: الصدق، والرحمة، وبر الوالدين.<br><span class=\"f-badge\">قريبًا</span>",
-        "text_align": "right",
+        "text_align": "start",
         "title_color": "#1B1446",
         "description_color": "#5B6478",
         "title_size": "h3",
@@ -2420,7 +2420,7 @@
         },
         "title_text": "رحلتي إلى مكة",
         "description_text": "رحلة لعب يتعرّف فيها الطفل على الكعبة ومناسك الحج والعمرة.<br><span class=\"f-badge\">قريبًا</span>",
-        "text_align": "right",
+        "text_align": "start",
         "title_color": "#1B1446",
         "description_color": "#5B6478",
         "title_size": "h3",
@@ -2550,7 +2550,7 @@
         },
         "title_text": "أسماء الله الحسنى للصغار",
         "description_text": "بطاقات وألعاب مطابقة تعرّفه بمعاني الأسماء بلغة يفهمها.<br><span class=\"f-badge\">قريبًا</span>",
-        "text_align": "right",
+        "text_align": "start",
         "title_color": "#1B1446",
         "description_color": "#5B6478",
         "title_size": "h3",
@@ -2680,7 +2680,7 @@
         },
         "title_text": "حديقة الخير",
         "description_text": "كل عمل صالح يزرع شجرة في حديقته، ويتابع الوالدان تقدّمه.<br><span class=\"f-badge\">قريبًا</span>",
-        "text_align": "right",
+        "text_align": "start",
         "title_color": "#1B1446",
         "description_color": "#5B6478",
         "title_size": "h3",
@@ -2872,7 +2872,7 @@
         },
         "title_text": "شخصيات محبوبة",
         "description_text": "فرحون وأصدقاؤه يرافقون الطفل في كل خطوة.",
-        "text_align": "right",
+        "text_align": "start",
         "title_color": "#1B1446",
         "description_color": "#5B6478",
         "title_size": "h3",
@@ -2950,7 +2950,7 @@
         },
         "title_text": "حركة وصوت",
         "description_text": "رسوم متحركة وأصوات تشد انتباهه وتسهّل الحفظ.",
-        "text_align": "right",
+        "text_align": "start",
         "title_color": "#1B1446",
         "description_color": "#5B6478",
         "title_size": "h3",
@@ -3028,7 +3028,7 @@
         },
         "title_text": "ألعاب ومكافآت",
         "description_text": "نجوم وملصقات ومراحل تجعله يعود كل يوم.",
-        "text_align": "right",
+        "text_align": "start",
         "title_color": "#1B1446",
         "description_color": "#5B6478",
         "title_size": "h3",
@@ -3106,7 +3106,7 @@
         },
         "title_text": "مع الوالدين",
         "description_text": "بلا إعلانات، ويتابع الوالدان ما تعلّمه طفلهم.",
-        "text_align": "right",
+        "text_align": "start",
         "title_color": "#1B1446",
         "description_color": "#5B6478",
         "title_size": "h3",
@@ -3188,8 +3188,8 @@
        "settings": {
         "title": "ألعابنا",
         "header_size": "h2",
-        "align": "right",
-        "align_mobile": "right",
+        "align": "start",
+        "align_mobile": "start",
         "title_color": "#1B1446",
         "typography_typography": "custom",
         "typography_font_family": "Baloo Bhaijaan 2",
@@ -3219,7 +3219,7 @@
        "settings": {
         "editor": "<p>ألعاب عربية ملوّنة للصغار نعمل عليها الآن، وسنعلن عنها هنا عند صدورها.</p>",
         "text_color": "#5B6478",
-        "align": "right",
+        "align": "start",
         "typography_typography": "custom",
         "typography_font_family": "Baloo Bhaijaan 2",
         "typography_font_size": {
@@ -3253,7 +3253,7 @@
          "nofollow": "",
          "custom_attributes": ""
         },
-        "align": "right",
+        "align": "start",
         "align_mobile": "center",
         "background_color": "#1B1446",
         "button_text_color": "#FFFFFF",
@@ -4314,8 +4314,8 @@
        "settings": {
         "title": "تواصل معنا",
         "header_size": "h2",
-        "align": "right",
-        "align_mobile": "right",
+        "align": "start",
+        "align_mobile": "start",
         "title_color": "#1B1446",
         "typography_typography": "custom",
         "typography_font_family": "Baloo Bhaijaan 2",
@@ -4345,7 +4345,7 @@
        "settings": {
         "editor": "<p>لاقتراح، أو ملاحظة على أحد تطبيقاتنا، أو تصحيح خطأ، راسلنا ويسعدنا الرد.</p>",
         "text_color": "#24324A",
-        "align": "right",
+        "align": "start",
         "typography_typography": "custom",
         "typography_font_family": "Baloo Bhaijaan 2",
         "typography_font_size": {
@@ -4379,7 +4379,7 @@
          "nofollow": "",
          "custom_attributes": ""
         },
-        "align": "right",
+        "align": "start",
         "align_mobile": "center",
         "background_color": "#1B1446",
         "button_text_color": "#FFFFFF",
@@ -4472,7 +4472,7 @@
          "source": "url"
         },
         "image_size": "full",
-        "align": "right",
+        "align": "start",
         "width": {
          "unit": "px",
          "size": 100,
@@ -4546,7 +4546,7 @@
        "settings": {
         "editor": "<p style=\"margin:0\">© ٢٠٢٦ فرحون<br><a href=\"mailto:hello@farhoon.com\" style=\"color:#FFC531\">hello@farhoon.com</a></p>",
         "text_color": "#C9C5E0",
-        "align": "left",
+        "align": "end",
         "typography_typography": "custom",
         "typography_font_family": "Baloo Bhaijaan 2",
         "typography_font_size": {
