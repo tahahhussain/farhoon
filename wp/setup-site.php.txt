@@ -130,7 +130,7 @@ if (defined('AUTOPTIMIZE_PLUGIN_VERSION')) {
 		'autoptimize_html' => 'on', 'autoptimize_html_keepcomments' => '',
 		'autoptimize_js' => 'on', 'autoptimize_js_aggregate' => '', 'autoptimize_js_defer_not_aggregate' => 'on', 'autoptimize_js_defer_inline' => 'on',
 		'autoptimize_js_exclude' => 'wp-includes/js/dist/, wp-includes/js/tinymce/',
-		'autoptimize_css' => 'on', 'autoptimize_css_aggregate' => 'on', 'autoptimize_css_inline' => 'on',
+		'autoptimize_css' => 'on', 'autoptimize_css_aggregate' => 'on', 'autoptimize_css_inline' => '', 'autoptimize_css_defer' => '',
 		'autoptimize_cache_nogzip' => 'on', 'autoptimize_optimize_logged' => '', 'autoptimize_minify_excluded' => 'on',
 	] as $k => $v) update_option($k, $v);
 	$extra = (array) get_option('autoptimize_extra_settings', []);
@@ -138,7 +138,7 @@ if (defined('AUTOPTIMIZE_PLUGIN_VERSION')) {
 	$extra['autoptimize_extra_radio_field_4'] = '1';    // leave Google Fonts (none are loaded)
 	update_option('autoptimize_extra_settings', $extra);
 	$imgopt = (array) get_option('autoptimize_imgopt_settings', []);
-	$imgopt['autoptimize_imgopt_checkbox_field_3'] = '1'; // lazy-load images
+	$imgopt['autoptimize_imgopt_checkbox_field_3'] = '0'; // the browser's own lazy loading is used instead
 	update_option('autoptimize_imgopt_settings', $imgopt);
 	echo "autoptimize ok\n";
 }
