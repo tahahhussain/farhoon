@@ -1,0 +1,198 @@
+<?php
+// Farhoon site settings: blog, categories, SEO titles and descriptions, icons, speed and security.
+// Run with: wp eval-file <this file> --user=<admin>, after the farhoon theme and the plugins are active. Safe to run again.
+if (!defined('ABSPATH')) exit;
+$theme = get_stylesheet_directory();
+$theme_uri = get_stylesheet_directory_uri();
+
+/* Blog address and list page */
+global $wp_rewrite;
+$wp_rewrite->set_permalink_structure('/blog/%postname%/');
+update_option('category_base', '');
+$blog = get_page_by_path('blog');
+$blog_id = $blog ? $blog->ID : wp_insert_post(['post_title' => 'المدونة', 'post_name' => 'blog', 'post_type' => 'page', 'post_status' => 'publish']);
+update_option('page_for_posts', $blog_id);
+update_option('posts_per_page', 9);
+update_option('default_comment_status', 'open');
+update_option('comment_moderation', 1);
+update_option('comment_previously_approved', 1);
+update_option('close_comments_for_old_posts', 0);
+echo "blog page $blog_id\n";
+
+/* Categories (Arabic posts) and English categories */
+$cats = [
+	['zakat', 'الزكاة', 'Zakat', 'دليلك لحساب الزكاة بأنواعها: المال والذهب والفضة والتجارة وزكاة الفطر.', 'Your guide to calculating zakat on money, gold, silver, trade and zakat al-fitr.'],
+	['worship', 'العبادات والأذكار', 'Worship & Adhkar', 'الصلاة والأذكار والطاعات اليومية خطوة بخطوة.', 'Prayer, adhkar and daily worship, step by step.'],
+	['kids', 'تربية الأطفال', 'Kids & Family', 'كيف نعلّم أطفالنا الصلاة والأذكار والأخلاق بالحب واللعب.', 'Teaching children prayer, adhkar and good manners with love and play.'],
+	['quran', 'القرآن والتجويد', 'Quran & Tajweed', 'تلاوة القرآن وأحكام التجويد بأمثلة واضحة.', 'Reciting the Quran and tajweed rules with clear examples.'],
+	['islamic-apps', 'تطبيقات إسلامية', 'Islamic Apps', 'كيف تختار تطبيقات إسلامية نافعة وآمنة لك ولأسرتك.', 'How to choose useful, safe Islamic apps for you and your family.'],
+];
+foreach ($cats as [$slug, $ar, $en, $dar, $den]) {
+	$t = term_exists($slug, 'category') ?: wp_insert_term($ar, 'category', ['slug' => $slug]);
+	if (!is_wp_error($t)) wp_update_term((int) $t['term_id'], 'category', ['name' => $ar, 'description' => $dar]);
+	$e = term_exists($slug, 'en_category') ?: wp_insert_term($en, 'en_category', ['slug' => $slug]);
+	if (!is_wp_error($e)) wp_update_term((int) $e['term_id'], 'en_category', ['name' => $en, 'description' => $den]);
+}
+$unc = get_term_by('slug', 'uncategorized', 'category');
+if ($unc) wp_update_term($unc->term_id, 'category', ['name' => 'عام']);
+echo "categories ok\n";
+
+/* Site icon (favicon, app icons) */
+require_once ABSPATH . 'wp-admin/includes/media.php';
+require_once ABSPATH . 'wp-admin/includes/file.php';
+require_once ABSPATH . 'wp-admin/includes/image.php';
+if (!get_option('site_icon')) {
+	$tmp = wp_tempnam('site-icon.png');
+	copy($theme . '/img/site-icon-512.png', $tmp);
+	$icon = media_handle_sideload(['name' => 'farhoon-site-icon.png', 'tmp_name' => $tmp], 0, 'Farhoon');
+	if (!is_wp_error($icon)) { update_option('site_icon', $icon); echo "site icon $icon\n"; }
+}
+@copy($theme . '/img/favicon.ico', ABSPATH . 'favicon.ico');
+
+/* SEO titles, descriptions and keywords for every page (Rank Math) */
+$og = $theme_uri . '/img/og-farhoon.png';
+$seo = [
+	'home' => ['فرحون | تطبيقات وألعاب عربية نافعة للأسرة', 'فرحون استوديو عربي يصنع تطبيقات وألعابًا نافعة ومبهجة للأسرة العربية، منها رفيق الطاعة: مصحف وأذان وأذكار وحاسبة زكاة، مجانًا بلا إعلانات.', 'تطبيقات إسلامية للأسرة,تطبيقات عربية للأطفال,فرحون'],
+	'about' => ['من نحن | فرحون، استوديو تطبيقات وألعاب عربية', 'تعرّف على فرحون: استوديو عربي هدفه أن يجد كل بيت ما ينفعه ويسعده على هاتفه بلغته، مع احترام كامل لخصوصيتك. هذه قيمنا وطريقة عملنا.', 'فرحون,استوديو تطبيقات عربي'],
+	'rafiq' => ['رفيق الطاعة | تطبيق إسلامي شامل مجاني بلا إعلانات', 'رفيق الطاعة: مصحف المدينة والتفسير، ومواقيت الصلاة والأذان، والأذكار، وحاسبة الزكاة، وطاعاتي اليومية، والتقويم الهجري. مجاني بلا إعلانات ولا حساب.', 'تطبيق اسلامي شامل,تطبيق اسلامي بدون اعلانات,رفيق الطاعة,حاسبة الزكاة,تطبيق اذكار'],
+	'games' => ['ألعاب فرحون للأطفال | ألعاب عربية تعليمية ملوّنة', 'ألعاب عربية للأطفال من فرحون: الحروف بالعربية والإنجليزية، ومرسم الألوان، وتركيب الصور، ومغامرات ملوّنة آمنة للصغار. قيد التطوير حاليًا.', 'ألعاب تعليمية للأطفال,ألعاب عربية للأطفال'],
+	'contact' => ['تواصل معنا | فرحون', 'راسل فريق فرحون على hello@farhoon.com لاقتراح ميزة، أو تصحيح خطأ، أو الإبلاغ عن مشكلة في تطبيقاتنا، أو للتعاون معنا. نقرأ كل رسالة.', 'تواصل مع فرحون'],
+	'rafiq/privacy' => ['سياسة خصوصية رفيق الطاعة | فرحون', 'سياسة خصوصية تطبيق رفيق الطاعة: بلا حساب ولا إعلانات، وبياناتك من مواقيت وأذكار وأرقام الزكاة تبقى على هاتفك. اعرف ما نستخدمه ولماذا.', 'سياسة خصوصية رفيق الطاعة'],
+	'blog' => ['مدونة فرحون | الزكاة والعبادات وتربية الأطفال', 'مقالات موثوقة وسهلة في حساب الزكاة، والأذكار، وتعليم الأطفال الصلاة، والتجويد، والطاعات اليومية، يكتبها فريق فرحون ويراجعها على مصادرها.', 'مدونة إسلامية,حساب الزكاة,تعليم الأطفال الصلاة'],
+	'en' => ['Farhoon | Arabic Apps and Games for Families', 'Farhoon is an Arabic studio making useful, joyful apps and games for families, including Rafiq Al-Taa: Quran, adhan, adhkar and a zakat calculator. Free, no ads.', 'islamic apps for families,arabic apps for kids,farhoon'],
+	'en/about' => ['About Farhoon | Arabic Apps and Games Studio', 'Meet Farhoon, an Arabic studio helping every home find useful, joyful apps in its own language, with full respect for privacy. Our values and how we work.', 'farhoon,arabic app studio'],
+	'en/rafiq' => ['Rafiq Al-Taa | Free Islamic App With No Ads', 'Rafiq Al-Taa: the Madinah Mushaf with tafsir, prayer times and adhan, adhkar, a detailed zakat calculator, daily deeds and a Hijri calendar. Free, no ads, no account.', 'islamic app without ads,muslim app,quran app,zakat calculator app,adhkar app'],
+	'en/games' => ["Farhoon Kids' Games | Colourful Arabic Learning Games", 'Arabic games for children from Farhoon: letters in Arabic and English, a colouring studio, jigsaw puzzles and safe, colourful adventures. In development.', 'arabic games for kids,educational games for kids'],
+	'en/contact' => ['Contact Farhoon', 'Email the Farhoon team at hello@farhoon.com to suggest a feature, report a mistake or a problem with our apps, or to work with us. We read every message.', 'contact farhoon'],
+	'en/rafiq/privacy' => ['Rafiq Al-Taa Privacy Policy | Farhoon', "Rafiq Al-Taa privacy policy: no account and no ads. Your prayer settings, adhkar progress and zakat numbers stay on your phone. See what we use and why.", 'rafiq al-taa privacy policy'],
+];
+foreach ($seo as $path => [$title, $desc, $kw]) {
+	$p = get_page_by_path($path);
+	if (!$p) { echo "missing page $path\n"; continue; }
+	update_post_meta($p->ID, 'rank_math_title', $title);
+	update_post_meta($p->ID, 'rank_math_description', $desc);
+	update_post_meta($p->ID, 'rank_math_focus_keyword', $kw);
+	update_post_meta($p->ID, 'rank_math_facebook_image', $og);
+	update_post_meta($p->ID, 'rank_math_twitter_use_facebook', 'on');
+}
+echo "page seo ok\n";
+
+/* Rank Math: site identity, article schema, English articles, sitemap */
+$titles = get_option('rank-math-options-titles', []);
+$titles = array_merge($titles, [
+	'title_separator' => '|',
+	'knowledgegraph_type' => 'company',
+	'knowledgegraph_name' => 'Farhoon فرحون',
+	'website_name' => 'فرحون',
+	'knowledgegraph_logo' => $theme_uri . '/img/site-icon-512.png',
+	'open_graph_image' => $og,
+	'twitter_card_type' => 'summary_large_image',
+	'pt_post_title' => '%title% %sep% فرحون',
+	'pt_post_default_rich_snippet' => 'article',
+	'pt_post_default_article_type' => 'BlogPosting',
+	'pt_en_post_title' => '%title% %sep% Farhoon',
+	'pt_en_post_default_rich_snippet' => 'article',
+	'pt_en_post_default_article_type' => 'BlogPosting',
+	'pt_en_post_add_meta_box' => 'on',
+	'pt_en_post_archive_title' => 'Farhoon Blog | Zakat, Worship and Raising Kids',
+	'pt_en_post_archive_description' => 'Clear, trustworthy articles on calculating zakat, adhkar, teaching children to pray, tajweed and daily worship from the Farhoon team.',
+	'pt_page_title' => '%title% %sep% فرحون',
+	'pt_elementor_library_robots' => ['noindex'],
+	'noindex_empty_taxonomies' => 'on',
+	'disable_author_archives' => 'on',
+	'disable_date_archives' => 'on',
+]);
+update_option('rank-math-options-titles', $titles);
+$general = get_option('rank-math-options-general', []);
+update_option('rank-math-options-general', array_merge($general, ['breadcrumbs' => 'off', 'attachment_redirect_urls' => 'on', 'strip_category_base' => 'off']));
+$sitemap = get_option('rank-math-options-sitemap', []);
+update_option('rank-math-options-sitemap', array_merge($sitemap, ['pt_en_post_sitemap' => 'on', 'tax_en_category_sitemap' => 'on', 'pt_elementor_library_sitemap' => 'off', 'pt_attachment_sitemap' => 'off', 'authors_sitemap' => 'off']));
+$modules = (array) get_option('rank_math_modules', []);
+update_option('rank_math_modules', array_values(array_unique(array_merge($modules, ['sitemap', 'rich-snippet', 'seo-analysis', 'link-counter', '404-monitor', 'redirections']))));
+update_option('rank_math_wizard_completed', true);
+update_option('rank_math_registration_skip', true);
+update_option('blog_public', 1);
+echo "rank math ok\n";
+
+/* Elementor speed: no Google font requests (the theme serves the font), icons as inline SVG */
+update_option('elementor_google_font', '0');
+update_option('elementor_font_display', 'swap');
+update_option('elementor_css_print_method', 'external');
+update_option('elementor_load_fa4_shim', '');
+update_option('elementor_experiment-e_font_icon_svg', 'active');
+update_option('elementor_unfiltered_files_upload', '');
+// Site-wide styles now live in the theme.
+wp_update_custom_css_post('', ['stylesheet' => get_stylesheet()]);
+
+/* Autoptimize: smaller, deferred CSS and JS */
+if (defined('AUTOPTIMIZE_PLUGIN_VERSION')) {
+	foreach ([
+		'autoptimize_html' => 'on', 'autoptimize_html_keepcomments' => '',
+		'autoptimize_js' => 'on', 'autoptimize_js_aggregate' => '', 'autoptimize_js_defer_not_aggregate' => 'on', 'autoptimize_js_defer_inline' => 'on',
+		'autoptimize_js_exclude' => 'wp-includes/js/dist/, wp-includes/js/tinymce/',
+		'autoptimize_css' => 'on', 'autoptimize_css_aggregate' => 'on', 'autoptimize_css_inline' => 'on',
+		'autoptimize_cache_nogzip' => 'on', 'autoptimize_optimize_logged' => '', 'autoptimize_minify_excluded' => 'on',
+	] as $k => $v) update_option($k, $v);
+	$extra = (array) get_option('autoptimize_extra_settings', []);
+	$extra['autoptimize_extra_checkbox_field_1'] = '1'; // remove emojis
+	$extra['autoptimize_extra_radio_field_4'] = '1';    // leave Google Fonts (none are loaded)
+	update_option('autoptimize_extra_settings', $extra);
+	$imgopt = (array) get_option('autoptimize_imgopt_settings', []);
+	$imgopt['autoptimize_imgopt_checkbox_field_3'] = '1'; // lazy-load images
+	update_option('autoptimize_imgopt_settings', $imgopt);
+	echo "autoptimize ok\n";
+}
+
+/* Cache Enabler: page cache, cleared when content changes */
+if (class_exists('Cache_Enabler')) {
+	$ce = (array) get_option('cache_enabler', []);
+	update_option('cache_enabler', array_merge($ce, [
+		'cache_expires' => 1, 'cache_expiry_time' => 24, 'clear_site_cache_on_saved_post' => 1, 'clear_site_cache_on_saved_comment' => 0,
+		'clear_site_cache_on_saved_term' => 1, 'clear_site_cache_on_saved_user' => 0, 'clear_site_cache_on_changed_plugin' => 1,
+		'convert_image_urls_to_webp' => 0, 'mobile_cache' => 0, 'compress_cache' => 1, 'minify_html' => 1, 'minify_inline_css_js' => 1,
+		'excluded_post_ids' => '', 'excluded_page_paths' => '', 'excluded_query_strings' => '', 'excluded_cookies' => '',
+	]));
+	echo "cache enabler ok\n";
+}
+
+/* Compression, browser caching and security headers for the server */
+require_once ABSPATH . 'wp-admin/includes/misc.php';
+$rules = <<<'HT'
+<IfModule mod_deflate.c>
+AddOutputFilterByType DEFLATE text/html text/plain text/css text/xml application/xml application/javascript application/json image/svg+xml font/woff2 application/rss+xml
+</IfModule>
+<IfModule mod_expires.c>
+ExpiresActive On
+ExpiresByType image/webp "access plus 1 year"
+ExpiresByType image/png "access plus 1 year"
+ExpiresByType image/jpeg "access plus 1 year"
+ExpiresByType image/svg+xml "access plus 1 year"
+ExpiresByType image/x-icon "access plus 1 year"
+ExpiresByType font/woff2 "access plus 1 year"
+ExpiresByType text/css "access plus 1 year"
+ExpiresByType application/javascript "access plus 1 year"
+</IfModule>
+<IfModule mod_headers.c>
+Header always set X-Content-Type-Options "nosniff"
+Header always set Referrer-Policy "strict-origin-when-cross-origin"
+Header always set X-Frame-Options "SAMEORIGIN"
+</IfModule>
+<Files xmlrpc.php>
+Require all denied
+</Files>
+<FilesMatch "^(wp-config\.php|readme\.html|license\.txt)$">
+Require all denied
+</FilesMatch>
+HT;
+insert_with_markers(ABSPATH . '.htaccess', 'Farhoon Speed and Security', explode("\n", $rules));
+// Keep the old app link to the privacy page working.
+$ht = file_get_contents(ABSPATH . '.htaccess');
+if (strpos($ht, '/rafiq/privacy.html') === false) file_put_contents(ABSPATH . '.htaccess', "# Farhoon: app privacy link\nRedirect 301 /rafiq/privacy.html " . home_url('/rafiq/privacy/') . "\n" . $ht);
+// WordPress link rules (written by hand because the command line cannot detect mod_rewrite).
+insert_with_markers(ABSPATH . '.htaccess', 'WordPress', explode("\n", $wp_rewrite->mod_rewrite_rules()));
+flush_rewrite_rules(false);
+echo "htaccess ok\n";
+
+\Elementor\Plugin::$instance->files_manager->clear_cache();
+if (class_exists('Cache_Enabler')) Cache_Enabler::clear_complete_cache();
+echo "DONE\n";
