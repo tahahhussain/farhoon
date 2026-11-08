@@ -503,7 +503,7 @@
      "isLinked": false
     },
     "structure": "40",
-    "css_classes": ""
+    "css_classes": "f-grid4"
    },
    "elements": [
     {
@@ -1639,7 +1639,7 @@
      "isLinked": false
     },
     "structure": "40",
-    "css_classes": ""
+    "css_classes": "f-grid4"
    },
    "elements": [
     {
@@ -2199,7 +2199,7 @@
      "isLinked": false
     },
     "structure": "40",
-    "css_classes": ""
+    "css_classes": "f-grid4"
    },
    "elements": [
     {
@@ -2837,7 +2837,7 @@
      "isLinked": false
     },
     "structure": "40",
-    "css_classes": ""
+    "css_classes": "f-grid4"
    },
    "elements": [
     {
@@ -4288,7 +4288,7 @@
      "isLinked": false
     },
     "structure": "20",
-    "css_classes": "",
+    "css_classes": "f-stack-tab",
     "content_position": "middle",
     "_element_id": "contact"
    },
