@@ -247,7 +247,8 @@
      "elType": "column",
      "settings": {
       "_column_size": 40,
-      "_inline_size": null
+      "_inline_size": null,
+      "_inline_size_tablet": 100
      },
      "elements": [
       {
@@ -376,7 +377,8 @@
      "elType": "column",
      "settings": {
       "_column_size": 60,
-      "_inline_size": null
+      "_inline_size": null,
+      "_inline_size_tablet": 100
      },
      "elements": [
       {
@@ -433,7 +435,8 @@
      "elType": "column",
      "settings": {
       "_column_size": 25,
-      "_inline_size": null
+      "_inline_size": null,
+      "_inline_size_tablet": 50
      },
      "elements": [
       {
@@ -513,7 +516,8 @@
      "elType": "column",
      "settings": {
       "_column_size": 25,
-      "_inline_size": null
+      "_inline_size": null,
+      "_inline_size_tablet": 50
      },
      "elements": [
       {
