@@ -1,0 +1,501 @@
+{
+ "version": "0.4",
+ "title": "Rafiq Al-Taa - Privacy policy",
+ "type": "page",
+ "content": [
+  {
+   "id": "a006a02",
+   "elType": "section",
+   "settings": {
+    "layout": "boxed",
+    "content_width": {
+     "unit": "px",
+     "size": 1200,
+     "sizes": []
+    },
+    "gap": "default",
+    "background_background": "classic",
+    "background_color": "#1B1446",
+    "padding": {
+     "unit": "px",
+     "top": "10",
+     "right": "20",
+     "bottom": "10",
+     "left": "20",
+     "isLinked": false
+    },
+    "padding_mobile": {
+     "unit": "px",
+     "top": "36",
+     "right": "12",
+     "bottom": "36",
+     "left": "12",
+     "isLinked": false
+    },
+    "structure": "20",
+    "css_classes": "f-header f-ltr",
+    "content_position": "middle"
+   },
+   "elements": [
+    {
+     "id": "08ca82e",
+     "elType": "column",
+     "settings": {
+      "_column_size": 20,
+      "_inline_size": null,
+      "_inline_size_mobile": 50
+     },
+     "elements": [
+      {
+       "id": "eae2876",
+       "elType": "widget",
+       "settings": {
+        "image": {
+         "url": "https://tahahhussain.github.io/farhoon/assets/wp/logo-dark.png",
+         "id": "",
+         "alt": "",
+         "source": "url"
+        },
+        "image_size": "full",
+        "align": "left",
+        "width": {
+         "unit": "px",
+         "size": 116,
+         "sizes": []
+        },
+        "link_to": "custom",
+        "link": {
+         "url": "/en/",
+         "is_external": "",
+         "nofollow": "",
+         "custom_attributes": ""
+        }
+       },
+       "elements": [],
+       "widgetType": "image"
+      }
+     ],
+     "isInner": false
+    },
+    {
+     "id": "129fb2b",
+     "elType": "column",
+     "settings": {
+      "_column_size": 80,
+      "_inline_size": null,
+      "_inline_size_mobile": 50
+     },
+     "elements": [
+      {
+       "id": "f64fdfe",
+       "elType": "widget",
+       "settings": {
+        "html": "<nav class=\"f-nav\" aria-label=\"Main menu\"><input type=\"checkbox\" id=\"f-menu\" class=\"f-toggle\"><label for=\"f-menu\" class=\"f-burger\" aria-label=\"Menu\"><span></span><span></span><span></span></label><ul><li><a class=\"\" href=\"/en/\">Home</a></li><li><a class=\"\" href=\"/en/about/\">About</a></li><li><a class=\"on\" href=\"/en/rafiq/\">Rafiq Al-Taa</a></li><li><a class=\"\" href=\"/en/games/\">Games</a></li><li><a class=\"\" href=\"/en/contact/\">Contact</a></li><li><a class=\"f-lang\" href=\"/rafiq/\" lang=\"ar\">العربية</a></li></ul></nav>"
+       },
+       "elements": [],
+       "widgetType": "html"
+      }
+     ],
+     "isInner": false
+    }
+   ],
+   "isInner": false
+  },
+  {
+   "id": "9b64441",
+   "elType": "section",
+   "settings": {
+    "layout": "boxed",
+    "content_width": {
+     "unit": "px",
+     "size": 1140,
+     "sizes": []
+    },
+    "gap": "default",
+    "background_background": "classic",
+    "background_color": "#1B1446",
+    "padding": {
+     "unit": "px",
+     "top": "64",
+     "right": "20",
+     "bottom": "64",
+     "left": "20",
+     "isLinked": false
+    },
+    "padding_mobile": {
+     "unit": "px",
+     "top": "36",
+     "right": "12",
+     "bottom": "36",
+     "left": "12",
+     "isLinked": false
+    },
+    "structure": "10",
+    "css_classes": "f-ltr"
+   },
+   "elements": [
+    {
+     "id": "3ac8bb5",
+     "elType": "column",
+     "settings": {
+      "_column_size": 100,
+      "_inline_size": null
+     },
+     "elements": [
+      {
+       "id": "f16137a",
+       "elType": "widget",
+       "settings": {
+        "title": "Privacy policy",
+        "header_size": "h1",
+        "align": "center",
+        "align_mobile": "center",
+        "title_color": "#FFFFFF",
+        "typography_typography": "custom",
+        "typography_font_family": "Baloo Bhaijaan 2",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 52,
+         "sizes": []
+        },
+        "typography_font_weight": "800",
+        "typography_font_size_mobile": {
+         "unit": "px",
+         "size": 36,
+         "sizes": []
+        },
+        "typography_line_height": {
+         "unit": "em",
+         "size": 1.3,
+         "sizes": []
+        }
+       },
+       "elements": [],
+       "widgetType": "heading"
+      },
+      {
+       "id": "9dec737",
+       "elType": "widget",
+       "settings": {
+        "editor": "<p>for the Rafiq Al-Taa app</p>",
+        "text_color": "#E6E3F5",
+        "align": "center",
+        "typography_typography": "custom",
+        "typography_font_family": "Baloo Bhaijaan 2",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 20,
+         "sizes": []
+        },
+        "typography_font_weight": "400",
+        "typography_font_size_mobile": {
+         "unit": "px",
+         "size": 18,
+         "sizes": []
+        },
+        "typography_line_height": {
+         "unit": "em",
+         "size": 1.75,
+         "sizes": []
+        }
+       },
+       "elements": [],
+       "widgetType": "text-editor"
+      }
+     ],
+     "isInner": false
+    }
+   ],
+   "isInner": false
+  },
+  {
+   "id": "1feb9ea",
+   "elType": "section",
+   "settings": {
+    "layout": "boxed",
+    "content_width": {
+     "unit": "px",
+     "size": 860,
+     "sizes": []
+    },
+    "gap": "default",
+    "background_background": "classic",
+    "background_color": "#FFFBF2",
+    "padding": {
+     "unit": "px",
+     "top": "56",
+     "right": "20",
+     "bottom": "72",
+     "left": "20",
+     "isLinked": false
+    },
+    "padding_mobile": {
+     "unit": "px",
+     "top": "36",
+     "right": "12",
+     "bottom": "36",
+     "left": "12",
+     "isLinked": false
+    },
+    "structure": "10",
+    "css_classes": "f-ltr"
+   },
+   "elements": [
+    {
+     "id": "5bde9fc",
+     "elType": "column",
+     "settings": {
+      "_column_size": 100,
+      "_inline_size": null,
+      "background_background": "classic",
+      "background_color": "#FFFFFF",
+      "border_radius": {
+       "unit": "px",
+       "top": "24",
+       "right": "24",
+       "bottom": "24",
+       "left": "24",
+       "isLinked": true
+      },
+      "padding": {
+       "unit": "px",
+       "top": "32",
+       "right": "32",
+       "bottom": "32",
+       "left": "32",
+       "isLinked": true
+      },
+      "padding_mobile": {
+       "unit": "px",
+       "top": "20",
+       "right": "20",
+       "bottom": "20",
+       "left": "20",
+       "isLinked": true
+      },
+      "border_border": "solid",
+      "border_width": {
+       "unit": "px",
+       "top": "2",
+       "right": "2",
+       "bottom": "2",
+       "left": "2",
+       "isLinked": true
+      },
+      "border_color": "#F0E6CF",
+      "margin": {
+       "unit": "px",
+       "top": "8",
+       "right": "8",
+       "bottom": "8",
+       "left": "8",
+       "isLinked": true
+      },
+      "margin_mobile": {
+       "unit": "px",
+       "top": "6",
+       "right": "6",
+       "bottom": "6",
+       "left": "6",
+       "isLinked": true
+      }
+     },
+     "elements": [
+      {
+       "id": "4f9fb3d",
+       "elType": "widget",
+       "settings": {
+        "editor": "<p>Last updated: 8 November 2026. Publisher: Farhoon. Contact: <a href=\"mailto:hello@farhoon.com\">hello@farhoon.com</a>.</p>\n<h2>Summary</h2>\n<p>The app is free, with no account and no ads. Your worship data and settings stay on your phone, and we do not receive them.</p>\n<h2>Data kept only on your device</h2>\n<p>City, prayer and notification settings, saved verses and hadiths, reading, adhkar and tasbih progress, your daily deeds record, and the numbers you type into the zakat calculator. Delete all of it in Settings → Privacy and your data → Delete my data, or by removing the app.</p>\n<h2>Location</h2>\n<p>If you choose \"use my current location\", it is used on your phone to calculate prayer times, and we do not receive it. The permission is optional, and you can pick a city from the list instead. The Qibla compass runs only on your phone.</p>\n<h2>Third-party services</h2>\n<p>The app contacts these only when you open the related feature. Each sees your IP address, as any website does:</p>\n<ul>\n  <li>Open-Meteo: an approximate position (within about 11 km) to show the temperature on the prayer screen.</li>\n  <li>tafsir_api on GitHub: tafsir text.</li>\n  <li>api.islamic.app: recitations.</li>\n  <li>Radio stations and mp3quran.net: live streams.</li>\n  <li>YouTube: videos and search links, under Google's policies.</li>\n  <li>GitHub Pages: the content update and announcement file, when the app opens.</li>\n</ul>\n<h2>Notifications</h2>\n<p>Adhan and reminders are scheduled on your phone and need no server. The permission is optional.</p>\n<h2>Children</h2>\n<p>The app is not directed at children under 13 and requests no personal data from anyone.</p>\n<h2>Changes</h2>\n<p>Changes are published here with a new date. If usage statistics are added, they will be opt-in and off by default, and this page will list every event sent.</p>",
+        "text_color": "#24324A",
+        "align": "left",
+        "typography_typography": "custom",
+        "typography_font_family": "Baloo Bhaijaan 2",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 17,
+         "sizes": []
+        },
+        "typography_font_weight": "400",
+        "typography_font_size_mobile": {
+         "unit": "px",
+         "size": 15,
+         "sizes": []
+        },
+        "typography_line_height": {
+         "unit": "em",
+         "size": 1.75,
+         "sizes": []
+        }
+       },
+       "elements": [],
+       "widgetType": "text-editor"
+      }
+     ],
+     "isInner": false
+    }
+   ],
+   "isInner": false
+  },
+  {
+   "id": "f19e82f",
+   "elType": "section",
+   "settings": {
+    "layout": "boxed",
+    "content_width": {
+     "unit": "px",
+     "size": 1140,
+     "sizes": []
+    },
+    "gap": "default",
+    "background_background": "classic",
+    "background_color": "#1B1446",
+    "padding": {
+     "unit": "px",
+     "top": "28",
+     "right": "20",
+     "bottom": "28",
+     "left": "20",
+     "isLinked": false
+    },
+    "padding_mobile": {
+     "unit": "px",
+     "top": "36",
+     "right": "12",
+     "bottom": "36",
+     "left": "12",
+     "isLinked": false
+    },
+    "structure": "30",
+    "css_classes": "f-footer f-ltr",
+    "content_position": "middle"
+   },
+   "elements": [
+    {
+     "id": "652f03b",
+     "elType": "column",
+     "settings": {
+      "_column_size": 25,
+      "_inline_size": null
+     },
+     "elements": [
+      {
+       "id": "37a45e6",
+       "elType": "widget",
+       "settings": {
+        "image": {
+         "url": "https://tahahhussain.github.io/farhoon/assets/wp/logo-dark.png",
+         "id": "",
+         "alt": "",
+         "source": "url"
+        },
+        "image_size": "full",
+        "align": "left",
+        "width": {
+         "unit": "px",
+         "size": 100,
+         "sizes": []
+        },
+        "link_to": "custom",
+        "link": {
+         "url": "/en/",
+         "is_external": "",
+         "nofollow": "",
+         "custom_attributes": ""
+        }
+       },
+       "elements": [],
+       "widgetType": "image"
+      }
+     ],
+     "isInner": false
+    },
+    {
+     "id": "b7f8d0f",
+     "elType": "column",
+     "settings": {
+      "_column_size": 50,
+      "_inline_size": null
+     },
+     "elements": [
+      {
+       "id": "5e7c09c",
+       "elType": "widget",
+       "settings": {
+        "editor": "<p class=\"f-foot-links\" style=\"margin:0\"><a href=\"/en/\">Home</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href=\"/en/about/\">About</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href=\"/en/rafiq/\">Rafiq Al-Taa</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href=\"/en/games/\">Games</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href=\"/en/contact/\">Contact</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href=\"/en/rafiq/privacy/\">Privacy policy</a></p>",
+        "text_color": "#FFFFFF",
+        "align": "center",
+        "typography_typography": "custom",
+        "typography_font_family": "Baloo Bhaijaan 2",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 15,
+         "sizes": []
+        },
+        "typography_font_weight": "400",
+        "typography_font_size_mobile": {
+         "unit": "px",
+         "size": 15,
+         "sizes": []
+        },
+        "typography_line_height": {
+         "unit": "em",
+         "size": 1.75,
+         "sizes": []
+        }
+       },
+       "elements": [],
+       "widgetType": "text-editor"
+      }
+     ],
+     "isInner": false
+    },
+    {
+     "id": "7887800",
+     "elType": "column",
+     "settings": {
+      "_column_size": 25,
+      "_inline_size": null
+     },
+     "elements": [
+      {
+       "id": "6f4a60f",
+       "elType": "widget",
+       "settings": {
+        "editor": "<p style=\"margin:0\">© 2026 Farhoon<br><a href=\"mailto:hello@farhoon.com\" style=\"color:#FFC531\">hello@farhoon.com</a></p>",
+        "text_color": "#C9C5E0",
+        "align": "right",
+        "typography_typography": "custom",
+        "typography_font_family": "Baloo Bhaijaan 2",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 15,
+         "sizes": []
+        },
+        "typography_font_weight": "400",
+        "typography_font_size_mobile": {
+         "unit": "px",
+         "size": 15,
+         "sizes": []
+        },
+        "typography_line_height": {
+         "unit": "em",
+         "size": 1.75,
+         "sizes": []
+        }
+       },
+       "elements": [],
+       "widgetType": "text-editor"
+      }
+     ],
+     "isInner": false
+    }
+   ],
+   "isInner": false
+  }
+ ],
+ "page_settings": {
+  "template": "elementor_canvas",
+  "background_background": "classic",
+  "background_color": "#FFFBF2"
+ }
+}

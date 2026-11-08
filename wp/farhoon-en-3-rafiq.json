@@ -1,0 +1,4505 @@
+{
+ "version": "0.4",
+ "title": "Farhoon - Rafiq Al-Taa",
+ "type": "page",
+ "content": [
+  {
+   "id": "a7752ec",
+   "elType": "section",
+   "settings": {
+    "layout": "boxed",
+    "content_width": {
+     "unit": "px",
+     "size": 1200,
+     "sizes": []
+    },
+    "gap": "default",
+    "background_background": "classic",
+    "background_color": "#1B1446",
+    "padding": {
+     "unit": "px",
+     "top": "10",
+     "right": "20",
+     "bottom": "10",
+     "left": "20",
+     "isLinked": false
+    },
+    "padding_mobile": {
+     "unit": "px",
+     "top": "36",
+     "right": "12",
+     "bottom": "36",
+     "left": "12",
+     "isLinked": false
+    },
+    "structure": "20",
+    "css_classes": "f-header f-ltr",
+    "content_position": "middle"
+   },
+   "elements": [
+    {
+     "id": "492c908",
+     "elType": "column",
+     "settings": {
+      "_column_size": 20,
+      "_inline_size": null,
+      "_inline_size_mobile": 50
+     },
+     "elements": [
+      {
+       "id": "90da420",
+       "elType": "widget",
+       "settings": {
+        "image": {
+         "url": "https://tahahhussain.github.io/farhoon/assets/wp/logo-dark.png",
+         "id": "",
+         "alt": "",
+         "source": "url"
+        },
+        "image_size": "full",
+        "align": "left",
+        "width": {
+         "unit": "px",
+         "size": 116,
+         "sizes": []
+        },
+        "link_to": "custom",
+        "link": {
+         "url": "/en/",
+         "is_external": "",
+         "nofollow": "",
+         "custom_attributes": ""
+        }
+       },
+       "elements": [],
+       "widgetType": "image"
+      }
+     ],
+     "isInner": false
+    },
+    {
+     "id": "b731c6d",
+     "elType": "column",
+     "settings": {
+      "_column_size": 80,
+      "_inline_size": null,
+      "_inline_size_mobile": 50
+     },
+     "elements": [
+      {
+       "id": "70005a7",
+       "elType": "widget",
+       "settings": {
+        "html": "<nav class=\"f-nav\" aria-label=\"Main menu\"><input type=\"checkbox\" id=\"f-menu\" class=\"f-toggle\"><label for=\"f-menu\" class=\"f-burger\" aria-label=\"Menu\"><span></span><span></span><span></span></label><ul><li><a class=\"\" href=\"/en/\">Home</a></li><li><a class=\"\" href=\"/en/about/\">About</a></li><li><a class=\"on\" href=\"/en/rafiq/\">Rafiq Al-Taa</a></li><li><a class=\"\" href=\"/en/games/\">Games</a></li><li><a class=\"\" href=\"/en/contact/\">Contact</a></li><li><a class=\"f-lang\" href=\"/rafiq/\" lang=\"ar\">العربية</a></li></ul></nav>"
+       },
+       "elements": [],
+       "widgetType": "html"
+      }
+     ],
+     "isInner": false
+    }
+   ],
+   "isInner": false
+  },
+  {
+   "id": "31ac344",
+   "elType": "section",
+   "settings": {
+    "layout": "boxed",
+    "content_width": {
+     "unit": "px",
+     "size": 1140,
+     "sizes": []
+    },
+    "gap": "default",
+    "background_background": "classic",
+    "background_color": "#1E5B46",
+    "padding": {
+     "unit": "px",
+     "top": "72",
+     "right": "20",
+     "bottom": "72",
+     "left": "20",
+     "isLinked": false
+    },
+    "padding_mobile": {
+     "unit": "px",
+     "top": "36",
+     "right": "12",
+     "bottom": "36",
+     "left": "12",
+     "isLinked": false
+    },
+    "structure": "10",
+    "css_classes": "f-ltr"
+   },
+   "elements": [
+    {
+     "id": "bd0fb6b",
+     "elType": "column",
+     "settings": {
+      "_column_size": 100,
+      "_inline_size": null
+     },
+     "elements": [
+      {
+       "id": "4e932b3",
+       "elType": "widget",
+       "settings": {
+        "image": {
+         "url": "https://tahahhussain.github.io/farhoon/assets/wp/rafiq-icon.png",
+         "id": "",
+         "alt": "",
+         "source": "url"
+        },
+        "image_size": "full",
+        "align": "center",
+        "width": {
+         "unit": "px",
+         "size": 120,
+         "sizes": []
+        },
+        "image_border_radius": {
+         "unit": "px",
+         "top": "28",
+         "right": "28",
+         "bottom": "28",
+         "left": "28",
+         "isLinked": true
+        }
+       },
+       "elements": [],
+       "widgetType": "image"
+      },
+      {
+       "id": "a699993",
+       "elType": "widget",
+       "settings": {
+        "title": "Rafiq Al-Taa",
+        "header_size": "h1",
+        "align": "center",
+        "align_mobile": "center",
+        "title_color": "#FFFFFF",
+        "typography_typography": "custom",
+        "typography_font_family": "Baloo Bhaijaan 2",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 54,
+         "sizes": []
+        },
+        "typography_font_weight": "800",
+        "typography_font_size_mobile": {
+         "unit": "px",
+         "size": 37,
+         "sizes": []
+        },
+        "typography_line_height": {
+         "unit": "em",
+         "size": 1.3,
+         "sizes": []
+        }
+       },
+       "elements": [],
+       "widgetType": "heading"
+      },
+      {
+       "id": "94eef78",
+       "elType": "widget",
+       "settings": {
+        "editor": "<p>Your daily companion for Quran, prayer and dhikr</p>",
+        "text_color": "#E9C877",
+        "align": "center",
+        "typography_typography": "custom",
+        "typography_font_family": "Baloo Bhaijaan 2",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 22,
+         "sizes": []
+        },
+        "typography_font_weight": "400",
+        "typography_font_size_mobile": {
+         "unit": "px",
+         "size": 20,
+         "sizes": []
+        },
+        "typography_line_height": {
+         "unit": "em",
+         "size": 1.75,
+         "sizes": []
+        }
+       },
+       "elements": [],
+       "widgetType": "text-editor"
+      },
+      {
+       "id": "5e23dd1",
+       "elType": "widget",
+       "settings": {
+        "editor": "<p><span class=\"f-chip\" style=\"background:#FFFFFF\">Free</span><span class=\"f-chip\" style=\"background:#FFFFFF\">No ads</span><span class=\"f-chip\" style=\"background:#FFFFFF\">No account</span><span class=\"f-chip\" style=\"background:#FFFFFF\">Data stays on your phone</span></p>",
+        "text_color": "#FFFFFF",
+        "align": "center",
+        "typography_typography": "custom",
+        "typography_font_family": "Baloo Bhaijaan 2",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 15,
+         "sizes": []
+        },
+        "typography_font_weight": "400",
+        "typography_font_size_mobile": {
+         "unit": "px",
+         "size": 15,
+         "sizes": []
+        },
+        "typography_line_height": {
+         "unit": "em",
+         "size": 1.75,
+         "sizes": []
+        }
+       },
+       "elements": [],
+       "widgetType": "text-editor"
+      },
+      {
+       "id": "daf5468",
+       "elType": "widget",
+       "settings": {
+        "editor": "<p><span class=\"f-soon\">Coming soon to Google Play and the App Store</span></p>",
+        "text_color": "#FFFFFF",
+        "align": "center",
+        "typography_typography": "custom",
+        "typography_font_family": "Baloo Bhaijaan 2",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 16,
+         "sizes": []
+        },
+        "typography_font_weight": "400",
+        "typography_font_size_mobile": {
+         "unit": "px",
+         "size": 15,
+         "sizes": []
+        },
+        "typography_line_height": {
+         "unit": "em",
+         "size": 1.75,
+         "sizes": []
+        }
+       },
+       "elements": [],
+       "widgetType": "text-editor"
+      }
+     ],
+     "isInner": false
+    }
+   ],
+   "isInner": false
+  },
+  {
+   "id": "2a81c8c",
+   "elType": "section",
+   "settings": {
+    "layout": "boxed",
+    "content_width": {
+     "unit": "px",
+     "size": 1140,
+     "sizes": []
+    },
+    "gap": "default",
+    "background_background": "classic",
+    "background_color": "#FFFBF2",
+    "padding": {
+     "unit": "px",
+     "top": "64",
+     "right": "20",
+     "bottom": "24",
+     "left": "20",
+     "isLinked": false
+    },
+    "padding_mobile": {
+     "unit": "px",
+     "top": "36",
+     "right": "12",
+     "bottom": "36",
+     "left": "12",
+     "isLinked": false
+    },
+    "structure": "10",
+    "css_classes": "f-ltr"
+   },
+   "elements": [
+    {
+     "id": "2832268",
+     "elType": "column",
+     "settings": {
+      "_column_size": 100,
+      "_inline_size": null
+     },
+     "elements": [
+      {
+       "id": "ec8d64b",
+       "elType": "widget",
+       "settings": {
+        "title": "More than twenty sections in one app",
+        "header_size": "h2",
+        "align": "center",
+        "align_mobile": "center",
+        "title_color": "#1E5B46",
+        "typography_typography": "custom",
+        "typography_font_family": "Baloo Bhaijaan 2",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 34,
+         "sizes": []
+        },
+        "typography_font_weight": "800",
+        "typography_font_size_mobile": {
+         "unit": "px",
+         "size": 23,
+         "sizes": []
+        },
+        "typography_line_height": {
+         "unit": "em",
+         "size": 1.3,
+         "sizes": []
+        }
+       },
+       "elements": [],
+       "widgetType": "heading"
+      },
+      {
+       "id": "a5f775b",
+       "elType": "widget",
+       "settings": {
+        "editor": "<p>A lasting charity with no ads and no account, calm design and clear Arabic. Here is a quick tour of its sections.</p>",
+        "text_color": "#5B6478",
+        "align": "center",
+        "typography_typography": "custom",
+        "typography_font_family": "Baloo Bhaijaan 2",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 19,
+         "sizes": []
+        },
+        "typography_font_weight": "400",
+        "typography_font_size_mobile": {
+         "unit": "px",
+         "size": 17,
+         "sizes": []
+        },
+        "typography_line_height": {
+         "unit": "em",
+         "size": 1.75,
+         "sizes": []
+        }
+       },
+       "elements": [],
+       "widgetType": "text-editor"
+      }
+     ],
+     "isInner": false
+    }
+   ],
+   "isInner": false
+  },
+  {
+   "id": "25a25a6",
+   "elType": "section",
+   "settings": {
+    "layout": "boxed",
+    "content_width": {
+     "unit": "px",
+     "size": 1140,
+     "sizes": []
+    },
+    "gap": "default",
+    "background_background": "classic",
+    "background_color": "#FFFBF2",
+    "padding": {
+     "unit": "px",
+     "top": "0",
+     "right": "20",
+     "bottom": "8",
+     "left": "20",
+     "isLinked": false
+    },
+    "padding_mobile": {
+     "unit": "px",
+     "top": "36",
+     "right": "12",
+     "bottom": "36",
+     "left": "12",
+     "isLinked": false
+    },
+    "structure": "30",
+    "css_classes": "f-ltr"
+   },
+   "elements": [
+    {
+     "id": "15e6798",
+     "elType": "column",
+     "settings": {
+      "_column_size": 33,
+      "_inline_size": null,
+      "background_background": "classic",
+      "background_color": "#FFFFFF",
+      "border_radius": {
+       "unit": "px",
+       "top": "24",
+       "right": "24",
+       "bottom": "24",
+       "left": "24",
+       "isLinked": true
+      },
+      "padding": {
+       "unit": "px",
+       "top": "18",
+       "right": "18",
+       "bottom": "18",
+       "left": "18",
+       "isLinked": true
+      },
+      "padding_mobile": {
+       "unit": "px",
+       "top": "18",
+       "right": "18",
+       "bottom": "18",
+       "left": "18",
+       "isLinked": true
+      },
+      "border_border": "solid",
+      "border_width": {
+       "unit": "px",
+       "top": "2",
+       "right": "2",
+       "bottom": "2",
+       "left": "2",
+       "isLinked": true
+      },
+      "border_color": "#F0E6CF",
+      "margin": {
+       "unit": "px",
+       "top": "8",
+       "right": "8",
+       "bottom": "8",
+       "left": "8",
+       "isLinked": true
+      },
+      "margin_mobile": {
+       "unit": "px",
+       "top": "6",
+       "right": "6",
+       "bottom": "6",
+       "left": "6",
+       "isLinked": true
+      }
+     },
+     "elements": [
+      {
+       "id": "0dc0c40",
+       "elType": "widget",
+       "settings": {
+        "image": {
+         "url": "https://tahahhussain.github.io/farhoon/assets/rafiq/sections/s01-home.webp",
+         "id": "",
+         "alt": "",
+         "source": "url"
+        },
+        "image_size": "full",
+        "align": "center",
+        "width": {
+         "unit": "px",
+         "size": 220,
+         "sizes": []
+        },
+        "width_mobile": {
+         "unit": "px",
+         "size": 190,
+         "sizes": []
+        },
+        "image_border_radius": {
+         "unit": "px",
+         "top": "22",
+         "right": "22",
+         "bottom": "22",
+         "left": "22",
+         "isLinked": true
+        }
+       },
+       "elements": [],
+       "widgetType": "image"
+      },
+      {
+       "id": "072ca44",
+       "elType": "widget",
+       "settings": {
+        "title": "Home",
+        "header_size": "h3",
+        "align": "center",
+        "align_mobile": "center",
+        "title_color": "#1E5B46",
+        "typography_typography": "custom",
+        "typography_font_family": "Baloo Bhaijaan 2",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 21,
+         "sizes": []
+        },
+        "typography_font_weight": "700",
+        "typography_font_size_mobile": {
+         "unit": "px",
+         "size": 22,
+         "sizes": []
+        },
+        "typography_line_height": {
+         "unit": "em",
+         "size": 1.3,
+         "sizes": []
+        }
+       },
+       "elements": [],
+       "widgetType": "heading"
+      },
+      {
+       "id": "7d73a15",
+       "elType": "widget",
+       "settings": {
+        "editor": "<p>The next prayer, today's deeds, the hadith of the day, and every section.</p>",
+        "text_color": "#5B6478",
+        "align": "center",
+        "typography_typography": "custom",
+        "typography_font_family": "Baloo Bhaijaan 2",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 15,
+         "sizes": []
+        },
+        "typography_font_weight": "400",
+        "typography_font_size_mobile": {
+         "unit": "px",
+         "size": 15,
+         "sizes": []
+        },
+        "typography_line_height": {
+         "unit": "em",
+         "size": 1.75,
+         "sizes": []
+        }
+       },
+       "elements": [],
+       "widgetType": "text-editor"
+      }
+     ],
+     "isInner": false
+    },
+    {
+     "id": "1b077b0",
+     "elType": "column",
+     "settings": {
+      "_column_size": 33,
+      "_inline_size": null,
+      "background_background": "classic",
+      "background_color": "#FFFFFF",
+      "border_radius": {
+       "unit": "px",
+       "top": "24",
+       "right": "24",
+       "bottom": "24",
+       "left": "24",
+       "isLinked": true
+      },
+      "padding": {
+       "unit": "px",
+       "top": "18",
+       "right": "18",
+       "bottom": "18",
+       "left": "18",
+       "isLinked": true
+      },
+      "padding_mobile": {
+       "unit": "px",
+       "top": "18",
+       "right": "18",
+       "bottom": "18",
+       "left": "18",
+       "isLinked": true
+      },
+      "border_border": "solid",
+      "border_width": {
+       "unit": "px",
+       "top": "2",
+       "right": "2",
+       "bottom": "2",
+       "left": "2",
+       "isLinked": true
+      },
+      "border_color": "#F0E6CF",
+      "margin": {
+       "unit": "px",
+       "top": "8",
+       "right": "8",
+       "bottom": "8",
+       "left": "8",
+       "isLinked": true
+      },
+      "margin_mobile": {
+       "unit": "px",
+       "top": "6",
+       "right": "6",
+       "bottom": "6",
+       "left": "6",
+       "isLinked": true
+      }
+     },
+     "elements": [
+      {
+       "id": "502c3a3",
+       "elType": "widget",
+       "settings": {
+        "image": {
+         "url": "https://tahahhussain.github.io/farhoon/assets/rafiq/sections/s02-mushaf.webp",
+         "id": "",
+         "alt": "",
+         "source": "url"
+        },
+        "image_size": "full",
+        "align": "center",
+        "width": {
+         "unit": "px",
+         "size": 220,
+         "sizes": []
+        },
+        "width_mobile": {
+         "unit": "px",
+         "size": 190,
+         "sizes": []
+        },
+        "image_border_radius": {
+         "unit": "px",
+         "top": "22",
+         "right": "22",
+         "bottom": "22",
+         "left": "22",
+         "isLinked": true
+        }
+       },
+       "elements": [],
+       "widgetType": "image"
+      },
+      {
+       "id": "d14efda",
+       "elType": "widget",
+       "settings": {
+        "title": "The Mushaf",
+        "header_size": "h3",
+        "align": "center",
+        "align_mobile": "center",
+        "title_color": "#1E5B46",
+        "typography_typography": "custom",
+        "typography_font_family": "Baloo Bhaijaan 2",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 21,
+         "sizes": []
+        },
+        "typography_font_weight": "700",
+        "typography_font_size_mobile": {
+         "unit": "px",
+         "size": 22,
+         "sizes": []
+        },
+        "typography_line_height": {
+         "unit": "em",
+         "size": 1.3,
+         "sizes": []
+        }
+       },
+       "elements": [],
+       "widgetType": "heading"
+      },
+      {
+       "id": "c7a8417",
+       "elType": "widget",
+       "settings": {
+        "editor": "<p>The 604-page Madinah Mushaf with many reciters and auto-scroll reading.</p>",
+        "text_color": "#5B6478",
+        "align": "center",
+        "typography_typography": "custom",
+        "typography_font_family": "Baloo Bhaijaan 2",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 15,
+         "sizes": []
+        },
+        "typography_font_weight": "400",
+        "typography_font_size_mobile": {
+         "unit": "px",
+         "size": 15,
+         "sizes": []
+        },
+        "typography_line_height": {
+         "unit": "em",
+         "size": 1.75,
+         "sizes": []
+        }
+       },
+       "elements": [],
+       "widgetType": "text-editor"
+      }
+     ],
+     "isInner": false
+    },
+    {
+     "id": "a373683",
+     "elType": "column",
+     "settings": {
+      "_column_size": 33,
+      "_inline_size": null,
+      "background_background": "classic",
+      "background_color": "#FFFFFF",
+      "border_radius": {
+       "unit": "px",
+       "top": "24",
+       "right": "24",
+       "bottom": "24",
+       "left": "24",
+       "isLinked": true
+      },
+      "padding": {
+       "unit": "px",
+       "top": "18",
+       "right": "18",
+       "bottom": "18",
+       "left": "18",
+       "isLinked": true
+      },
+      "padding_mobile": {
+       "unit": "px",
+       "top": "18",
+       "right": "18",
+       "bottom": "18",
+       "left": "18",
+       "isLinked": true
+      },
+      "border_border": "solid",
+      "border_width": {
+       "unit": "px",
+       "top": "2",
+       "right": "2",
+       "bottom": "2",
+       "left": "2",
+       "isLinked": true
+      },
+      "border_color": "#F0E6CF",
+      "margin": {
+       "unit": "px",
+       "top": "8",
+       "right": "8",
+       "bottom": "8",
+       "left": "8",
+       "isLinked": true
+      },
+      "margin_mobile": {
+       "unit": "px",
+       "top": "6",
+       "right": "6",
+       "bottom": "6",
+       "left": "6",
+       "isLinked": true
+      }
+     },
+     "elements": [
+      {
+       "id": "a15a8f3",
+       "elType": "widget",
+       "settings": {
+        "image": {
+         "url": "https://tahahhussain.github.io/farhoon/assets/rafiq/sections/s03-tajweed.webp",
+         "id": "",
+         "alt": "",
+         "source": "url"
+        },
+        "image_size": "full",
+        "align": "center",
+        "width": {
+         "unit": "px",
+         "size": 220,
+         "sizes": []
+        },
+        "width_mobile": {
+         "unit": "px",
+         "size": 190,
+         "sizes": []
+        },
+        "image_border_radius": {
+         "unit": "px",
+         "top": "22",
+         "right": "22",
+         "bottom": "22",
+         "left": "22",
+         "isLinked": true
+        }
+       },
+       "elements": [],
+       "widgetType": "image"
+      },
+      {
+       "id": "cba8a70",
+       "elType": "widget",
+       "settings": {
+        "title": "Learn Tajweed",
+        "header_size": "h3",
+        "align": "center",
+        "align_mobile": "center",
+        "title_color": "#1E5B46",
+        "typography_typography": "custom",
+        "typography_font_family": "Baloo Bhaijaan 2",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 21,
+         "sizes": []
+        },
+        "typography_font_weight": "700",
+        "typography_font_size_mobile": {
+         "unit": "px",
+         "size": 22,
+         "sizes": []
+        },
+        "typography_line_height": {
+         "unit": "em",
+         "size": 1.3,
+         "sizes": []
+        }
+       },
+       "elements": [],
+       "widgetType": "heading"
+      },
+      {
+       "id": "19ae565",
+       "elType": "widget",
+       "settings": {
+        "editor": "<p>Step-by-step recitation lessons, with the rules coloured in the Mushaf.</p>",
+        "text_color": "#5B6478",
+        "align": "center",
+        "typography_typography": "custom",
+        "typography_font_family": "Baloo Bhaijaan 2",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 15,
+         "sizes": []
+        },
+        "typography_font_weight": "400",
+        "typography_font_size_mobile": {
+         "unit": "px",
+         "size": 15,
+         "sizes": []
+        },
+        "typography_line_height": {
+         "unit": "em",
+         "size": 1.75,
+         "sizes": []
+        }
+       },
+       "elements": [],
+       "widgetType": "text-editor"
+      }
+     ],
+     "isInner": false
+    }
+   ],
+   "isInner": false
+  },
+  {
+   "id": "d595baa",
+   "elType": "section",
+   "settings": {
+    "layout": "boxed",
+    "content_width": {
+     "unit": "px",
+     "size": 1140,
+     "sizes": []
+    },
+    "gap": "default",
+    "background_background": "classic",
+    "background_color": "#FFFBF2",
+    "padding": {
+     "unit": "px",
+     "top": "0",
+     "right": "20",
+     "bottom": "8",
+     "left": "20",
+     "isLinked": false
+    },
+    "padding_mobile": {
+     "unit": "px",
+     "top": "36",
+     "right": "12",
+     "bottom": "36",
+     "left": "12",
+     "isLinked": false
+    },
+    "structure": "30",
+    "css_classes": "f-ltr"
+   },
+   "elements": [
+    {
+     "id": "8078f5f",
+     "elType": "column",
+     "settings": {
+      "_column_size": 33,
+      "_inline_size": null,
+      "background_background": "classic",
+      "background_color": "#FFFFFF",
+      "border_radius": {
+       "unit": "px",
+       "top": "24",
+       "right": "24",
+       "bottom": "24",
+       "left": "24",
+       "isLinked": true
+      },
+      "padding": {
+       "unit": "px",
+       "top": "18",
+       "right": "18",
+       "bottom": "18",
+       "left": "18",
+       "isLinked": true
+      },
+      "padding_mobile": {
+       "unit": "px",
+       "top": "18",
+       "right": "18",
+       "bottom": "18",
+       "left": "18",
+       "isLinked": true
+      },
+      "border_border": "solid",
+      "border_width": {
+       "unit": "px",
+       "top": "2",
+       "right": "2",
+       "bottom": "2",
+       "left": "2",
+       "isLinked": true
+      },
+      "border_color": "#F0E6CF",
+      "margin": {
+       "unit": "px",
+       "top": "8",
+       "right": "8",
+       "bottom": "8",
+       "left": "8",
+       "isLinked": true
+      },
+      "margin_mobile": {
+       "unit": "px",
+       "top": "6",
+       "right": "6",
+       "bottom": "6",
+       "left": "6",
+       "isLinked": true
+      }
+     },
+     "elements": [
+      {
+       "id": "7289757",
+       "elType": "widget",
+       "settings": {
+        "image": {
+         "url": "https://tahahhussain.github.io/farhoon/assets/rafiq/sections/s04-prayer.webp",
+         "id": "",
+         "alt": "",
+         "source": "url"
+        },
+        "image_size": "full",
+        "align": "center",
+        "width": {
+         "unit": "px",
+         "size": 220,
+         "sizes": []
+        },
+        "width_mobile": {
+         "unit": "px",
+         "size": 190,
+         "sizes": []
+        },
+        "image_border_radius": {
+         "unit": "px",
+         "top": "22",
+         "right": "22",
+         "bottom": "22",
+         "left": "22",
+         "isLinked": true
+        }
+       },
+       "elements": [],
+       "widgetType": "image"
+      },
+      {
+       "id": "dbe97c9",
+       "elType": "widget",
+       "settings": {
+        "title": "Prayer times",
+        "header_size": "h3",
+        "align": "center",
+        "align_mobile": "center",
+        "title_color": "#1E5B46",
+        "typography_typography": "custom",
+        "typography_font_family": "Baloo Bhaijaan 2",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 21,
+         "sizes": []
+        },
+        "typography_font_weight": "700",
+        "typography_font_size_mobile": {
+         "unit": "px",
+         "size": 22,
+         "sizes": []
+        },
+        "typography_line_height": {
+         "unit": "em",
+         "size": 1.3,
+         "sizes": []
+        }
+       },
+       "elements": [],
+       "widgetType": "heading"
+      },
+      {
+       "id": "f489180",
+       "elType": "widget",
+       "settings": {
+        "editor": "<p>Times for your city with adhan and iqama, even when the app is closed.</p>",
+        "text_color": "#5B6478",
+        "align": "center",
+        "typography_typography": "custom",
+        "typography_font_family": "Baloo Bhaijaan 2",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 15,
+         "sizes": []
+        },
+        "typography_font_weight": "400",
+        "typography_font_size_mobile": {
+         "unit": "px",
+         "size": 15,
+         "sizes": []
+        },
+        "typography_line_height": {
+         "unit": "em",
+         "size": 1.75,
+         "sizes": []
+        }
+       },
+       "elements": [],
+       "widgetType": "text-editor"
+      }
+     ],
+     "isInner": false
+    },
+    {
+     "id": "efcb9e3",
+     "elType": "column",
+     "settings": {
+      "_column_size": 33,
+      "_inline_size": null,
+      "background_background": "classic",
+      "background_color": "#FFFFFF",
+      "border_radius": {
+       "unit": "px",
+       "top": "24",
+       "right": "24",
+       "bottom": "24",
+       "left": "24",
+       "isLinked": true
+      },
+      "padding": {
+       "unit": "px",
+       "top": "18",
+       "right": "18",
+       "bottom": "18",
+       "left": "18",
+       "isLinked": true
+      },
+      "padding_mobile": {
+       "unit": "px",
+       "top": "18",
+       "right": "18",
+       "bottom": "18",
+       "left": "18",
+       "isLinked": true
+      },
+      "border_border": "solid",
+      "border_width": {
+       "unit": "px",
+       "top": "2",
+       "right": "2",
+       "bottom": "2",
+       "left": "2",
+       "isLinked": true
+      },
+      "border_color": "#F0E6CF",
+      "margin": {
+       "unit": "px",
+       "top": "8",
+       "right": "8",
+       "bottom": "8",
+       "left": "8",
+       "isLinked": true
+      },
+      "margin_mobile": {
+       "unit": "px",
+       "top": "6",
+       "right": "6",
+       "bottom": "6",
+       "left": "6",
+       "isLinked": true
+      }
+     },
+     "elements": [
+      {
+       "id": "7cc7558",
+       "elType": "widget",
+       "settings": {
+        "image": {
+         "url": "https://tahahhussain.github.io/farhoon/assets/rafiq/sections/s05-qibla.webp",
+         "id": "",
+         "alt": "",
+         "source": "url"
+        },
+        "image_size": "full",
+        "align": "center",
+        "width": {
+         "unit": "px",
+         "size": 220,
+         "sizes": []
+        },
+        "width_mobile": {
+         "unit": "px",
+         "size": 190,
+         "sizes": []
+        },
+        "image_border_radius": {
+         "unit": "px",
+         "top": "22",
+         "right": "22",
+         "bottom": "22",
+         "left": "22",
+         "isLinked": true
+        }
+       },
+       "elements": [],
+       "widgetType": "image"
+      },
+      {
+       "id": "17431e6",
+       "elType": "widget",
+       "settings": {
+        "title": "Qibla",
+        "header_size": "h3",
+        "align": "center",
+        "align_mobile": "center",
+        "title_color": "#1E5B46",
+        "typography_typography": "custom",
+        "typography_font_family": "Baloo Bhaijaan 2",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 21,
+         "sizes": []
+        },
+        "typography_font_weight": "700",
+        "typography_font_size_mobile": {
+         "unit": "px",
+         "size": 22,
+         "sizes": []
+        },
+        "typography_line_height": {
+         "unit": "em",
+         "size": 1.3,
+         "sizes": []
+        }
+       },
+       "elements": [],
+       "widgetType": "heading"
+      },
+      {
+       "id": "326b0bf",
+       "elType": "widget",
+       "settings": {
+        "editor": "<p>A compass pointing to the Kaaba from where you are, with the distance to Makkah.</p>",
+        "text_color": "#5B6478",
+        "align": "center",
+        "typography_typography": "custom",
+        "typography_font_family": "Baloo Bhaijaan 2",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 15,
+         "sizes": []
+        },
+        "typography_font_weight": "400",
+        "typography_font_size_mobile": {
+         "unit": "px",
+         "size": 15,
+         "sizes": []
+        },
+        "typography_line_height": {
+         "unit": "em",
+         "size": 1.75,
+         "sizes": []
+        }
+       },
+       "elements": [],
+       "widgetType": "text-editor"
+      }
+     ],
+     "isInner": false
+    },
+    {
+     "id": "19cdfed",
+     "elType": "column",
+     "settings": {
+      "_column_size": 33,
+      "_inline_size": null,
+      "background_background": "classic",
+      "background_color": "#FFFFFF",
+      "border_radius": {
+       "unit": "px",
+       "top": "24",
+       "right": "24",
+       "bottom": "24",
+       "left": "24",
+       "isLinked": true
+      },
+      "padding": {
+       "unit": "px",
+       "top": "18",
+       "right": "18",
+       "bottom": "18",
+       "left": "18",
+       "isLinked": true
+      },
+      "padding_mobile": {
+       "unit": "px",
+       "top": "18",
+       "right": "18",
+       "bottom": "18",
+       "left": "18",
+       "isLinked": true
+      },
+      "border_border": "solid",
+      "border_width": {
+       "unit": "px",
+       "top": "2",
+       "right": "2",
+       "bottom": "2",
+       "left": "2",
+       "isLinked": true
+      },
+      "border_color": "#F0E6CF",
+      "margin": {
+       "unit": "px",
+       "top": "8",
+       "right": "8",
+       "bottom": "8",
+       "left": "8",
+       "isLinked": true
+      },
+      "margin_mobile": {
+       "unit": "px",
+       "top": "6",
+       "right": "6",
+       "bottom": "6",
+       "left": "6",
+       "isLinked": true
+      }
+     },
+     "elements": [
+      {
+       "id": "49ea267",
+       "elType": "widget",
+       "settings": {
+        "image": {
+         "url": "https://tahahhussain.github.io/farhoon/assets/rafiq/sections/s06-radio.webp",
+         "id": "",
+         "alt": "",
+         "source": "url"
+        },
+        "image_size": "full",
+        "align": "center",
+        "width": {
+         "unit": "px",
+         "size": 220,
+         "sizes": []
+        },
+        "width_mobile": {
+         "unit": "px",
+         "size": 190,
+         "sizes": []
+        },
+        "image_border_radius": {
+         "unit": "px",
+         "top": "22",
+         "right": "22",
+         "bottom": "22",
+         "left": "22",
+         "isLinked": true
+        }
+       },
+       "elements": [],
+       "widgetType": "image"
+      },
+      {
+       "id": "7d88c18",
+       "elType": "widget",
+       "settings": {
+        "title": "Quran radio",
+        "header_size": "h3",
+        "align": "center",
+        "align_mobile": "center",
+        "title_color": "#1E5B46",
+        "typography_typography": "custom",
+        "typography_font_family": "Baloo Bhaijaan 2",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 21,
+         "sizes": []
+        },
+        "typography_font_weight": "700",
+        "typography_font_size_mobile": {
+         "unit": "px",
+         "size": 22,
+         "sizes": []
+        },
+        "typography_line_height": {
+         "unit": "em",
+         "size": 1.3,
+         "sizes": []
+        }
+       },
+       "elements": [],
+       "widgetType": "heading"
+      },
+      {
+       "id": "3aed813",
+       "elType": "widget",
+       "settings": {
+        "editor": "<p>Live Quran radio from Cairo and Riyadh, and many reciters.</p>",
+        "text_color": "#5B6478",
+        "align": "center",
+        "typography_typography": "custom",
+        "typography_font_family": "Baloo Bhaijaan 2",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 15,
+         "sizes": []
+        },
+        "typography_font_weight": "400",
+        "typography_font_size_mobile": {
+         "unit": "px",
+         "size": 15,
+         "sizes": []
+        },
+        "typography_line_height": {
+         "unit": "em",
+         "size": 1.75,
+         "sizes": []
+        }
+       },
+       "elements": [],
+       "widgetType": "text-editor"
+      }
+     ],
+     "isInner": false
+    }
+   ],
+   "isInner": false
+  },
+  {
+   "id": "8635d35",
+   "elType": "section",
+   "settings": {
+    "layout": "boxed",
+    "content_width": {
+     "unit": "px",
+     "size": 1140,
+     "sizes": []
+    },
+    "gap": "default",
+    "background_background": "classic",
+    "background_color": "#FFFBF2",
+    "padding": {
+     "unit": "px",
+     "top": "0",
+     "right": "20",
+     "bottom": "8",
+     "left": "20",
+     "isLinked": false
+    },
+    "padding_mobile": {
+     "unit": "px",
+     "top": "36",
+     "right": "12",
+     "bottom": "36",
+     "left": "12",
+     "isLinked": false
+    },
+    "structure": "30",
+    "css_classes": "f-ltr"
+   },
+   "elements": [
+    {
+     "id": "1aa70ba",
+     "elType": "column",
+     "settings": {
+      "_column_size": 33,
+      "_inline_size": null,
+      "background_background": "classic",
+      "background_color": "#FFFFFF",
+      "border_radius": {
+       "unit": "px",
+       "top": "24",
+       "right": "24",
+       "bottom": "24",
+       "left": "24",
+       "isLinked": true
+      },
+      "padding": {
+       "unit": "px",
+       "top": "18",
+       "right": "18",
+       "bottom": "18",
+       "left": "18",
+       "isLinked": true
+      },
+      "padding_mobile": {
+       "unit": "px",
+       "top": "18",
+       "right": "18",
+       "bottom": "18",
+       "left": "18",
+       "isLinked": true
+      },
+      "border_border": "solid",
+      "border_width": {
+       "unit": "px",
+       "top": "2",
+       "right": "2",
+       "bottom": "2",
+       "left": "2",
+       "isLinked": true
+      },
+      "border_color": "#F0E6CF",
+      "margin": {
+       "unit": "px",
+       "top": "8",
+       "right": "8",
+       "bottom": "8",
+       "left": "8",
+       "isLinked": true
+      },
+      "margin_mobile": {
+       "unit": "px",
+       "top": "6",
+       "right": "6",
+       "bottom": "6",
+       "left": "6",
+       "isLinked": true
+      }
+     },
+     "elements": [
+      {
+       "id": "e950073",
+       "elType": "widget",
+       "settings": {
+        "image": {
+         "url": "https://tahahhussain.github.io/farhoon/assets/rafiq/sections/s07-adhkar.webp",
+         "id": "",
+         "alt": "",
+         "source": "url"
+        },
+        "image_size": "full",
+        "align": "center",
+        "width": {
+         "unit": "px",
+         "size": 220,
+         "sizes": []
+        },
+        "width_mobile": {
+         "unit": "px",
+         "size": 190,
+         "sizes": []
+        },
+        "image_border_radius": {
+         "unit": "px",
+         "top": "22",
+         "right": "22",
+         "bottom": "22",
+         "left": "22",
+         "isLinked": true
+        }
+       },
+       "elements": [],
+       "widgetType": "image"
+      },
+      {
+       "id": "3c65e51",
+       "elType": "widget",
+       "settings": {
+        "title": "Morning & evening adhkar",
+        "header_size": "h3",
+        "align": "center",
+        "align_mobile": "center",
+        "title_color": "#1E5B46",
+        "typography_typography": "custom",
+        "typography_font_family": "Baloo Bhaijaan 2",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 21,
+         "sizes": []
+        },
+        "typography_font_weight": "700",
+        "typography_font_size_mobile": {
+         "unit": "px",
+         "size": 22,
+         "sizes": []
+        },
+        "typography_line_height": {
+         "unit": "em",
+         "size": 1.3,
+         "sizes": []
+        }
+       },
+       "elements": [],
+       "widgetType": "heading"
+      },
+      {
+       "id": "6845b8c",
+       "elType": "widget",
+       "settings": {
+        "editor": "<p>One dhikr at a time with a counter and its virtue, marked when done.</p>",
+        "text_color": "#5B6478",
+        "align": "center",
+        "typography_typography": "custom",
+        "typography_font_family": "Baloo Bhaijaan 2",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 15,
+         "sizes": []
+        },
+        "typography_font_weight": "400",
+        "typography_font_size_mobile": {
+         "unit": "px",
+         "size": 15,
+         "sizes": []
+        },
+        "typography_line_height": {
+         "unit": "em",
+         "size": 1.75,
+         "sizes": []
+        }
+       },
+       "elements": [],
+       "widgetType": "text-editor"
+      }
+     ],
+     "isInner": false
+    },
+    {
+     "id": "ba02ba4",
+     "elType": "column",
+     "settings": {
+      "_column_size": 33,
+      "_inline_size": null,
+      "background_background": "classic",
+      "background_color": "#FFFFFF",
+      "border_radius": {
+       "unit": "px",
+       "top": "24",
+       "right": "24",
+       "bottom": "24",
+       "left": "24",
+       "isLinked": true
+      },
+      "padding": {
+       "unit": "px",
+       "top": "18",
+       "right": "18",
+       "bottom": "18",
+       "left": "18",
+       "isLinked": true
+      },
+      "padding_mobile": {
+       "unit": "px",
+       "top": "18",
+       "right": "18",
+       "bottom": "18",
+       "left": "18",
+       "isLinked": true
+      },
+      "border_border": "solid",
+      "border_width": {
+       "unit": "px",
+       "top": "2",
+       "right": "2",
+       "bottom": "2",
+       "left": "2",
+       "isLinked": true
+      },
+      "border_color": "#F0E6CF",
+      "margin": {
+       "unit": "px",
+       "top": "8",
+       "right": "8",
+       "bottom": "8",
+       "left": "8",
+       "isLinked": true
+      },
+      "margin_mobile": {
+       "unit": "px",
+       "top": "6",
+       "right": "6",
+       "bottom": "6",
+       "left": "6",
+       "isLinked": true
+      }
+     },
+     "elements": [
+      {
+       "id": "b6a0ffb",
+       "elType": "widget",
+       "settings": {
+        "image": {
+         "url": "https://tahahhussain.github.io/farhoon/assets/rafiq/sections/s08-hisn.webp",
+         "id": "",
+         "alt": "",
+         "source": "url"
+        },
+        "image_size": "full",
+        "align": "center",
+        "width": {
+         "unit": "px",
+         "size": 220,
+         "sizes": []
+        },
+        "width_mobile": {
+         "unit": "px",
+         "size": 190,
+         "sizes": []
+        },
+        "image_border_radius": {
+         "unit": "px",
+         "top": "22",
+         "right": "22",
+         "bottom": "22",
+         "left": "22",
+         "isLinked": true
+        }
+       },
+       "elements": [],
+       "widgetType": "image"
+      },
+      {
+       "id": "4f38007",
+       "elType": "widget",
+       "settings": {
+        "title": "Hisn al-Muslim",
+        "header_size": "h3",
+        "align": "center",
+        "align_mobile": "center",
+        "title_color": "#1E5B46",
+        "typography_typography": "custom",
+        "typography_font_family": "Baloo Bhaijaan 2",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 21,
+         "sizes": []
+        },
+        "typography_font_weight": "700",
+        "typography_font_size_mobile": {
+         "unit": "px",
+         "size": 22,
+         "sizes": []
+        },
+        "typography_line_height": {
+         "unit": "em",
+         "size": 1.3,
+         "sizes": []
+        }
+       },
+       "elements": [],
+       "widgetType": "heading"
+      },
+      {
+       "id": "3fa7a53",
+       "elType": "widget",
+       "settings": {
+        "editor": "<p>All daily and occasion adhkar in 133 chapters, with search.</p>",
+        "text_color": "#5B6478",
+        "align": "center",
+        "typography_typography": "custom",
+        "typography_font_family": "Baloo Bhaijaan 2",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 15,
+         "sizes": []
+        },
+        "typography_font_weight": "400",
+        "typography_font_size_mobile": {
+         "unit": "px",
+         "size": 15,
+         "sizes": []
+        },
+        "typography_line_height": {
+         "unit": "em",
+         "size": 1.75,
+         "sizes": []
+        }
+       },
+       "elements": [],
+       "widgetType": "text-editor"
+      }
+     ],
+     "isInner": false
+    },
+    {
+     "id": "e93e4cb",
+     "elType": "column",
+     "settings": {
+      "_column_size": 33,
+      "_inline_size": null,
+      "background_background": "classic",
+      "background_color": "#FFFFFF",
+      "border_radius": {
+       "unit": "px",
+       "top": "24",
+       "right": "24",
+       "bottom": "24",
+       "left": "24",
+       "isLinked": true
+      },
+      "padding": {
+       "unit": "px",
+       "top": "18",
+       "right": "18",
+       "bottom": "18",
+       "left": "18",
+       "isLinked": true
+      },
+      "padding_mobile": {
+       "unit": "px",
+       "top": "18",
+       "right": "18",
+       "bottom": "18",
+       "left": "18",
+       "isLinked": true
+      },
+      "border_border": "solid",
+      "border_width": {
+       "unit": "px",
+       "top": "2",
+       "right": "2",
+       "bottom": "2",
+       "left": "2",
+       "isLinked": true
+      },
+      "border_color": "#F0E6CF",
+      "margin": {
+       "unit": "px",
+       "top": "8",
+       "right": "8",
+       "bottom": "8",
+       "left": "8",
+       "isLinked": true
+      },
+      "margin_mobile": {
+       "unit": "px",
+       "top": "6",
+       "right": "6",
+       "bottom": "6",
+       "left": "6",
+       "isLinked": true
+      }
+     },
+     "elements": [
+      {
+       "id": "e2bf15c",
+       "elType": "widget",
+       "settings": {
+        "image": {
+         "url": "https://tahahhussain.github.io/farhoon/assets/rafiq/sections/s09-tasbih.webp",
+         "id": "",
+         "alt": "",
+         "source": "url"
+        },
+        "image_size": "full",
+        "align": "center",
+        "width": {
+         "unit": "px",
+         "size": 220,
+         "sizes": []
+        },
+        "width_mobile": {
+         "unit": "px",
+         "size": 190,
+         "sizes": []
+        },
+        "image_border_radius": {
+         "unit": "px",
+         "top": "22",
+         "right": "22",
+         "bottom": "22",
+         "left": "22",
+         "isLinked": true
+        }
+       },
+       "elements": [],
+       "widgetType": "image"
+      },
+      {
+       "id": "479103d",
+       "elType": "widget",
+       "settings": {
+        "title": "Tasbih",
+        "header_size": "h3",
+        "align": "center",
+        "align_mobile": "center",
+        "title_color": "#1E5B46",
+        "typography_typography": "custom",
+        "typography_font_family": "Baloo Bhaijaan 2",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 21,
+         "sizes": []
+        },
+        "typography_font_weight": "700",
+        "typography_font_size_mobile": {
+         "unit": "px",
+         "size": 22,
+         "sizes": []
+        },
+        "typography_line_height": {
+         "unit": "em",
+         "size": 1.3,
+         "sizes": []
+        }
+       },
+       "elements": [],
+       "widgetType": "heading"
+      },
+      {
+       "id": "d57d84e",
+       "elType": "widget",
+       "settings": {
+        "editor": "<p>A tasbih counter with chosen adhkar that keeps your daily total.</p>",
+        "text_color": "#5B6478",
+        "align": "center",
+        "typography_typography": "custom",
+        "typography_font_family": "Baloo Bhaijaan 2",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 15,
+         "sizes": []
+        },
+        "typography_font_weight": "400",
+        "typography_font_size_mobile": {
+         "unit": "px",
+         "size": 15,
+         "sizes": []
+        },
+        "typography_line_height": {
+         "unit": "em",
+         "size": 1.75,
+         "sizes": []
+        }
+       },
+       "elements": [],
+       "widgetType": "text-editor"
+      }
+     ],
+     "isInner": false
+    }
+   ],
+   "isInner": false
+  },
+  {
+   "id": "614ae8d",
+   "elType": "section",
+   "settings": {
+    "layout": "boxed",
+    "content_width": {
+     "unit": "px",
+     "size": 1140,
+     "sizes": []
+    },
+    "gap": "default",
+    "background_background": "classic",
+    "background_color": "#FFFBF2",
+    "padding": {
+     "unit": "px",
+     "top": "0",
+     "right": "20",
+     "bottom": "8",
+     "left": "20",
+     "isLinked": false
+    },
+    "padding_mobile": {
+     "unit": "px",
+     "top": "36",
+     "right": "12",
+     "bottom": "36",
+     "left": "12",
+     "isLinked": false
+    },
+    "structure": "30",
+    "css_classes": "f-ltr"
+   },
+   "elements": [
+    {
+     "id": "948bcc4",
+     "elType": "column",
+     "settings": {
+      "_column_size": 33,
+      "_inline_size": null,
+      "background_background": "classic",
+      "background_color": "#FFFFFF",
+      "border_radius": {
+       "unit": "px",
+       "top": "24",
+       "right": "24",
+       "bottom": "24",
+       "left": "24",
+       "isLinked": true
+      },
+      "padding": {
+       "unit": "px",
+       "top": "18",
+       "right": "18",
+       "bottom": "18",
+       "left": "18",
+       "isLinked": true
+      },
+      "padding_mobile": {
+       "unit": "px",
+       "top": "18",
+       "right": "18",
+       "bottom": "18",
+       "left": "18",
+       "isLinked": true
+      },
+      "border_border": "solid",
+      "border_width": {
+       "unit": "px",
+       "top": "2",
+       "right": "2",
+       "bottom": "2",
+       "left": "2",
+       "isLinked": true
+      },
+      "border_color": "#F0E6CF",
+      "margin": {
+       "unit": "px",
+       "top": "8",
+       "right": "8",
+       "bottom": "8",
+       "left": "8",
+       "isLinked": true
+      },
+      "margin_mobile": {
+       "unit": "px",
+       "top": "6",
+       "right": "6",
+       "bottom": "6",
+       "left": "6",
+       "isLinked": true
+      }
+     },
+     "elements": [
+      {
+       "id": "d6ccdfe",
+       "elType": "widget",
+       "settings": {
+        "image": {
+         "url": "https://tahahhussain.github.io/farhoon/assets/rafiq/sections/s10-qudsi.webp",
+         "id": "",
+         "alt": "",
+         "source": "url"
+        },
+        "image_size": "full",
+        "align": "center",
+        "width": {
+         "unit": "px",
+         "size": 220,
+         "sizes": []
+        },
+        "width_mobile": {
+         "unit": "px",
+         "size": 190,
+         "sizes": []
+        },
+        "image_border_radius": {
+         "unit": "px",
+         "top": "22",
+         "right": "22",
+         "bottom": "22",
+         "left": "22",
+         "isLinked": true
+        }
+       },
+       "elements": [],
+       "widgetType": "image"
+      },
+      {
+       "id": "ba60d14",
+       "elType": "widget",
+       "settings": {
+        "title": "Hadith",
+        "header_size": "h3",
+        "align": "center",
+        "align_mobile": "center",
+        "title_color": "#1E5B46",
+        "typography_typography": "custom",
+        "typography_font_family": "Baloo Bhaijaan 2",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 21,
+         "sizes": []
+        },
+        "typography_font_weight": "700",
+        "typography_font_size_mobile": {
+         "unit": "px",
+         "size": 22,
+         "sizes": []
+        },
+        "typography_line_height": {
+         "unit": "em",
+         "size": 1.3,
+         "sizes": []
+        }
+       },
+       "elements": [],
+       "widgetType": "heading"
+      },
+      {
+       "id": "4621623",
+       "elType": "widget",
+       "settings": {
+        "editor": "<p>The Forty Nawawi and Hadith Qudsi, with explanation and word meanings.</p>",
+        "text_color": "#5B6478",
+        "align": "center",
+        "typography_typography": "custom",
+        "typography_font_family": "Baloo Bhaijaan 2",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 15,
+         "sizes": []
+        },
+        "typography_font_weight": "400",
+        "typography_font_size_mobile": {
+         "unit": "px",
+         "size": 15,
+         "sizes": []
+        },
+        "typography_line_height": {
+         "unit": "em",
+         "size": 1.75,
+         "sizes": []
+        }
+       },
+       "elements": [],
+       "widgetType": "text-editor"
+      }
+     ],
+     "isInner": false
+    },
+    {
+     "id": "3a4cfaa",
+     "elType": "column",
+     "settings": {
+      "_column_size": 33,
+      "_inline_size": null,
+      "background_background": "classic",
+      "background_color": "#FFFFFF",
+      "border_radius": {
+       "unit": "px",
+       "top": "24",
+       "right": "24",
+       "bottom": "24",
+       "left": "24",
+       "isLinked": true
+      },
+      "padding": {
+       "unit": "px",
+       "top": "18",
+       "right": "18",
+       "bottom": "18",
+       "left": "18",
+       "isLinked": true
+      },
+      "padding_mobile": {
+       "unit": "px",
+       "top": "18",
+       "right": "18",
+       "bottom": "18",
+       "left": "18",
+       "isLinked": true
+      },
+      "border_border": "solid",
+      "border_width": {
+       "unit": "px",
+       "top": "2",
+       "right": "2",
+       "bottom": "2",
+       "left": "2",
+       "isLinked": true
+      },
+      "border_color": "#F0E6CF",
+      "margin": {
+       "unit": "px",
+       "top": "8",
+       "right": "8",
+       "bottom": "8",
+       "left": "8",
+       "isLinked": true
+      },
+      "margin_mobile": {
+       "unit": "px",
+       "top": "6",
+       "right": "6",
+       "bottom": "6",
+       "left": "6",
+       "isLinked": true
+      }
+     },
+     "elements": [
+      {
+       "id": "41fb75d",
+       "elType": "widget",
+       "settings": {
+        "image": {
+         "url": "https://tahahhussain.github.io/farhoon/assets/rafiq/sections/s11-stories.webp",
+         "id": "",
+         "alt": "",
+         "source": "url"
+        },
+        "image_size": "full",
+        "align": "center",
+        "width": {
+         "unit": "px",
+         "size": 220,
+         "sizes": []
+        },
+        "width_mobile": {
+         "unit": "px",
+         "size": 190,
+         "sizes": []
+        },
+        "image_border_radius": {
+         "unit": "px",
+         "top": "22",
+         "right": "22",
+         "bottom": "22",
+         "left": "22",
+         "isLinked": true
+        }
+       },
+       "elements": [],
+       "widgetType": "image"
+      },
+      {
+       "id": "7a11029",
+       "elType": "widget",
+       "settings": {
+        "title": "Stories & Seerah",
+        "header_size": "h3",
+        "align": "center",
+        "align_mobile": "center",
+        "title_color": "#1E5B46",
+        "typography_typography": "custom",
+        "typography_font_family": "Baloo Bhaijaan 2",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 21,
+         "sizes": []
+        },
+        "typography_font_weight": "700",
+        "typography_font_size_mobile": {
+         "unit": "px",
+         "size": 22,
+         "sizes": []
+        },
+        "typography_line_height": {
+         "unit": "em",
+         "size": 1.3,
+         "sizes": []
+        }
+       },
+       "elements": [],
+       "widgetType": "heading"
+      },
+      {
+       "id": "f6533e9",
+       "elType": "widget",
+       "settings": {
+        "editor": "<p>Prophets, Companions, the Prophet's family and battles, in short episodes.</p>",
+        "text_color": "#5B6478",
+        "align": "center",
+        "typography_typography": "custom",
+        "typography_font_family": "Baloo Bhaijaan 2",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 15,
+         "sizes": []
+        },
+        "typography_font_weight": "400",
+        "typography_font_size_mobile": {
+         "unit": "px",
+         "size": 15,
+         "sizes": []
+        },
+        "typography_line_height": {
+         "unit": "em",
+         "size": 1.75,
+         "sizes": []
+        }
+       },
+       "elements": [],
+       "widgetType": "text-editor"
+      }
+     ],
+     "isInner": false
+    },
+    {
+     "id": "8b0399b",
+     "elType": "column",
+     "settings": {
+      "_column_size": 33,
+      "_inline_size": null,
+      "background_background": "classic",
+      "background_color": "#FFFFFF",
+      "border_radius": {
+       "unit": "px",
+       "top": "24",
+       "right": "24",
+       "bottom": "24",
+       "left": "24",
+       "isLinked": true
+      },
+      "padding": {
+       "unit": "px",
+       "top": "18",
+       "right": "18",
+       "bottom": "18",
+       "left": "18",
+       "isLinked": true
+      },
+      "padding_mobile": {
+       "unit": "px",
+       "top": "18",
+       "right": "18",
+       "bottom": "18",
+       "left": "18",
+       "isLinked": true
+      },
+      "border_border": "solid",
+      "border_width": {
+       "unit": "px",
+       "top": "2",
+       "right": "2",
+       "bottom": "2",
+       "left": "2",
+       "isLinked": true
+      },
+      "border_color": "#F0E6CF",
+      "margin": {
+       "unit": "px",
+       "top": "8",
+       "right": "8",
+       "bottom": "8",
+       "left": "8",
+       "isLinked": true
+      },
+      "margin_mobile": {
+       "unit": "px",
+       "top": "6",
+       "right": "6",
+       "bottom": "6",
+       "left": "6",
+       "isLinked": true
+      }
+     },
+     "elements": [
+      {
+       "id": "9e01198",
+       "elType": "widget",
+       "settings": {
+        "image": {
+         "url": "https://tahahhussain.github.io/farhoon/assets/rafiq/sections/s12-fiqh.webp",
+         "id": "",
+         "alt": "",
+         "source": "url"
+        },
+        "image_size": "full",
+        "align": "center",
+        "width": {
+         "unit": "px",
+         "size": 220,
+         "sizes": []
+        },
+        "width_mobile": {
+         "unit": "px",
+         "size": 190,
+         "sizes": []
+        },
+        "image_border_radius": {
+         "unit": "px",
+         "top": "22",
+         "right": "22",
+         "bottom": "22",
+         "left": "22",
+         "isLinked": true
+        }
+       },
+       "elements": [],
+       "widgetType": "image"
+      },
+      {
+       "id": "b7e6f38",
+       "elType": "widget",
+       "settings": {
+        "title": "Simplified Fiqh",
+        "header_size": "h3",
+        "align": "center",
+        "align_mobile": "center",
+        "title_color": "#1E5B46",
+        "typography_typography": "custom",
+        "typography_font_family": "Baloo Bhaijaan 2",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 21,
+         "sizes": []
+        },
+        "typography_font_weight": "700",
+        "typography_font_size_mobile": {
+         "unit": "px",
+         "size": 22,
+         "sizes": []
+        },
+        "typography_line_height": {
+         "unit": "em",
+         "size": 1.3,
+         "sizes": []
+        }
+       },
+       "elements": [],
+       "widgetType": "heading"
+      },
+      {
+       "id": "8cacb76",
+       "elType": "widget",
+       "settings": {
+        "editor": "<p>A hundred books on worship, dealings, family and manners, with evidence.</p>",
+        "text_color": "#5B6478",
+        "align": "center",
+        "typography_typography": "custom",
+        "typography_font_family": "Baloo Bhaijaan 2",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 15,
+         "sizes": []
+        },
+        "typography_font_weight": "400",
+        "typography_font_size_mobile": {
+         "unit": "px",
+         "size": 15,
+         "sizes": []
+        },
+        "typography_line_height": {
+         "unit": "em",
+         "size": 1.75,
+         "sizes": []
+        }
+       },
+       "elements": [],
+       "widgetType": "text-editor"
+      }
+     ],
+     "isInner": false
+    }
+   ],
+   "isInner": false
+  },
+  {
+   "id": "137aa92",
+   "elType": "section",
+   "settings": {
+    "layout": "boxed",
+    "content_width": {
+     "unit": "px",
+     "size": 1140,
+     "sizes": []
+    },
+    "gap": "default",
+    "background_background": "classic",
+    "background_color": "#FFFBF2",
+    "padding": {
+     "unit": "px",
+     "top": "0",
+     "right": "20",
+     "bottom": "8",
+     "left": "20",
+     "isLinked": false
+    },
+    "padding_mobile": {
+     "unit": "px",
+     "top": "36",
+     "right": "12",
+     "bottom": "36",
+     "left": "12",
+     "isLinked": false
+    },
+    "structure": "30",
+    "css_classes": "f-ltr"
+   },
+   "elements": [
+    {
+     "id": "7f77d23",
+     "elType": "column",
+     "settings": {
+      "_column_size": 33,
+      "_inline_size": null,
+      "background_background": "classic",
+      "background_color": "#FFFFFF",
+      "border_radius": {
+       "unit": "px",
+       "top": "24",
+       "right": "24",
+       "bottom": "24",
+       "left": "24",
+       "isLinked": true
+      },
+      "padding": {
+       "unit": "px",
+       "top": "18",
+       "right": "18",
+       "bottom": "18",
+       "left": "18",
+       "isLinked": true
+      },
+      "padding_mobile": {
+       "unit": "px",
+       "top": "18",
+       "right": "18",
+       "bottom": "18",
+       "left": "18",
+       "isLinked": true
+      },
+      "border_border": "solid",
+      "border_width": {
+       "unit": "px",
+       "top": "2",
+       "right": "2",
+       "bottom": "2",
+       "left": "2",
+       "isLinked": true
+      },
+      "border_color": "#F0E6CF",
+      "margin": {
+       "unit": "px",
+       "top": "8",
+       "right": "8",
+       "bottom": "8",
+       "left": "8",
+       "isLinked": true
+      },
+      "margin_mobile": {
+       "unit": "px",
+       "top": "6",
+       "right": "6",
+       "bottom": "6",
+       "left": "6",
+       "isLinked": true
+      }
+     },
+     "elements": [
+      {
+       "id": "8ea9fd6",
+       "elType": "widget",
+       "settings": {
+        "image": {
+         "url": "https://tahahhussain.github.io/farhoon/assets/rafiq/sections/s13-fatawa.webp",
+         "id": "",
+         "alt": "",
+         "source": "url"
+        },
+        "image_size": "full",
+        "align": "center",
+        "width": {
+         "unit": "px",
+         "size": 220,
+         "sizes": []
+        },
+        "width_mobile": {
+         "unit": "px",
+         "size": 190,
+         "sizes": []
+        },
+        "image_border_radius": {
+         "unit": "px",
+         "top": "22",
+         "right": "22",
+         "bottom": "22",
+         "left": "22",
+         "isLinked": true
+        }
+       },
+       "elements": [],
+       "widgetType": "image"
+      },
+      {
+       "id": "7a975c2",
+       "elType": "widget",
+       "settings": {
+        "title": "Fatwas",
+        "header_size": "h3",
+        "align": "center",
+        "align_mobile": "center",
+        "title_color": "#1E5B46",
+        "typography_typography": "custom",
+        "typography_font_family": "Baloo Bhaijaan 2",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 21,
+         "sizes": []
+        },
+        "typography_font_weight": "700",
+        "typography_font_size_mobile": {
+         "unit": "px",
+         "size": 22,
+         "sizes": []
+        },
+        "typography_line_height": {
+         "unit": "em",
+         "size": 1.3,
+         "sizes": []
+        }
+       },
+       "elements": [],
+       "widgetType": "heading"
+      },
+      {
+       "id": "612f7d4",
+       "elType": "widget",
+       "settings": {
+        "editor": "<p>Over two thousand questions, with scholars' video answers.</p>",
+        "text_color": "#5B6478",
+        "align": "center",
+        "typography_typography": "custom",
+        "typography_font_family": "Baloo Bhaijaan 2",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 15,
+         "sizes": []
+        },
+        "typography_font_weight": "400",
+        "typography_font_size_mobile": {
+         "unit": "px",
+         "size": 15,
+         "sizes": []
+        },
+        "typography_line_height": {
+         "unit": "em",
+         "size": 1.75,
+         "sizes": []
+        }
+       },
+       "elements": [],
+       "widgetType": "text-editor"
+      }
+     ],
+     "isInner": false
+    },
+    {
+     "id": "04da029",
+     "elType": "column",
+     "settings": {
+      "_column_size": 33,
+      "_inline_size": null,
+      "background_background": "classic",
+      "background_color": "#FFFFFF",
+      "border_radius": {
+       "unit": "px",
+       "top": "24",
+       "right": "24",
+       "bottom": "24",
+       "left": "24",
+       "isLinked": true
+      },
+      "padding": {
+       "unit": "px",
+       "top": "18",
+       "right": "18",
+       "bottom": "18",
+       "left": "18",
+       "isLinked": true
+      },
+      "padding_mobile": {
+       "unit": "px",
+       "top": "18",
+       "right": "18",
+       "bottom": "18",
+       "left": "18",
+       "isLinked": true
+      },
+      "border_border": "solid",
+      "border_width": {
+       "unit": "px",
+       "top": "2",
+       "right": "2",
+       "bottom": "2",
+       "left": "2",
+       "isLinked": true
+      },
+      "border_color": "#F0E6CF",
+      "margin": {
+       "unit": "px",
+       "top": "8",
+       "right": "8",
+       "bottom": "8",
+       "left": "8",
+       "isLinked": true
+      },
+      "margin_mobile": {
+       "unit": "px",
+       "top": "6",
+       "right": "6",
+       "bottom": "6",
+       "left": "6",
+       "isLinked": true
+      }
+     },
+     "elements": [
+      {
+       "id": "645732d",
+       "elType": "widget",
+       "settings": {
+        "image": {
+         "url": "https://tahahhussain.github.io/farhoon/assets/rafiq/sections/s14-zakat.webp",
+         "id": "",
+         "alt": "",
+         "source": "url"
+        },
+        "image_size": "full",
+        "align": "center",
+        "width": {
+         "unit": "px",
+         "size": 220,
+         "sizes": []
+        },
+        "width_mobile": {
+         "unit": "px",
+         "size": 190,
+         "sizes": []
+        },
+        "image_border_radius": {
+         "unit": "px",
+         "top": "22",
+         "right": "22",
+         "bottom": "22",
+         "left": "22",
+         "isLinked": true
+        }
+       },
+       "elements": [],
+       "widgetType": "image"
+      },
+      {
+       "id": "143a608",
+       "elType": "widget",
+       "settings": {
+        "title": "Zakat calculator",
+        "header_size": "h3",
+        "align": "center",
+        "align_mobile": "center",
+        "title_color": "#1E5B46",
+        "typography_typography": "custom",
+        "typography_font_family": "Baloo Bhaijaan 2",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 21,
+         "sizes": []
+        },
+        "typography_font_weight": "700",
+        "typography_font_size_mobile": {
+         "unit": "px",
+         "size": 22,
+         "sizes": []
+        },
+        "typography_line_height": {
+         "unit": "em",
+         "size": 1.3,
+         "sizes": []
+        }
+       },
+       "elements": [],
+       "widgetType": "heading"
+      },
+      {
+       "id": "1f1f745",
+       "elType": "widget",
+       "settings": {
+        "editor": "<p>Money, gold, silver, trade, fitr, crops, livestock and treasure, in SAR, EGP and USD.</p>",
+        "text_color": "#5B6478",
+        "align": "center",
+        "typography_typography": "custom",
+        "typography_font_family": "Baloo Bhaijaan 2",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 15,
+         "sizes": []
+        },
+        "typography_font_weight": "400",
+        "typography_font_size_mobile": {
+         "unit": "px",
+         "size": 15,
+         "sizes": []
+        },
+        "typography_line_height": {
+         "unit": "em",
+         "size": 1.75,
+         "sizes": []
+        }
+       },
+       "elements": [],
+       "widgetType": "text-editor"
+      }
+     ],
+     "isInner": false
+    },
+    {
+     "id": "0dc6564",
+     "elType": "column",
+     "settings": {
+      "_column_size": 33,
+      "_inline_size": null,
+      "background_background": "classic",
+      "background_color": "#FFFFFF",
+      "border_radius": {
+       "unit": "px",
+       "top": "24",
+       "right": "24",
+       "bottom": "24",
+       "left": "24",
+       "isLinked": true
+      },
+      "padding": {
+       "unit": "px",
+       "top": "18",
+       "right": "18",
+       "bottom": "18",
+       "left": "18",
+       "isLinked": true
+      },
+      "padding_mobile": {
+       "unit": "px",
+       "top": "18",
+       "right": "18",
+       "bottom": "18",
+       "left": "18",
+       "isLinked": true
+      },
+      "border_border": "solid",
+      "border_width": {
+       "unit": "px",
+       "top": "2",
+       "right": "2",
+       "bottom": "2",
+       "left": "2",
+       "isLinked": true
+      },
+      "border_color": "#F0E6CF",
+      "margin": {
+       "unit": "px",
+       "top": "8",
+       "right": "8",
+       "bottom": "8",
+       "left": "8",
+       "isLinked": true
+      },
+      "margin_mobile": {
+       "unit": "px",
+       "top": "6",
+       "right": "6",
+       "bottom": "6",
+       "left": "6",
+       "isLinked": true
+      }
+     },
+     "elements": [
+      {
+       "id": "8ab8935",
+       "elType": "widget",
+       "settings": {
+        "image": {
+         "url": "https://tahahhussain.github.io/farhoon/assets/rafiq/sections/s15-taat.webp",
+         "id": "",
+         "alt": "",
+         "source": "url"
+        },
+        "image_size": "full",
+        "align": "center",
+        "width": {
+         "unit": "px",
+         "size": 220,
+         "sizes": []
+        },
+        "width_mobile": {
+         "unit": "px",
+         "size": 190,
+         "sizes": []
+        },
+        "image_border_radius": {
+         "unit": "px",
+         "top": "22",
+         "right": "22",
+         "bottom": "22",
+         "left": "22",
+         "isLinked": true
+        }
+       },
+       "elements": [],
+       "widgetType": "image"
+      },
+      {
+       "id": "84dfa91",
+       "elType": "widget",
+       "settings": {
+        "title": "My deeds",
+        "header_size": "h3",
+        "align": "center",
+        "align_mobile": "center",
+        "title_color": "#1E5B46",
+        "typography_typography": "custom",
+        "typography_font_family": "Baloo Bhaijaan 2",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 21,
+         "sizes": []
+        },
+        "typography_font_weight": "700",
+        "typography_font_size_mobile": {
+         "unit": "px",
+         "size": 22,
+         "sizes": []
+        },
+        "typography_line_height": {
+         "unit": "em",
+         "size": 1.3,
+         "sizes": []
+        }
+       },
+       "elements": [],
+       "widgetType": "heading"
+      },
+      {
+       "id": "d9b2e4f",
+       "elType": "widget",
+       "settings": {
+        "editor": "<p>A daily list of prayers, adhkar and reading, ticked automatically, with a history.</p>",
+        "text_color": "#5B6478",
+        "align": "center",
+        "typography_typography": "custom",
+        "typography_font_family": "Baloo Bhaijaan 2",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 15,
+         "sizes": []
+        },
+        "typography_font_weight": "400",
+        "typography_font_size_mobile": {
+         "unit": "px",
+         "size": 15,
+         "sizes": []
+        },
+        "typography_line_height": {
+         "unit": "em",
+         "size": 1.75,
+         "sizes": []
+        }
+       },
+       "elements": [],
+       "widgetType": "text-editor"
+      }
+     ],
+     "isInner": false
+    }
+   ],
+   "isInner": false
+  },
+  {
+   "id": "ad2fce4",
+   "elType": "section",
+   "settings": {
+    "layout": "boxed",
+    "content_width": {
+     "unit": "px",
+     "size": 1140,
+     "sizes": []
+    },
+    "gap": "default",
+    "background_background": "classic",
+    "background_color": "#FFFBF2",
+    "padding": {
+     "unit": "px",
+     "top": "0",
+     "right": "20",
+     "bottom": "8",
+     "left": "20",
+     "isLinked": false
+    },
+    "padding_mobile": {
+     "unit": "px",
+     "top": "36",
+     "right": "12",
+     "bottom": "36",
+     "left": "12",
+     "isLinked": false
+    },
+    "structure": "30",
+    "css_classes": "f-ltr"
+   },
+   "elements": [
+    {
+     "id": "251dc7e",
+     "elType": "column",
+     "settings": {
+      "_column_size": 33,
+      "_inline_size": null,
+      "background_background": "classic",
+      "background_color": "#FFFFFF",
+      "border_radius": {
+       "unit": "px",
+       "top": "24",
+       "right": "24",
+       "bottom": "24",
+       "left": "24",
+       "isLinked": true
+      },
+      "padding": {
+       "unit": "px",
+       "top": "18",
+       "right": "18",
+       "bottom": "18",
+       "left": "18",
+       "isLinked": true
+      },
+      "padding_mobile": {
+       "unit": "px",
+       "top": "18",
+       "right": "18",
+       "bottom": "18",
+       "left": "18",
+       "isLinked": true
+      },
+      "border_border": "solid",
+      "border_width": {
+       "unit": "px",
+       "top": "2",
+       "right": "2",
+       "bottom": "2",
+       "left": "2",
+       "isLinked": true
+      },
+      "border_color": "#F0E6CF",
+      "margin": {
+       "unit": "px",
+       "top": "8",
+       "right": "8",
+       "bottom": "8",
+       "left": "8",
+       "isLinked": true
+      },
+      "margin_mobile": {
+       "unit": "px",
+       "top": "6",
+       "right": "6",
+       "bottom": "6",
+       "left": "6",
+       "isLinked": true
+      }
+     },
+     "elements": [
+      {
+       "id": "3476e55",
+       "elType": "widget",
+       "settings": {
+        "image": {
+         "url": "https://tahahhussain.github.io/farhoon/assets/rafiq/sections/s16-calendar.webp",
+         "id": "",
+         "alt": "",
+         "source": "url"
+        },
+        "image_size": "full",
+        "align": "center",
+        "width": {
+         "unit": "px",
+         "size": 220,
+         "sizes": []
+        },
+        "width_mobile": {
+         "unit": "px",
+         "size": 190,
+         "sizes": []
+        },
+        "image_border_radius": {
+         "unit": "px",
+         "top": "22",
+         "right": "22",
+         "bottom": "22",
+         "left": "22",
+         "isLinked": true
+        }
+       },
+       "elements": [],
+       "widgetType": "image"
+      },
+      {
+       "id": "71f38c7",
+       "elType": "widget",
+       "settings": {
+        "title": "Hijri & Gregorian calendar",
+        "header_size": "h3",
+        "align": "center",
+        "align_mobile": "center",
+        "title_color": "#1E5B46",
+        "typography_typography": "custom",
+        "typography_font_family": "Baloo Bhaijaan 2",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 21,
+         "sizes": []
+        },
+        "typography_font_weight": "700",
+        "typography_font_size_mobile": {
+         "unit": "px",
+         "size": 22,
+         "sizes": []
+        },
+        "typography_line_height": {
+         "unit": "em",
+         "size": 1.3,
+         "sizes": []
+        }
+       },
+       "elements": [],
+       "widgetType": "heading"
+      },
+      {
+       "id": "8e7bd0a",
+       "elType": "widget",
+       "settings": {
+        "editor": "<p>Today in both calendars, the white days, and Islamic and world occasions.</p>",
+        "text_color": "#5B6478",
+        "align": "center",
+        "typography_typography": "custom",
+        "typography_font_family": "Baloo Bhaijaan 2",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 15,
+         "sizes": []
+        },
+        "typography_font_weight": "400",
+        "typography_font_size_mobile": {
+         "unit": "px",
+         "size": 15,
+         "sizes": []
+        },
+        "typography_line_height": {
+         "unit": "em",
+         "size": 1.75,
+         "sizes": []
+        }
+       },
+       "elements": [],
+       "widgetType": "text-editor"
+      }
+     ],
+     "isInner": false
+    },
+    {
+     "id": "bf11eba",
+     "elType": "column",
+     "settings": {
+      "_column_size": 33,
+      "_inline_size": null,
+      "background_background": "classic",
+      "background_color": "#FFFFFF",
+      "border_radius": {
+       "unit": "px",
+       "top": "24",
+       "right": "24",
+       "bottom": "24",
+       "left": "24",
+       "isLinked": true
+      },
+      "padding": {
+       "unit": "px",
+       "top": "18",
+       "right": "18",
+       "bottom": "18",
+       "left": "18",
+       "isLinked": true
+      },
+      "padding_mobile": {
+       "unit": "px",
+       "top": "18",
+       "right": "18",
+       "bottom": "18",
+       "left": "18",
+       "isLinked": true
+      },
+      "border_border": "solid",
+      "border_width": {
+       "unit": "px",
+       "top": "2",
+       "right": "2",
+       "bottom": "2",
+       "left": "2",
+       "isLinked": true
+      },
+      "border_color": "#F0E6CF",
+      "margin": {
+       "unit": "px",
+       "top": "8",
+       "right": "8",
+       "bottom": "8",
+       "left": "8",
+       "isLinked": true
+      },
+      "margin_mobile": {
+       "unit": "px",
+       "top": "6",
+       "right": "6",
+       "bottom": "6",
+       "left": "6",
+       "isLinked": true
+      }
+     },
+     "elements": [
+      {
+       "id": "2c42198",
+       "elType": "widget",
+       "settings": {
+        "image": {
+         "url": "https://tahahhussain.github.io/farhoon/assets/rafiq/sections/s17-imsakiya.webp",
+         "id": "",
+         "alt": "",
+         "source": "url"
+        },
+        "image_size": "full",
+        "align": "center",
+        "width": {
+         "unit": "px",
+         "size": 220,
+         "sizes": []
+        },
+        "width_mobile": {
+         "unit": "px",
+         "size": 190,
+         "sizes": []
+        },
+        "image_border_radius": {
+         "unit": "px",
+         "top": "22",
+         "right": "22",
+         "bottom": "22",
+         "left": "22",
+         "isLinked": true
+        }
+       },
+       "elements": [],
+       "widgetType": "image"
+      },
+      {
+       "id": "525be0c",
+       "elType": "widget",
+       "settings": {
+        "title": "Ramadan timetable",
+        "header_size": "h3",
+        "align": "center",
+        "align_mobile": "center",
+        "title_color": "#1E5B46",
+        "typography_typography": "custom",
+        "typography_font_family": "Baloo Bhaijaan 2",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 21,
+         "sizes": []
+        },
+        "typography_font_weight": "700",
+        "typography_font_size_mobile": {
+         "unit": "px",
+         "size": 22,
+         "sizes": []
+        },
+        "typography_line_height": {
+         "unit": "em",
+         "size": 1.3,
+         "sizes": []
+        }
+       },
+       "elements": [],
+       "widgetType": "heading"
+      },
+      {
+       "id": "7831b02",
+       "elType": "widget",
+       "settings": {
+        "editor": "<p>Suhoor and iftar times for every day of Ramadan in your city.</p>",
+        "text_color": "#5B6478",
+        "align": "center",
+        "typography_typography": "custom",
+        "typography_font_family": "Baloo Bhaijaan 2",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 15,
+         "sizes": []
+        },
+        "typography_font_weight": "400",
+        "typography_font_size_mobile": {
+         "unit": "px",
+         "size": 15,
+         "sizes": []
+        },
+        "typography_line_height": {
+         "unit": "em",
+         "size": 1.75,
+         "sizes": []
+        }
+       },
+       "elements": [],
+       "widgetType": "text-editor"
+      }
+     ],
+     "isInner": false
+    },
+    {
+     "id": "6bd80a5",
+     "elType": "column",
+     "settings": {
+      "_column_size": 33,
+      "_inline_size": null,
+      "background_background": "classic",
+      "background_color": "#FFFFFF",
+      "border_radius": {
+       "unit": "px",
+       "top": "24",
+       "right": "24",
+       "bottom": "24",
+       "left": "24",
+       "isLinked": true
+      },
+      "padding": {
+       "unit": "px",
+       "top": "18",
+       "right": "18",
+       "bottom": "18",
+       "left": "18",
+       "isLinked": true
+      },
+      "padding_mobile": {
+       "unit": "px",
+       "top": "18",
+       "right": "18",
+       "bottom": "18",
+       "left": "18",
+       "isLinked": true
+      },
+      "border_border": "solid",
+      "border_width": {
+       "unit": "px",
+       "top": "2",
+       "right": "2",
+       "bottom": "2",
+       "left": "2",
+       "isLinked": true
+      },
+      "border_color": "#F0E6CF",
+      "margin": {
+       "unit": "px",
+       "top": "8",
+       "right": "8",
+       "bottom": "8",
+       "left": "8",
+       "isLinked": true
+      },
+      "margin_mobile": {
+       "unit": "px",
+       "top": "6",
+       "right": "6",
+       "bottom": "6",
+       "left": "6",
+       "isLinked": true
+      }
+     },
+     "elements": [
+      {
+       "id": "f7d0193",
+       "elType": "widget",
+       "settings": {
+        "image": {
+         "url": "https://tahahhussain.github.io/farhoon/assets/rafiq/sections/s18-quiz.webp",
+         "id": "",
+         "alt": "",
+         "source": "url"
+        },
+        "image_size": "full",
+        "align": "center",
+        "width": {
+         "unit": "px",
+         "size": 220,
+         "sizes": []
+        },
+        "width_mobile": {
+         "unit": "px",
+         "size": 190,
+         "sizes": []
+        },
+        "image_border_radius": {
+         "unit": "px",
+         "top": "22",
+         "right": "22",
+         "bottom": "22",
+         "left": "22",
+         "isLinked": true
+        }
+       },
+       "elements": [],
+       "widgetType": "image"
+      },
+      {
+       "id": "f5053a1",
+       "elType": "widget",
+       "settings": {
+        "title": "Islamic quiz",
+        "header_size": "h3",
+        "align": "center",
+        "align_mobile": "center",
+        "title_color": "#1E5B46",
+        "typography_typography": "custom",
+        "typography_font_family": "Baloo Bhaijaan 2",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 21,
+         "sizes": []
+        },
+        "typography_font_weight": "700",
+        "typography_font_size_mobile": {
+         "unit": "px",
+         "size": 22,
+         "sizes": []
+        },
+        "typography_line_height": {
+         "unit": "em",
+         "size": 1.3,
+         "sizes": []
+        }
+       },
+       "elements": [],
+       "widgetType": "heading"
+      },
+      {
+       "id": "b54c802",
+       "elType": "widget",
+       "settings": {
+        "editor": "<p>Over 750 questions on Quran, prophets, seerah and fiqh. Challenge your family.</p>",
+        "text_color": "#5B6478",
+        "align": "center",
+        "typography_typography": "custom",
+        "typography_font_family": "Baloo Bhaijaan 2",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 15,
+         "sizes": []
+        },
+        "typography_font_weight": "400",
+        "typography_font_size_mobile": {
+         "unit": "px",
+         "size": 15,
+         "sizes": []
+        },
+        "typography_line_height": {
+         "unit": "em",
+         "size": 1.75,
+         "sizes": []
+        }
+       },
+       "elements": [],
+       "widgetType": "text-editor"
+      }
+     ],
+     "isInner": false
+    }
+   ],
+   "isInner": false
+  },
+  {
+   "id": "bce7039",
+   "elType": "section",
+   "settings": {
+    "layout": "boxed",
+    "content_width": {
+     "unit": "px",
+     "size": 1140,
+     "sizes": []
+    },
+    "gap": "default",
+    "background_background": "classic",
+    "background_color": "#FFFBF2",
+    "padding": {
+     "unit": "px",
+     "top": "0",
+     "right": "20",
+     "bottom": "8",
+     "left": "20",
+     "isLinked": false
+    },
+    "padding_mobile": {
+     "unit": "px",
+     "top": "36",
+     "right": "12",
+     "bottom": "36",
+     "left": "12",
+     "isLinked": false
+    },
+    "structure": "30",
+    "css_classes": "f-ltr"
+   },
+   "elements": [
+    {
+     "id": "2610c3b",
+     "elType": "column",
+     "settings": {
+      "_column_size": 33,
+      "_inline_size": null,
+      "background_background": "classic",
+      "background_color": "#FFFFFF",
+      "border_radius": {
+       "unit": "px",
+       "top": "24",
+       "right": "24",
+       "bottom": "24",
+       "left": "24",
+       "isLinked": true
+      },
+      "padding": {
+       "unit": "px",
+       "top": "18",
+       "right": "18",
+       "bottom": "18",
+       "left": "18",
+       "isLinked": true
+      },
+      "padding_mobile": {
+       "unit": "px",
+       "top": "18",
+       "right": "18",
+       "bottom": "18",
+       "left": "18",
+       "isLinked": true
+      },
+      "border_border": "solid",
+      "border_width": {
+       "unit": "px",
+       "top": "2",
+       "right": "2",
+       "bottom": "2",
+       "left": "2",
+       "isLinked": true
+      },
+      "border_color": "#F0E6CF",
+      "margin": {
+       "unit": "px",
+       "top": "8",
+       "right": "8",
+       "bottom": "8",
+       "left": "8",
+       "isLinked": true
+      },
+      "margin_mobile": {
+       "unit": "px",
+       "top": "6",
+       "right": "6",
+       "bottom": "6",
+       "left": "6",
+       "isLinked": true
+      }
+     },
+     "elements": [
+      {
+       "id": "aff983e",
+       "elType": "widget",
+       "settings": {
+        "image": {
+         "url": "https://tahahhussain.github.io/farhoon/assets/rafiq/sections/s19-games.webp",
+         "id": "",
+         "alt": "",
+         "source": "url"
+        },
+        "image_size": "full",
+        "align": "center",
+        "width": {
+         "unit": "px",
+         "size": 220,
+         "sizes": []
+        },
+        "width_mobile": {
+         "unit": "px",
+         "size": 190,
+         "sizes": []
+        },
+        "image_border_radius": {
+         "unit": "px",
+         "top": "22",
+         "right": "22",
+         "bottom": "22",
+         "left": "22",
+         "isLinked": true
+        }
+       },
+       "elements": [],
+       "widgetType": "image"
+      },
+      {
+       "id": "fd22c03",
+       "elType": "widget",
+       "settings": {
+        "title": "Stories & games",
+        "header_size": "h3",
+        "align": "center",
+        "align_mobile": "center",
+        "title_color": "#1E5B46",
+        "typography_typography": "custom",
+        "typography_font_family": "Baloo Bhaijaan 2",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 21,
+         "sizes": []
+        },
+        "typography_font_weight": "700",
+        "typography_font_size_mobile": {
+         "unit": "px",
+         "size": 22,
+         "sizes": []
+        },
+        "typography_line_height": {
+         "unit": "em",
+         "size": 1.3,
+         "sizes": []
+        }
+       },
+       "elements": [],
+       "widgetType": "heading"
+      },
+      {
+       "id": "444816f",
+       "elType": "widget",
+       "settings": {
+        "editor": "<p>Order the verse, a memory game, and one-minute Quran stories.</p>",
+        "text_color": "#5B6478",
+        "align": "center",
+        "typography_typography": "custom",
+        "typography_font_family": "Baloo Bhaijaan 2",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 15,
+         "sizes": []
+        },
+        "typography_font_weight": "400",
+        "typography_font_size_mobile": {
+         "unit": "px",
+         "size": 15,
+         "sizes": []
+        },
+        "typography_line_height": {
+         "unit": "em",
+         "size": 1.75,
+         "sizes": []
+        }
+       },
+       "elements": [],
+       "widgetType": "text-editor"
+      }
+     ],
+     "isInner": false
+    },
+    {
+     "id": "e3805a7",
+     "elType": "column",
+     "settings": {
+      "_column_size": 33,
+      "_inline_size": null,
+      "background_background": "classic",
+      "background_color": "#FFFFFF",
+      "border_radius": {
+       "unit": "px",
+       "top": "24",
+       "right": "24",
+       "bottom": "24",
+       "left": "24",
+       "isLinked": true
+      },
+      "padding": {
+       "unit": "px",
+       "top": "18",
+       "right": "18",
+       "bottom": "18",
+       "left": "18",
+       "isLinked": true
+      },
+      "padding_mobile": {
+       "unit": "px",
+       "top": "18",
+       "right": "18",
+       "bottom": "18",
+       "left": "18",
+       "isLinked": true
+      },
+      "border_border": "solid",
+      "border_width": {
+       "unit": "px",
+       "top": "2",
+       "right": "2",
+       "bottom": "2",
+       "left": "2",
+       "isLinked": true
+      },
+      "border_color": "#F0E6CF",
+      "margin": {
+       "unit": "px",
+       "top": "8",
+       "right": "8",
+       "bottom": "8",
+       "left": "8",
+       "isLinked": true
+      },
+      "margin_mobile": {
+       "unit": "px",
+       "top": "6",
+       "right": "6",
+       "bottom": "6",
+       "left": "6",
+       "isLinked": true
+      }
+     },
+     "elements": [
+      {
+       "id": "3d54ebc",
+       "elType": "widget",
+       "settings": {
+        "image": {
+         "url": "https://tahahhussain.github.io/farhoon/assets/rafiq/sections/s20-debates.webp",
+         "id": "",
+         "alt": "",
+         "source": "url"
+        },
+        "image_size": "full",
+        "align": "center",
+        "width": {
+         "unit": "px",
+         "size": 220,
+         "sizes": []
+        },
+        "width_mobile": {
+         "unit": "px",
+         "size": 190,
+         "sizes": []
+        },
+        "image_border_radius": {
+         "unit": "px",
+         "top": "22",
+         "right": "22",
+         "bottom": "22",
+         "left": "22",
+         "isLinked": true
+        }
+       },
+       "elements": [],
+       "widgetType": "image"
+      },
+      {
+       "id": "e505c23",
+       "elType": "widget",
+       "settings": {
+        "title": "Debates & dialogues",
+        "header_size": "h3",
+        "align": "center",
+        "align_mobile": "center",
+        "title_color": "#1E5B46",
+        "typography_typography": "custom",
+        "typography_font_family": "Baloo Bhaijaan 2",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 21,
+         "sizes": []
+        },
+        "typography_font_weight": "700",
+        "typography_font_size_mobile": {
+         "unit": "px",
+         "size": 22,
+         "sizes": []
+        },
+        "typography_line_height": {
+         "unit": "em",
+         "size": 1.3,
+         "sizes": []
+        }
+       },
+       "elements": [],
+       "widgetType": "heading"
+      },
+      {
+       "id": "6d23eae",
+       "elType": "widget",
+       "settings": {
+        "editor": "<p>The prophets' dialogues with their people as told in the Quran, and famous debates.</p>",
+        "text_color": "#5B6478",
+        "align": "center",
+        "typography_typography": "custom",
+        "typography_font_family": "Baloo Bhaijaan 2",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 15,
+         "sizes": []
+        },
+        "typography_font_weight": "400",
+        "typography_font_size_mobile": {
+         "unit": "px",
+         "size": 15,
+         "sizes": []
+        },
+        "typography_line_height": {
+         "unit": "em",
+         "size": 1.75,
+         "sizes": []
+        }
+       },
+       "elements": [],
+       "widgetType": "text-editor"
+      }
+     ],
+     "isInner": false
+    },
+    {
+     "id": "4d26995",
+     "elType": "column",
+     "settings": {
+      "_column_size": 33,
+      "_inline_size": null,
+      "background_background": "classic",
+      "background_color": "#FFFFFF",
+      "border_radius": {
+       "unit": "px",
+       "top": "24",
+       "right": "24",
+       "bottom": "24",
+       "left": "24",
+       "isLinked": true
+      },
+      "padding": {
+       "unit": "px",
+       "top": "18",
+       "right": "18",
+       "bottom": "18",
+       "left": "18",
+       "isLinked": true
+      },
+      "padding_mobile": {
+       "unit": "px",
+       "top": "18",
+       "right": "18",
+       "bottom": "18",
+       "left": "18",
+       "isLinked": true
+      },
+      "border_border": "solid",
+      "border_width": {
+       "unit": "px",
+       "top": "2",
+       "right": "2",
+       "bottom": "2",
+       "left": "2",
+       "isLinked": true
+      },
+      "border_color": "#F0E6CF",
+      "margin": {
+       "unit": "px",
+       "top": "8",
+       "right": "8",
+       "bottom": "8",
+       "left": "8",
+       "isLinked": true
+      },
+      "margin_mobile": {
+       "unit": "px",
+       "top": "6",
+       "right": "6",
+       "bottom": "6",
+       "left": "6",
+       "isLinked": true
+      }
+     },
+     "elements": [
+      {
+       "id": "d945c1f",
+       "elType": "widget",
+       "settings": {
+        "image": {
+         "url": "https://tahahhussain.github.io/farhoon/assets/rafiq/sections/s21-ilm.webp",
+         "id": "",
+         "alt": "",
+         "source": "url"
+        },
+        "image_size": "full",
+        "align": "center",
+        "width": {
+         "unit": "px",
+         "size": 220,
+         "sizes": []
+        },
+        "width_mobile": {
+         "unit": "px",
+         "size": 190,
+         "sizes": []
+        },
+        "image_border_radius": {
+         "unit": "px",
+         "top": "22",
+         "right": "22",
+         "bottom": "22",
+         "left": "22",
+         "isLinked": true
+        }
+       },
+       "elements": [],
+       "widgetType": "image"
+      },
+      {
+       "id": "84220bb",
+       "elType": "widget",
+       "settings": {
+        "title": "Science & Faith",
+        "header_size": "h3",
+        "align": "center",
+        "align_mobile": "center",
+        "title_color": "#1E5B46",
+        "typography_typography": "custom",
+        "typography_font_family": "Baloo Bhaijaan 2",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 21,
+         "sizes": []
+        },
+        "typography_font_weight": "700",
+        "typography_font_size_mobile": {
+         "unit": "px",
+         "size": 22,
+         "sizes": []
+        },
+        "typography_line_height": {
+         "unit": "em",
+         "size": 1.3,
+         "sizes": []
+        }
+       },
+       "elements": [],
+       "widgetType": "heading"
+      },
+      {
+       "id": "c7be8b9",
+       "elType": "widget",
+       "settings": {
+        "editor": "<p>Dr Mostafa Mahmoud's episodes on the wonders of creation.</p>",
+        "text_color": "#5B6478",
+        "align": "center",
+        "typography_typography": "custom",
+        "typography_font_family": "Baloo Bhaijaan 2",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 15,
+         "sizes": []
+        },
+        "typography_font_weight": "400",
+        "typography_font_size_mobile": {
+         "unit": "px",
+         "size": 15,
+         "sizes": []
+        },
+        "typography_line_height": {
+         "unit": "em",
+         "size": 1.75,
+         "sizes": []
+        }
+       },
+       "elements": [],
+       "widgetType": "text-editor"
+      }
+     ],
+     "isInner": false
+    }
+   ],
+   "isInner": false
+  },
+  {
+   "id": "04c2013",
+   "elType": "section",
+   "settings": {
+    "layout": "boxed",
+    "content_width": {
+     "unit": "px",
+     "size": 1140,
+     "sizes": []
+    },
+    "gap": "default",
+    "background_background": "classic",
+    "background_color": "#FFFBF2",
+    "padding": {
+     "unit": "px",
+     "top": "40",
+     "right": "20",
+     "bottom": "72",
+     "left": "20",
+     "isLinked": false
+    },
+    "padding_mobile": {
+     "unit": "px",
+     "top": "36",
+     "right": "12",
+     "bottom": "36",
+     "left": "12",
+     "isLinked": false
+    },
+    "structure": "10",
+    "css_classes": "f-ltr"
+   },
+   "elements": [
+    {
+     "id": "990593b",
+     "elType": "column",
+     "settings": {
+      "_column_size": 100,
+      "_inline_size": null,
+      "background_background": "classic",
+      "background_color": "#FFFFFF",
+      "border_radius": {
+       "unit": "px",
+       "top": "28",
+       "right": "28",
+       "bottom": "28",
+       "left": "28",
+       "isLinked": true
+      },
+      "padding": {
+       "unit": "px",
+       "top": "32",
+       "right": "32",
+       "bottom": "32",
+       "left": "32",
+       "isLinked": true
+      },
+      "padding_mobile": {
+       "unit": "px",
+       "top": "20",
+       "right": "20",
+       "bottom": "20",
+       "left": "20",
+       "isLinked": true
+      },
+      "border_border": "solid",
+      "border_width": {
+       "unit": "px",
+       "top": "2",
+       "right": "2",
+       "bottom": "2",
+       "left": "2",
+       "isLinked": true
+      },
+      "border_color": "#F0E6CF",
+      "margin": {
+       "unit": "px",
+       "top": "8",
+       "right": "8",
+       "bottom": "8",
+       "left": "8",
+       "isLinked": true
+      },
+      "margin_mobile": {
+       "unit": "px",
+       "top": "6",
+       "right": "6",
+       "bottom": "6",
+       "left": "6",
+       "isLinked": true
+      }
+     },
+     "elements": [
+      {
+       "id": "dd2d969",
+       "elType": "widget",
+       "settings": {
+        "title": "Your data stays on your phone",
+        "header_size": "h2",
+        "align": "center",
+        "align_mobile": "center",
+        "title_color": "#1E5B46",
+        "typography_typography": "custom",
+        "typography_font_family": "Baloo Bhaijaan 2",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 30,
+         "sizes": []
+        },
+        "typography_font_weight": "800",
+        "typography_font_size_mobile": {
+         "unit": "px",
+         "size": 22,
+         "sizes": []
+        },
+        "typography_line_height": {
+         "unit": "em",
+         "size": 1.3,
+         "sizes": []
+        }
+       },
+       "elements": [],
+       "widgetType": "heading"
+      },
+      {
+       "id": "f83f287",
+       "elType": "widget",
+       "settings": {
+        "editor": "<p>No account, no ads. Your deeds record, zakat numbers and settings stay on your phone; we never receive them.</p>",
+        "text_color": "#5B6478",
+        "align": "center",
+        "typography_typography": "custom",
+        "typography_font_family": "Baloo Bhaijaan 2",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 18,
+         "sizes": []
+        },
+        "typography_font_weight": "400",
+        "typography_font_size_mobile": {
+         "unit": "px",
+         "size": 16,
+         "sizes": []
+        },
+        "typography_line_height": {
+         "unit": "em",
+         "size": 1.75,
+         "sizes": []
+        }
+       },
+       "elements": [],
+       "widgetType": "text-editor"
+      },
+      {
+       "id": "ed517d1",
+       "elType": "widget",
+       "settings": {
+        "text": "Read the privacy policy",
+        "link": {
+         "url": "/en/rafiq/privacy/",
+         "is_external": "",
+         "nofollow": "",
+         "custom_attributes": ""
+        },
+        "align": "center",
+        "align_mobile": "center",
+        "background_color": "#1E5B46",
+        "button_text_color": "#FFFFFF",
+        "hover_color": "#FFFFFF",
+        "button_background_hover_color": "#1E5B46",
+        "border_radius": {
+         "unit": "px",
+         "top": "16",
+         "right": "16",
+         "bottom": "16",
+         "left": "16",
+         "isLinked": true
+        },
+        "text_padding": {
+         "unit": "px",
+         "top": "14",
+         "right": "28",
+         "bottom": "14",
+         "left": "28",
+         "isLinked": false
+        },
+        "typography_typography": "custom",
+        "typography_font_family": "Baloo Bhaijaan 2",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 18,
+         "sizes": []
+        },
+        "typography_font_weight": "700"
+       },
+       "elements": [],
+       "widgetType": "button"
+      }
+     ],
+     "isInner": false
+    }
+   ],
+   "isInner": false
+  },
+  {
+   "id": "a7e8f9e",
+   "elType": "section",
+   "settings": {
+    "layout": "boxed",
+    "content_width": {
+     "unit": "px",
+     "size": 1140,
+     "sizes": []
+    },
+    "gap": "default",
+    "background_background": "classic",
+    "background_color": "#FFC531",
+    "padding": {
+     "unit": "px",
+     "top": "56",
+     "right": "20",
+     "bottom": "56",
+     "left": "20",
+     "isLinked": false
+    },
+    "padding_mobile": {
+     "unit": "px",
+     "top": "36",
+     "right": "12",
+     "bottom": "36",
+     "left": "12",
+     "isLinked": false
+    },
+    "structure": "20",
+    "css_classes": "f-ltr",
+    "content_position": "middle"
+   },
+   "elements": [
+    {
+     "id": "9ecb6e3",
+     "elType": "column",
+     "settings": {
+      "_column_size": 20,
+      "_inline_size": null
+     },
+     "elements": [
+      {
+       "id": "26f3dda",
+       "elType": "widget",
+       "settings": {
+        "image": {
+         "url": "https://tahahhussain.github.io/farhoon/assets/wp/mark.png",
+         "id": "",
+         "alt": "",
+         "source": "url"
+        },
+        "image_size": "full",
+        "align": "center",
+        "width": {
+         "unit": "px",
+         "size": 110,
+         "sizes": []
+        }
+       },
+       "elements": [],
+       "widgetType": "image"
+      }
+     ],
+     "isInner": false
+    },
+    {
+     "id": "fd5158d",
+     "elType": "column",
+     "settings": {
+      "_column_size": 80,
+      "_inline_size": null
+     },
+     "elements": [
+      {
+       "id": "6d30764",
+       "elType": "widget",
+       "settings": {
+        "title": "Get in touch",
+        "header_size": "h2",
+        "align": "left",
+        "align_mobile": "left",
+        "title_color": "#1B1446",
+        "typography_typography": "custom",
+        "typography_font_family": "Baloo Bhaijaan 2",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 38,
+         "sizes": []
+        },
+        "typography_font_weight": "800",
+        "typography_font_size_mobile": {
+         "unit": "px",
+         "size": 26,
+         "sizes": []
+        },
+        "typography_line_height": {
+         "unit": "em",
+         "size": 1.3,
+         "sizes": []
+        }
+       },
+       "elements": [],
+       "widgetType": "heading"
+      },
+      {
+       "id": "29d5c0a",
+       "elType": "widget",
+       "settings": {
+        "editor": "<p>For a suggestion, a note on one of our apps, or a correction, write to us. We are happy to reply.</p>",
+        "text_color": "#24324A",
+        "align": "left",
+        "typography_typography": "custom",
+        "typography_font_family": "Baloo Bhaijaan 2",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 18,
+         "sizes": []
+        },
+        "typography_font_weight": "400",
+        "typography_font_size_mobile": {
+         "unit": "px",
+         "size": 16,
+         "sizes": []
+        },
+        "typography_line_height": {
+         "unit": "em",
+         "size": 1.75,
+         "sizes": []
+        }
+       },
+       "elements": [],
+       "widgetType": "text-editor"
+      },
+      {
+       "id": "9b8c5c2",
+       "elType": "widget",
+       "settings": {
+        "text": "hello@farhoon.com",
+        "link": {
+         "url": "mailto:hello@farhoon.com",
+         "is_external": "",
+         "nofollow": "",
+         "custom_attributes": ""
+        },
+        "align": "left",
+        "align_mobile": "center",
+        "background_color": "#1B1446",
+        "button_text_color": "#FFFFFF",
+        "hover_color": "#FFFFFF",
+        "button_background_hover_color": "#1B1446",
+        "border_radius": {
+         "unit": "px",
+         "top": "16",
+         "right": "16",
+         "bottom": "16",
+         "left": "16",
+         "isLinked": true
+        },
+        "text_padding": {
+         "unit": "px",
+         "top": "14",
+         "right": "28",
+         "bottom": "14",
+         "left": "28",
+         "isLinked": false
+        },
+        "typography_typography": "custom",
+        "typography_font_family": "Baloo Bhaijaan 2",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 18,
+         "sizes": []
+        },
+        "typography_font_weight": "700"
+       },
+       "elements": [],
+       "widgetType": "button"
+      }
+     ],
+     "isInner": false
+    }
+   ],
+   "isInner": false
+  },
+  {
+   "id": "9c0a191",
+   "elType": "section",
+   "settings": {
+    "layout": "boxed",
+    "content_width": {
+     "unit": "px",
+     "size": 1140,
+     "sizes": []
+    },
+    "gap": "default",
+    "background_background": "classic",
+    "background_color": "#1B1446",
+    "padding": {
+     "unit": "px",
+     "top": "28",
+     "right": "20",
+     "bottom": "28",
+     "left": "20",
+     "isLinked": false
+    },
+    "padding_mobile": {
+     "unit": "px",
+     "top": "36",
+     "right": "12",
+     "bottom": "36",
+     "left": "12",
+     "isLinked": false
+    },
+    "structure": "30",
+    "css_classes": "f-footer f-ltr",
+    "content_position": "middle"
+   },
+   "elements": [
+    {
+     "id": "3c1984d",
+     "elType": "column",
+     "settings": {
+      "_column_size": 25,
+      "_inline_size": null
+     },
+     "elements": [
+      {
+       "id": "bb980db",
+       "elType": "widget",
+       "settings": {
+        "image": {
+         "url": "https://tahahhussain.github.io/farhoon/assets/wp/logo-dark.png",
+         "id": "",
+         "alt": "",
+         "source": "url"
+        },
+        "image_size": "full",
+        "align": "left",
+        "width": {
+         "unit": "px",
+         "size": 100,
+         "sizes": []
+        },
+        "link_to": "custom",
+        "link": {
+         "url": "/en/",
+         "is_external": "",
+         "nofollow": "",
+         "custom_attributes": ""
+        }
+       },
+       "elements": [],
+       "widgetType": "image"
+      }
+     ],
+     "isInner": false
+    },
+    {
+     "id": "e1c8382",
+     "elType": "column",
+     "settings": {
+      "_column_size": 50,
+      "_inline_size": null
+     },
+     "elements": [
+      {
+       "id": "a51789f",
+       "elType": "widget",
+       "settings": {
+        "editor": "<p class=\"f-foot-links\" style=\"margin:0\"><a href=\"/en/\">Home</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href=\"/en/about/\">About</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href=\"/en/rafiq/\">Rafiq Al-Taa</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href=\"/en/games/\">Games</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href=\"/en/contact/\">Contact</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href=\"/en/rafiq/privacy/\">Privacy policy</a></p>",
+        "text_color": "#FFFFFF",
+        "align": "center",
+        "typography_typography": "custom",
+        "typography_font_family": "Baloo Bhaijaan 2",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 15,
+         "sizes": []
+        },
+        "typography_font_weight": "400",
+        "typography_font_size_mobile": {
+         "unit": "px",
+         "size": 15,
+         "sizes": []
+        },
+        "typography_line_height": {
+         "unit": "em",
+         "size": 1.75,
+         "sizes": []
+        }
+       },
+       "elements": [],
+       "widgetType": "text-editor"
+      }
+     ],
+     "isInner": false
+    },
+    {
+     "id": "e040945",
+     "elType": "column",
+     "settings": {
+      "_column_size": 25,
+      "_inline_size": null
+     },
+     "elements": [
+      {
+       "id": "8ef3914",
+       "elType": "widget",
+       "settings": {
+        "editor": "<p style=\"margin:0\">© 2026 Farhoon<br><a href=\"mailto:hello@farhoon.com\" style=\"color:#FFC531\">hello@farhoon.com</a></p>",
+        "text_color": "#C9C5E0",
+        "align": "right",
+        "typography_typography": "custom",
+        "typography_font_family": "Baloo Bhaijaan 2",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 15,
+         "sizes": []
+        },
+        "typography_font_weight": "400",
+        "typography_font_size_mobile": {
+         "unit": "px",
+         "size": 15,
+         "sizes": []
+        },
+        "typography_line_height": {
+         "unit": "em",
+         "size": 1.75,
+         "sizes": []
+        }
+       },
+       "elements": [],
+       "widgetType": "text-editor"
+      }
+     ],
+     "isInner": false
+    }
+   ],
+   "isInner": false
+  }
+ ],
+ "page_settings": {
+  "template": "elementor_canvas",
+  "background_background": "classic",
+  "background_color": "#FFFBF2"
+ }
+}

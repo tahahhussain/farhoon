@@ -1,18 +1,29 @@
 <?php
-// Imports the Farhoon Elementor templates and builds the pages. Run with: wp eval-file <this file> --user=<admin>
+// Imports the Farhoon Elementor templates (Arabic and English), builds the pages and the site CSS.
+// Run with: wp eval-file <this file> --user=<admin>. Safe to run again: pages are updated, not duplicated.
 if (!defined('ABSPATH') || !class_exists('\Elementor\Plugin')) { exit("needs WordPress with Elementor\n"); }
 $base = 'https://tahahhussain.github.io/farhoon/wp/';
-$pages = [
-  ['farhoon-1-home', 'الرئيسية', 'home', ''],
-  ['farhoon-2-about', 'من نحن', 'about', ''],
-  ['farhoon-3-rafiq', 'رفيق الطاعة', 'rafiq', ''],
-  ['farhoon-4-games', 'ألعابنا', 'games', ''],
-  ['farhoon-5-contact', 'تواصل معنا', 'contact', ''],
-  ['farhoon-6-rafiq-privacy', 'سياسة الخصوصية', 'privacy', 'rafiq'],
+$pages = [ // file, title, path
+  ['farhoon-ar-1-home', 'الرئيسية', 'home'],
+  ['farhoon-ar-2-about', 'من نحن', 'about'],
+  ['farhoon-ar-3-rafiq', 'رفيق الطاعة', 'rafiq'],
+  ['farhoon-ar-4-games', 'ألعابنا', 'games'],
+  ['farhoon-ar-5-contact', 'تواصل معنا', 'contact'],
+  ['farhoon-ar-6-rafiq-privacy', 'سياسة الخصوصية', 'rafiq/privacy'],
+  ['farhoon-en-1-home', 'Farhoon', 'en'],
+  ['farhoon-en-2-about', 'About', 'en/about'],
+  ['farhoon-en-3-rafiq', 'Rafiq Al-Taa', 'en/rafiq'],
+  ['farhoon-en-4-games', 'Games', 'en/games'],
+  ['farhoon-en-5-contact', 'Contact', 'en/contact'],
+  ['farhoon-en-6-rafiq-privacy', 'Privacy policy', 'en/rafiq/privacy'],
 ];
+// Older copies of these templates in the library are replaced by the new ones.
+foreach (get_posts(['post_type' => 'elementor_library', 'numberposts' => -1, 'post_status' => 'any']) as $old) {
+  if (preg_match('/^(فرحون|رفيق الطاعة|Farhoon|Rafiq Al-Taa) - /u', $old->post_title)) wp_delete_post($old->ID, true);
+}
 $source = \Elementor\Plugin::$instance->templates_manager->get_source('local');
 $ids = [];
-foreach ($pages as [$file, $title, $slug, $parent]) {
+foreach ($pages as [$file, $title, $path]) {
   $res = wp_remote_get($base . $file . '.json', ['timeout' => 60]);
   if (is_wp_error($res) || wp_remote_retrieve_response_code($res) !== 200) { echo "FAILED download $file\n"; continue; }
   $tmp = wp_tempnam($file . '.json');
@@ -21,26 +32,27 @@ foreach ($pages as [$file, $title, $slug, $parent]) {
   @unlink($tmp);
   if (is_wp_error($items) || empty($items[0]['template_id'])) { echo "FAILED import $file\n"; continue; }
   $tpl = $items[0]['template_id'];
-  $parent_id = $parent ? ($ids[$parent] ?? 0) : 0;
-  $existing = get_page_by_path($parent ? "$parent/$slug" : $slug, OBJECT, 'page');
+  $slug = basename($path);
+  $parent_path = dirname($path) === '.' ? '' : dirname($path);
+  $parent_id = $parent_path ? ($ids[$parent_path] ?? (get_page_by_path($parent_path)->ID ?? 0)) : 0;
+  $existing = get_page_by_path($path, OBJECT, 'page');
   $id = $existing ? $existing->ID : wp_insert_post(['post_title' => $title, 'post_name' => $slug, 'post_status' => 'publish', 'post_type' => 'page', 'post_parent' => $parent_id]);
+  if ($existing) wp_update_post(['ID' => $id, 'post_title' => $title]);
   foreach (['_elementor_data', '_elementor_page_settings', '_elementor_version'] as $k) {
     update_post_meta($id, $k, wp_slash(get_post_meta($tpl, $k, true)));
   }
   update_post_meta($id, '_elementor_edit_mode', 'builder');
   update_post_meta($id, '_wp_page_template', 'elementor_canvas');
-  $ids[$slug] = $id;
-  echo "OK $slug page=$id template=$tpl " . get_permalink($id) . "\n";
+  $ids[$path] = $id;
+  echo "OK $path page=$id " . get_permalink($id) . "\n";
 }
 if (!empty($ids['home'])) { update_option('show_on_front', 'page'); update_option('page_on_front', $ids['home']); }
-// The WordPress sample post and page go to the trash.
-foreach (get_posts(['post_type' => 'post', 'name' => 'hello-world', 'post_status' => 'any']) as $p) wp_trash_post($p->ID);
-$sample = get_page_by_path('sample-page'); if ($sample) wp_trash_post($sample->ID);
+// Site-wide CSS (sticky header, menu, English pages) goes in Appearance > Customize > Additional CSS.
+$css = wp_remote_retrieve_body(wp_remote_get($base . 'farhoon-site.css', ['timeout' => 60]));
+if ($css) { wp_update_custom_css_post($css, ['stylesheet' => get_stylesheet()]); echo "css saved\n"; }
 // The app links to /rafiq/privacy.html; send it to the WordPress page.
 $ht = ABSPATH . '.htaccess';
-$rule = "Redirect 301 /rafiq/privacy.html " . home_url('/rafiq/privacy/') . "\n";
 $cur = file_exists($ht) ? file_get_contents($ht) : '';
-if (strpos($cur, '/rafiq/privacy.html') === false) { file_put_contents($ht, "# Farhoon: app privacy link\n" . $rule . $cur); echo "redirect added\n"; }
+if (strpos($cur, '/rafiq/privacy.html') === false) { file_put_contents($ht, "# Farhoon: app privacy link\nRedirect 301 /rafiq/privacy.html " . home_url('/rafiq/privacy/') . "\n" . $cur); echo "redirect added\n"; }
 \Elementor\Plugin::$instance->files_manager->clear_cache();
-flush_rewrite_rules();
 echo "DONE\n";

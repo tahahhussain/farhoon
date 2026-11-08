@@ -1,0 +1,32 @@
+/* Farhoon site: sticky header, menu, English pages */
+.f-header{position:sticky;top:0;z-index:999;box-shadow:0 6px 20px rgba(27,20,70,.25)}
+.admin-bar .f-header{top:32px}
+@media(max-width:782px){.admin-bar .f-header{top:46px}}
+.f-header .elementor-column,.f-header .elementor-widget-wrap,.f-header .elementor-widget,.f-header .elementor-widget-container{position:static}
+.f-nav ul{display:flex;align-items:center;justify-content:flex-end;flex-wrap:wrap;gap:6px;list-style:none;margin:0;padding:0}
+.f-nav a{display:block;padding:9px 16px;border-radius:12px;color:#fff;font-family:'Baloo Bhaijaan 2',sans-serif;font-weight:600;font-size:17px;line-height:1.3;text-decoration:none;transition:background .15s,color .15s}
+.f-nav a:hover{background:rgba(255,255,255,.12);color:#FFC531}
+.f-nav a.on{background:#FFC531;color:#1B1446}
+.f-nav a.f-lang{border:2px solid rgba(255,255,255,.4);padding:7px 14px}
+.f-toggle{position:absolute;opacity:0;pointer-events:none}
+.f-burger{display:none;cursor:pointer;width:46px;height:46px;border-radius:12px;background:rgba(255,255,255,.1);margin-inline-start:auto;padding:13px 11px;box-sizing:border-box}
+.f-burger span{display:block;height:3px;border-radius:3px;background:#fff;margin-bottom:5px}
+.f-burger span:last-child{margin-bottom:0}
+@media(max-width:960px){
+ .f-burger{display:block}
+ .f-nav ul{display:none;position:absolute;top:100%;left:0;right:0;flex-direction:column;align-items:stretch;gap:4px;padding:12px 16px 18px;background:#1B1446;box-shadow:0 12px 24px rgba(27,20,70,.3)}
+ .f-toggle:checked ~ ul{display:flex}
+ .f-nav a{font-size:18px;padding:12px 16px}
+}
+.f-ltr{direction:ltr}
+.f-ltr .elementor-icon-box-wrapper{text-align:left}
+.f-ltr ul{padding-left:1.4em;padding-right:0}
+.f-footer a{color:#fff;text-decoration:none}
+.f-footer a:hover{color:#FFC531}
+.f-badge{display:inline-block;margin-top:10px;padding:2px 12px;border-radius:99px;background:#FFD6A5;color:#8A4B00;font-weight:700;font-size:13px}
+.f-chip{display:inline-block;margin:4px;padding:2px 14px;border-radius:99px;color:#1E5B46;font-weight:600;font-size:15px}
+.f-kicker{display:inline-block;padding:4px 16px;border-radius:99px;background:rgba(255,197,49,.15);color:#FFC531;font-weight:600}
+.f-kicker-dark{background:#FFF0C2;color:#8A5A00}
+.f-soon{display:inline-block;padding:8px 20px;border-radius:14px;background:#1B1446;color:#fff;font-weight:700}
+.f-anchor-kids{scroll-margin-top:90px}
+html{scroll-behavior:smooth}
