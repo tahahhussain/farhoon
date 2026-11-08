@@ -1,0 +1,145 @@
+{
+  "number": 1,
+  "slug": "zakat-al-mal-calculation",
+  "category": "Zakat",
+  "title": "How to Calculate Zakat Step by Step, With a Worked Example",
+  "meta_title": "How to Calculate Zakat: Step-by-Step Guide | Farhoon",
+  "meta_description": "Learn how to calculate zakat step by step: which assets count, how to find the nisab in your currency, when to deduct debts, plus a worked example.",
+  "focus_keyword": "how to calculate zakat",
+  "keywords": [
+    {
+      "keyword": "how to calculate zakat",
+      "type": "primary",
+      "est_monthly_searches": "5,000–15,000 (estimated)",
+      "intent": "informational",
+      "kgr_note": "Medium to high difficulty; major charities (Islamic Relief, NZF) and calculators rank, KGR well above 1 (estimated). Our edge: worked example plus asset table"
+    },
+    {
+      "keyword": "zakat calculation",
+      "type": "secondary",
+      "est_monthly_searches": "3,000–10,000 (estimated)",
+      "intent": "informational",
+      "kgr_note": "High; dominated by calculator tools (estimated)"
+    },
+    {
+      "keyword": "zakat calculator",
+      "type": "secondary",
+      "est_monthly_searches": "20,000–60,000, peaking in Ramadan (estimated)",
+      "intent": "commercial",
+      "kgr_note": "Very high; charity tools dominate, target indirectly via app mention (estimated)"
+    },
+    {
+      "keyword": "how much zakat do i pay on savings",
+      "type": "long-tail",
+      "est_monthly_searches": "500–1,500 (estimated)",
+      "intent": "informational",
+      "kgr_note": "Easy to medium; few exact-title pages, KGR possibly under 0.25 (estimated)"
+    },
+    {
+      "keyword": "can you deduct debt from zakat",
+      "type": "question",
+      "est_monthly_searches": "300–1,000 (estimated)",
+      "intent": "informational",
+      "kgr_note": "Easy to medium; answered piecemeal in fatwa pages, KGR ~0.2–0.4 (estimated)"
+    },
+    {
+      "keyword": "when is zakat due",
+      "type": "question",
+      "est_monthly_searches": "1,000–3,000 (estimated)",
+      "intent": "informational",
+      "kgr_note": "Medium (estimated)"
+    },
+    {
+      "keyword": "zakat nisab",
+      "type": "LSI",
+      "est_monthly_searches": "5,000–15,000 (estimated)",
+      "intent": "informational",
+      "kgr_note": "Supporting term for topical relevance"
+    },
+    {
+      "keyword": "zakatable assets",
+      "type": "LSI",
+      "est_monthly_searches": "500–1,500 (estimated)",
+      "intent": "informational",
+      "kgr_note": "Supporting term, moderate competition (estimated)"
+    }
+  ],
+  "keyword_variations": [
+    "how to calculate zakah",
+    "how to calculate zakaat",
+    "zakat calculation formula",
+    "how to work out zakat",
+    "calculate zakat on savings",
+    "zakat al mal calculation",
+    "zakat on money",
+    "2.5 percent zakat",
+    "zakat 2.5% calculation",
+    "how much is zakat",
+    "zakat ul maal",
+    "zakat al-mal"
+  ],
+  "featured_snippet": {
+    "target_query": "how do I calculate zakat",
+    "type": "list",
+    "html": "<ol>\n<li>Fix your zakat date: the Hijri date your wealth first reached the nisab. It repeats every lunar year.</li>\n<li>On that date, add up cash, bank balances, and gold and silver held as savings.</li>\n<li>Add the market value of business stock and money owed to you that you expect to recover.</li>\n<li>Subtract debts you owe that are due now.</li>\n<li>Compare the total with the nisab: the value of 85 g of 24k gold at today's price.</li>\n<li>If the total reaches the nisab, pay 2.5% of it (divide by 40). That is your zakat.</li>\n</ol>"
+  },
+  "excerpt": "A practical guide to calculating zakat: which assets count, how to find the nisab in your currency, when to deduct debts, plus a full worked example and common mistakes.",
+  "reading_minutes": 11,
+  "featured_image": {
+    "headline": "Calculate your zakat, step by step",
+    "alt": "How to calculate zakat step by step with a table of zakatable assets and a worked example"
+  },
+  "content_html": "<p>Every year many Muslims ask the same question: <strong>how to calculate zakat</strong> correctly, without paying too little or worrying that they have missed something. Which assets count? When does the zakat year start? How do you turn the nisab into dollars, pounds or any other currency? This guide walks you through it step by step, with a full worked example and a table of zakatable assets, following the view of the majority of scholars and noting the main differences of opinion.</p>\n\n<h2>How do I calculate zakat step by step?</h2>\n<div class=\"f-snippet\"><ol>\n<li>Fix your zakat date: the Hijri date your wealth first reached the nisab. It repeats every lunar year.</li>\n<li>On that date, add up cash, bank balances, and gold and silver held as savings.</li>\n<li>Add the market value of business stock and money owed to you that you expect to recover.</li>\n<li>Subtract debts you owe that are due now.</li>\n<li>Compare the total with the nisab: the value of 85 g of 24k gold at today's price.</li>\n<li>If the total reaches the nisab, pay 2.5% of it (divide by 40). That is your zakat.</li>\n</ol></div>\n<p>That is the short version. Below we explain each step, the evidence behind it, and the mistakes people commonly make.</p>\n\n<h2>What is zakat and why was it made obligatory?</h2>\n<p>Linguistically, zakat means growth and purification. In Islamic law it is a set portion of specific types of wealth, paid to specific recipients, at a specific time. It is the third pillar of Islam. The Prophet ﷺ said: \"Islam is built on five: testifying that there is no god but Allah and that Muhammad is the Messenger of Allah, establishing prayer, giving zakat, Hajj, and fasting Ramadan.\" (Sahih al-Bukhari 8; Sahih Muslim 16)</p>\n<p>The Quran pairs zakat with prayer again and again, and describes what it does for the giver:</p>\n<blockquote><p>﴿خُذْ مِنْ أَمْوَالِهِمْ صَدَقَةً تُطَهِّرُهُمْ وَتُزَكِّيهِم بِهَا وَصَلِّ عَلَيْهِمْ ۖ إِنَّ صَلَاتَكَ سَكَنٌ لَّهُمْ ۗ وَاللَّهُ سَمِيعٌ عَلِيمٌ﴾</p><p>\"Take, [O, Muhammad], from their wealth a charity by which you purify them and cause them increase, and invoke [Allah's blessings] upon them. Indeed, your invocations are reassurance for them. And Allah is Hearing and Knowing.\" (Surah At-Tawbah 9:103, translation: Sahih International)</p></blockquote>\n<p>Zakat is not a tax paid grudgingly. It is an act of worship that cleans the heart of greed, purifies wealth, meets the needs of the poor and strengthens the community. The Prophet ﷺ reassured those who give: \"Charity does not decrease wealth.\" (Sahih Muslim 2588)</p>\n\n<h2>Who has to pay zakat? The conditions</h2>\n<p>Not everything you own is subject to zakat. Scholars agree on these basic conditions:</p>\n<ul>\n<li><strong>Being Muslim:</strong> zakat is an act of worship required of Muslims.</li>\n<li><strong>Full ownership:</strong> the wealth must be yours and under your control. Money held in trust for someone else is not your zakatable wealth.</li>\n<li><strong>Reaching the nisab:</strong> the minimum threshold, explained below.</li>\n<li><strong>One lunar year (hawl):</strong> the wealth must stay at or above the nisab for a full Hijri year. Crops, fruits and buried treasure (rikaz) are exceptions; their zakat is due at harvest or when found.</li>\n<li><strong>Beyond basic needs:</strong> there is no zakat on the home you live in, the car you drive, your furniture, clothes or work tools.</li>\n</ul>\n<p>The nisab and the one-year condition are mentioned in the hadith of Ali ibn Abi Talib, in which the Prophet ﷺ said:</p>\n<blockquote>\"If you have two hundred dirhams and a year has passed on them, five dirhams are due on them. And nothing is due on you, meaning in gold, until you have twenty dinars. If you have twenty dinars and a year has passed on them, half a dinar is due.\" (Sunan Abi Dawud 1573)</blockquote>\n<p>Two hundred dirhams are estimated today at about 595 g of pure silver, and twenty dinars at about 85 g of pure gold. Five out of two hundred is 2.5%, the rate for cash, gold, silver and trade goods.</p>\n\n<h2>Which assets count when calculating zakat?</h2>\n<p>People often get stuck here. Do I include my car? What about shares? My pension? This table summarises the common cases according to the majority of scholars:</p>\n<table>\n<thead>\n<tr><th>Asset</th><th>Included?</th><th>Note</th></tr>\n</thead>\n<tbody>\n<tr><td>Cash at home, current and savings accounts</td><td>Yes</td><td>Use the balance on your zakat date.</td></tr>\n<tr><td>Fixed deposits</td><td>Yes (the principal)</td><td>Interest (riba) is not zakatable; it should be disposed of to charity without the intention of reward.</td></tr>\n<tr><td>Gold and silver held as savings (bars, coins)</td><td>Yes, by consensus</td><td>Count the pure weight at today's price.</td></tr>\n<tr><td>Women's jewellery worn regularly</td><td>Difference of opinion</td><td>Majority: no zakat. Hanafis: zakat is due. See our gold nisab guide.</td></tr>\n<tr><td>Business stock (goods for sale)</td><td>Yes</td><td>Valued at current market selling price.</td></tr>\n<tr><td>Shares bought to trade</td><td>Yes</td><td>At market value.</td></tr>\n<tr><td>Shares held long term</td><td>Detailed</td><td>Many contemporary scholars assess the zakatable assets of the company behind each share. Ask a scholar.</td></tr>\n<tr><td>Money owed to you by a solvent person</td><td>Yes</td><td>Added to your wealth according to the majority.</td></tr>\n<tr><td>Bad or doubtful debts</td><td>Not until recovered</td><td>Some scholars say pay one year's zakat when received.</td></tr>\n<tr><td>Your home, personal car, furniture</td><td>No</td><td>Personal-use items.</td></tr>\n<tr><td>Rental property</td><td>Only the rent</td><td>Saved rental income is added to your cash; the property value itself is not zakatable.</td></tr>\n<tr><td>Land bought to sell for profit</td><td>Yes</td><td>Treated as trade goods, at market value.</td></tr>\n</tbody>\n</table>\n<p>The rule of thumb: what you hold for growth, saving or sale is zakatable; what you hold for personal use is not. Pensions and retirement accounts have their own details depending on whether you can access the money, so ask a qualified scholar about your specific plan.</p>\n\n<!--CTA:rafiq-->\n\n<h2>How do I find the nisab in my currency?</h2>\n<p>The nisab is not a fixed amount of dollars or pounds. It is tied to a weight of gold or silver, and their prices change every day. So do not rely on a figure from an old article. Work it out on your zakat date:</p>\n<ol>\n<li>Check today's price of one gram of 24k gold in your country from a reliable source.</li>\n<li>Multiply it by 85. That is the gold nisab in your currency.</li>\n<li>If you follow the silver nisab, multiply the price of one gram of pure silver by 595.</li>\n</ol>\n<h3>Gold or silver: which nisab for cash?</h3>\n<p>Paper money is neither gold nor silver, so contemporary scholars have two well-known positions:</p>\n<ul>\n<li><strong>The gold standard:</strong> adopted by many contemporary councils and fatwa bodies, because gold has held its value more steadily. Egypt's Dar al-Ifta, for example, uses 85 g of gold, and for ease takes 21k gold as the reference.</li>\n<li><strong>The silver standard:</strong> preferred by some senior scholars such as Shaykh Ibn Baz, because it is more beneficial to the poor and more cautious, since more people reach it.</li>\n</ul>\n<p>In practice the gap is large, because the silver nisab is much lower today. If your savings exceed the silver nisab but not the gold nisab, paying zakat is the more cautious choice, and you can ask the fatwa authority you follow.</p>\n<p>Our guide to the <a href=\"/en/blog/gold-zakat-nisab/\">gold nisab in grams for every karat</a> has a table converting 22k, 21k and 18k gold into the 85 g pure equivalent.</p>\n\n<h2>When does the zakat year start, and what if my balance changes?</h2>\n<p>Your zakat year starts on the day your wealth first reaches the nisab, and it is counted in lunar (Hijri) years, because Islamic rulings follow the lunar calendar. If your savings first reached the nisab on 10 Rajab, your zakat date is 10 Rajab every year.</p>\n<h3>If your wealth drops below the nisab during the year</h3>\n<p>According to the majority, if your wealth falls below the nisab during the year and then rises again, the year restarts from the day it reaches the nisab again. The Hanafis look only at the start and end of the year: if you had the nisab at both ends, a dip in between does not matter.</p>\n<h3>Money that comes in during the year</h3>\n<p>Strictly, each part of your monthly salary that you save has its own year, which is hard to track. Many scholars therefore recommend a simpler method: choose one date a year and pay zakat on everything you have on that day. Whatever has completed a year has been paid on time, and whatever has not has been paid early, which the majority of jurists permit. It is easier and protects you from forgetting.</p>\n<h3>If you use the Gregorian calendar</h3>\n<p>The solar year is about eleven days longer than the lunar year. If you must tie your zakat to a Gregorian date, some contemporary zakat bodies suggest a rate of about 2.577% to make up for the extra days. Using the Hijri date is better.</p>\n\n<h2>Can I deduct my debts before paying zakat?</h2>\n<p>Classical jurists differed on this:</p>\n<ul>\n<li>The Hanafis, and the Hanbalis in their well-known view, hold that debt reduces zakatable wealth by its amount.</li>\n<li>The Shafi'is, in their later view, hold that debt does not prevent zakat.</li>\n<li>The Malikis distinguish: debt reduces zakat on cash but not on crops or livestock.</li>\n</ul>\n<p>A balanced approach followed by many contemporary scholars is to deduct debts that are <strong>due now</strong>, such as this month's or this year's instalments, not the entire balance of long-term loans. Someone with a 25-year mortgage does not deduct the whole mortgage and wipe out their zakat; they deduct the instalment currently due, according to the fatwa they follow. This is an area where asking a scholar about your own situation is wise.</p>\n\n<h2>A full worked example</h2>\n<p>For illustration only, and not a real price, suppose one gram of 24k gold costs 100 units of your currency. The nisab is then 85 × 100 = 8,500 units. On their zakat date, a person has:</p>\n<table>\n<thead>\n<tr><th>Item</th><th>Amount</th><th>Action</th></tr>\n</thead>\n<tbody>\n<tr><td>Bank balance</td><td>12,000</td><td>Add</td></tr>\n<tr><td>Cash at home</td><td>1,000</td><td>Add</td></tr>\n<tr><td>Shop stock at selling price</td><td>6,000</td><td>Add</td></tr>\n<tr><td>Loan to a friend who will repay</td><td>2,000</td><td>Add</td></tr>\n<tr><td>Instalment due this month</td><td>2,000</td><td>Subtract</td></tr>\n<tr><td>Personal car and furniture</td><td>—</td><td>Not included</td></tr>\n<tr><td><strong>Net zakatable wealth</strong></td><td><strong>19,000</strong></td><td>Above the 8,500 nisab</td></tr>\n</tbody>\n</table>\n<p>Since the net total reaches the nisab, zakat is 19,000 × 2.5% = <strong>475 units</strong>. You get the same result by dividing by 40. Note that zakat is due on the whole amount, not just the part above the nisab.</p>\n<h3>Common mistakes</h3>\n<ol>\n<li><strong>Paying only on the amount above the nisab.</strong> Zakat is on the full amount once it reaches the nisab.</li>\n<li><strong>Using an outdated nisab figure.</strong> It changes with the gold price; calculate it on your zakat date.</li>\n<li><strong>Forgetting savings gold or digital wallets.</strong> All of it is added to your cash.</li>\n<li><strong>Valuing stock at purchase price.</strong> The majority use the current market selling price.</li>\n<li><strong>Paying zakat on your home or personal car.</strong> They are for use, not trade.</li>\n<li><strong>Delaying without excuse.</strong> According to the majority, zakat must be paid promptly once due.</li>\n<li><strong>Giving it to those you must support anyway,</strong> such as your parents, children or spouse.</li>\n</ol>\n\n<h2>Who can receive zakat?</h2>\n<p>Allah Himself specified the recipients of zakat:</p>\n<blockquote><p>﴿إِنَّمَا الصَّدَقَاتُ لِلْفُقَرَاءِ وَالْمَسَاكِينِ وَالْعَامِلِينَ عَلَيْهَا وَالْمُؤَلَّفَةِ قُلُوبُهُمْ وَفِي الرِّقَابِ وَالْغَارِمِينَ وَفِي سَبِيلِ اللَّهِ وَابْنِ السَّبِيلِ ۖ فَرِيضَةً مِّنَ اللَّهِ ۗ وَاللَّهُ عَلِيمٌ حَكِيمٌ﴾</p><p>\"Zakah expenditures are only for the poor and for the needy and for those employed to collect [zakah] and for bringing hearts together [for Islam] and for freeing captives [or slaves] and for those in debt and for the cause of Allah and for the [stranded] traveler - an obligation [imposed] by Allah. And Allah is Knowing and Wise.\" (Surah At-Tawbah 9:60, translation: Sahih International)</p></blockquote>\n<p>Your needy relatives whom you are not obliged to support, such as brothers, sisters, uncles and aunts, are among the best recipients, because it is both charity and maintaining family ties. You may give your zakat to one family or spread it among several, directly or through a trustworthy, registered charity. You do not need to tell the recipient it is zakat if you know they are eligible.</p>\n<p>Zakat al-mal is different from zakat al-fitr in amount, timing and purpose. We explain the latter in <a href=\"/en/blog/zakat-al-fitr/\">zakat al-fitr: amount and timing</a>.</p>\n\n<h2>How to stay organised every year</h2>\n<p>Most people who miss zakat do not do it out of stinginess but out of forgetfulness. A few habits help:</p>\n<ul>\n<li>Write down your Hijri zakat date somewhere permanent and set a reminder a week before.</li>\n<li>Keep a simple sheet of your balances, gold and debts, and update it on your zakat date.</li>\n<li>Check the gold price on the day you calculate.</li>\n<li>Prepare a list of eligible relatives and neighbours before the date so you do not delay.</li>\n<li>For complex cases such as shares, partnerships, pensions or complicated debts, ask your local fatwa authority before your zakat date.</li>\n</ul>\n<p>In <strong>Rafiq Al-Taa</strong>, the Islamic app we are building at Farhoon, we designed a zakat calculator that adds cash, gold in different karats, silver and business stock, subtracts debts, and compares the result with the 85 g gold or 595 g silver nisab in your currency, with a yearly reminder for your zakat date. The app is coming soon to Google Play and the App Store, and like any calculator it is a helper, not a replacement for asking scholars about special cases.</p>\n\n<!--CTA:rafiq-->\n\n<p><strong>In summary:</strong> calculating zakat is simpler than many people think. Pick one Hijri date each year, add up your zakatable assets, subtract debts that are currently due, compare the result with the nisab at that day's gold price, and pay one fortieth. Where scholars genuinely differ, such as the nisab for cash, jewellery or deducting debts, follow the view you trust or the fatwa authority in your country, and take personal, complex cases to qualified local scholars.</p>\n<p>For further reading, see the hadith collections on <a href=\"https://sunnah.com/abudawud:1573\">Sunnah.com</a> and the zakat section of <a href=\"https://islamqa.info/en\">IslamQA</a>.</p>",
+  "faq": [
+    {
+      "q": "What percentage is zakat?",
+      "a": "Zakat on cash, gold, silver and business stock is one fortieth, or 2.5%, of your total zakatable wealth, once it reaches the nisab and a full lunar year has passed. A quick way to work it out is to divide the total by 40. Someone with 40,000 in zakatable savings pays 1,000. The rate applies to the whole amount, not just the part above the nisab."
+    },
+    {
+      "q": "Do I pay zakat on my monthly salary?",
+      "a": "Zakat is not due on a salary the moment you receive it, but on what you save from it if it reaches the nisab and stays there for a lunar year. Because tracking each month separately is difficult, many scholars recommend choosing one Hijri date a year and paying on all your savings then. Any part that has not completed a year is simply paid early, which the majority permit."
+    },
+    {
+      "q": "Is zakat due on my house or car?",
+      "a": "No. There is no zakat on the home you live in, the car you use, furniture or tools of your trade, because these are personal-use items. If you bought a house or car with the intention of selling it for profit, it counts as trade goods and is valued at its market price on your zakat date and added to your other zakatable wealth."
+    },
+    {
+      "q": "Can I pay zakat early?",
+      "a": "Yes. The majority of jurists allow paying zakat before the year is complete, as long as your wealth has reached the nisab. Paying early can help the poor at times of greater need such as Ramadan or a crisis. Delaying zakat after it becomes due without a valid excuse is not allowed, since the majority hold it must be paid promptly."
+    },
+    {
+      "q": "Can I give zakat to my parents or children?",
+      "a": "No. Zakat cannot be given to your parents and grandparents, your children and grandchildren, or your spouse, because supporting them is already your duty. You can give it to needy siblings, uncles, aunts and other relatives you are not obliged to support. For them it counts as both charity and maintaining family ties, which carries a double reward."
+    },
+    {
+      "q": "How do I know today's nisab for zakat?",
+      "a": "Multiply today's price of one gram of 24k gold in your country by 85. The result is the gold nisab in your currency. If you follow the silver nisab, multiply the price of one gram of pure silver by 595. Do not rely on a figure from an old article, because the nisab changes as gold and silver prices move every day."
+    }
+  ],
+  "internal_links": [
+    "gold-zakat-nisab",
+    "zakat-al-fitr"
+  ],
+  "sources": [
+    {
+      "title": "Sunan Abi Dawud 1573 - Sunnah.com",
+      "url": "https://sunnah.com/abudawud:1573"
+    },
+    {
+      "title": "Sahih al-Bukhari 8 - Sunnah.com",
+      "url": "https://sunnah.com/bukhari:8"
+    },
+    {
+      "title": "Surah At-Tawbah 9:60 - Quran.com",
+      "url": "https://quran.com/9/60"
+    },
+    {
+      "title": "IslamQA (English)",
+      "url": "https://islamqa.info/en"
+    },
+    {
+      "title": "Dar al-Ifta al-Misriyyah: nisab of zakat in Egyptian currency (Arabic)",
+      "url": "https://www.dar-alifta.org/ar/fatwa/details/16827"
+    }
+  ]
+}

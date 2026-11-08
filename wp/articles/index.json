@@ -1,0 +1,72 @@
+[
+ {
+  "ar": "01-zakat-al-mal-calculation.json",
+  "category": "zakat",
+  "image_ar": "01-zakat-al-mal-calculation.webp",
+  "en": "01-zakat-al-mal-calculation.en.json",
+  "image_en": "01-zakat-al-mal-calculation-en.webp"
+ },
+ {
+  "ar": "02-gold-zakat-nisab.json",
+  "category": "zakat",
+  "image_ar": "02-gold-zakat-nisab.webp",
+  "en": "02-gold-zakat-nisab.en.json",
+  "image_en": "02-gold-zakat-nisab-en.webp"
+ },
+ {
+  "ar": "03-zakat-al-fitr.json",
+  "category": "zakat",
+  "image_ar": "03-zakat-al-fitr.webp",
+  "en": "03-zakat-al-fitr.en.json",
+  "image_en": "03-zakat-al-fitr-en.webp"
+ },
+ {
+  "ar": "04-islamic-app-no-ads.json",
+  "category": "islamic-apps",
+  "image_ar": "04-islamic-app-no-ads.webp",
+  "en": "04-islamic-app-no-ads.en.json",
+  "image_en": "04-islamic-app-no-ads-en.webp"
+ },
+ {
+  "ar": "05-morning-evening-adhkar-virtues.json",
+  "category": "worship",
+  "image_ar": "05-morning-evening-adhkar-virtues.webp",
+  "en": "05-morning-evening-adhkar-virtues.en.json",
+  "image_en": "05-morning-evening-adhkar-virtues-en.webp"
+ },
+ {
+  "ar": "06-daily-worship-tracker.json",
+  "category": "worship",
+  "image_ar": "06-daily-worship-tracker.webp",
+  "en": "06-daily-worship-tracker.en.json",
+  "image_en": "06-daily-worship-tracker-en.webp"
+ },
+ {
+  "ar": "07-qibla-direction-phone.json",
+  "category": "worship",
+  "image_ar": "07-qibla-direction-phone.webp",
+  "en": "07-qibla-direction-phone.en.json",
+  "image_en": "07-qibla-direction-phone-en.webp"
+ },
+ {
+  "ar": "08-teach-child-prayer.json",
+  "category": "kids",
+  "image_ar": "08-teach-child-prayer.webp",
+  "en": "08-teach-child-prayer.en.json",
+  "image_en": "08-teach-child-prayer-en.webp"
+ },
+ {
+  "ar": "09-kids-daily-adhkar.json",
+  "category": "kids",
+  "image_ar": "09-kids-daily-adhkar.webp",
+  "en": "09-kids-daily-adhkar.en.json",
+  "image_en": "09-kids-daily-adhkar-en.webp"
+ },
+ {
+  "ar": "10-noon-sakinah-tanween-rules.json",
+  "category": "quran",
+  "image_ar": "10-noon-sakinah-tanween-rules.webp",
+  "en": "10-noon-sakinah-tanween-rules.en.json",
+  "image_en": "10-noon-sakinah-tanween-rules-en.webp"
+ }
+]

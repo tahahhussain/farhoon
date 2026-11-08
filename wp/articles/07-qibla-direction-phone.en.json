@@ -1,0 +1,150 @@
+{
+  "number": 7,
+  "slug": "qibla-direction-phone",
+  "category": "Prayer",
+  "title": "Qibla Direction on Your Phone: Calibration, Accuracy and Rulings",
+  "meta_title": "Qibla Direction on Your Phone: Accurate Guide | Farhoon",
+  "meta_description": "Find the qibla direction on your phone: calibrate the compass, avoid magnetic interference, use methods without a compass, and learn the rulings.",
+  "focus_keyword": "qibla direction on your phone",
+  "keywords": [
+    {
+      "keyword": "qibla direction on phone",
+      "type": "primary",
+      "est_monthly_searches": "1,000–3,000 (estimated)",
+      "intent": "informational",
+      "kgr_note": "Medium; app pages compete, but few explain calibration and interference (estimated)"
+    },
+    {
+      "keyword": "qibla direction",
+      "type": "secondary",
+      "est_monthly_searches": "100,000–300,000 (estimated)",
+      "intent": "navigational",
+      "kgr_note": "Very hard; dominated by live qibla finder tools (estimated)"
+    },
+    {
+      "keyword": "qibla compass",
+      "type": "secondary",
+      "est_monthly_searches": "20,000–50,000 (estimated)",
+      "intent": "commercial",
+      "kgr_note": "Hard; app and tool intent (estimated)"
+    },
+    {
+      "keyword": "how to calibrate qibla compass",
+      "type": "long-tail",
+      "est_monthly_searches": "300–1,000 (estimated)",
+      "intent": "informational",
+      "kgr_note": "Easy to medium; KGR possibly under 0.25 (estimated)"
+    },
+    {
+      "keyword": "how to find qibla without compass",
+      "type": "question",
+      "est_monthly_searches": "1,000–3,000 (estimated)",
+      "intent": "informational",
+      "kgr_note": "Medium; competing answers are brief (estimated)"
+    },
+    {
+      "keyword": "why is my qibla compass wrong",
+      "type": "question",
+      "est_monthly_searches": "100–500 (estimated)",
+      "intent": "informational",
+      "kgr_note": "Easy; few pages answer it directly (estimated)"
+    },
+    {
+      "keyword": "prayed in wrong qibla direction",
+      "type": "question",
+      "est_monthly_searches": "300–1,000 (estimated)",
+      "intent": "informational",
+      "kgr_note": "Medium; fatwa sites compete (estimated)"
+    },
+    {
+      "keyword": "qibla direction usa northeast",
+      "type": "LSI",
+      "est_monthly_searches": "100–500 (estimated)",
+      "intent": "informational",
+      "kgr_note": "Easy; explained with great-circle table (estimated)"
+    },
+    {
+      "keyword": "sun over kaaba qibla",
+      "type": "LSI",
+      "est_monthly_searches": "500–2,000 seasonal (estimated)",
+      "intent": "informational",
+      "kgr_note": "Medium, seasonal (estimated)"
+    }
+  ],
+  "keyword_variations": [
+    "qibla direction from my location",
+    "qibla finder",
+    "find qibla",
+    "qiblah direction",
+    "kibla direction",
+    "qibla compass app",
+    "qibla direction iphone",
+    "qibla direction android",
+    "where is qibla",
+    "qibla direction london",
+    "qibla direction new york",
+    "direction of kaaba",
+    "salah direction"
+  ],
+  "featured_snippet": {
+    "target_query": "how to find the qibla direction on my phone",
+    "type": "list",
+    "html": "<ol><li>Turn on location services (GPS).</li><li>Open the qibla compass in a trusted app.</li><li>Calibrate by moving the phone in a figure-8.</li><li>Move away from metal, magnets and electronics.</li><li>Hold the phone flat and level in your palm.</li><li>Turn until the arrow points to the Kaaba.</li><li>Cross-check with a second reference, such as a nearby mosque.</li></ol>"
+  },
+  "excerpt": "Step-by-step guide to an accurate qibla reading on your phone, with compass calibration, magnetic interference fixes, methods without a compass, a city table and the fiqh of facing the qibla.",
+  "reading_minutes": 11,
+  "featured_image": {
+    "headline": "Find the Qibla Accurately",
+    "alt": "Finding the qibla direction on your phone with a calibrated compass"
+  },
+  "content_html": "<p>Finding the <strong>qibla direction on your phone</strong> is the easiest option when you are travelling or have just moved, but a phone compass can be off by tens of degrees if it is not calibrated or sits near a magnet. This guide shows you how to get an accurate reading, how to calibrate the compass on Android and iPhone, what causes magnetic interference, reliable ways to find the qibla without a compass, and what Islamic law says about facing the qibla.</p>\n\n<h2>How do I find the qibla direction on my phone?</h2>\n<div class=\"f-snippet\"><ol><li>Turn on location services (GPS).</li><li>Open the qibla compass in a trusted app.</li><li>Calibrate by moving the phone in a figure-8.</li><li>Move away from metal, magnets and electronics.</li><li>Hold the phone flat and level in your palm.</li><li>Turn until the arrow points to the Kaaba.</li><li>Cross-check with a second reference, such as a nearby mosque.</li></ol></div>\n<p>The last step is the one most people skip. Never rely on a single compass reading. Compare it with a fixed reference such as a mosque's mihrab, or take a second reading after moving a couple of metres across the room. If the two agree, you can trust the direction.</p>\n\n<h2>How does a qibla compass app work?</h2>\n<p>A qibla app relies on two things:</p>\n<ul>\n<li><strong>Your location:</strong> taken from GPS or the network. The app calculates the angle from you to the Kaaba (about 21.42° N, 39.83° E) along the shortest path over the curved Earth, known as the great circle.</li>\n<li><strong>Your phone's heading:</strong> measured by a tiny magnetometer that senses the Earth's magnetic field, helped by the accelerometer and gyroscope that detect tilt.</li>\n</ul>\n<p>The magnetometer points to <strong>magnetic north</strong>, while the qibla angle is calculated from <strong>true north</strong>. The difference, called magnetic declination, varies by location and is corrected automatically by modern phones when location is enabled. In practice the biggest sources of error are not declination but <strong>missing calibration</strong> and <strong>nearby magnetic interference</strong>.</p>\n<h3>Why is the qibla in North America north-east, not south-east?</h3>\n<p>Flat maps distort directions over long distances, so a straight line drawn on them is not the shortest route on the globe. Along the great circle, the qibla from New York, Toronto or Chicago points <strong>north-east</strong>, not south-east as a flat map suggests. This is why a proper qibla app or great-circle tool matters for Muslims in the Americas, while for places close to Makkah the difference is small.</p>\n<h3>Does a qibla compass need the internet?</h3>\n<p>The calculation itself does not; it runs on the phone once your location is known. But location is found faster and more accurately with a data connection or in the open sky. Indoors without internet, step to a window or outside for a minute until your position settles, then open the compass.</p>\n\n<h2>How do I calibrate my phone's compass?</h2>\n<p>Calibration lets the sensor learn the surrounding magnetic field and cancel out the effect of the phone's own components:</p>\n<ol>\n<li>Step away from cars, appliances and metal tables.</li>\n<li>Move the phone through the air in a figure-8 (∞) three or more times, rotating your wrist so the phone passes through different orientations.</li>\n<li>Reopen the qibla app and check that the accuracy indicator, if shown, reads \"high\".</li>\n</ol>\n<h3>Calibrating on Android</h3>\n<p>Many Android phones prompt you automatically when accuracy is low. You can also open Google Maps, tap the blue dot showing your location and choose \"Calibrate\" to see current compass accuracy: the narrower the blue beam in front of the dot, the better. Make sure high-accuracy location is switched on in your location settings.</p>\n<h3>Calibrating on iPhone</h3>\n<p>Go to Settings, then Privacy &amp; Security, then Location Services, then System Services, and make sure \"Compass Calibration\" is turned on. If the Compass app asks you to tilt the screen to roll a ball around a circle, complete it. Menu names may differ slightly between iOS versions.</p>\n\n<h2>What causes qibla compass errors?</h2>\n<p>Any metal or magnetic object near the phone can deflect the arrow, sometimes by a lot:</p>\n<table>\n<thead><tr><th>Source of interference</th><th>Effect</th><th>Fix</th></tr></thead>\n<tbody>\n<tr><td>Magnetic phone case or wallet (including magnetic snap-on accessories)</td><td>Large, constant offset</td><td>Remove it, then recalibrate</td></tr>\n<tr><td>Magnetic car mount</td><td>Wrong reading inside the car</td><td>Find the qibla outside the car</td></tr>\n<tr><td>Metal tables and shelves</td><td>Offset that changes with distance</td><td>Hold the phone in your hand, away from them</td></tr>\n<tr><td>Laptops, speakers, appliances</td><td>Jittery arrow</td><td>Move at least a metre away</td></tr>\n<tr><td>Steel reinforcement and wiring in buildings</td><td>Different readings across the room</td><td>Compare readings from two spots</td></tr>\n<tr><td>Metal watches and bracelets</td><td>Small offset</td><td>Hold the phone in the other hand</td></tr>\n</tbody>\n</table>\n<p>Warning signs of a bad reading: the arrow drifts while the phone is still, the qibla shifts a lot when you move the phone a short distance, or the reading clearly contradicts the mihrabs of the mosques in your area.</p>\n\n<!--CTA:rafiq-->\n\n<p>The <strong>Rafiq Al-Taa</strong> app includes a location-based qibla compass alongside prayer times and the adhan, with no ads and no account. Even so, we always recommend the steps above, calibration, distance from metal and a second reference, because these limits apply to every compass in every phone. See the rest of the app in <a href=\"/en/blog/islamic-app-no-ads/\">the best Islamic app without ads</a>.</p>\n\n<h2>What is the qibla direction from major cities?</h2>\n<p>We calculated the great-circle qibla bearing for a number of cities, measured in degrees clockwise from <strong>true north</strong> (north 0°, east 90°, south 180°, west 270°). Use it to sanity-check your phone; values are approximate for each city centre:</p>\n<table>\n<thead><tr><th>City</th><th>Qibla bearing (approx.)</th><th>General direction</th></tr></thead>\n<tbody>\n<tr><td>London</td><td>119°</td><td>East-south-east</td></tr>\n<tr><td>Birmingham</td><td>118°</td><td>East-south-east</td></tr>\n<tr><td>Dublin</td><td>114°</td><td>East-south-east</td></tr>\n<tr><td>Paris</td><td>119°</td><td>East-south-east</td></tr>\n<tr><td>New York</td><td>58°</td><td>North-east</td></tr>\n<tr><td>Toronto</td><td>55°</td><td>North-east</td></tr>\n<tr><td>Chicago</td><td>49°</td><td>North-east</td></tr>\n<tr><td>Houston</td><td>45°</td><td>North-east</td></tr>\n<tr><td>Los Angeles</td><td>24°</td><td>North-north-east</td></tr>\n<tr><td>Lagos</td><td>63°</td><td>East-north-east</td></tr>\n<tr><td>Johannesburg</td><td>15°</td><td>North, slightly east</td></tr>\n<tr><td>Istanbul</td><td>152°</td><td>South-south-east</td></tr>\n<tr><td>Cairo</td><td>136°</td><td>South-east</td></tr>\n<tr><td>Karachi</td><td>268°</td><td>West</td></tr>\n<tr><td>Delhi</td><td>267°</td><td>West</td></tr>\n<tr><td>Dhaka</td><td>278°</td><td>West</td></tr>\n<tr><td>Kuala Lumpur</td><td>293°</td><td>West-north-west</td></tr>\n<tr><td>Jakarta</td><td>295°</td><td>West-north-west</td></tr>\n<tr><td>Sydney</td><td>277°</td><td>West</td></tr>\n</tbody>\n</table>\n<p>Notice that from Los Angeles the qibla is almost due north, and from Johannesburg it is north, because the shortest path over the globe runs that way.</p>\n\n<h2>How can I find the qibla without a compass?</h2>\n<h3>1. Mosque mihrabs and local people</h3>\n<p>In towns and cities this is the most reliable method, since mosque mihrabs were generally set with care. Jurists state that someone in a town with established mosques follows their mihrabs and need not work it out alone. You can also ask trustworthy locals, and many hotels mark the qibla in their rooms.</p>\n<h3>2. The day the sun is directly over the Kaaba</h3>\n<p>Twice a year the sun passes directly over the Kaaba: around 27 or 28 May at about 12:18 p.m. Makkah time (09:18 GMT), and around 15 or 16 July at about 12:26–12:27 p.m. Makkah time (09:26–09:27 GMT). At that moment, wherever the sun is visible, facing the sun means facing the qibla, and the shadow of a vertical pole points directly away from it. Astronomical societies announce the exact time each year, so check it, as the day can shift by one between years.</p>\n<h3>3. The sun on other days</h3>\n<p>If you know your city's approximate qibla bearing, the sun helps you find the cardinal directions: it rises in the east, sets in the west, and at midday is roughly due south for anyone living north of the Tropic of Cancer (and roughly due north for those south of the Tropic of Capricorn). This gives a general direction, not high precision.</p>\n<h3>4. The Pole Star at night</h3>\n<p>In the Northern Hemisphere, Polaris marks true north closely. Find it by extending the line of the two end stars of the Big Dipper's bowl. Once you know north, apply your city's qibla bearing.</p>\n<h3>5. Satellite maps</h3>\n<p>Some mapping tools, such as Google Earth's ruler, draw geodesic (great-circle) lines. Drawing a line from your location to the Kaaba shows the direction relative to your street or building. Just avoid hand-drawn straight lines on a flat map over long distances.</p>\n\n<h2>What is the Islamic ruling on facing the qibla?</h2>\n<p>Facing the qibla is a condition for the validity of prayer for anyone able to do so, by scholarly consensus. Its basis is the verse:</p>\n<blockquote><p>﴿قَدْ نَرَىٰ تَقَلُّبَ وَجْهِكَ فِي السَّمَاءِ ۖ فَلَنُوَلِّيَنَّكَ قِبْلَةً تَرْضَاهَا ۚ فَوَلِّ وَجْهَكَ شَطْرَ الْمَسْجِدِ الْحَرَامِ ۚ وَحَيْثُ مَا كُنتُمْ فَوَلُّوا وُجُوهَكُمْ شَطْرَهُ﴾</p><p>\"We have certainly seen the turning of your face, [O Muhammad], toward the heaven, and We will surely turn you to a qiblah with which you will be pleased. So turn your face toward al-Masjid al-Haram. And wherever you [believers] are, turn your faces toward it [in prayer].\" [Surah al-Baqarah 2:144, Sahih International]</p></blockquote>\n<h3>Must I face the Kaaba exactly, or just its direction?</h3>\n<p>Jurists agree that someone who can see the Kaaba must face the building itself. For those far away, the majority (Hanafi, Maliki and Hanbali schools) hold that facing its <strong>general direction</strong> is what is required, citing the hadith \"What is between the east and the west is a qibla\" (at-Tirmidhi and Ibn Majah; at-Tirmidhi graded it hasan sahih), which addressed the people of Madinah, whose qibla lies to the south. The relied-upon Shafi'i position is that one must strive to aim at the Kaaba itself. On the majority view, a slight deviation from the exact bearing does not affect the prayer as long as you face the Kaaba's direction. For a detailed treatment, see the <a href=\"https://dorar.net/feqhia/859\">fiqh encyclopedia at Dorar.net (Arabic)</a>.</p>\n<h3>When is facing the qibla excused?</h3>\n<ul>\n<li><strong>Inability:</strong> a patient who cannot turn and has no one to turn them prays as they are: \"So fear Allah as much as you are able\" [Surah at-Taghabun 64:16, Sahih International].</li>\n<li><strong>Intense fear:</strong> from an enemy or a dangerous animal; one prays however one can.</li>\n<li><strong>Voluntary prayer while travelling on a mount or vehicle:</strong> explained below.</li>\n</ul>\n\n<h2>What if I prayed in the wrong direction by mistake?</h2>\n<ul>\n<li><strong>You made an effort to find the qibla and realise the mistake during the prayer:</strong> turn towards the qibla and complete the prayer, as the people of Quba did. Ibn 'Umar reported that while people were praying Fajr at Quba, someone came and said that Quran had been revealed to the Prophet ﷺ that night commanding him to face the Kaaba; their faces had been towards Syria, so they turned around towards the Kaaba (Sahih al-Bukhari 403; Sahih Muslim 526).</li>\n<li><strong>You made an effort and realise the mistake after finishing:</strong> the majority of scholars say you do not need to repeat it, since you did what you could. The Malikis recommend repeating it while its time remains, and the relied-upon Shafi'i view requires repeating it if the error is certain.</li>\n<li><strong>You prayed without any effort to check, though you could have:</strong> you must repeat the prayer according to the scholars generally, because you neglected a condition of prayer.</li>\n</ul>\n<p>This is where the phone helps: used correctly, it is a valid means of making that effort. But if it clearly contradicts the established mihrabs of local mosques, ask local people or recheck rather than trusting the phone alone.</p>\n\n<h2>How do I face the qibla on a plane, train or car?</h2>\n<p><strong>Voluntary prayers</strong> may be prayed on a vehicle while travelling in whatever direction it is heading. The Prophet ﷺ used to pray on his mount in whichever direction it faced, and when he wanted to pray an obligatory prayer he dismounted and faced the qibla (al-Bukhari and Muslim). Many scholars recommend facing the qibla at the opening takbir if easy.</p>\n<p><strong>Obligatory prayers</strong> are normally prayed on the ground facing the qibla. If you are on a plane or train and cannot get off before the time ends, and cannot combine it with another prayer, pray as you are able: face the qibla if you can and stand if you can; otherwise pray in your seat. Many airlines show the plane's position on the seat-back map, and some provide a prayer area. Remember that a magnetic compass inside a plane or train may be affected by the metal body, so work out the direction from your position and the plane's heading where possible.</p>\n\n<h2>Summary: an accurate qibla in a few simple steps</h2>\n<p>To find the qibla on your phone accurately: enable location, calibrate with a figure-8, remove magnetic cases, keep away from metal, hold the phone flat, then confirm with a second reference such as a mosque or the table above. Without a compass, rely on mosques, local people, the sun and the stars. For those far from the Kaaba, the majority of scholars require facing its direction after a genuine effort, and Allah does not burden a soul beyond its capacity. The rulings here summarise well-known scholarly positions; for your own situation, please consult trusted scholars in your community. If you are teaching your children to pray, start with the qibla, as in <a href=\"/en/blog/teach-child-prayer/\">how to teach your child to pray</a>, and keep your prayers on track with a <a href=\"/en/blog/daily-worship-tracker/\">daily worship tracker</a>.</p>\n\n<!--CTA:rafiq-->\n",
+  "faq": [
+    {
+      "q": "Why is the qibla compass on my phone wrong?",
+      "a": "Usually the magnetometer is not calibrated, or there is a magnet or metal nearby, such as a magnetic case, a metal table or electronics. Remove the case, step away from metal, move the phone in a figure-8, turn on location, and then compare the reading with a nearby mosque's mihrab to confirm it."
+    },
+    {
+      "q": "How do I calibrate the compass on an iPhone?",
+      "a": "Open Settings, then Privacy and Security, then Location Services, then System Services, and make sure Compass Calibration is switched on. If the Compass app asks you to tilt the phone to complete a circle, do so. You can also move the phone in a figure-8 away from metal and magnetic accessories, then check against another reference."
+    },
+    {
+      "q": "How can I find the qibla without a compass?",
+      "a": "The most reliable way is to follow the mihrabs of local mosques and ask trustworthy locals. You can also use the days the sun is directly over the Kaaba in late May and mid-July, find the cardinal directions by the sun or the Pole Star and apply your city's qibla bearing, or draw a great-circle line on a satellite map."
+    },
+    {
+      "q": "Do I have to face the Kaaba exactly when praying?",
+      "a": "Whoever can see the Kaaba must face it exactly, by agreement. For those far away, the Hanafi, Maliki and Hanbali majority require facing its general direction, so a slight deviation does no harm, while the Shafi'is require striving to aim at the Kaaba itself. In every case you must make a genuine effort beforehand."
+    },
+    {
+      "q": "I prayed in the wrong qibla direction. Do I repeat the prayer?",
+      "a": "If you made an effort and discovered the mistake after praying, the majority say you need not repeat it; Malikis recommend repeating within the time and Shafi'is require it if the error is certain. If you prayed without checking when you could have, you must repeat it. If you realise during the prayer, turn and continue."
+    },
+    {
+      "q": "Can I pray on a plane without facing the qibla?",
+      "a": "Voluntary prayers may be prayed on a vehicle in the direction of travel, as the Prophet did on his mount. For obligatory prayers you must face the qibla and stand if able; if the time will run out and you cannot, pray as best you can, since Allah does not burden a soul beyond its capacity."
+    }
+  ],
+  "internal_links": [
+    "islamic-app-no-ads",
+    "teach-child-prayer",
+    "daily-worship-tracker"
+  ],
+  "sources": [
+    {
+      "title": "Dorar.net fiqh encyclopedia: facing the qibla (Arabic)",
+      "url": "https://dorar.net/feqhia/859"
+    },
+    {
+      "title": "Quran.com: Surah al-Baqarah 2:144",
+      "url": "https://quran.com/2/144"
+    },
+    {
+      "title": "Sabq: the sun aligns over the Kaaba (Arabic)",
+      "url": "https://sabq.org/article/XuTDclT"
+    },
+    {
+      "title": "iPhone Life: How to calibrate the compass on iPhone",
+      "url": "https://iphonelife.com/content/iphone-compass-not-working-calibrate-your-compass-now"
+    }
+  ]
+}

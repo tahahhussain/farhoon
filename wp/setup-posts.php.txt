@@ -1,0 +1,99 @@
+<?php
+// Imports the Farhoon articles (Arabic posts and their English versions), with SEO meta, FAQ, schema and featured images.
+// Run with: wp eval-file <this file> --user=<admin>. Safe to run again: articles are updated, not duplicated.
+if (!defined('ABSPATH')) exit;
+require_once ABSPATH . 'wp-admin/includes/media.php';
+require_once ABSPATH . 'wp-admin/includes/file.php';
+require_once ABSPATH . 'wp-admin/includes/image.php';
+$base = 'https://tahahhussain.github.io/farhoon/wp/articles/';
+$img_base = 'https://tahahhussain.github.io/farhoon/assets/blog/';
+$get = function ($url) {
+	$r = wp_remote_get($url . '?v=' . time(), ['timeout' => 60]);
+	return (is_wp_error($r) || wp_remote_retrieve_response_code($r) !== 200) ? null : json_decode(wp_remote_retrieve_body($r), true);
+};
+$index = $get($base . 'index.json');
+if (!$index) exit("FAILED index\n");
+$author = get_current_user_id();
+$now = current_time('timestamp');
+
+$import = function ($d, $type, $cat, $image, $order) use ($author, $now) {
+	$existing = get_page_by_path($d['slug'], OBJECT, $type);
+	$post = [
+		'post_type' => $type,
+		'post_title' => $d['title'],
+		'post_name' => $d['slug'],
+		'post_content' => $d['content_html'],
+		'post_excerpt' => $d['excerpt'],
+		'post_status' => 'publish',
+		'comment_status' => 'open',
+		'post_author' => $author,
+	];
+	if ($existing) {
+		$post['ID'] = $existing->ID;
+		$id = wp_update_post(wp_slash($post), true);
+	} else {
+		// Article 1 is the newest, so the list starts with the zakat guide.
+		$post['post_date'] = wp_date('Y-m-d H:i:s', $now - $order * 600);
+		$id = wp_insert_post(wp_slash($post), true);
+	}
+	if (is_wp_error($id)) { echo 'FAILED ' . $d['slug'] . ' ' . $id->get_error_message() . "\n"; return 0; }
+	wp_set_object_terms($id, [$cat], $type === 'en_post' ? 'en_category' : 'category');
+	$keywords = [$d['focus_keyword']];
+	foreach ($d['keywords'] as $k) {
+		if (count($keywords) >= 5) break;
+		if ($k['keyword'] !== $d['focus_keyword'] && in_array($k['type'], ['primary', 'secondary', 'long-tail'], true)) $keywords[] = $k['keyword'];
+	}
+	update_post_meta($id, 'rank_math_title', $d['meta_title']);
+	update_post_meta($id, 'rank_math_description', $d['meta_description']);
+	update_post_meta($id, 'rank_math_focus_keyword', implode(',', $keywords));
+	update_post_meta($id, 'rank_math_twitter_use_facebook', 'on');
+	update_post_meta($id, 'rank_math_schema_BlogPosting', [
+		'@type' => 'BlogPosting',
+		'metadata' => ['title' => 'Article', 'type' => 'template', 'isPrimary' => true, 'reviewLocationShortcode' => '[rank_math_rich_snippet]', 'name' => 'Article'],
+		'headline' => '%seo_title%',
+		'description' => '%seo_description%',
+		'keywords' => '%keywords%',
+		'articleSection' => '%primary_taxonomy_terms%',
+		'datePublished' => '%date(Y-m-d\TH:i:sP)%',
+		'dateModified' => '%modified(Y-m-d\TH:i:sP)%',
+		'author' => ['@type' => 'Person', 'name' => '%name%'],
+		'image' => ['@type' => 'ImageObject', 'url' => '%post_thumbnail%'],
+	]);
+	update_post_meta($id, 'farhoon_faq', wp_slash(wp_json_encode($d['faq'], JSON_UNESCAPED_UNICODE)));
+	update_post_meta($id, 'farhoon_minutes', (string) (int) $d['reading_minutes']);
+	update_post_meta($id, 'farhoon_snippet_query', $d['featured_snippet']['target_query'] ?? '');
+	// Featured image, downloaded once per file name.
+	$file = basename($image);
+	$have = (int) get_post_thumbnail_id($id);
+	if (!$have || get_post_meta($have, 'farhoon_source', true) !== $file) {
+		$att = media_sideload_image($image, $id, $d['featured_image']['alt'], 'id');
+		if (!is_wp_error($att)) {
+			update_post_meta($att, '_wp_attachment_image_alt', $d['featured_image']['alt']);
+			update_post_meta($att, 'farhoon_source', $file);
+			set_post_thumbnail($id, $att);
+		} else {
+			echo 'image failed ' . $d['slug'] . ' ' . $att->get_error_message() . "\n";
+		}
+	}
+	return $id;
+};
+
+foreach ($index as $i => $item) {
+	$ar = $get($base . $item['ar']);
+	if (!$ar) { echo "FAILED download {$item['ar']}\n"; continue; }
+	$ar_id = $import($ar, 'post', $item['category'], $img_base . $item['image_ar'], $i);
+	echo "OK ar $ar_id " . get_permalink($ar_id) . "\n";
+	if (empty($item['en'])) continue;
+	$en = $get($base . $item['en']);
+	if (!$en) { echo "FAILED download {$item['en']}\n"; continue; }
+	$en_id = $import($en, 'en_post', $item['category'], $img_base . $item['image_en'], $i);
+	echo "OK en $en_id " . get_permalink($en_id) . "\n";
+	if ($ar_id && $en_id) {
+		update_post_meta($ar_id, 'farhoon_pair', (string) $en_id);
+		update_post_meta($en_id, 'farhoon_pair', (string) $ar_id);
+	}
+}
+// The default "Hello world" post is not part of the blog.
+foreach (get_posts(['post_type' => 'post', 'name' => 'hello-world', 'post_status' => 'any']) as $p) wp_trash_post($p->ID);
+if (class_exists('Cache_Enabler')) Cache_Enabler::clear_complete_cache();
+echo "DONE\n";
