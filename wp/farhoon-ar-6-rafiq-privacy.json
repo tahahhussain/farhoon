@@ -4,7 +4,7 @@
  "type": "page",
  "content": [
   {
-   "id": "0baa996",
+   "id": "123d6bf",
    "elType": "section",
    "settings": {
     "layout": "boxed",
@@ -38,7 +38,7 @@
    },
    "elements": [
     {
-     "id": "0f0f64d",
+     "id": "853bea8",
      "elType": "column",
      "settings": {
       "_column_size": 20,
@@ -47,7 +47,7 @@
      },
      "elements": [
       {
-       "id": "d6cdd92",
+       "id": "0f0f64d",
        "elType": "widget",
        "settings": {
         "image": {
@@ -79,7 +79,7 @@
      "isInner": false
     },
     {
-     "id": "4248c55",
+     "id": "0baa996",
      "elType": "column",
      "settings": {
       "_column_size": 80,
@@ -88,7 +88,7 @@
      },
      "elements": [
       {
-       "id": "853bea8",
+       "id": "4248c55",
        "elType": "widget",
        "settings": {
         "html": "<nav class=\"f-nav\" aria-label=\"القائمة الرئيسية\"><input type=\"checkbox\" id=\"f-menu\" class=\"f-toggle\"><label for=\"f-menu\" class=\"f-burger\"><span class=\"f-sr\">فتح القائمة</span><span></span><span></span><span></span></label><ul><li><a class=\"\" href=\"/\">الرئيسية</a></li><li><a class=\"\" href=\"/about/\">من نحن</a></li><li><a class=\"on\" href=\"/rafiq/\">رفيق الطاعة</a></li><li><a class=\"\" href=\"/games/\">ألعابنا</a></li><li><a class=\"\" href=\"/blog/\">المدونة</a></li><li><a class=\"\" href=\"/contact/\">تواصل معنا</a></li><li><a class=\"f-lang\" href=\"/en/rafiq/\" lang=\"en\">English</a></li></ul></nav>"
@@ -103,7 +103,7 @@
    "isInner": false
   },
   {
-   "id": "f3fc18b",
+   "id": "a269f56",
    "elType": "section",
    "settings": {
     "layout": "boxed",
@@ -136,7 +136,7 @@
    },
    "elements": [
     {
-     "id": "de0afd2",
+     "id": "f3fc18b",
      "elType": "column",
      "settings": {
       "_column_size": 100,
@@ -144,7 +144,7 @@
      },
      "elements": [
       {
-       "id": "4101e55",
+       "id": "adeaa48",
        "elType": "widget",
        "settings": {
         "title": "سياسة الخصوصية",
@@ -175,7 +175,7 @@
        "widgetType": "heading"
       },
       {
-       "id": "adeaa48",
+       "id": "de0afd2",
        "elType": "widget",
        "settings": {
         "editor": "<p>لتطبيق رفيق الطاعة</p>",
@@ -210,7 +210,7 @@
    "isInner": false
   },
   {
-   "id": "6205f5a",
+   "id": "d6cdd92",
    "elType": "section",
    "settings": {
     "layout": "boxed",
@@ -243,7 +243,7 @@
    },
    "elements": [
     {
-     "id": "379c353",
+     "id": "6205f5a",
      "elType": "column",
      "settings": {
       "_column_size": 100,
@@ -303,7 +303,7 @@
      },
      "elements": [
       {
-       "id": "a269f56",
+       "id": "379c353",
        "elType": "widget",
        "settings": {
         "editor": "<p>آخر تحديث: ٨ نوفمبر ٢٠٢٦. الناشر: فرحون. للتواصل: <a href=\"mailto:hello@farhoon.com\">hello@farhoon.com</a>.</p>\n<h2>الخلاصة</h2>\n<p>التطبيق مجاني، بدون حساب ولا إعلانات. عبادتك وإعداداتك مخزّنة على هاتفك، ولا نستلمها.</p>\n<h2>البيانات الموجودة على هاتفك فقط</h2>\n<p>المدينة، إعدادات المواقيت والإشعارات، الآيات والأحاديث المحفوظة، تقدّم القراءة والأذكار والتسبيح، سجل الطاعات اليومية، والأرقام التي تكتبها في حاسبة الزكاة. يمكنك مسحها كلها من «الإعدادات ← الخصوصية وبياناتك ← مسح بياناتي»، أو بحذف التطبيق.</p>\n<h2>الموقع</h2>\n<p>إذا اخترت «استخدم موقعي الحالي»، يُستخدم الموقع على هاتفك لحساب المواقيت، ولا نستلمه. الإذن اختياري، ويمكنك اختيار مدينتك من القائمة بدلًا منه. وبوصلة القبلة تعمل على هاتفك فقط.</p>\n<h2>خدمات خارجية</h2>\n<p>تتصل بها فقط عند فتح الميزة، وكل خدمة منها ترى عنوان الإنترنت الخاص بك كأي موقع:</p>\n<ul>\n  <li>Open-Meteo: موقع تقريبي (في حدود ١١ كم) لعرض درجة الحرارة في شاشة الصلاة.</li>\n  <li>tafsir_api على GitHub: نصوص التفسير.</li>\n  <li>api.islamic.app: التلاوات.</li>\n  <li>الإذاعات و mp3quran.net: البث المباشر.</li>\n  <li>YouTube: الفيديوهات وروابط البحث، وتخضع لسياسة Google.</li>\n  <li>GitHub Pages: ملف تحديثات المحتوى والرسائل العامة، عند فتح التطبيق.</li>\n</ul>\n<h2>الإشعارات</h2>\n<p>يُجدوَل الأذان والتذكيرات على هاتفك، ولا يحتاج ذلك إلى خادم. الإذن اختياري.</p>\n<h2>الأطفال</h2>\n<p>التطبيق غير موجّه للأطفال دون ١٣ سنة، ولا يطلب أي بيانات شخصية من أي شخص.</p>\n<h2>تعديل السياسة</h2>\n<p>أي تغيير سيُنشر هنا بتاريخ جديد. وإذا أضفنا إحصائيات، فستكون اختيارية ومتوقفة حتى تفعّلها، وسنذكر هنا كل حدث يُرسل.</p>",
@@ -338,7 +338,7 @@
    "isInner": false
   },
   {
-   "id": "a4e7f6e",
+   "id": "b5f00dd",
    "elType": "section",
    "settings": {
     "layout": "boxed",
@@ -372,7 +372,7 @@
    },
    "elements": [
     {
-     "id": "6361f0d",
+     "id": "4fa1814",
      "elType": "column",
      "settings": {
       "_column_size": 25,
@@ -380,7 +380,7 @@
      },
      "elements": [
       {
-       "id": "123d6bf",
+       "id": "6361f0d",
        "elType": "widget",
        "settings": {
         "image": {
@@ -412,7 +412,7 @@
      "isInner": false
     },
     {
-     "id": "745b55a",
+     "id": "060ef09",
      "elType": "column",
      "settings": {
       "_column_size": 50,
@@ -420,7 +420,7 @@
      },
      "elements": [
       {
-       "id": "4fa1814",
+       "id": "745b55a",
        "elType": "widget",
        "settings": {
         "editor": "<p class=\"f-foot-links\" style=\"margin:0\"><a href=\"/\">الرئيسية</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href=\"/about/\">من نحن</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href=\"/rafiq/\">رفيق الطاعة</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href=\"/games/\">ألعابنا</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href=\"/blog/\">المدونة</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href=\"/contact/\">تواصل معنا</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href=\"/rafiq/privacy/\">سياسة الخصوصية</a></p>",
@@ -452,7 +452,7 @@
      "isInner": false
     },
     {
-     "id": "9173115",
+     "id": "a4e7f6e",
      "elType": "column",
      "settings": {
       "_column_size": 25,
@@ -460,7 +460,7 @@
      },
      "elements": [
       {
-       "id": "060ef09",
+       "id": "9173115",
        "elType": "widget",
        "settings": {
         "editor": "<p style=\"margin:0\">© ٢٠٢٦ فرحون<br><a href=\"mailto:hello@farhoon.com\" style=\"color:#FFC531\">hello@farhoon.com</a></p>",

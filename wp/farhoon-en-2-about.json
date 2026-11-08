@@ -4,7 +4,7 @@
  "type": "page",
  "content": [
   {
-   "id": "cc11116",
+   "id": "bb2cb0a",
    "elType": "section",
    "settings": {
     "layout": "boxed",
@@ -38,7 +38,7 @@
    },
    "elements": [
     {
-     "id": "fd33722",
+     "id": "91a1947",
      "elType": "column",
      "settings": {
       "_column_size": 20,
@@ -47,7 +47,7 @@
      },
      "elements": [
       {
-       "id": "dbf1b02",
+       "id": "d7667f6",
        "elType": "widget",
        "settings": {
         "image": {
@@ -79,7 +79,7 @@
      "isInner": false
     },
     {
-     "id": "91a1947",
+     "id": "9ff22de",
      "elType": "column",
      "settings": {
       "_column_size": 80,
@@ -88,7 +88,7 @@
      },
      "elements": [
       {
-       "id": "d7667f6",
+       "id": "cc11116",
        "elType": "widget",
        "settings": {
         "html": "<nav class=\"f-nav\" aria-label=\"Main menu\"><input type=\"checkbox\" id=\"f-menu\" class=\"f-toggle\"><label for=\"f-menu\" class=\"f-burger\"><span class=\"f-sr\">Open menu</span><span></span><span></span><span></span></label><ul><li><a class=\"\" href=\"/en/\">Home</a></li><li><a class=\"on\" href=\"/en/about/\">About</a></li><li><a class=\"\" href=\"/en/rafiq/\">Rafiq Al-Taa</a></li><li><a class=\"\" href=\"/en/games/\">Games</a></li><li><a class=\"\" href=\"/en/blog/\">Blog</a></li><li><a class=\"\" href=\"/en/contact/\">Contact</a></li><li><a class=\"f-lang\" href=\"/about/\" lang=\"ar\">العربية</a></li></ul></nav>"
@@ -103,7 +103,7 @@
    "isInner": false
   },
   {
-   "id": "3d3d949",
+   "id": "0baf216",
    "elType": "section",
    "settings": {
     "layout": "boxed",
@@ -136,7 +136,7 @@
    },
    "elements": [
     {
-     "id": "6d2b01f",
+     "id": "ca6e86f",
      "elType": "column",
      "settings": {
       "_column_size": 100,
@@ -144,7 +144,7 @@
      },
      "elements": [
       {
-       "id": "c778dfd",
+       "id": "6d2b01f",
        "elType": "widget",
        "settings": {
         "title": "About us",
@@ -175,7 +175,7 @@
        "widgetType": "heading"
       },
       {
-       "id": "fec4c56",
+       "id": "3d3d949",
        "elType": "widget",
        "settings": {
         "editor": "<p>A small Arabic studio making apps and games for Arab families.</p>",
@@ -210,7 +210,7 @@
    "isInner": false
   },
   {
-   "id": "8365773",
+   "id": "cd98b3d",
    "elType": "section",
    "settings": {
     "layout": "boxed",
@@ -244,7 +244,7 @@
    },
    "elements": [
     {
-     "id": "3ac2f49",
+     "id": "795c234",
      "elType": "column",
      "settings": {
       "_column_size": 60,
@@ -252,7 +252,7 @@
      },
      "elements": [
       {
-       "id": "ca6e86f",
+       "id": "3ac2f49",
        "elType": "widget",
        "settings": {
         "title": "Our goal",
@@ -283,7 +283,7 @@
        "widgetType": "heading"
       },
       {
-       "id": "0baf216",
+       "id": "37534d6",
        "elType": "widget",
        "settings": {
         "editor": "<p>That every Arab home finds on its phone what benefits and delights it, in its own language, without paying for it with its privacy.</p><p>Farhoon began with <b>Rafiq Al-Taa</b>, a lasting charity that gathers what a Muslim needs each day. We are now building games and apps that teach children their faith and make them happy.</p>",
@@ -315,7 +315,7 @@
      "isInner": false
     },
     {
-     "id": "795c234",
+     "id": "e325a1a",
      "elType": "column",
      "settings": {
       "_column_size": 40,
@@ -323,7 +323,7 @@
      },
      "elements": [
       {
-       "id": "37534d6",
+       "id": "8365773",
        "elType": "widget",
        "settings": {
         "image": {
@@ -355,7 +355,7 @@
    "isInner": false
   },
   {
-   "id": "19d57d8",
+   "id": "c058b2b",
    "elType": "section",
    "settings": {
     "layout": "boxed",
@@ -388,7 +388,7 @@
    },
    "elements": [
     {
-     "id": "cd98b3d",
+     "id": "641182a",
      "elType": "column",
      "settings": {
       "_column_size": 100,
@@ -396,7 +396,7 @@
      },
      "elements": [
       {
-       "id": "e325a1a",
+       "id": "19d57d8",
        "elType": "widget",
        "settings": {
         "title": "What we believe",
@@ -433,7 +433,7 @@
    "isInner": false
   },
   {
-   "id": "d4d4f5a",
+   "id": "e3810e2",
    "elType": "section",
    "settings": {
     "layout": "boxed",
@@ -465,136 +465,6 @@
     "css_classes": "f-ltr"
    },
    "elements": [
-    {
-     "id": "c058b2b",
-     "elType": "column",
-     "settings": {
-      "_column_size": 25,
-      "_inline_size": null,
-      "background_background": "classic",
-      "background_color": "#FFFFFF",
-      "border_radius": {
-       "unit": "px",
-       "top": "24",
-       "right": "24",
-       "bottom": "24",
-       "left": "24",
-       "isLinked": true
-      },
-      "padding": {
-       "unit": "px",
-       "top": "24",
-       "right": "24",
-       "bottom": "24",
-       "left": "24",
-       "isLinked": true
-      },
-      "padding_mobile": {
-       "unit": "px",
-       "top": "20",
-       "right": "20",
-       "bottom": "20",
-       "left": "20",
-       "isLinked": true
-      },
-      "border_border": "solid",
-      "border_width": {
-       "unit": "px",
-       "top": "2",
-       "right": "2",
-       "bottom": "2",
-       "left": "2",
-       "isLinked": true
-      },
-      "border_color": "#F0E6CF",
-      "margin": {
-       "unit": "px",
-       "top": "8",
-       "right": "8",
-       "bottom": "8",
-       "left": "8",
-       "isLinked": true
-      },
-      "margin_mobile": {
-       "unit": "px",
-       "top": "6",
-       "right": "6",
-       "bottom": "6",
-       "left": "6",
-       "isLinked": true
-      }
-     },
-     "elements": [
-      {
-       "id": "641182a",
-       "elType": "widget",
-       "settings": {
-        "selected_icon": {
-         "value": "fas fa-language",
-         "library": "fa-solid"
-        },
-        "view": "stacked",
-        "shape": "square",
-        "position": "top",
-        "primary_color": "#FFC531",
-        "secondary_color": "#1B1446",
-        "icon_size": {
-         "unit": "px",
-         "size": 26,
-         "sizes": []
-        },
-        "icon_padding": {
-         "unit": "px",
-         "size": 16,
-         "sizes": []
-        },
-        "border_radius": {
-         "unit": "px",
-         "top": "18",
-         "right": "18",
-         "bottom": "18",
-         "left": "18",
-         "isLinked": true
-        },
-        "icon_space": {
-         "unit": "px",
-         "size": 14,
-         "sizes": []
-        },
-        "title_text": "Arabic first",
-        "description_text": "Clear Modern Standard Arabic every Arab understands, designed right-to-left from the first step.",
-        "text_align": "start",
-        "title_color": "#1B1446",
-        "description_color": "#5B6478",
-        "title_size": "h3",
-        "title_typography_typography": "custom",
-        "title_typography_font_family": "Baloo Bhaijaan 2",
-        "title_typography_font_size": {
-         "unit": "px",
-         "size": 21,
-         "sizes": []
-        },
-        "title_typography_font_weight": "700",
-        "description_typography_typography": "custom",
-        "description_typography_font_family": "Baloo Bhaijaan 2",
-        "description_typography_font_size": {
-         "unit": "px",
-         "size": 16,
-         "sizes": []
-        },
-        "description_typography_font_weight": "400",
-        "description_typography_line_height": {
-         "unit": "em",
-         "size": 1.6,
-         "sizes": []
-        }
-       },
-       "elements": [],
-       "widgetType": "icon-box"
-      }
-     ],
-     "isInner": false
-    },
     {
      "id": "3267eb4",
      "elType": "column",
@@ -660,14 +530,14 @@
        "elType": "widget",
        "settings": {
         "selected_icon": {
-         "value": "fas fa-heart",
+         "value": "fas fa-language",
          "library": "fa-solid"
         },
         "view": "stacked",
         "shape": "square",
         "position": "top",
-        "primary_color": "#FF5A5F",
-        "secondary_color": "#FFFFFF",
+        "primary_color": "#FFC531",
+        "secondary_color": "#1B1446",
         "icon_size": {
          "unit": "px",
          "size": 26,
@@ -691,8 +561,8 @@
          "size": 14,
          "sizes": []
         },
-        "title_text": "Useful and joyful",
-        "description_text": "Everything we make has real value and a cheerful design that brings joy.",
+        "title_text": "Arabic first",
+        "description_text": "Clear Modern Standard Arabic every Arab understands, designed right-to-left from the first step.",
         "text_align": "start",
         "title_color": "#1B1446",
         "description_color": "#5B6478",
@@ -790,14 +660,14 @@
        "elType": "widget",
        "settings": {
         "selected_icon": {
-         "value": "fas fa-lock",
+         "value": "fas fa-heart",
          "library": "fa-solid"
         },
         "view": "stacked",
         "shape": "square",
         "position": "top",
-        "primary_color": "#8ECAE6",
-        "secondary_color": "#1B1446",
+        "primary_color": "#FF5A5F",
+        "secondary_color": "#FFFFFF",
         "icon_size": {
          "unit": "px",
          "size": 26,
@@ -821,8 +691,8 @@
          "size": 14,
          "sizes": []
         },
-        "title_text": "Your privacy",
-        "description_text": "We collect as little as possible, and what you enter stays on your phone wherever we can.",
+        "title_text": "Useful and joyful",
+        "description_text": "Everything we make has real value and a cheerful design that brings joy.",
         "text_align": "start",
         "title_color": "#1B1446",
         "description_color": "#5B6478",
@@ -920,6 +790,136 @@
        "elType": "widget",
        "settings": {
         "selected_icon": {
+         "value": "fas fa-lock",
+         "library": "fa-solid"
+        },
+        "view": "stacked",
+        "shape": "square",
+        "position": "top",
+        "primary_color": "#8ECAE6",
+        "secondary_color": "#1B1446",
+        "icon_size": {
+         "unit": "px",
+         "size": 26,
+         "sizes": []
+        },
+        "icon_padding": {
+         "unit": "px",
+         "size": 16,
+         "sizes": []
+        },
+        "border_radius": {
+         "unit": "px",
+         "top": "18",
+         "right": "18",
+         "bottom": "18",
+         "left": "18",
+         "isLinked": true
+        },
+        "icon_space": {
+         "unit": "px",
+         "size": 14,
+         "sizes": []
+        },
+        "title_text": "Your privacy",
+        "description_text": "We collect as little as possible, and what you enter stays on your phone wherever we can.",
+        "text_align": "start",
+        "title_color": "#1B1446",
+        "description_color": "#5B6478",
+        "title_size": "h3",
+        "title_typography_typography": "custom",
+        "title_typography_font_family": "Baloo Bhaijaan 2",
+        "title_typography_font_size": {
+         "unit": "px",
+         "size": 21,
+         "sizes": []
+        },
+        "title_typography_font_weight": "700",
+        "description_typography_typography": "custom",
+        "description_typography_font_family": "Baloo Bhaijaan 2",
+        "description_typography_font_size": {
+         "unit": "px",
+         "size": 16,
+         "sizes": []
+        },
+        "description_typography_font_weight": "400",
+        "description_typography_line_height": {
+         "unit": "em",
+         "size": 1.6,
+         "sizes": []
+        }
+       },
+       "elements": [],
+       "widgetType": "icon-box"
+      }
+     ],
+     "isInner": false
+    },
+    {
+     "id": "3303f96",
+     "elType": "column",
+     "settings": {
+      "_column_size": 25,
+      "_inline_size": null,
+      "background_background": "classic",
+      "background_color": "#FFFFFF",
+      "border_radius": {
+       "unit": "px",
+       "top": "24",
+       "right": "24",
+       "bottom": "24",
+       "left": "24",
+       "isLinked": true
+      },
+      "padding": {
+       "unit": "px",
+       "top": "24",
+       "right": "24",
+       "bottom": "24",
+       "left": "24",
+       "isLinked": true
+      },
+      "padding_mobile": {
+       "unit": "px",
+       "top": "20",
+       "right": "20",
+       "bottom": "20",
+       "left": "20",
+       "isLinked": true
+      },
+      "border_border": "solid",
+      "border_width": {
+       "unit": "px",
+       "top": "2",
+       "right": "2",
+       "bottom": "2",
+       "left": "2",
+       "isLinked": true
+      },
+      "border_color": "#F0E6CF",
+      "margin": {
+       "unit": "px",
+       "top": "8",
+       "right": "8",
+       "bottom": "8",
+       "left": "8",
+       "isLinked": true
+      },
+      "margin_mobile": {
+       "unit": "px",
+       "top": "6",
+       "right": "6",
+       "bottom": "6",
+       "left": "6",
+       "isLinked": true
+      }
+     },
+     "elements": [
+      {
+       "id": "d4d4f5a",
+       "elType": "widget",
+       "settings": {
+        "selected_icon": {
          "value": "fas fa-hand-holding-heart",
          "library": "fa-solid"
         },
@@ -989,7 +989,7 @@
    "isInner": false
   },
   {
-   "id": "171921e",
+   "id": "51e28d3",
    "elType": "section",
    "settings": {
     "layout": "boxed",
@@ -1022,7 +1022,7 @@
    },
    "elements": [
     {
-     "id": "2703290",
+     "id": "c5d93d5",
      "elType": "column",
      "settings": {
       "_column_size": 100,
@@ -1030,7 +1030,7 @@
      },
      "elements": [
       {
-       "id": "3303f96",
+       "id": "2703290",
        "elType": "widget",
        "settings": {
         "title": "How we work",
@@ -1061,7 +1061,7 @@
        "widgetType": "heading"
       },
       {
-       "id": "e3810e2",
+       "id": "171921e",
        "elType": "widget",
        "settings": {
         "editor": "<ul><li>Every text is written in clear Arabic and reviewed before release.</li><li>We test our apps on real phones and many screen sizes.</li><li>No account unless it is needed, and your data stays on your phone wherever possible.</li><li>We listen to your feedback and fix mistakes quickly.</li></ul>",
@@ -1096,7 +1096,7 @@
    "isInner": false
   },
   {
-   "id": "1df9a71",
+   "id": "fd33722",
    "elType": "section",
    "settings": {
     "layout": "boxed",
@@ -1130,7 +1130,7 @@
    },
    "elements": [
     {
-     "id": "51e28d3",
+     "id": "f18aba3",
      "elType": "column",
      "settings": {
       "_column_size": 20,
@@ -1138,7 +1138,7 @@
      },
      "elements": [
       {
-       "id": "c5d93d5",
+       "id": "c59502b",
        "elType": "widget",
        "settings": {
         "image": {
@@ -1162,7 +1162,7 @@
      "isInner": false
     },
     {
-     "id": "fdb4ea4",
+     "id": "dbf1b02",
      "elType": "column",
      "settings": {
       "_column_size": 80,
@@ -1170,7 +1170,7 @@
      },
      "elements": [
       {
-       "id": "c59502b",
+       "id": "56973e5",
        "elType": "widget",
        "settings": {
         "title": "Get in touch",
@@ -1201,7 +1201,7 @@
        "widgetType": "heading"
       },
       {
-       "id": "f18aba3",
+       "id": "fdb4ea4",
        "elType": "widget",
        "settings": {
         "editor": "<p>For a suggestion, a note on one of our apps, or a correction, write to us. We are happy to reply.</p>",
@@ -1230,7 +1230,7 @@
        "widgetType": "text-editor"
       },
       {
-       "id": "56973e5",
+       "id": "1df9a71",
        "elType": "widget",
        "settings": {
         "text": "hello@farhoon.com",
@@ -1281,7 +1281,7 @@
    "isInner": false
   },
   {
-   "id": "97929ec",
+   "id": "072ca44",
    "elType": "section",
    "settings": {
     "layout": "boxed",
@@ -1315,7 +1315,7 @@
    },
    "elements": [
     {
-     "id": "bb2cb0a",
+     "id": "f76b93c",
      "elType": "column",
      "settings": {
       "_column_size": 25,
@@ -1323,7 +1323,7 @@
      },
      "elements": [
       {
-       "id": "9ff22de",
+       "id": "924de0e",
        "elType": "widget",
        "settings": {
         "image": {
@@ -1355,7 +1355,7 @@
      "isInner": false
     },
     {
-     "id": "f76b93c",
+     "id": "912aa4d",
      "elType": "column",
      "settings": {
       "_column_size": 50,
@@ -1363,7 +1363,7 @@
      },
      "elements": [
       {
-       "id": "924de0e",
+       "id": "8a1d6ec",
        "elType": "widget",
        "settings": {
         "editor": "<p class=\"f-foot-links\" style=\"margin:0\"><a href=\"/en/\">Home</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href=\"/en/about/\">About</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href=\"/en/rafiq/\">Rafiq Al-Taa</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href=\"/en/games/\">Games</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href=\"/en/blog/\">Blog</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href=\"/en/contact/\">Contact</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href=\"/en/rafiq/privacy/\">Privacy policy</a></p>",
@@ -1395,7 +1395,7 @@
      "isInner": false
     },
     {
-     "id": "912aa4d",
+     "id": "0dc0c40",
      "elType": "column",
      "settings": {
       "_column_size": 25,
@@ -1403,7 +1403,7 @@
      },
      "elements": [
       {
-       "id": "8a1d6ec",
+       "id": "97929ec",
        "elType": "widget",
        "settings": {
         "editor": "<p style=\"margin:0\">© 2026 Farhoon<br><a href=\"mailto:hello@farhoon.com\" style=\"color:#FFC531\">hello@farhoon.com</a></p>",

@@ -4,7 +4,7 @@
  "type": "page",
  "content": [
   {
-   "id": "a7752ec",
+   "id": "3c1984d",
    "elType": "section",
    "settings": {
     "layout": "boxed",
@@ -38,7 +38,7 @@
    },
    "elements": [
     {
-     "id": "492c908",
+     "id": "b731c6d",
      "elType": "column",
      "settings": {
       "_column_size": 20,
@@ -47,7 +47,7 @@
      },
      "elements": [
       {
-       "id": "90da420",
+       "id": "70005a7",
        "elType": "widget",
        "settings": {
         "image": {
@@ -79,7 +79,7 @@
      "isInner": false
     },
     {
-     "id": "b731c6d",
+     "id": "bb980db",
      "elType": "column",
      "settings": {
       "_column_size": 80,
@@ -88,7 +88,7 @@
      },
      "elements": [
       {
-       "id": "70005a7",
+       "id": "a7752ec",
        "elType": "widget",
        "settings": {
         "html": "<nav class=\"f-nav\" aria-label=\"Main menu\"><input type=\"checkbox\" id=\"f-menu\" class=\"f-toggle\"><label for=\"f-menu\" class=\"f-burger\"><span class=\"f-sr\">Open menu</span><span></span><span></span><span></span></label><ul><li><a class=\"\" href=\"/en/\">Home</a></li><li><a class=\"\" href=\"/en/about/\">About</a></li><li><a class=\"on\" href=\"/en/rafiq/\">Rafiq Al-Taa</a></li><li><a class=\"\" href=\"/en/games/\">Games</a></li><li><a class=\"\" href=\"/en/blog/\">Blog</a></li><li><a class=\"\" href=\"/en/contact/\">Contact</a></li><li><a class=\"f-lang\" href=\"/rafiq/\" lang=\"ar\">العربية</a></li></ul></nav>"
@@ -103,7 +103,7 @@
    "isInner": false
   },
   {
-   "id": "31ac344",
+   "id": "a5f775b",
    "elType": "section",
    "settings": {
     "layout": "boxed",
@@ -136,7 +136,7 @@
    },
    "elements": [
     {
-     "id": "bd0fb6b",
+     "id": "ec8d64b",
      "elType": "column",
      "settings": {
       "_column_size": 100,
@@ -144,7 +144,7 @@
      },
      "elements": [
       {
-       "id": "4e932b3",
+       "id": "94eef78",
        "elType": "widget",
        "settings": {
         "image": {
@@ -173,7 +173,7 @@
        "widgetType": "image"
       },
       {
-       "id": "a699993",
+       "id": "5e23dd1",
        "elType": "widget",
        "settings": {
         "title": "Rafiq Al-Taa",
@@ -204,7 +204,7 @@
        "widgetType": "heading"
       },
       {
-       "id": "94eef78",
+       "id": "daf5468",
        "elType": "widget",
        "settings": {
         "editor": "<p>Your daily companion for Quran, prayer and dhikr</p>",
@@ -233,7 +233,7 @@
        "widgetType": "text-editor"
       },
       {
-       "id": "5e23dd1",
+       "id": "bd0fb6b",
        "elType": "widget",
        "settings": {
         "editor": "<p><span class=\"f-chip\" style=\"background:#FFFFFF\">Free</span><span class=\"f-chip\" style=\"background:#FFFFFF\">No ads</span><span class=\"f-chip\" style=\"background:#FFFFFF\">No account</span><span class=\"f-chip\" style=\"background:#FFFFFF\">Data stays on your phone</span></p>",
@@ -262,7 +262,7 @@
        "widgetType": "text-editor"
       },
       {
-       "id": "daf5468",
+       "id": "31ac344",
        "elType": "widget",
        "settings": {
         "editor": "<p><span class=\"f-soon\">Coming soon to Google Play and the App Store</span></p>",
@@ -297,7 +297,7 @@
    "isInner": false
   },
   {
-   "id": "2a81c8c",
+   "id": "f83f287",
    "elType": "section",
    "settings": {
     "layout": "boxed",
@@ -330,7 +330,7 @@
    },
    "elements": [
     {
-     "id": "2832268",
+     "id": "dd2d969",
      "elType": "column",
      "settings": {
       "_column_size": 100,
@@ -338,7 +338,7 @@
      },
      "elements": [
       {
-       "id": "ec8d64b",
+       "id": "2832268",
        "elType": "widget",
        "settings": {
         "title": "More than twenty sections in one app",
@@ -369,7 +369,7 @@
        "widgetType": "heading"
       },
       {
-       "id": "a5f775b",
+       "id": "2a81c8c",
        "elType": "widget",
        "settings": {
         "editor": "<p>A lasting charity with no ads and no account, calm design and clear Arabic. Here is a quick tour of its sections.</p>",
@@ -404,7 +404,7 @@
    "isInner": false
   },
   {
-   "id": "25a25a6",
+   "id": "dbe97c9",
    "elType": "section",
    "settings": {
     "layout": "boxed",
@@ -437,7 +437,7 @@
    },
    "elements": [
     {
-     "id": "15e6798",
+     "id": "d14efda",
      "elType": "column",
      "settings": {
       "_column_size": 33,
@@ -497,7 +497,7 @@
      },
      "elements": [
       {
-       "id": "0dc0c40",
+       "id": "7d73a15",
        "elType": "widget",
        "settings": {
         "image": {
@@ -531,7 +531,7 @@
        "widgetType": "image"
       },
       {
-       "id": "072ca44",
+       "id": "15e6798",
        "elType": "widget",
        "settings": {
         "title": "Home",
@@ -562,7 +562,7 @@
        "widgetType": "heading"
       },
       {
-       "id": "7d73a15",
+       "id": "502c3a3",
        "elType": "widget",
        "settings": {
         "editor": "<p>The next prayer, today's deeds, the hadith of the day, and every section.</p>",
@@ -594,7 +594,7 @@
      "isInner": false
     },
     {
-     "id": "1b077b0",
+     "id": "cba8a70",
      "elType": "column",
      "settings": {
       "_column_size": 33,
@@ -654,7 +654,7 @@
      },
      "elements": [
       {
-       "id": "502c3a3",
+       "id": "c7a8417",
        "elType": "widget",
        "settings": {
         "image": {
@@ -688,7 +688,7 @@
        "widgetType": "image"
       },
       {
-       "id": "d14efda",
+       "id": "1b077b0",
        "elType": "widget",
        "settings": {
         "title": "The Mushaf",
@@ -719,7 +719,7 @@
        "widgetType": "heading"
       },
       {
-       "id": "c7a8417",
+       "id": "a15a8f3",
        "elType": "widget",
        "settings": {
         "editor": "<p>The 604-page Madinah Mushaf with many reciters and auto-scroll reading.</p>",
@@ -751,7 +751,7 @@
      "isInner": false
     },
     {
-     "id": "a373683",
+     "id": "7289757",
      "elType": "column",
      "settings": {
       "_column_size": 33,
@@ -811,7 +811,7 @@
      },
      "elements": [
       {
-       "id": "a15a8f3",
+       "id": "19ae565",
        "elType": "widget",
        "settings": {
         "image": {
@@ -845,7 +845,7 @@
        "widgetType": "image"
       },
       {
-       "id": "cba8a70",
+       "id": "a373683",
        "elType": "widget",
        "settings": {
         "title": "Learn Tajweed",
@@ -876,7 +876,7 @@
        "widgetType": "heading"
       },
       {
-       "id": "19ae565",
+       "id": "25a25a6",
        "elType": "widget",
        "settings": {
         "editor": "<p>Step-by-step recitation lessons, with the rules coloured in the Mushaf.</p>",
@@ -911,7 +911,7 @@
    "isInner": false
   },
   {
-   "id": "d595baa",
+   "id": "3c65e51",
    "elType": "section",
    "settings": {
     "layout": "boxed",
@@ -944,7 +944,7 @@
    },
    "elements": [
     {
-     "id": "8078f5f",
+     "id": "17431e6",
      "elType": "column",
      "settings": {
       "_column_size": 33,
@@ -1004,7 +1004,7 @@
      },
      "elements": [
       {
-       "id": "7289757",
+       "id": "f489180",
        "elType": "widget",
        "settings": {
         "image": {
@@ -1038,7 +1038,7 @@
        "widgetType": "image"
       },
       {
-       "id": "dbe97c9",
+       "id": "8078f5f",
        "elType": "widget",
        "settings": {
         "title": "Prayer times",
@@ -1069,7 +1069,7 @@
        "widgetType": "heading"
       },
       {
-       "id": "f489180",
+       "id": "7cc7558",
        "elType": "widget",
        "settings": {
         "editor": "<p>Times for your city with adhan and iqama, even when the app is closed.</p>",
@@ -1101,7 +1101,7 @@
      "isInner": false
     },
     {
-     "id": "efcb9e3",
+     "id": "7d88c18",
      "elType": "column",
      "settings": {
       "_column_size": 33,
@@ -1161,7 +1161,7 @@
      },
      "elements": [
       {
-       "id": "7cc7558",
+       "id": "326b0bf",
        "elType": "widget",
        "settings": {
         "image": {
@@ -1195,7 +1195,7 @@
        "widgetType": "image"
       },
       {
-       "id": "17431e6",
+       "id": "efcb9e3",
        "elType": "widget",
        "settings": {
         "title": "Qibla",
@@ -1226,7 +1226,7 @@
        "widgetType": "heading"
       },
       {
-       "id": "326b0bf",
+       "id": "49ea267",
        "elType": "widget",
        "settings": {
         "editor": "<p>A compass pointing to the Kaaba from where you are, with the distance to Makkah.</p>",
@@ -1258,7 +1258,7 @@
      "isInner": false
     },
     {
-     "id": "19cdfed",
+     "id": "e950073",
      "elType": "column",
      "settings": {
       "_column_size": 33,
@@ -1318,7 +1318,7 @@
      },
      "elements": [
       {
-       "id": "49ea267",
+       "id": "3aed813",
        "elType": "widget",
        "settings": {
         "image": {
@@ -1352,7 +1352,7 @@
        "widgetType": "image"
       },
       {
-       "id": "7d88c18",
+       "id": "19cdfed",
        "elType": "widget",
        "settings": {
         "title": "Quran radio",
@@ -1383,7 +1383,7 @@
        "widgetType": "heading"
       },
       {
-       "id": "3aed813",
+       "id": "d595baa",
        "elType": "widget",
        "settings": {
         "editor": "<p>Live Quran radio from Cairo and Riyadh, and many reciters.</p>",
@@ -1418,7 +1418,7 @@
    "isInner": false
   },
   {
-   "id": "8635d35",
+   "id": "ba60d14",
    "elType": "section",
    "settings": {
     "layout": "boxed",
@@ -1451,7 +1451,7 @@
    },
    "elements": [
     {
-     "id": "1aa70ba",
+     "id": "4f38007",
      "elType": "column",
      "settings": {
       "_column_size": 33,
@@ -1511,7 +1511,7 @@
      },
      "elements": [
       {
-       "id": "e950073",
+       "id": "6845b8c",
        "elType": "widget",
        "settings": {
         "image": {
@@ -1545,7 +1545,7 @@
        "widgetType": "image"
       },
       {
-       "id": "3c65e51",
+       "id": "1aa70ba",
        "elType": "widget",
        "settings": {
         "title": "Morning & evening adhkar",
@@ -1576,7 +1576,7 @@
        "widgetType": "heading"
       },
       {
-       "id": "6845b8c",
+       "id": "b6a0ffb",
        "elType": "widget",
        "settings": {
         "editor": "<p>One dhikr at a time with a counter and its virtue, marked when done.</p>",
@@ -1608,7 +1608,7 @@
      "isInner": false
     },
     {
-     "id": "ba02ba4",
+     "id": "479103d",
      "elType": "column",
      "settings": {
       "_column_size": 33,
@@ -1668,7 +1668,7 @@
      },
      "elements": [
       {
-       "id": "b6a0ffb",
+       "id": "3fa7a53",
        "elType": "widget",
        "settings": {
         "image": {
@@ -1702,7 +1702,7 @@
        "widgetType": "image"
       },
       {
-       "id": "4f38007",
+       "id": "ba02ba4",
        "elType": "widget",
        "settings": {
         "title": "Hisn al-Muslim",
@@ -1733,7 +1733,7 @@
        "widgetType": "heading"
       },
       {
-       "id": "3fa7a53",
+       "id": "e2bf15c",
        "elType": "widget",
        "settings": {
         "editor": "<p>All daily and occasion adhkar in 133 chapters, with search.</p>",
@@ -1765,7 +1765,7 @@
      "isInner": false
     },
     {
-     "id": "e93e4cb",
+     "id": "d6ccdfe",
      "elType": "column",
      "settings": {
       "_column_size": 33,
@@ -1825,7 +1825,7 @@
      },
      "elements": [
       {
-       "id": "e2bf15c",
+       "id": "d57d84e",
        "elType": "widget",
        "settings": {
         "image": {
@@ -1859,7 +1859,7 @@
        "widgetType": "image"
       },
       {
-       "id": "479103d",
+       "id": "e93e4cb",
        "elType": "widget",
        "settings": {
         "title": "Tasbih",
@@ -1890,7 +1890,7 @@
        "widgetType": "heading"
       },
       {
-       "id": "d57d84e",
+       "id": "8635d35",
        "elType": "widget",
        "settings": {
         "editor": "<p>A tasbih counter with chosen adhkar that keeps your daily total.</p>",
@@ -1925,7 +1925,7 @@
    "isInner": false
   },
   {
-   "id": "614ae8d",
+   "id": "7a975c2",
    "elType": "section",
    "settings": {
     "layout": "boxed",
@@ -1958,7 +1958,7 @@
    },
    "elements": [
     {
-     "id": "948bcc4",
+     "id": "7a11029",
      "elType": "column",
      "settings": {
       "_column_size": 33,
@@ -2018,7 +2018,7 @@
      },
      "elements": [
       {
-       "id": "d6ccdfe",
+       "id": "4621623",
        "elType": "widget",
        "settings": {
         "image": {
@@ -2052,7 +2052,7 @@
        "widgetType": "image"
       },
       {
-       "id": "ba60d14",
+       "id": "948bcc4",
        "elType": "widget",
        "settings": {
         "title": "Hadith",
@@ -2083,7 +2083,7 @@
        "widgetType": "heading"
       },
       {
-       "id": "4621623",
+       "id": "41fb75d",
        "elType": "widget",
        "settings": {
         "editor": "<p>The Forty Nawawi and Hadith Qudsi, with explanation and word meanings.</p>",
@@ -2115,7 +2115,7 @@
      "isInner": false
     },
     {
-     "id": "3a4cfaa",
+     "id": "b7e6f38",
      "elType": "column",
      "settings": {
       "_column_size": 33,
@@ -2175,7 +2175,7 @@
      },
      "elements": [
       {
-       "id": "41fb75d",
+       "id": "f6533e9",
        "elType": "widget",
        "settings": {
         "image": {
@@ -2209,7 +2209,7 @@
        "widgetType": "image"
       },
       {
-       "id": "7a11029",
+       "id": "3a4cfaa",
        "elType": "widget",
        "settings": {
         "title": "Stories & Seerah",
@@ -2240,7 +2240,7 @@
        "widgetType": "heading"
       },
       {
-       "id": "f6533e9",
+       "id": "9e01198",
        "elType": "widget",
        "settings": {
         "editor": "<p>Prophets, Companions, the Prophet's family and battles, in short episodes.</p>",
@@ -2272,7 +2272,7 @@
      "isInner": false
     },
     {
-     "id": "8b0399b",
+     "id": "8ea9fd6",
      "elType": "column",
      "settings": {
       "_column_size": 33,
@@ -2332,7 +2332,7 @@
      },
      "elements": [
       {
-       "id": "9e01198",
+       "id": "8cacb76",
        "elType": "widget",
        "settings": {
         "image": {
@@ -2366,7 +2366,7 @@
        "widgetType": "image"
       },
       {
-       "id": "b7e6f38",
+       "id": "8b0399b",
        "elType": "widget",
        "settings": {
         "title": "Simplified Fiqh",
@@ -2397,7 +2397,7 @@
        "widgetType": "heading"
       },
       {
-       "id": "8cacb76",
+       "id": "614ae8d",
        "elType": "widget",
        "settings": {
         "editor": "<p>A hundred books on worship, dealings, family and manners, with evidence.</p>",
@@ -2432,7 +2432,7 @@
    "isInner": false
   },
   {
-   "id": "137aa92",
+   "id": "71f38c7",
    "elType": "section",
    "settings": {
     "layout": "boxed",
@@ -2465,7 +2465,7 @@
    },
    "elements": [
     {
-     "id": "7f77d23",
+     "id": "143a608",
      "elType": "column",
      "settings": {
       "_column_size": 33,
@@ -2525,7 +2525,7 @@
      },
      "elements": [
       {
-       "id": "8ea9fd6",
+       "id": "612f7d4",
        "elType": "widget",
        "settings": {
         "image": {
@@ -2559,7 +2559,7 @@
        "widgetType": "image"
       },
       {
-       "id": "7a975c2",
+       "id": "7f77d23",
        "elType": "widget",
        "settings": {
         "title": "Fatwas",
@@ -2590,7 +2590,7 @@
        "widgetType": "heading"
       },
       {
-       "id": "612f7d4",
+       "id": "645732d",
        "elType": "widget",
        "settings": {
         "editor": "<p>Over two thousand questions, with scholars' video answers.</p>",
@@ -2622,7 +2622,7 @@
      "isInner": false
     },
     {
-     "id": "04da029",
+     "id": "84dfa91",
      "elType": "column",
      "settings": {
       "_column_size": 33,
@@ -2682,7 +2682,7 @@
      },
      "elements": [
       {
-       "id": "645732d",
+       "id": "1f1f745",
        "elType": "widget",
        "settings": {
         "image": {
@@ -2716,7 +2716,7 @@
        "widgetType": "image"
       },
       {
-       "id": "143a608",
+       "id": "04da029",
        "elType": "widget",
        "settings": {
         "title": "Zakat calculator",
@@ -2747,7 +2747,7 @@
        "widgetType": "heading"
       },
       {
-       "id": "1f1f745",
+       "id": "8ab8935",
        "elType": "widget",
        "settings": {
         "editor": "<p>Money, gold, silver, trade, fitr, crops, livestock and treasure, in SAR, EGP and USD.</p>",
@@ -2779,7 +2779,7 @@
      "isInner": false
     },
     {
-     "id": "0dc6564",
+     "id": "3476e55",
      "elType": "column",
      "settings": {
       "_column_size": 33,
@@ -2839,7 +2839,7 @@
      },
      "elements": [
       {
-       "id": "8ab8935",
+       "id": "d9b2e4f",
        "elType": "widget",
        "settings": {
         "image": {
@@ -2873,7 +2873,7 @@
        "widgetType": "image"
       },
       {
-       "id": "84dfa91",
+       "id": "0dc6564",
        "elType": "widget",
        "settings": {
         "title": "My deeds",
@@ -2904,7 +2904,7 @@
        "widgetType": "heading"
       },
       {
-       "id": "d9b2e4f",
+       "id": "137aa92",
        "elType": "widget",
        "settings": {
         "editor": "<p>A daily list of prayers, adhkar and reading, ticked automatically, with a history.</p>",
@@ -2939,7 +2939,7 @@
    "isInner": false
   },
   {
-   "id": "ad2fce4",
+   "id": "fd22c03",
    "elType": "section",
    "settings": {
     "layout": "boxed",
@@ -2972,7 +2972,7 @@
    },
    "elements": [
     {
-     "id": "251dc7e",
+     "id": "525be0c",
      "elType": "column",
      "settings": {
       "_column_size": 33,
@@ -3032,7 +3032,7 @@
      },
      "elements": [
       {
-       "id": "3476e55",
+       "id": "8e7bd0a",
        "elType": "widget",
        "settings": {
         "image": {
@@ -3066,7 +3066,7 @@
        "widgetType": "image"
       },
       {
-       "id": "71f38c7",
+       "id": "251dc7e",
        "elType": "widget",
        "settings": {
         "title": "Hijri & Gregorian calendar",
@@ -3097,7 +3097,7 @@
        "widgetType": "heading"
       },
       {
-       "id": "8e7bd0a",
+       "id": "2c42198",
        "elType": "widget",
        "settings": {
         "editor": "<p>Today in both calendars, the white days, and Islamic and world occasions.</p>",
@@ -3129,7 +3129,7 @@
      "isInner": false
     },
     {
-     "id": "bf11eba",
+     "id": "f5053a1",
      "elType": "column",
      "settings": {
       "_column_size": 33,
@@ -3189,7 +3189,7 @@
      },
      "elements": [
       {
-       "id": "2c42198",
+       "id": "7831b02",
        "elType": "widget",
        "settings": {
         "image": {
@@ -3223,7 +3223,7 @@
        "widgetType": "image"
       },
       {
-       "id": "525be0c",
+       "id": "bf11eba",
        "elType": "widget",
        "settings": {
         "title": "Ramadan timetable",
@@ -3254,7 +3254,7 @@
        "widgetType": "heading"
       },
       {
-       "id": "7831b02",
+       "id": "f7d0193",
        "elType": "widget",
        "settings": {
         "editor": "<p>Suhoor and iftar times for every day of Ramadan in your city.</p>",
@@ -3286,7 +3286,7 @@
      "isInner": false
     },
     {
-     "id": "6bd80a5",
+     "id": "aff983e",
      "elType": "column",
      "settings": {
       "_column_size": 33,
@@ -3346,7 +3346,7 @@
      },
      "elements": [
       {
-       "id": "f7d0193",
+       "id": "b54c802",
        "elType": "widget",
        "settings": {
         "image": {
@@ -3380,7 +3380,7 @@
        "widgetType": "image"
       },
       {
-       "id": "f5053a1",
+       "id": "6bd80a5",
        "elType": "widget",
        "settings": {
         "title": "Islamic quiz",
@@ -3411,7 +3411,7 @@
        "widgetType": "heading"
       },
       {
-       "id": "b54c802",
+       "id": "ad2fce4",
        "elType": "widget",
        "settings": {
         "editor": "<p>Over 750 questions on Quran, prophets, seerah and fiqh. Challenge your family.</p>",
@@ -3446,7 +3446,7 @@
    "isInner": false
   },
   {
-   "id": "bce7039",
+   "id": "a699993",
    "elType": "section",
    "settings": {
     "layout": "boxed",
@@ -3479,7 +3479,7 @@
    },
    "elements": [
     {
-     "id": "2610c3b",
+     "id": "e505c23",
      "elType": "column",
      "settings": {
       "_column_size": 33,
@@ -3539,7 +3539,7 @@
      },
      "elements": [
       {
-       "id": "aff983e",
+       "id": "444816f",
        "elType": "widget",
        "settings": {
         "image": {
@@ -3573,7 +3573,7 @@
        "widgetType": "image"
       },
       {
-       "id": "fd22c03",
+       "id": "2610c3b",
        "elType": "widget",
        "settings": {
         "title": "Stories & games",
@@ -3604,7 +3604,7 @@
        "widgetType": "heading"
       },
       {
-       "id": "444816f",
+       "id": "3d54ebc",
        "elType": "widget",
        "settings": {
         "editor": "<p>Order the verse, a memory game, and one-minute Quran stories.</p>",
@@ -3636,7 +3636,7 @@
      "isInner": false
     },
     {
-     "id": "e3805a7",
+     "id": "84220bb",
      "elType": "column",
      "settings": {
       "_column_size": 33,
@@ -3696,7 +3696,7 @@
      },
      "elements": [
       {
-       "id": "3d54ebc",
+       "id": "6d23eae",
        "elType": "widget",
        "settings": {
         "image": {
@@ -3730,7 +3730,7 @@
        "widgetType": "image"
       },
       {
-       "id": "e505c23",
+       "id": "e3805a7",
        "elType": "widget",
        "settings": {
         "title": "Debates & dialogues",
@@ -3761,7 +3761,7 @@
        "widgetType": "heading"
       },
       {
-       "id": "6d23eae",
+       "id": "d945c1f",
        "elType": "widget",
        "settings": {
         "editor": "<p>The prophets' dialogues with their people as told in the Quran, and famous debates.</p>",
@@ -3793,7 +3793,7 @@
      "isInner": false
     },
     {
-     "id": "4d26995",
+     "id": "4e932b3",
      "elType": "column",
      "settings": {
       "_column_size": 33,
@@ -3853,7 +3853,7 @@
      },
      "elements": [
       {
-       "id": "d945c1f",
+       "id": "c7be8b9",
        "elType": "widget",
        "settings": {
         "image": {
@@ -3887,7 +3887,7 @@
        "widgetType": "image"
       },
       {
-       "id": "84220bb",
+       "id": "4d26995",
        "elType": "widget",
        "settings": {
         "title": "Science & Faith",
@@ -3918,7 +3918,7 @@
        "widgetType": "heading"
       },
       {
-       "id": "c7be8b9",
+       "id": "bce7039",
        "elType": "widget",
        "settings": {
         "editor": "<p>Dr Mostafa Mahmoud's episodes on the wonders of creation.</p>",
@@ -3953,7 +3953,7 @@
    "isInner": false
   },
   {
-   "id": "04c2013",
+   "id": "9ecb6e3",
    "elType": "section",
    "settings": {
     "layout": "boxed",
@@ -3986,7 +3986,7 @@
    },
    "elements": [
     {
-     "id": "990593b",
+     "id": "26f3dda",
      "elType": "column",
      "settings": {
       "_column_size": 100,
@@ -4046,7 +4046,7 @@
      },
      "elements": [
       {
-       "id": "dd2d969",
+       "id": "ed517d1",
        "elType": "widget",
        "settings": {
         "title": "Your data stays on your phone",
@@ -4077,7 +4077,7 @@
        "widgetType": "heading"
       },
       {
-       "id": "f83f287",
+       "id": "990593b",
        "elType": "widget",
        "settings": {
         "editor": "<p>No account, no ads. Your deeds record, zakat numbers and settings stay on your phone; we never receive them.</p>",
@@ -4106,7 +4106,7 @@
        "widgetType": "text-editor"
       },
       {
-       "id": "ed517d1",
+       "id": "04c2013",
        "elType": "widget",
        "settings": {
         "text": "Read the privacy policy",
@@ -4157,7 +4157,7 @@
    "isInner": false
   },
   {
-   "id": "a7e8f9e",
+   "id": "492c908",
    "elType": "section",
    "settings": {
     "layout": "boxed",
@@ -4191,7 +4191,7 @@
    },
    "elements": [
     {
-     "id": "9ecb6e3",
+     "id": "29d5c0a",
      "elType": "column",
      "settings": {
       "_column_size": 20,
@@ -4199,7 +4199,7 @@
      },
      "elements": [
       {
-       "id": "26f3dda",
+       "id": "6d30764",
        "elType": "widget",
        "settings": {
         "image": {
@@ -4223,7 +4223,7 @@
      "isInner": false
     },
     {
-     "id": "fd5158d",
+     "id": "90da420",
      "elType": "column",
      "settings": {
       "_column_size": 80,
@@ -4231,7 +4231,7 @@
      },
      "elements": [
       {
-       "id": "6d30764",
+       "id": "9b8c5c2",
        "elType": "widget",
        "settings": {
         "title": "Get in touch",
@@ -4262,7 +4262,7 @@
        "widgetType": "heading"
       },
       {
-       "id": "29d5c0a",
+       "id": "fd5158d",
        "elType": "widget",
        "settings": {
         "editor": "<p>For a suggestion, a note on one of our apps, or a correction, write to us. We are happy to reply.</p>",
@@ -4291,7 +4291,7 @@
        "widgetType": "text-editor"
       },
       {
-       "id": "9b8c5c2",
+       "id": "a7e8f9e",
        "elType": "widget",
        "settings": {
         "text": "hello@farhoon.com",
@@ -4342,7 +4342,7 @@
    "isInner": false
   },
   {
-   "id": "9c0a191",
+   "id": "a29efd6",
    "elType": "section",
    "settings": {
     "layout": "boxed",
@@ -4376,7 +4376,7 @@
    },
    "elements": [
     {
-     "id": "3c1984d",
+     "id": "e1c8382",
      "elType": "column",
      "settings": {
       "_column_size": 25,
@@ -4384,7 +4384,7 @@
      },
      "elements": [
       {
-       "id": "bb980db",
+       "id": "a51789f",
        "elType": "widget",
        "settings": {
         "image": {
@@ -4416,7 +4416,7 @@
      "isInner": false
     },
     {
-     "id": "e1c8382",
+     "id": "e040945",
      "elType": "column",
      "settings": {
       "_column_size": 50,
@@ -4424,7 +4424,7 @@
      },
      "elements": [
       {
-       "id": "a51789f",
+       "id": "8ef3914",
        "elType": "widget",
        "settings": {
         "editor": "<p class=\"f-foot-links\" style=\"margin:0\"><a href=\"/en/\">Home</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href=\"/en/about/\">About</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href=\"/en/rafiq/\">Rafiq Al-Taa</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href=\"/en/games/\">Games</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href=\"/en/blog/\">Blog</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href=\"/en/contact/\">Contact</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href=\"/en/rafiq/privacy/\">Privacy policy</a></p>",
@@ -4456,7 +4456,7 @@
      "isInner": false
     },
     {
-     "id": "e040945",
+     "id": "eaa3227",
      "elType": "column",
      "settings": {
       "_column_size": 25,
@@ -4464,7 +4464,7 @@
      },
      "elements": [
       {
-       "id": "8ef3914",
+       "id": "9c0a191",
        "elType": "widget",
        "settings": {
         "editor": "<p style=\"margin:0\">© 2026 Farhoon<br><a href=\"mailto:hello@farhoon.com\" style=\"color:#FFC531\">hello@farhoon.com</a></p>",

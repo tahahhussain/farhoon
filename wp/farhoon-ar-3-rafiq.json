@@ -4,7 +4,7 @@
  "type": "page",
  "content": [
   {
-   "id": "5b7cbe7",
+   "id": "0583355",
    "elType": "section",
    "settings": {
     "layout": "boxed",
@@ -38,7 +38,7 @@
    },
    "elements": [
     {
-     "id": "6610143",
+     "id": "f345da2",
      "elType": "column",
      "settings": {
       "_column_size": 20,
@@ -47,7 +47,7 @@
      },
      "elements": [
       {
-       "id": "6566da0",
+       "id": "6610143",
        "elType": "widget",
        "settings": {
         "image": {
@@ -79,7 +79,7 @@
      "isInner": false
     },
     {
-     "id": "8317f76",
+     "id": "5b7cbe7",
      "elType": "column",
      "settings": {
       "_column_size": 80,
@@ -88,7 +88,7 @@
      },
      "elements": [
       {
-       "id": "f345da2",
+       "id": "8317f76",
        "elType": "widget",
        "settings": {
         "html": "<nav class=\"f-nav\" aria-label=\"القائمة الرئيسية\"><input type=\"checkbox\" id=\"f-menu\" class=\"f-toggle\"><label for=\"f-menu\" class=\"f-burger\"><span class=\"f-sr\">فتح القائمة</span><span></span><span></span><span></span></label><ul><li><a class=\"\" href=\"/\">الرئيسية</a></li><li><a class=\"\" href=\"/about/\">من نحن</a></li><li><a class=\"on\" href=\"/rafiq/\">رفيق الطاعة</a></li><li><a class=\"\" href=\"/games/\">ألعابنا</a></li><li><a class=\"\" href=\"/blog/\">المدونة</a></li><li><a class=\"\" href=\"/contact/\">تواصل معنا</a></li><li><a class=\"f-lang\" href=\"/en/rafiq/\" lang=\"en\">English</a></li></ul></nav>"
@@ -103,7 +103,7 @@
    "isInner": false
   },
   {
-   "id": "b55ba1a",
+   "id": "9e3939c",
    "elType": "section",
    "settings": {
     "layout": "boxed",
@@ -136,7 +136,7 @@
    },
    "elements": [
     {
-     "id": "8fe873e",
+     "id": "b55ba1a",
      "elType": "column",
      "settings": {
       "_column_size": 100,
@@ -144,7 +144,7 @@
      },
      "elements": [
       {
-       "id": "a4046b7",
+       "id": "263c5a9",
        "elType": "widget",
        "settings": {
         "image": {
@@ -173,7 +173,7 @@
        "widgetType": "image"
       },
       {
-       "id": "263c5a9",
+       "id": "101ee77",
        "elType": "widget",
        "settings": {
         "title": "رفيق الطاعة",
@@ -204,7 +204,7 @@
        "widgetType": "heading"
       },
       {
-       "id": "101ee77",
+       "id": "8e663b2",
        "elType": "widget",
        "settings": {
         "editor": "<p>رفيقك اليومي في القرآن والصلاة والذكر</p>",
@@ -233,7 +233,7 @@
        "widgetType": "text-editor"
       },
       {
-       "id": "8e663b2",
+       "id": "153df78",
        "elType": "widget",
        "settings": {
         "editor": "<p><span class=\"f-chip\" style=\"background:#FFFFFF\">مجاني</span><span class=\"f-chip\" style=\"background:#FFFFFF\">بدون إعلانات</span><span class=\"f-chip\" style=\"background:#FFFFFF\">بدون حساب</span><span class=\"f-chip\" style=\"background:#FFFFFF\">بياناتك على هاتفك</span></p>",
@@ -262,7 +262,7 @@
        "widgetType": "text-editor"
       },
       {
-       "id": "153df78",
+       "id": "8fe873e",
        "elType": "widget",
        "settings": {
         "editor": "<p><span class=\"f-soon\">قريبًا على Google Play وApp Store</span></p>",
@@ -297,7 +297,7 @@
    "isInner": false
   },
   {
-   "id": "cf74f09",
+   "id": "e8dfcb7",
    "elType": "section",
    "settings": {
     "layout": "boxed",
@@ -330,7 +330,7 @@
    },
    "elements": [
     {
-     "id": "4592370",
+     "id": "cf74f09",
      "elType": "column",
      "settings": {
       "_column_size": 100,
@@ -338,7 +338,7 @@
      },
      "elements": [
       {
-       "id": "9e3939c",
+       "id": "09c94ff",
        "elType": "widget",
        "settings": {
         "title": "أكثر من عشرين قسمًا في تطبيق واحد",
@@ -369,7 +369,7 @@
        "widgetType": "heading"
       },
       {
-       "id": "09c94ff",
+       "id": "4592370",
        "elType": "widget",
        "settings": {
         "editor": "<p>صدقة جارية بلا إعلانات ولا حساب، بتصميم هادئ وعربية سليمة. هذه جولة سريعة في أقسامه.</p>",
@@ -404,7 +404,7 @@
    "isInner": false
   },
   {
-   "id": "2515d09",
+   "id": "2688dbf",
    "elType": "section",
    "settings": {
     "layout": "boxed",
@@ -437,7 +437,7 @@
    },
    "elements": [
     {
-     "id": "9fa4dd8",
+     "id": "112c65c",
      "elType": "column",
      "settings": {
       "_column_size": 33,
@@ -497,7 +497,7 @@
      },
      "elements": [
       {
-       "id": "09296da",
+       "id": "f3180df",
        "elType": "widget",
        "settings": {
         "image": {
@@ -531,7 +531,7 @@
        "widgetType": "image"
       },
       {
-       "id": "f3180df",
+       "id": "b706939",
        "elType": "widget",
        "settings": {
         "title": "الصفحة الرئيسية",
@@ -562,7 +562,7 @@
        "widgetType": "heading"
       },
       {
-       "id": "b706939",
+       "id": "9fa4dd8",
        "elType": "widget",
        "settings": {
         "editor": "<p>الصلاة القادمة، وطاعات اليوم، وحديث اليوم وفائدته، والوصول إلى كل الأقسام.</p>",
@@ -594,7 +594,7 @@
      "isInner": false
     },
     {
-     "id": "f6e799f",
+     "id": "227149c",
      "elType": "column",
      "settings": {
       "_column_size": 33,
@@ -654,7 +654,7 @@
      },
      "elements": [
       {
-       "id": "112c65c",
+       "id": "0ae27b8",
        "elType": "widget",
        "settings": {
         "image": {
@@ -688,7 +688,7 @@
        "widgetType": "image"
       },
       {
-       "id": "0ae27b8",
+       "id": "265098f",
        "elType": "widget",
        "settings": {
         "title": "المصحف الشريف",
@@ -719,7 +719,7 @@
        "widgetType": "heading"
       },
       {
-       "id": "265098f",
+       "id": "f6e799f",
        "elType": "widget",
        "settings": {
         "editor": "<p>مصحف المدينة ٦٠٤ صفحة، مع التلاوة بأصوات قرّاء كثيرين والقراءة التلقائية.</p>",
@@ -751,7 +751,7 @@
      "isInner": false
     },
     {
-     "id": "45f1321",
+     "id": "2515d09",
      "elType": "column",
      "settings": {
       "_column_size": 33,
@@ -811,7 +811,7 @@
      },
      "elements": [
       {
-       "id": "227149c",
+       "id": "9f43a83",
        "elType": "widget",
        "settings": {
         "image": {
@@ -845,7 +845,7 @@
        "widgetType": "image"
       },
       {
-       "id": "9f43a83",
+       "id": "a347732",
        "elType": "widget",
        "settings": {
         "title": "تعلّم التجويد",
@@ -876,7 +876,7 @@
        "widgetType": "heading"
       },
       {
-       "id": "a347732",
+       "id": "45f1321",
        "elType": "widget",
        "settings": {
         "editor": "<p>دروس أحكام التلاوة خطوة بخطوة، مع تلوين الأحكام في المصحف.</p>",
@@ -911,7 +911,7 @@
    "isInner": false
   },
   {
-   "id": "fff641c",
+   "id": "0770cec",
    "elType": "section",
    "settings": {
     "layout": "boxed",
@@ -944,7 +944,7 @@
    },
    "elements": [
     {
-     "id": "16c41b8",
+     "id": "4253a67",
      "elType": "column",
      "settings": {
       "_column_size": 33,
@@ -1004,7 +1004,7 @@
      },
      "elements": [
       {
-       "id": "2688dbf",
+       "id": "e7fb832",
        "elType": "widget",
        "settings": {
         "image": {
@@ -1038,7 +1038,7 @@
        "widgetType": "image"
       },
       {
-       "id": "e7fb832",
+       "id": "bc4d1f4",
        "elType": "widget",
        "settings": {
         "title": "مواقيت الصلاة",
@@ -1069,7 +1069,7 @@
        "widgetType": "heading"
       },
       {
-       "id": "bc4d1f4",
+       "id": "16c41b8",
        "elType": "widget",
        "settings": {
         "editor": "<p>مواقيت مدينتك والأذان والإقامة، يصلك الأذان والتطبيق مغلق.</p>",
@@ -1101,7 +1101,7 @@
      "isInner": false
     },
     {
-     "id": "2b7b873",
+     "id": "f2518d4",
      "elType": "column",
      "settings": {
       "_column_size": 33,
@@ -1161,7 +1161,7 @@
      },
      "elements": [
       {
-       "id": "4253a67",
+       "id": "aee80a2",
        "elType": "widget",
        "settings": {
         "image": {
@@ -1195,7 +1195,7 @@
        "widgetType": "image"
       },
       {
-       "id": "aee80a2",
+       "id": "b423994",
        "elType": "widget",
        "settings": {
         "title": "اتجاه القبلة",
@@ -1226,7 +1226,7 @@
        "widgetType": "heading"
       },
       {
-       "id": "b423994",
+       "id": "2b7b873",
        "elType": "widget",
        "settings": {
         "editor": "<p>بوصلة تشير إلى الكعبة من موقعك، مع المسافة إلى مكة.</p>",
@@ -1258,7 +1258,7 @@
      "isInner": false
     },
     {
-     "id": "0f7f812",
+     "id": "fff641c",
      "elType": "column",
      "settings": {
       "_column_size": 33,
@@ -1318,7 +1318,7 @@
      },
      "elements": [
       {
-       "id": "f2518d4",
+       "id": "27c4457",
        "elType": "widget",
        "settings": {
         "image": {
@@ -1352,7 +1352,7 @@
        "widgetType": "image"
       },
       {
-       "id": "27c4457",
+       "id": "d595189",
        "elType": "widget",
        "settings": {
         "title": "إذاعات القرآن",
@@ -1383,7 +1383,7 @@
        "widgetType": "heading"
       },
       {
-       "id": "d595189",
+       "id": "0f7f812",
        "elType": "widget",
        "settings": {
         "editor": "<p>إذاعة القرآن الكريم من القاهرة والرياض وقرّاء كثيرون بثًّا مباشرًا.</p>",
@@ -1418,7 +1418,7 @@
    "isInner": false
   },
   {
-   "id": "ea5ef7b",
+   "id": "e18c2a1",
    "elType": "section",
    "settings": {
     "layout": "boxed",
@@ -1451,7 +1451,7 @@
    },
    "elements": [
     {
-     "id": "065f79c",
+     "id": "24fdd57",
      "elType": "column",
      "settings": {
       "_column_size": 33,
@@ -1511,7 +1511,7 @@
      },
      "elements": [
       {
-       "id": "0770cec",
+       "id": "c3c1385",
        "elType": "widget",
        "settings": {
         "image": {
@@ -1545,7 +1545,7 @@
        "widgetType": "image"
       },
       {
-       "id": "c3c1385",
+       "id": "c223696",
        "elType": "widget",
        "settings": {
         "title": "أذكار الصباح والمساء",
@@ -1576,7 +1576,7 @@
        "widgetType": "heading"
       },
       {
-       "id": "c223696",
+       "id": "065f79c",
        "elType": "widget",
        "settings": {
         "editor": "<p>ذكرًا بعد ذكر مع العدّاد والفضل، ويُعلَّم الذكر عند إتمامه.</p>",
@@ -1608,7 +1608,7 @@
      "isInner": false
     },
     {
-     "id": "3b2d58a",
+     "id": "83b0259",
      "elType": "column",
      "settings": {
       "_column_size": 33,
@@ -1668,7 +1668,7 @@
      },
      "elements": [
       {
-       "id": "24fdd57",
+       "id": "29103db",
        "elType": "widget",
        "settings": {
         "image": {
@@ -1702,7 +1702,7 @@
        "widgetType": "image"
       },
       {
-       "id": "29103db",
+       "id": "2e69788",
        "elType": "widget",
        "settings": {
         "title": "حصن المسلم",
@@ -1733,7 +1733,7 @@
        "widgetType": "heading"
       },
       {
-       "id": "2e69788",
+       "id": "3b2d58a",
        "elType": "widget",
        "settings": {
         "editor": "<p>كل أذكار اليوم والليلة والمناسبات في ١٣٣ بابًا مع البحث.</p>",
@@ -1765,7 +1765,7 @@
      "isInner": false
     },
     {
-     "id": "c6e1207",
+     "id": "ea5ef7b",
      "elType": "column",
      "settings": {
       "_column_size": 33,
@@ -1825,7 +1825,7 @@
      },
      "elements": [
       {
-       "id": "83b0259",
+       "id": "d51e3ba",
        "elType": "widget",
        "settings": {
         "image": {
@@ -1859,7 +1859,7 @@
        "widgetType": "image"
       },
       {
-       "id": "d51e3ba",
+       "id": "a90967b",
        "elType": "widget",
        "settings": {
         "title": "السبحة",
@@ -1890,7 +1890,7 @@
        "widgetType": "heading"
       },
       {
-       "id": "a90967b",
+       "id": "c6e1207",
        "elType": "widget",
        "settings": {
         "editor": "<p>عدّاد تسبيح بأذكار مختارة، يحفظ مجموعك اليومي.</p>",
@@ -1925,7 +1925,7 @@
    "isInner": false
   },
   {
-   "id": "82fc2d9",
+   "id": "05ca0ee",
    "elType": "section",
    "settings": {
     "layout": "boxed",
@@ -1958,7 +1958,7 @@
    },
    "elements": [
     {
-     "id": "0f409cc",
+     "id": "9ed71ec",
      "elType": "column",
      "settings": {
       "_column_size": 33,
@@ -2018,7 +2018,7 @@
      },
      "elements": [
       {
-       "id": "e18c2a1",
+       "id": "ecdcd20",
        "elType": "widget",
        "settings": {
         "image": {
@@ -2052,7 +2052,7 @@
        "widgetType": "image"
       },
       {
-       "id": "ecdcd20",
+       "id": "2ae580e",
        "elType": "widget",
        "settings": {
         "title": "الحديث الشريف",
@@ -2083,7 +2083,7 @@
        "widgetType": "heading"
       },
       {
-       "id": "2ae580e",
+       "id": "0f409cc",
        "elType": "widget",
        "settings": {
         "editor": "<p>الأربعون النووية والأحاديث القدسية بالشرح ومعاني الكلمات.</p>",
@@ -2115,7 +2115,7 @@
      "isInner": false
     },
     {
-     "id": "0b69aea",
+     "id": "75df9c5",
      "elType": "column",
      "settings": {
       "_column_size": 33,
@@ -2175,7 +2175,7 @@
      },
      "elements": [
       {
-       "id": "9ed71ec",
+       "id": "2ceb3d9",
        "elType": "widget",
        "settings": {
         "image": {
@@ -2209,7 +2209,7 @@
        "widgetType": "image"
       },
       {
-       "id": "2ceb3d9",
+       "id": "f63ff8d",
        "elType": "widget",
        "settings": {
         "title": "القصص والسيرة",
@@ -2240,7 +2240,7 @@
        "widgetType": "heading"
       },
       {
-       "id": "f63ff8d",
+       "id": "0b69aea",
        "elType": "widget",
        "settings": {
         "editor": "<p>قصص الأنبياء والصحابة وأهل البيت والغزوات في حلقات قصيرة.</p>",
@@ -2272,7 +2272,7 @@
      "isInner": false
     },
     {
-     "id": "f8fbf5e",
+     "id": "82fc2d9",
      "elType": "column",
      "settings": {
       "_column_size": 33,
@@ -2332,7 +2332,7 @@
      },
      "elements": [
       {
-       "id": "75df9c5",
+       "id": "39cc0df",
        "elType": "widget",
        "settings": {
         "image": {
@@ -2366,7 +2366,7 @@
        "widgetType": "image"
       },
       {
-       "id": "39cc0df",
+       "id": "fe97a0a",
        "elType": "widget",
        "settings": {
         "title": "الفقه الميسّر",
@@ -2397,7 +2397,7 @@
        "widgetType": "heading"
       },
       {
-       "id": "fe97a0a",
+       "id": "f8fbf5e",
        "elType": "widget",
        "settings": {
         "editor": "<p>مائة كتاب في العبادات والمعاملات والأسرة والآداب بأدلتها.</p>",
@@ -2432,7 +2432,7 @@
    "isInner": false
   },
   {
-   "id": "804e8d4",
+   "id": "65a28c9",
    "elType": "section",
    "settings": {
     "layout": "boxed",
@@ -2465,7 +2465,7 @@
    },
    "elements": [
     {
-     "id": "49542e6",
+     "id": "67b7d55",
      "elType": "column",
      "settings": {
       "_column_size": 33,
@@ -2525,7 +2525,7 @@
      },
      "elements": [
       {
-       "id": "05ca0ee",
+       "id": "bc641e9",
        "elType": "widget",
        "settings": {
         "image": {
@@ -2559,7 +2559,7 @@
        "widgetType": "image"
       },
       {
-       "id": "bc641e9",
+       "id": "9a20f35",
        "elType": "widget",
        "settings": {
         "title": "الفتاوى",
@@ -2590,7 +2590,7 @@
        "widgetType": "heading"
       },
       {
-       "id": "9a20f35",
+       "id": "49542e6",
        "elType": "widget",
        "settings": {
         "editor": "<p>أكثر من ألفي سؤال، وإجابات العلماء بالفيديو.</p>",
@@ -2622,7 +2622,7 @@
      "isInner": false
     },
     {
-     "id": "e244f96",
+     "id": "ff229fd",
      "elType": "column",
      "settings": {
       "_column_size": 33,
@@ -2682,7 +2682,7 @@
      },
      "elements": [
       {
-       "id": "67b7d55",
+       "id": "56d6bf9",
        "elType": "widget",
        "settings": {
         "image": {
@@ -2716,7 +2716,7 @@
        "widgetType": "image"
       },
       {
-       "id": "56d6bf9",
+       "id": "af5f574",
        "elType": "widget",
        "settings": {
         "title": "حاسبة الزكاة",
@@ -2747,7 +2747,7 @@
        "widgetType": "heading"
       },
       {
-       "id": "af5f574",
+       "id": "e244f96",
        "elType": "widget",
        "settings": {
         "editor": "<p>المال والذهب والفضة والتجارة والفطر والزروع والأنعام والركاز، بالريال والجنيه والدولار.</p>",
@@ -2779,7 +2779,7 @@
      "isInner": false
     },
     {
-     "id": "cf3c54c",
+     "id": "804e8d4",
      "elType": "column",
      "settings": {
       "_column_size": 33,
@@ -2839,7 +2839,7 @@
      },
      "elements": [
       {
-       "id": "ff229fd",
+       "id": "7ba3c08",
        "elType": "widget",
        "settings": {
         "image": {
@@ -2873,7 +2873,7 @@
        "widgetType": "image"
       },
       {
-       "id": "7ba3c08",
+       "id": "a76761f",
        "elType": "widget",
        "settings": {
         "title": "طاعاتي",
@@ -2904,7 +2904,7 @@
        "widgetType": "heading"
       },
       {
-       "id": "a76761f",
+       "id": "cf3c54c",
        "elType": "widget",
        "settings": {
         "editor": "<p>قائمة يومية للصلوات والأذكار والورد، تُعلَّم تلقائيًا مع سجل الأيام.</p>",
@@ -2939,7 +2939,7 @@
    "isInner": false
   },
   {
-   "id": "14c5e90",
+   "id": "20d6d40",
    "elType": "section",
    "settings": {
     "layout": "boxed",
@@ -2972,7 +2972,7 @@
    },
    "elements": [
     {
-     "id": "6daa37f",
+     "id": "c4d286a",
      "elType": "column",
      "settings": {
       "_column_size": 33,
@@ -3032,7 +3032,7 @@
      },
      "elements": [
       {
-       "id": "65a28c9",
+       "id": "dc9e4e4",
        "elType": "widget",
        "settings": {
         "image": {
@@ -3066,7 +3066,7 @@
        "widgetType": "image"
       },
       {
-       "id": "dc9e4e4",
+       "id": "668ca86",
        "elType": "widget",
        "settings": {
         "title": "التقويم الهجري والميلادي",
@@ -3097,7 +3097,7 @@
        "widgetType": "heading"
       },
       {
-       "id": "668ca86",
+       "id": "6daa37f",
        "elType": "widget",
        "settings": {
         "editor": "<p>تاريخ اليوم بالتقويمين، والأيام البيض، والمناسبات الإسلامية والعالمية.</p>",
@@ -3129,7 +3129,7 @@
      "isInner": false
     },
     {
-     "id": "6b77093",
+     "id": "45b8e75",
      "elType": "column",
      "settings": {
       "_column_size": 33,
@@ -3189,7 +3189,7 @@
      },
      "elements": [
       {
-       "id": "c4d286a",
+       "id": "706c747",
        "elType": "widget",
        "settings": {
         "image": {
@@ -3223,7 +3223,7 @@
        "widgetType": "image"
       },
       {
-       "id": "706c747",
+       "id": "a20a907",
        "elType": "widget",
        "settings": {
         "title": "إمساكية رمضان",
@@ -3254,7 +3254,7 @@
        "widgetType": "heading"
       },
       {
-       "id": "a20a907",
+       "id": "6b77093",
        "elType": "widget",
        "settings": {
         "editor": "<p>مواعيد الإمساك والإفطار لكل أيام رمضان حسب مدينتك.</p>",
@@ -3286,7 +3286,7 @@
      "isInner": false
     },
     {
-     "id": "b394dde",
+     "id": "14c5e90",
      "elType": "column",
      "settings": {
       "_column_size": 33,
@@ -3346,7 +3346,7 @@
      },
      "elements": [
       {
-       "id": "45b8e75",
+       "id": "44e418a",
        "elType": "widget",
        "settings": {
         "image": {
@@ -3380,7 +3380,7 @@
        "widgetType": "image"
       },
       {
-       "id": "44e418a",
+       "id": "fe30eda",
        "elType": "widget",
        "settings": {
         "title": "المسابقات الدينية",
@@ -3411,7 +3411,7 @@
        "widgetType": "heading"
       },
       {
-       "id": "fe30eda",
+       "id": "b394dde",
        "elType": "widget",
        "settings": {
         "editor": "<p>أكثر من ٧٥٠ سؤالًا في القرآن والأنبياء والسيرة والفقه، وتحدَّ أهلك.</p>",
@@ -3446,7 +3446,7 @@
    "isInner": false
   },
   {
-   "id": "e7ab1c3",
+   "id": "a4046b7",
    "elType": "section",
    "settings": {
     "layout": "boxed",
@@ -3479,7 +3479,7 @@
    },
    "elements": [
     {
-     "id": "39c4c5a",
+     "id": "e6bb864",
      "elType": "column",
      "settings": {
       "_column_size": 33,
@@ -3539,7 +3539,7 @@
      },
      "elements": [
       {
-       "id": "20d6d40",
+       "id": "8db8344",
        "elType": "widget",
        "settings": {
         "image": {
@@ -3573,7 +3573,7 @@
        "widgetType": "image"
       },
       {
-       "id": "8db8344",
+       "id": "569810b",
        "elType": "widget",
        "settings": {
         "title": "قصص قصيرة وألعاب",
@@ -3604,7 +3604,7 @@
        "widgetType": "heading"
       },
       {
-       "id": "569810b",
+       "id": "39c4c5a",
        "elType": "widget",
        "settings": {
         "editor": "<p>رتّب الآية، ولعبة الذاكرة، وقصص من القرآن تُقرأ في دقيقة.</p>",
@@ -3636,7 +3636,7 @@
      "isInner": false
     },
     {
-     "id": "6d9bf14",
+     "id": "d3f5d0c",
      "elType": "column",
      "settings": {
       "_column_size": 33,
@@ -3696,7 +3696,7 @@
      },
      "elements": [
       {
-       "id": "e6bb864",
+       "id": "f155020",
        "elType": "widget",
        "settings": {
         "image": {
@@ -3730,7 +3730,7 @@
        "widgetType": "image"
       },
       {
-       "id": "f155020",
+       "id": "8ce2241",
        "elType": "widget",
        "settings": {
         "title": "مناظرات وحوارات",
@@ -3761,7 +3761,7 @@
        "widgetType": "heading"
       },
       {
-       "id": "8ce2241",
+       "id": "6d9bf14",
        "elType": "widget",
        "settings": {
         "editor": "<p>حوارات الأنبياء مع أقوامهم كما حكاها القرآن، ومناظرات مشهورة.</p>",
@@ -3793,7 +3793,7 @@
      "isInner": false
     },
     {
-     "id": "a178645",
+     "id": "e7ab1c3",
      "elType": "column",
      "settings": {
       "_column_size": 33,
@@ -3853,7 +3853,7 @@
      },
      "elements": [
       {
-       "id": "d3f5d0c",
+       "id": "c3dd586",
        "elType": "widget",
        "settings": {
         "image": {
@@ -3887,7 +3887,7 @@
        "widgetType": "image"
       },
       {
-       "id": "c3dd586",
+       "id": "fcdd3b7",
        "elType": "widget",
        "settings": {
         "title": "العلم والإيمان",
@@ -3918,7 +3918,7 @@
        "widgetType": "heading"
       },
       {
-       "id": "fcdd3b7",
+       "id": "a178645",
        "elType": "widget",
        "settings": {
         "editor": "<p>حلقات الدكتور مصطفى محمود في عجائب الخلق.</p>",
@@ -3953,7 +3953,7 @@
    "isInner": false
   },
   {
-   "id": "798dac5",
+   "id": "4820b49",
    "elType": "section",
    "settings": {
     "layout": "boxed",
@@ -3986,7 +3986,7 @@
    },
    "elements": [
     {
-     "id": "8867382",
+     "id": "798dac5",
      "elType": "column",
      "settings": {
       "_column_size": 100,
@@ -4046,7 +4046,7 @@
      },
      "elements": [
       {
-       "id": "e8dfcb7",
+       "id": "613cff3",
        "elType": "widget",
        "settings": {
         "title": "بياناتك على هاتفك",
@@ -4077,7 +4077,7 @@
        "widgetType": "heading"
       },
       {
-       "id": "613cff3",
+       "id": "0ca8f3c",
        "elType": "widget",
        "settings": {
         "editor": "<p>لا حساب ولا إعلانات. سجل طاعاتك وأرقام الزكاة وإعداداتك تبقى على هاتفك، ولا نستلمها.</p>",
@@ -4106,7 +4106,7 @@
        "widgetType": "text-editor"
       },
       {
-       "id": "0ca8f3c",
+       "id": "8867382",
        "elType": "widget",
        "settings": {
         "text": "اقرأ سياسة الخصوصية",
@@ -4157,7 +4157,7 @@
    "isInner": false
   },
   {
-   "id": "27eb792",
+   "id": "6566da0",
    "elType": "section",
    "settings": {
     "layout": "boxed",
@@ -4191,7 +4191,7 @@
    },
    "elements": [
     {
-     "id": "1808db2",
+     "id": "3b093c5",
      "elType": "column",
      "settings": {
       "_column_size": 20,
@@ -4199,7 +4199,7 @@
      },
      "elements": [
       {
-       "id": "4820b49",
+       "id": "1808db2",
        "elType": "widget",
        "settings": {
         "image": {
@@ -4223,7 +4223,7 @@
      "isInner": false
     },
     {
-     "id": "bcc407c",
+     "id": "27eb792",
      "elType": "column",
      "settings": {
       "_column_size": 80,
@@ -4231,7 +4231,7 @@
      },
      "elements": [
       {
-       "id": "3b093c5",
+       "id": "e49920a",
        "elType": "widget",
        "settings": {
         "title": "تواصل معنا",
@@ -4262,7 +4262,7 @@
        "widgetType": "heading"
       },
       {
-       "id": "e49920a",
+       "id": "37d17ef",
        "elType": "widget",
        "settings": {
         "editor": "<p>لاقتراح، أو ملاحظة على أحد تطبيقاتنا، أو تصحيح خطأ، راسلنا ويسعدنا الرد.</p>",
@@ -4291,7 +4291,7 @@
        "widgetType": "text-editor"
       },
       {
-       "id": "37d17ef",
+       "id": "bcc407c",
        "elType": "widget",
        "settings": {
         "text": "hello@farhoon.com",
@@ -4342,7 +4342,7 @@
    "isInner": false
   },
   {
-   "id": "b104c5a",
+   "id": "5181a95",
    "elType": "section",
    "settings": {
     "layout": "boxed",
@@ -4376,7 +4376,7 @@
    },
    "elements": [
     {
-     "id": "f1c4220",
+     "id": "128587f",
      "elType": "column",
      "settings": {
       "_column_size": 25,
@@ -4384,7 +4384,7 @@
      },
      "elements": [
       {
-       "id": "0583355",
+       "id": "f1c4220",
        "elType": "widget",
        "settings": {
         "image": {
@@ -4416,7 +4416,7 @@
      "isInner": false
     },
     {
-     "id": "5bb2d6c",
+     "id": "73f21f0",
      "elType": "column",
      "settings": {
       "_column_size": 50,
@@ -4424,7 +4424,7 @@
      },
      "elements": [
       {
-       "id": "128587f",
+       "id": "5bb2d6c",
        "elType": "widget",
        "settings": {
         "editor": "<p class=\"f-foot-links\" style=\"margin:0\"><a href=\"/\">الرئيسية</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href=\"/about/\">من نحن</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href=\"/rafiq/\">رفيق الطاعة</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href=\"/games/\">ألعابنا</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href=\"/blog/\">المدونة</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href=\"/contact/\">تواصل معنا</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href=\"/rafiq/privacy/\">سياسة الخصوصية</a></p>",
@@ -4456,7 +4456,7 @@
      "isInner": false
     },
     {
-     "id": "8b721b1",
+     "id": "b104c5a",
      "elType": "column",
      "settings": {
       "_column_size": 25,
@@ -4464,7 +4464,7 @@
      },
      "elements": [
       {
-       "id": "73f21f0",
+       "id": "8b721b1",
        "elType": "widget",
        "settings": {
         "editor": "<p style=\"margin:0\">© ٢٠٢٦ فرحون<br><a href=\"mailto:hello@farhoon.com\" style=\"color:#FFC531\">hello@farhoon.com</a></p>",

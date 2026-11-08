@@ -4,7 +4,7 @@
  "type": "page",
  "content": [
   {
-   "id": "b36ced8",
+   "id": "aa7a93c",
    "elType": "section",
    "settings": {
     "layout": "boxed",
@@ -38,7 +38,7 @@
    },
    "elements": [
     {
-     "id": "ad24630",
+     "id": "c9ec834",
      "elType": "column",
      "settings": {
       "_column_size": 20,
@@ -47,7 +47,7 @@
      },
      "elements": [
       {
-       "id": "fa5f5d2",
+       "id": "eb0b3c7",
        "elType": "widget",
        "settings": {
         "image": {
@@ -79,7 +79,7 @@
      "isInner": false
     },
     {
-     "id": "c9ec834",
+     "id": "acf5e6d",
      "elType": "column",
      "settings": {
       "_column_size": 80,
@@ -88,7 +88,7 @@
      },
      "elements": [
       {
-       "id": "eb0b3c7",
+       "id": "b36ced8",
        "elType": "widget",
        "settings": {
         "html": "<nav class=\"f-nav\" aria-label=\"Main menu\"><input type=\"checkbox\" id=\"f-menu\" class=\"f-toggle\"><label for=\"f-menu\" class=\"f-burger\"><span class=\"f-sr\">Open menu</span><span></span><span></span><span></span></label><ul><li><a class=\"\" href=\"/en/\">Home</a></li><li><a class=\"\" href=\"/en/about/\">About</a></li><li><a class=\"\" href=\"/en/rafiq/\">Rafiq Al-Taa</a></li><li><a class=\"on\" href=\"/en/games/\">Games</a></li><li><a class=\"\" href=\"/en/blog/\">Blog</a></li><li><a class=\"\" href=\"/en/contact/\">Contact</a></li><li><a class=\"f-lang\" href=\"/games/\" lang=\"ar\">العربية</a></li></ul></nav>"
@@ -103,7 +103,7 @@
    "isInner": false
   },
   {
-   "id": "cc97486",
+   "id": "2b27ae4",
    "elType": "section",
    "settings": {
     "layout": "boxed",
@@ -136,7 +136,7 @@
    },
    "elements": [
     {
-     "id": "7142e22",
+     "id": "7f21dc9",
      "elType": "column",
      "settings": {
       "_column_size": 100,
@@ -144,7 +144,7 @@
      },
      "elements": [
       {
-       "id": "eaa3227",
+       "id": "7142e22",
        "elType": "widget",
        "settings": {
         "title": "Our games",
@@ -175,7 +175,7 @@
        "widgetType": "heading"
       },
       {
-       "id": "a29efd6",
+       "id": "cc97486",
        "elType": "widget",
        "settings": {
         "editor": "<p>Colourful Arabic games for little ones, in the works now. We will announce them here.</p>",
@@ -210,7 +210,7 @@
    "isInner": false
   },
   {
-   "id": "e8a314a",
+   "id": "0b61be1",
    "elType": "section",
    "settings": {
     "layout": "boxed",
@@ -243,7 +243,7 @@
    },
    "elements": [
     {
-     "id": "0c59195",
+     "id": "ca8d571",
      "elType": "column",
      "settings": {
       "_column_size": 33,
@@ -303,7 +303,7 @@
      },
      "elements": [
       {
-       "id": "7f21dc9",
+       "id": "b92ffb8",
        "elType": "widget",
        "settings": {
         "image": {
@@ -332,7 +332,7 @@
        "widgetType": "image"
       },
       {
-       "id": "2b27ae4",
+       "id": "bb2b3c6",
        "elType": "widget",
        "settings": {
         "title": "Learn Arabic & English",
@@ -363,7 +363,7 @@
        "widgetType": "heading"
       },
       {
-       "id": "b92ffb8",
+       "id": "0c59195",
        "elType": "widget",
        "settings": {
         "editor": "<p>Letters, their sounds and first words in both languages.</p>",
@@ -392,7 +392,7 @@
        "widgetType": "text-editor"
       },
       {
-       "id": "bb2b3c6",
+       "id": "ba04006",
        "elType": "widget",
        "settings": {
         "editor": "<p><span class=\"f-badge\">In development</span></p>",
@@ -424,7 +424,7 @@
      "isInner": false
     },
     {
-     "id": "bc8aed9",
+     "id": "4f402e1",
      "elType": "column",
      "settings": {
       "_column_size": 33,
@@ -484,7 +484,7 @@
      },
      "elements": [
       {
-       "id": "ba04006",
+       "id": "c670de8",
        "elType": "widget",
        "settings": {
         "image": {
@@ -513,7 +513,7 @@
        "widgetType": "image"
       },
       {
-       "id": "ca8d571",
+       "id": "63d1da1",
        "elType": "widget",
        "settings": {
         "title": "Colour Studio",
@@ -544,7 +544,7 @@
        "widgetType": "heading"
       },
       {
-       "id": "c670de8",
+       "id": "bc8aed9",
        "elType": "widget",
        "settings": {
         "editor": "<p>Lovely drawings little ones colour with their fingers.</p>",
@@ -573,7 +573,7 @@
        "widgetType": "text-editor"
       },
       {
-       "id": "63d1da1",
+       "id": "c7ce503",
        "elType": "widget",
        "settings": {
         "editor": "<p><span class=\"f-badge\">In development</span></p>",
@@ -605,7 +605,7 @@
      "isInner": false
     },
     {
-     "id": "2df25b1",
+     "id": "901adc9",
      "elType": "column",
      "settings": {
       "_column_size": 33,
@@ -665,7 +665,7 @@
      },
      "elements": [
       {
-       "id": "c7ce503",
+       "id": "5ac5896",
        "elType": "widget",
        "settings": {
         "image": {
@@ -694,7 +694,7 @@
        "widgetType": "image"
       },
       {
-       "id": "4f402e1",
+       "id": "5a6a4ad",
        "elType": "widget",
        "settings": {
         "title": "Jigsaw Adventure",
@@ -725,7 +725,7 @@
        "widgetType": "heading"
       },
       {
-       "id": "5ac5896",
+       "id": "2df25b1",
        "elType": "widget",
        "settings": {
         "editor": "<p>Hand-drawn pictures put together piece by piece.</p>",
@@ -754,7 +754,7 @@
        "widgetType": "text-editor"
       },
       {
-       "id": "5a6a4ad",
+       "id": "e8a314a",
        "elType": "widget",
        "settings": {
         "editor": "<p><span class=\"f-badge\">In development</span></p>",
@@ -789,7 +789,7 @@
    "isInner": false
   },
   {
-   "id": "2b08196",
+   "id": "29d0fdd",
    "elType": "section",
    "settings": {
     "layout": "boxed",
@@ -822,7 +822,7 @@
    },
    "elements": [
     {
-     "id": "513f0e3",
+     "id": "0b702da",
      "elType": "column",
      "settings": {
       "_column_size": 33,
@@ -882,7 +882,7 @@
      },
      "elements": [
       {
-       "id": "901adc9",
+       "id": "714663c",
        "elType": "widget",
        "settings": {
         "image": {
@@ -911,7 +911,7 @@
        "widgetType": "image"
       },
       {
-       "id": "0b61be1",
+       "id": "1d8e77e",
        "elType": "widget",
        "settings": {
         "title": "Dinosaur Adventure",
@@ -942,7 +942,7 @@
        "widgetType": "heading"
       },
       {
-       "id": "714663c",
+       "id": "513f0e3",
        "elType": "widget",
        "settings": {
         "editor": "<p>A gentle adventure with a dinosaur friend.</p>",
@@ -971,7 +971,7 @@
        "widgetType": "text-editor"
       },
       {
-       "id": "1d8e77e",
+       "id": "977d79f",
        "elType": "widget",
        "settings": {
         "editor": "<p><span class=\"f-badge\">In development</span></p>",
@@ -1003,7 +1003,7 @@
      "isInner": false
     },
     {
-     "id": "9c672ce",
+     "id": "ab465ae",
      "elType": "column",
      "settings": {
       "_column_size": 33,
@@ -1063,7 +1063,7 @@
      },
      "elements": [
       {
-       "id": "977d79f",
+       "id": "d872096",
        "elType": "widget",
        "settings": {
         "image": {
@@ -1092,7 +1092,7 @@
        "widgetType": "image"
       },
       {
-       "id": "0b702da",
+       "id": "20cc029",
        "elType": "widget",
        "settings": {
         "title": "Happy Car Racing",
@@ -1123,7 +1123,7 @@
        "widgetType": "heading"
       },
       {
-       "id": "d872096",
+       "id": "9c672ce",
        "elType": "widget",
        "settings": {
         "editor": "<p>A colourful race with easy controls.</p>",
@@ -1152,7 +1152,7 @@
        "widgetType": "text-editor"
       },
       {
-       "id": "20cc029",
+       "id": "2b08196",
        "elType": "widget",
        "settings": {
         "editor": "<p><span class=\"f-badge\">In development</span></p>",
@@ -1187,7 +1187,7 @@
    "isInner": false
   },
   {
-   "id": "a0ab55d",
+   "id": "0d4a9b9",
    "elType": "section",
    "settings": {
     "layout": "boxed",
@@ -1220,7 +1220,7 @@
    },
    "elements": [
     {
-     "id": "35f7b7f",
+     "id": "2b5dc95",
      "elType": "column",
      "settings": {
       "_column_size": 100,
@@ -1228,7 +1228,7 @@
      },
      "elements": [
       {
-       "id": "ab465ae",
+       "id": "8c1b18e",
        "elType": "widget",
        "settings": {
         "title": "And Islamic apps for kids",
@@ -1259,7 +1259,7 @@
        "widgetType": "heading"
       },
       {
-       "id": "29d0fdd",
+       "id": "35f7b7f",
        "elType": "widget",
        "settings": {
         "editor": "<p>We are also building apps that teach children prayer, Quran and good manners through play, characters and motion.</p>",
@@ -1288,7 +1288,7 @@
        "widgetType": "text-editor"
       },
       {
-       "id": "8c1b18e",
+       "id": "a0ab55d",
        "elType": "widget",
        "settings": {
         "text": "See what is coming",
@@ -1339,7 +1339,7 @@
    "isInner": false
   },
   {
-   "id": "70decd6",
+   "id": "ad24630",
    "elType": "section",
    "settings": {
     "layout": "boxed",
@@ -1373,7 +1373,7 @@
    },
    "elements": [
     {
-     "id": "0d4a9b9",
+     "id": "31e4e3d",
      "elType": "column",
      "settings": {
       "_column_size": 20,
@@ -1381,7 +1381,7 @@
      },
      "elements": [
       {
-       "id": "2b5dc95",
+       "id": "49aa5eb",
        "elType": "widget",
        "settings": {
         "image": {
@@ -1405,7 +1405,7 @@
      "isInner": false
     },
     {
-     "id": "7daba74",
+     "id": "fa5f5d2",
      "elType": "column",
      "settings": {
       "_column_size": 80,
@@ -1413,7 +1413,7 @@
      },
      "elements": [
       {
-       "id": "49aa5eb",
+       "id": "d817315",
        "elType": "widget",
        "settings": {
         "title": "Get in touch",
@@ -1444,7 +1444,7 @@
        "widgetType": "heading"
       },
       {
-       "id": "31e4e3d",
+       "id": "7daba74",
        "elType": "widget",
        "settings": {
         "editor": "<p>For a suggestion, a note on one of our apps, or a correction, write to us. We are happy to reply.</p>",
@@ -1473,7 +1473,7 @@
        "widgetType": "text-editor"
       },
       {
-       "id": "d817315",
+       "id": "70decd6",
        "elType": "widget",
        "settings": {
         "text": "hello@farhoon.com",
@@ -1524,7 +1524,7 @@
    "isInner": false
   },
   {
-   "id": "17acdbd",
+   "id": "b2c5ccd",
    "elType": "section",
    "settings": {
     "layout": "boxed",
@@ -1558,7 +1558,7 @@
    },
    "elements": [
     {
-     "id": "aa7a93c",
+     "id": "fcc142b",
      "elType": "column",
      "settings": {
       "_column_size": 25,
@@ -1566,7 +1566,7 @@
      },
      "elements": [
       {
-       "id": "acf5e6d",
+       "id": "45ff939",
        "elType": "widget",
        "settings": {
         "image": {
@@ -1598,7 +1598,7 @@
      "isInner": false
     },
     {
-     "id": "fcc142b",
+     "id": "251a97c",
      "elType": "column",
      "settings": {
       "_column_size": 50,
@@ -1606,7 +1606,7 @@
      },
      "elements": [
       {
-       "id": "45ff939",
+       "id": "f9e087a",
        "elType": "widget",
        "settings": {
         "editor": "<p class=\"f-foot-links\" style=\"margin:0\"><a href=\"/en/\">Home</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href=\"/en/about/\">About</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href=\"/en/rafiq/\">Rafiq Al-Taa</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href=\"/en/games/\">Games</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href=\"/en/blog/\">Blog</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href=\"/en/contact/\">Contact</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href=\"/en/rafiq/privacy/\">Privacy policy</a></p>",
@@ -1638,7 +1638,7 @@
      "isInner": false
     },
     {
-     "id": "251a97c",
+     "id": "d23ae34",
      "elType": "column",
      "settings": {
       "_column_size": 25,
@@ -1646,7 +1646,7 @@
      },
      "elements": [
       {
-       "id": "f9e087a",
+       "id": "17acdbd",
        "elType": "widget",
        "settings": {
         "editor": "<p style=\"margin:0\">© 2026 Farhoon<br><a href=\"mailto:hello@farhoon.com\" style=\"color:#FFC531\">hello@farhoon.com</a></p>",

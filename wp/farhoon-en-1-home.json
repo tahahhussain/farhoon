@@ -4,7 +4,7 @@
  "type": "page",
  "content": [
   {
-   "id": "76d6c12",
+   "id": "9905034",
    "elType": "section",
    "settings": {
     "layout": "boxed",
@@ -38,7 +38,7 @@
    },
    "elements": [
     {
-     "id": "056ca7c",
+     "id": "196136f",
      "elType": "column",
      "settings": {
       "_column_size": 20,
@@ -47,7 +47,7 @@
      },
      "elements": [
       {
-       "id": "33a4572",
+       "id": "b616139",
        "elType": "widget",
        "settings": {
         "image": {
@@ -79,7 +79,7 @@
      "isInner": false
     },
     {
-     "id": "196136f",
+     "id": "8bc372a",
      "elType": "column",
      "settings": {
       "_column_size": 80,
@@ -88,7 +88,7 @@
      },
      "elements": [
       {
-       "id": "b616139",
+       "id": "76d6c12",
        "elType": "widget",
        "settings": {
         "html": "<nav class=\"f-nav\" aria-label=\"Main menu\"><input type=\"checkbox\" id=\"f-menu\" class=\"f-toggle\"><label for=\"f-menu\" class=\"f-burger\"><span class=\"f-sr\">Open menu</span><span></span><span></span><span></span></label><ul><li><a class=\"on\" href=\"/en/\">Home</a></li><li><a class=\"\" href=\"/en/about/\">About</a></li><li><a class=\"\" href=\"/en/rafiq/\">Rafiq Al-Taa</a></li><li><a class=\"\" href=\"/en/games/\">Games</a></li><li><a class=\"\" href=\"/en/blog/\">Blog</a></li><li><a class=\"\" href=\"/en/contact/\">Contact</a></li><li><a class=\"f-lang\" href=\"/\" lang=\"ar\">العربية</a></li></ul></nav>"
@@ -103,7 +103,7 @@
    "isInner": false
   },
   {
-   "id": "dfa11b2",
+   "id": "0be76cd",
    "elType": "section",
    "settings": {
     "layout": "boxed",
@@ -137,7 +137,7 @@
    },
    "elements": [
     {
-     "id": "3edd754",
+     "id": "8048913",
      "elType": "column",
      "settings": {
       "_column_size": 60,
@@ -145,7 +145,7 @@
      },
      "elements": [
       {
-       "id": "b5f00dd",
+       "id": "7d2abbe",
        "elType": "widget",
        "settings": {
         "editor": "<p><span class=\"f-kicker\">An Arabic apps and games studio</span></p>",
@@ -174,7 +174,7 @@
        "widgetType": "text-editor"
       },
       {
-       "id": "7d2abbe",
+       "id": "ff65b07",
        "elType": "widget",
        "settings": {
         "title": "We make what <span style=\"color:#FFC531\">delights</span> and benefits",
@@ -205,7 +205,7 @@
        "widgetType": "heading"
       },
       {
-       "id": "ff65b07",
+       "id": "35b38db",
        "elType": "widget",
        "settings": {
         "editor": "<p>Farhoon is an Arabic studio making apps and games for Arab families: clear Arabic, cheerful design, and full respect for your privacy.</p>",
@@ -234,7 +234,7 @@
        "widgetType": "text-editor"
       },
       {
-       "id": "35b38db",
+       "id": "ffd5960",
        "elType": "widget",
        "settings": {
         "text": "Meet Rafiq Al-Taa",
@@ -279,7 +279,7 @@
        "widgetType": "button"
       },
       {
-       "id": "ffd5960",
+       "id": "3edd754",
        "elType": "widget",
        "settings": {
         "text": "Coming soon for kids",
@@ -327,7 +327,7 @@
      "isInner": false
     },
     {
-     "id": "653cb70",
+     "id": "dfa11b2",
      "elType": "column",
      "settings": {
       "_column_size": 40,
@@ -335,7 +335,7 @@
      },
      "elements": [
       {
-       "id": "8048913",
+       "id": "653cb70",
        "elType": "widget",
        "settings": {
         "image": {
@@ -367,7 +367,7 @@
    "isInner": false
   },
   {
-   "id": "51c7ef2",
+   "id": "689595b",
    "elType": "section",
    "settings": {
     "layout": "boxed",
@@ -400,7 +400,7 @@
    },
    "elements": [
     {
-     "id": "d3a96d9",
+     "id": "51c7ef2",
      "elType": "column",
      "settings": {
       "_column_size": 100,
@@ -408,7 +408,7 @@
      },
      "elements": [
       {
-       "id": "0be76cd",
+       "id": "c0607e8",
        "elType": "widget",
        "settings": {
         "title": "Our goal",
@@ -439,7 +439,7 @@
        "widgetType": "heading"
       },
       {
-       "id": "c0607e8",
+       "id": "d3a96d9",
        "elType": "widget",
        "settings": {
         "editor": "<p>That every Arab home finds on its phone what benefits and delights it, in its own language, without paying for it with its privacy.</p>",
@@ -474,7 +474,7 @@
    "isInner": false
   },
   {
-   "id": "a14629d",
+   "id": "63adc69",
    "elType": "section",
    "settings": {
     "layout": "boxed",
@@ -507,7 +507,7 @@
    },
    "elements": [
     {
-     "id": "6fcac06",
+     "id": "6eae037",
      "elType": "column",
      "settings": {
       "_column_size": 25,
@@ -567,7 +567,7 @@
      },
      "elements": [
       {
-       "id": "689595b",
+       "id": "6fcac06",
        "elType": "widget",
        "settings": {
         "selected_icon": {
@@ -637,7 +637,7 @@
      "isInner": false
     },
     {
-     "id": "45ded50",
+     "id": "771f003",
      "elType": "column",
      "settings": {
       "_column_size": 25,
@@ -697,7 +697,7 @@
      },
      "elements": [
       {
-       "id": "6eae037",
+       "id": "45ded50",
        "elType": "widget",
        "settings": {
         "selected_icon": {
@@ -767,7 +767,7 @@
      "isInner": false
     },
     {
-     "id": "b1f8143",
+     "id": "5cbdb9e",
      "elType": "column",
      "settings": {
       "_column_size": 25,
@@ -827,7 +827,7 @@
      },
      "elements": [
       {
-       "id": "771f003",
+       "id": "b1f8143",
        "elType": "widget",
        "settings": {
         "selected_icon": {
@@ -897,7 +897,7 @@
      "isInner": false
     },
     {
-     "id": "a1ba35e",
+     "id": "a14629d",
      "elType": "column",
      "settings": {
       "_column_size": 25,
@@ -957,7 +957,7 @@
      },
      "elements": [
       {
-       "id": "5cbdb9e",
+       "id": "a1ba35e",
        "elType": "widget",
        "settings": {
         "selected_icon": {
@@ -1030,7 +1030,7 @@
    "isInner": false
   },
   {
-   "id": "639b006",
+   "id": "3197ddf",
    "elType": "section",
    "settings": {
     "layout": "boxed",
@@ -1063,7 +1063,7 @@
    },
    "elements": [
     {
-     "id": "6fb09c7",
+     "id": "639b006",
      "elType": "column",
      "settings": {
       "_column_size": 100,
@@ -1071,7 +1071,7 @@
      },
      "elements": [
       {
-       "id": "63adc69",
+       "id": "6fb09c7",
        "elType": "widget",
        "settings": {
         "title": "Our apps",
@@ -1108,7 +1108,7 @@
    "isInner": false
   },
   {
-   "id": "4083806",
+   "id": "66bb0ce",
    "elType": "section",
    "settings": {
     "layout": "boxed",
@@ -1142,7 +1142,7 @@
    },
    "elements": [
     {
-     "id": "84dcdbb",
+     "id": "c69ab0b",
      "elType": "column",
      "settings": {
       "_column_size": 60,
@@ -1202,7 +1202,7 @@
      },
      "elements": [
       {
-       "id": "3197ddf",
+       "id": "4492c3b",
        "elType": "widget",
        "settings": {
         "image": {
@@ -1239,7 +1239,7 @@
        "widgetType": "image"
       },
       {
-       "id": "4492c3b",
+       "id": "7a8bc09",
        "elType": "widget",
        "settings": {
         "title": "Rafiq Al-Taa",
@@ -1270,7 +1270,7 @@
        "widgetType": "heading"
       },
       {
-       "id": "7a8bc09",
+       "id": "43dc7c6",
        "elType": "widget",
        "settings": {
         "editor": "<p>Your daily companion for Quran, prayer and dhikr. A complete Islamic app, a lasting charity, with more than twenty sections.</p>",
@@ -1299,7 +1299,7 @@
        "widgetType": "text-editor"
       },
       {
-       "id": "43dc7c6",
+       "id": "2d2143e",
        "elType": "widget",
        "settings": {
         "editor": "<p><span class=\"f-chip\" style=\"background:#E7F1EC\">Free</span><span class=\"f-chip\" style=\"background:#E7F1EC\">No ads</span><span class=\"f-chip\" style=\"background:#E7F1EC\">No account</span><span class=\"f-chip\" style=\"background:#E7F1EC\">Data stays on your phone</span></p>",
@@ -1328,7 +1328,7 @@
        "widgetType": "text-editor"
       },
       {
-       "id": "2d2143e",
+       "id": "84dcdbb",
        "elType": "widget",
        "settings": {
         "text": "See every section",
@@ -1376,7 +1376,7 @@
      "isInner": false
     },
     {
-     "id": "31ac109",
+     "id": "de9dbe1",
      "elType": "column",
      "settings": {
       "_column_size": 20,
@@ -1384,7 +1384,7 @@
      },
      "elements": [
       {
-       "id": "c69ab0b",
+       "id": "31ac109",
        "elType": "widget",
        "settings": {
         "image": {
@@ -1421,7 +1421,7 @@
      "isInner": false
     },
     {
-     "id": "d7dff73",
+     "id": "4083806",
      "elType": "column",
      "settings": {
       "_column_size": 20,
@@ -1429,7 +1429,7 @@
      },
      "elements": [
       {
-       "id": "de9dbe1",
+       "id": "d7dff73",
        "elType": "widget",
        "settings": {
         "image": {
@@ -1469,7 +1469,7 @@
    "isInner": false
   },
   {
-   "id": "66e0d46",
+   "id": "b715b8a",
    "elType": "section",
    "settings": {
     "layout": "boxed",
@@ -1503,7 +1503,7 @@
    },
    "elements": [
     {
-     "id": "312e5c8",
+     "id": "66e0d46",
      "elType": "column",
      "settings": {
       "_column_size": 100,
@@ -1511,7 +1511,7 @@
      },
      "elements": [
       {
-       "id": "66bb0ce",
+       "id": "ce3905f",
        "elType": "widget",
        "settings": {
         "editor": "<p><span class=\"f-kicker f-kicker-dark\">Coming soon</span></p>",
@@ -1540,7 +1540,7 @@
        "widgetType": "text-editor"
       },
       {
-       "id": "ce3905f",
+       "id": "0917aa5",
        "elType": "widget",
        "settings": {
         "title": "Islamic apps for kids we are building",
@@ -1571,7 +1571,7 @@
        "widgetType": "heading"
       },
       {
-       "id": "0917aa5",
+       "id": "312e5c8",
        "elType": "widget",
        "settings": {
         "editor": "<p>We are designing apps that teach children their faith through play: lovable characters, motion and sound, games and rewards that bring them back every day, and that parents can trust.</p>",
@@ -1606,7 +1606,7 @@
    "isInner": false
   },
   {
-   "id": "0c71aaf",
+   "id": "132acb4",
    "elType": "section",
    "settings": {
     "layout": "boxed",
@@ -1639,7 +1639,7 @@
    },
    "elements": [
     {
-     "id": "b8ff605",
+     "id": "3b170d2",
      "elType": "column",
      "settings": {
       "_column_size": 25,
@@ -1699,7 +1699,7 @@
      },
      "elements": [
       {
-       "id": "b715b8a",
+       "id": "b8ff605",
        "elType": "widget",
        "settings": {
         "selected_icon": {
@@ -1769,7 +1769,7 @@
      "isInner": false
     },
     {
-     "id": "afded35",
+     "id": "60c5903",
      "elType": "column",
      "settings": {
       "_column_size": 25,
@@ -1829,7 +1829,7 @@
      },
      "elements": [
       {
-       "id": "3b170d2",
+       "id": "afded35",
        "elType": "widget",
        "settings": {
         "selected_icon": {
@@ -1899,7 +1899,7 @@
      "isInner": false
     },
     {
-     "id": "241f689",
+     "id": "f6d259b",
      "elType": "column",
      "settings": {
       "_column_size": 25,
@@ -1959,7 +1959,7 @@
      },
      "elements": [
       {
-       "id": "60c5903",
+       "id": "241f689",
        "elType": "widget",
        "settings": {
         "selected_icon": {
@@ -2029,7 +2029,7 @@
      "isInner": false
     },
     {
-     "id": "365c59a",
+     "id": "0c71aaf",
      "elType": "column",
      "settings": {
       "_column_size": 25,
@@ -2089,7 +2089,7 @@
      },
      "elements": [
       {
-       "id": "f6d259b",
+       "id": "365c59a",
        "elType": "widget",
        "settings": {
         "selected_icon": {
@@ -2162,7 +2162,7 @@
    "isInner": false
   },
   {
-   "id": "50e8f33",
+   "id": "90f1c15",
    "elType": "section",
    "settings": {
     "layout": "boxed",
@@ -2195,7 +2195,7 @@
    },
    "elements": [
     {
-     "id": "f669edb",
+     "id": "4b093bc",
      "elType": "column",
      "settings": {
       "_column_size": 25,
@@ -2255,7 +2255,7 @@
      },
      "elements": [
       {
-       "id": "132acb4",
+       "id": "f669edb",
        "elType": "widget",
        "settings": {
         "selected_icon": {
@@ -2325,7 +2325,7 @@
      "isInner": false
     },
     {
-     "id": "610f77f",
+     "id": "5e7b8aa",
      "elType": "column",
      "settings": {
       "_column_size": 25,
@@ -2385,7 +2385,7 @@
      },
      "elements": [
       {
-       "id": "4b093bc",
+       "id": "610f77f",
        "elType": "widget",
        "settings": {
         "selected_icon": {
@@ -2455,7 +2455,7 @@
      "isInner": false
     },
     {
-     "id": "3ada552",
+     "id": "68676b1",
      "elType": "column",
      "settings": {
       "_column_size": 25,
@@ -2515,7 +2515,7 @@
      },
      "elements": [
       {
-       "id": "5e7b8aa",
+       "id": "3ada552",
        "elType": "widget",
        "settings": {
         "selected_icon": {
@@ -2585,7 +2585,7 @@
      "isInner": false
     },
     {
-     "id": "5850d36",
+     "id": "50e8f33",
      "elType": "column",
      "settings": {
       "_column_size": 25,
@@ -2645,7 +2645,7 @@
      },
      "elements": [
       {
-       "id": "68676b1",
+       "id": "5850d36",
        "elType": "widget",
        "settings": {
         "selected_icon": {
@@ -2718,7 +2718,7 @@
    "isInner": false
   },
   {
-   "id": "1fb7443",
+   "id": "44d6aa0",
    "elType": "section",
    "settings": {
     "layout": "boxed",
@@ -2751,7 +2751,7 @@
    },
    "elements": [
     {
-     "id": "30c4239",
+     "id": "1fb7443",
      "elType": "column",
      "settings": {
       "_column_size": 100,
@@ -2759,7 +2759,7 @@
      },
      "elements": [
       {
-       "id": "90f1c15",
+       "id": "30c4239",
        "elType": "widget",
        "settings": {
         "title": "How we make it fun",
@@ -2796,7 +2796,7 @@
    "isInner": false
   },
   {
-   "id": "b58a399",
+   "id": "dc339c2",
    "elType": "section",
    "settings": {
     "layout": "boxed",
@@ -2829,7 +2829,7 @@
    },
    "elements": [
     {
-     "id": "ec94896",
+     "id": "27bbee0",
      "elType": "column",
      "settings": {
       "_column_size": 25,
@@ -2837,7 +2837,7 @@
      },
      "elements": [
       {
-       "id": "44d6aa0",
+       "id": "ec94896",
        "elType": "widget",
        "settings": {
         "selected_icon": {
@@ -2907,7 +2907,7 @@
      "isInner": false
     },
     {
-     "id": "31847de",
+     "id": "a755e76",
      "elType": "column",
      "settings": {
       "_column_size": 25,
@@ -2915,7 +2915,7 @@
      },
      "elements": [
       {
-       "id": "27bbee0",
+       "id": "31847de",
        "elType": "widget",
        "settings": {
         "selected_icon": {
@@ -2985,7 +2985,7 @@
      "isInner": false
     },
     {
-     "id": "c821ff0",
+     "id": "ef155d0",
      "elType": "column",
      "settings": {
       "_column_size": 25,
@@ -2993,7 +2993,7 @@
      },
      "elements": [
       {
-       "id": "a755e76",
+       "id": "c821ff0",
        "elType": "widget",
        "settings": {
         "selected_icon": {
@@ -3063,7 +3063,7 @@
      "isInner": false
     },
     {
-     "id": "da56ca7",
+     "id": "b58a399",
      "elType": "column",
      "settings": {
       "_column_size": 25,
@@ -3071,7 +3071,7 @@
      },
      "elements": [
       {
-       "id": "ef155d0",
+       "id": "da56ca7",
        "elType": "widget",
        "settings": {
         "selected_icon": {
@@ -3144,7 +3144,7 @@
    "isInner": false
   },
   {
-   "id": "14edea1",
+   "id": "6689eaa",
    "elType": "section",
    "settings": {
     "layout": "boxed",
@@ -3180,7 +3180,7 @@
    },
    "elements": [
     {
-     "id": "06c82e2",
+     "id": "14edea1",
      "elType": "column",
      "settings": {
       "_column_size": 100,
@@ -3188,7 +3188,7 @@
      },
      "elements": [
       {
-       "id": "dc339c2",
+       "id": "6b90474",
        "elType": "widget",
        "settings": {
         "title": "Our games",
@@ -3219,7 +3219,7 @@
        "widgetType": "heading"
       },
       {
-       "id": "6b90474",
+       "id": "bf0e088",
        "elType": "widget",
        "settings": {
         "editor": "<p>Colourful Arabic games for little ones, in the works now. We will announce them here.</p>",
@@ -3248,7 +3248,7 @@
        "widgetType": "text-editor"
       },
       {
-       "id": "bf0e088",
+       "id": "06c82e2",
        "elType": "widget",
        "settings": {
         "text": "All games",
@@ -3299,7 +3299,7 @@
    "isInner": false
   },
   {
-   "id": "5cf40fe",
+   "id": "cfbde00",
    "elType": "section",
    "settings": {
     "layout": "boxed",
@@ -3335,7 +3335,7 @@
    },
    "elements": [
     {
-     "id": "b8194fe",
+     "id": "bd8a0c6",
      "elType": "column",
      "settings": {
       "_column_size": 20,
@@ -3395,7 +3395,7 @@
      },
      "elements": [
       {
-       "id": "6689eaa",
+       "id": "5ccf50a",
        "elType": "widget",
        "settings": {
         "image": {
@@ -3424,7 +3424,7 @@
        "widgetType": "image"
       },
       {
-       "id": "5ccf50a",
+       "id": "d0df96d",
        "elType": "widget",
        "settings": {
         "title": "Learn Arabic & English",
@@ -3455,7 +3455,7 @@
        "widgetType": "heading"
       },
       {
-       "id": "d0df96d",
+       "id": "e86c437",
        "elType": "widget",
        "settings": {
         "editor": "<p>Letters, their sounds and first words in both languages.</p>",
@@ -3484,7 +3484,7 @@
        "widgetType": "text-editor"
       },
       {
-       "id": "e86c437",
+       "id": "b8194fe",
        "elType": "widget",
        "settings": {
         "editor": "<p><span class=\"f-badge\">In development</span></p>",
@@ -3516,7 +3516,7 @@
      "isInner": false
     },
     {
-     "id": "3089d7a",
+     "id": "07e4d2c",
      "elType": "column",
      "settings": {
       "_column_size": 20,
@@ -3576,7 +3576,7 @@
      },
      "elements": [
       {
-       "id": "bd8a0c6",
+       "id": "cf83c17",
        "elType": "widget",
        "settings": {
         "image": {
@@ -3605,7 +3605,7 @@
        "widgetType": "image"
       },
       {
-       "id": "cf83c17",
+       "id": "63e78af",
        "elType": "widget",
        "settings": {
         "title": "Colour Studio",
@@ -3636,7 +3636,7 @@
        "widgetType": "heading"
       },
       {
-       "id": "63e78af",
+       "id": "5484edc",
        "elType": "widget",
        "settings": {
         "editor": "<p>Lovely drawings little ones colour with their fingers.</p>",
@@ -3665,7 +3665,7 @@
        "widgetType": "text-editor"
       },
       {
-       "id": "5484edc",
+       "id": "3089d7a",
        "elType": "widget",
        "settings": {
         "editor": "<p><span class=\"f-badge\">In development</span></p>",
@@ -3697,7 +3697,7 @@
      "isInner": false
     },
     {
-     "id": "61c3ea5",
+     "id": "ae94371",
      "elType": "column",
      "settings": {
       "_column_size": 20,
@@ -3757,7 +3757,7 @@
      },
      "elements": [
       {
-       "id": "07e4d2c",
+       "id": "a5bb935",
        "elType": "widget",
        "settings": {
         "image": {
@@ -3786,7 +3786,7 @@
        "widgetType": "image"
       },
       {
-       "id": "a5bb935",
+       "id": "2b6e327",
        "elType": "widget",
        "settings": {
         "title": "Jigsaw Adventure",
@@ -3817,7 +3817,7 @@
        "widgetType": "heading"
       },
       {
-       "id": "2b6e327",
+       "id": "cf1bec7",
        "elType": "widget",
        "settings": {
         "editor": "<p>Hand-drawn pictures put together piece by piece.</p>",
@@ -3846,7 +3846,7 @@
        "widgetType": "text-editor"
       },
       {
-       "id": "cf1bec7",
+       "id": "61c3ea5",
        "elType": "widget",
        "settings": {
         "editor": "<p><span class=\"f-badge\">In development</span></p>",
@@ -3878,7 +3878,7 @@
      "isInner": false
     },
     {
-     "id": "51f05ce",
+     "id": "cfaf9be",
      "elType": "column",
      "settings": {
       "_column_size": 20,
@@ -3938,7 +3938,7 @@
      },
      "elements": [
       {
-       "id": "ae94371",
+       "id": "843b361",
        "elType": "widget",
        "settings": {
         "image": {
@@ -3967,7 +3967,7 @@
        "widgetType": "image"
       },
       {
-       "id": "843b361",
+       "id": "8f1cb0a",
        "elType": "widget",
        "settings": {
         "title": "Dinosaur Adventure",
@@ -3998,7 +3998,7 @@
        "widgetType": "heading"
       },
       {
-       "id": "8f1cb0a",
+       "id": "3b8844e",
        "elType": "widget",
        "settings": {
         "editor": "<p>A gentle adventure with a dinosaur friend.</p>",
@@ -4027,7 +4027,7 @@
        "widgetType": "text-editor"
       },
       {
-       "id": "3b8844e",
+       "id": "51f05ce",
        "elType": "widget",
        "settings": {
         "editor": "<p><span class=\"f-badge\">In development</span></p>",
@@ -4059,7 +4059,7 @@
      "isInner": false
     },
     {
-     "id": "dd0068e",
+     "id": "5cf40fe",
      "elType": "column",
      "settings": {
       "_column_size": 20,
@@ -4119,7 +4119,7 @@
      },
      "elements": [
       {
-       "id": "cfaf9be",
+       "id": "4434c34",
        "elType": "widget",
        "settings": {
         "image": {
@@ -4148,7 +4148,7 @@
        "widgetType": "image"
       },
       {
-       "id": "4434c34",
+       "id": "a8ea0e6",
        "elType": "widget",
        "settings": {
         "title": "Happy Car Racing",
@@ -4179,7 +4179,7 @@
        "widgetType": "heading"
       },
       {
-       "id": "a8ea0e6",
+       "id": "bd5f59a",
        "elType": "widget",
        "settings": {
         "editor": "<p>A colourful race with easy controls.</p>",
@@ -4208,7 +4208,7 @@
        "widgetType": "text-editor"
       },
       {
-       "id": "bd5f59a",
+       "id": "dd0068e",
        "elType": "widget",
        "settings": {
         "editor": "<p><span class=\"f-badge\">In development</span></p>",
@@ -4243,7 +4243,7 @@
    "isInner": false
   },
   {
-   "id": "f00bd92",
+   "id": "056ca7c",
    "elType": "section",
    "settings": {
     "layout": "boxed",
@@ -4257,9 +4257,9 @@
     "background_color": "#FFC531",
     "padding": {
      "unit": "px",
-     "top": "56",
+     "top": "64",
      "right": "20",
-     "bottom": "56",
+     "bottom": "64",
      "left": "20",
      "isLinked": false
     },
@@ -4273,51 +4273,20 @@
     },
     "structure": "20",
     "css_classes": "f-ltr",
-    "content_position": "middle"
+    "content_position": "middle",
+    "_element_id": "contact"
    },
    "elements": [
-    {
-     "id": "69e575c",
-     "elType": "column",
-     "settings": {
-      "_column_size": 20,
-      "_inline_size": null
-     },
-     "elements": [
-      {
-       "id": "cfbde00",
-       "elType": "widget",
-       "settings": {
-        "image": {
-         "url": "https://tahahhussain.github.io/farhoon/assets/wp/mark.png",
-         "id": "",
-         "alt": "",
-         "source": "url"
-        },
-        "image_size": "full",
-        "align": "center",
-        "width": {
-         "unit": "px",
-         "size": 110,
-         "sizes": []
-        }
-       },
-       "elements": [],
-       "widgetType": "image"
-      }
-     ],
-     "isInner": false
-    },
     {
      "id": "9a7708c",
      "elType": "column",
      "settings": {
-      "_column_size": 80,
+      "_column_size": 40,
       "_inline_size": null
      },
      "elements": [
       {
-       "id": "5ea063f",
+       "id": "69e575c",
        "elType": "widget",
        "settings": {
         "title": "Get in touch",
@@ -4348,10 +4317,10 @@
        "widgetType": "heading"
       },
       {
-       "id": "241f589",
+       "id": "5ea063f",
        "elType": "widget",
        "settings": {
-        "editor": "<p>For a suggestion, a note on one of our apps, or a correction, write to us. We are happy to reply.</p>",
+        "editor": "<p>For a suggestion, a note on one of our apps, or a correction, write to us here and it reaches us directly.</p>",
         "text_color": "#24324A",
         "align": "start",
         "typography_typography": "custom",
@@ -4377,49 +4346,74 @@
        "widgetType": "text-editor"
       },
       {
+       "id": "241f589",
+       "elType": "widget",
+       "settings": {
+        "image": {
+         "url": "https://tahahhussain.github.io/farhoon/assets/wp/mark.png",
+         "id": "",
+         "alt": "",
+         "source": "url"
+        },
+        "image_size": "full",
+        "align": "start",
+        "width": {
+         "unit": "px",
+         "size": 120,
+         "sizes": []
+        }
+       },
+       "elements": [],
+       "widgetType": "image"
+      },
+      {
        "id": "aef5bfa",
        "elType": "widget",
        "settings": {
-        "text": "hello@farhoon.com",
-        "link": {
-         "url": "mailto:hello@farhoon.com",
-         "is_external": "",
-         "nofollow": "",
-         "custom_attributes": ""
-        },
+        "editor": "<p>Or email <a href=\"mailto:hello@farhoon.com\" style=\"color:#1B1446;font-weight:700\">hello@farhoon.com</a></p>",
+        "text_color": "#24324A",
         "align": "start",
-        "align_mobile": "center",
-        "background_color": "#1B1446",
-        "button_text_color": "#FFFFFF",
-        "hover_color": "#FFFFFF",
-        "button_background_hover_color": "#1B1446",
-        "border_radius": {
-         "unit": "px",
-         "top": "16",
-         "right": "16",
-         "bottom": "16",
-         "left": "16",
-         "isLinked": true
-        },
-        "text_padding": {
-         "unit": "px",
-         "top": "14",
-         "right": "28",
-         "bottom": "14",
-         "left": "28",
-         "isLinked": false
-        },
         "typography_typography": "custom",
         "typography_font_family": "Baloo Bhaijaan 2",
         "typography_font_size": {
          "unit": "px",
-         "size": 18,
+         "size": 16,
          "sizes": []
         },
-        "typography_font_weight": "700"
+        "typography_font_weight": "400",
+        "typography_font_size_mobile": {
+         "unit": "px",
+         "size": 15,
+         "sizes": []
+        },
+        "typography_line_height": {
+         "unit": "em",
+         "size": 1.75,
+         "sizes": []
+        }
        },
        "elements": [],
-       "widgetType": "button"
+       "widgetType": "text-editor"
+      }
+     ],
+     "isInner": false
+    },
+    {
+     "id": "33a4572",
+     "elType": "column",
+     "settings": {
+      "_column_size": 60,
+      "_inline_size": null
+     },
+     "elements": [
+      {
+       "id": "f00bd92",
+       "elType": "widget",
+       "settings": {
+        "shortcode": "[farhoon_contact]"
+       },
+       "elements": [],
+       "widgetType": "shortcode"
       }
      ],
      "isInner": false
@@ -4428,7 +4422,7 @@
    "isInner": false
   },
   {
-   "id": "2756c82",
+   "id": "fec4c56",
    "elType": "section",
    "settings": {
     "layout": "boxed",
@@ -4462,7 +4456,7 @@
    },
    "elements": [
     {
-     "id": "9905034",
+     "id": "6e9dd1a",
      "elType": "column",
      "settings": {
       "_column_size": 25,
@@ -4470,7 +4464,7 @@
      },
      "elements": [
       {
-       "id": "8bc372a",
+       "id": "acf62b3",
        "elType": "widget",
        "settings": {
         "image": {
@@ -4502,7 +4496,7 @@
      "isInner": false
     },
     {
-     "id": "6e9dd1a",
+     "id": "5d2a0a0",
      "elType": "column",
      "settings": {
       "_column_size": 50,
@@ -4510,7 +4504,7 @@
      },
      "elements": [
       {
-       "id": "acf62b3",
+       "id": "cff0711",
        "elType": "widget",
        "settings": {
         "editor": "<p class=\"f-foot-links\" style=\"margin:0\"><a href=\"/en/\">Home</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href=\"/en/about/\">About</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href=\"/en/rafiq/\">Rafiq Al-Taa</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href=\"/en/games/\">Games</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href=\"/en/blog/\">Blog</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href=\"/en/contact/\">Contact</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href=\"/en/rafiq/privacy/\">Privacy policy</a></p>",
@@ -4542,7 +4536,7 @@
      "isInner": false
     },
     {
-     "id": "5d2a0a0",
+     "id": "c778dfd",
      "elType": "column",
      "settings": {
       "_column_size": 25,
@@ -4550,7 +4544,7 @@
      },
      "elements": [
       {
-       "id": "cff0711",
+       "id": "2756c82",
        "elType": "widget",
        "settings": {
         "editor": "<p style=\"margin:0\">© 2026 Farhoon<br><a href=\"mailto:hello@farhoon.com\" style=\"color:#FFC531\">hello@farhoon.com</a></p>",

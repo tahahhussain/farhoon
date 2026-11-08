@@ -4,7 +4,7 @@
  "type": "page",
  "content": [
   {
-   "id": "435e429",
+   "id": "2f33ce5",
    "elType": "section",
    "settings": {
     "layout": "boxed",
@@ -38,7 +38,7 @@
    },
    "elements": [
     {
-     "id": "5a3def7",
+     "id": "905d4ec",
      "elType": "column",
      "settings": {
       "_column_size": 20,
@@ -47,7 +47,7 @@
      },
      "elements": [
       {
-       "id": "17dbb60",
+       "id": "5a3def7",
        "elType": "widget",
        "settings": {
         "image": {
@@ -79,7 +79,7 @@
      "isInner": false
     },
     {
-     "id": "bcd16f9",
+     "id": "435e429",
      "elType": "column",
      "settings": {
       "_column_size": 80,
@@ -88,7 +88,7 @@
      },
      "elements": [
       {
-       "id": "905d4ec",
+       "id": "bcd16f9",
        "elType": "widget",
        "settings": {
         "html": "<nav class=\"f-nav\" aria-label=\"القائمة الرئيسية\"><input type=\"checkbox\" id=\"f-menu\" class=\"f-toggle\"><label for=\"f-menu\" class=\"f-burger\"><span class=\"f-sr\">فتح القائمة</span><span></span><span></span><span></span></label><ul><li><a class=\"\" href=\"/\">الرئيسية</a></li><li><a class=\"on\" href=\"/about/\">من نحن</a></li><li><a class=\"\" href=\"/rafiq/\">رفيق الطاعة</a></li><li><a class=\"\" href=\"/games/\">ألعابنا</a></li><li><a class=\"\" href=\"/blog/\">المدونة</a></li><li><a class=\"\" href=\"/contact/\">تواصل معنا</a></li><li><a class=\"f-lang\" href=\"/en/about/\" lang=\"en\">English</a></li></ul></nav>"
@@ -103,7 +103,7 @@
    "isInner": false
   },
   {
-   "id": "f70c5d5",
+   "id": "2830dd7",
    "elType": "section",
    "settings": {
     "layout": "boxed",
@@ -136,7 +136,7 @@
    },
    "elements": [
     {
-     "id": "c6c373f",
+     "id": "f70c5d5",
      "elType": "column",
      "settings": {
       "_column_size": 100,
@@ -144,7 +144,7 @@
      },
      "elements": [
       {
-       "id": "5123ba7",
+       "id": "64a76ac",
        "elType": "widget",
        "settings": {
         "title": "من نحن",
@@ -175,7 +175,7 @@
        "widgetType": "heading"
       },
       {
-       "id": "64a76ac",
+       "id": "c6c373f",
        "elType": "widget",
        "settings": {
         "editor": "<p>استوديو عربي صغير يصنع تطبيقات وألعابًا للأسرة العربية.</p>",
@@ -210,7 +210,7 @@
    "isInner": false
   },
   {
-   "id": "13d0063",
+   "id": "82a6c6c",
    "elType": "section",
    "settings": {
     "layout": "boxed",
@@ -244,7 +244,7 @@
    },
    "elements": [
     {
-     "id": "184504c",
+     "id": "352a799",
      "elType": "column",
      "settings": {
       "_column_size": 60,
@@ -252,7 +252,7 @@
      },
      "elements": [
       {
-       "id": "2830dd7",
+       "id": "d7c93dc",
        "elType": "widget",
        "settings": {
         "title": "هدفنا",
@@ -283,7 +283,7 @@
        "widgetType": "heading"
       },
       {
-       "id": "d7c93dc",
+       "id": "184504c",
        "elType": "widget",
        "settings": {
         "editor": "<p>أن يجد كل بيت عربي على هاتفه ما ينفعه ويُسعده، بلغته، ومن غير أن يدفع ثمن ذلك من خصوصيته.</p><p>بدأت فرحون بتطبيق <b>رفيق الطاعة</b>، صدقة جارية تجمع ما يحتاجه المسلم في يومه. ونعمل الآن على ألعاب وتطبيقات للأطفال تعلّمهم دينهم وتُسعدهم.</p>",
@@ -315,7 +315,7 @@
      "isInner": false
     },
     {
-     "id": "37d50b2",
+     "id": "13d0063",
      "elType": "column",
      "settings": {
       "_column_size": 40,
@@ -323,7 +323,7 @@
      },
      "elements": [
       {
-       "id": "352a799",
+       "id": "37d50b2",
        "elType": "widget",
        "settings": {
         "image": {
@@ -355,7 +355,7 @@
    "isInner": false
   },
   {
-   "id": "c8813bb",
+   "id": "839310d",
    "elType": "section",
    "settings": {
     "layout": "boxed",
@@ -388,7 +388,7 @@
    },
    "elements": [
     {
-     "id": "7a1081f",
+     "id": "c8813bb",
      "elType": "column",
      "settings": {
       "_column_size": 100,
@@ -396,7 +396,7 @@
      },
      "elements": [
       {
-       "id": "82a6c6c",
+       "id": "7a1081f",
        "elType": "widget",
        "settings": {
         "title": "ما نؤمن به",
@@ -433,7 +433,7 @@
    "isInner": false
   },
   {
-   "id": "f566cc0",
+   "id": "25f5b00",
    "elType": "section",
    "settings": {
     "layout": "boxed",
@@ -466,7 +466,7 @@
    },
    "elements": [
     {
-     "id": "d7751a4",
+     "id": "fb64499",
      "elType": "column",
      "settings": {
       "_column_size": 25,
@@ -526,7 +526,7 @@
      },
      "elements": [
       {
-       "id": "839310d",
+       "id": "d7751a4",
        "elType": "widget",
        "settings": {
         "selected_icon": {
@@ -596,7 +596,7 @@
      "isInner": false
     },
     {
-     "id": "963d287",
+     "id": "59d267c",
      "elType": "column",
      "settings": {
       "_column_size": 25,
@@ -656,7 +656,7 @@
      },
      "elements": [
       {
-       "id": "fb64499",
+       "id": "963d287",
        "elType": "widget",
        "settings": {
         "selected_icon": {
@@ -726,7 +726,7 @@
      "isInner": false
     },
     {
-     "id": "23369fc",
+     "id": "40b7861",
      "elType": "column",
      "settings": {
       "_column_size": 25,
@@ -786,7 +786,7 @@
      },
      "elements": [
       {
-       "id": "59d267c",
+       "id": "23369fc",
        "elType": "widget",
        "settings": {
         "selected_icon": {
@@ -856,7 +856,7 @@
      "isInner": false
     },
     {
-     "id": "74f05d7",
+     "id": "f566cc0",
      "elType": "column",
      "settings": {
       "_column_size": 25,
@@ -916,7 +916,7 @@
      },
      "elements": [
       {
-       "id": "40b7861",
+       "id": "74f05d7",
        "elType": "widget",
        "settings": {
         "selected_icon": {
@@ -989,7 +989,7 @@
    "isInner": false
   },
   {
-   "id": "686feb5",
+   "id": "087c7de",
    "elType": "section",
    "settings": {
     "layout": "boxed",
@@ -1022,7 +1022,7 @@
    },
    "elements": [
     {
-     "id": "6cbfb9a",
+     "id": "686feb5",
      "elType": "column",
      "settings": {
       "_column_size": 100,
@@ -1030,7 +1030,7 @@
      },
      "elements": [
       {
-       "id": "25f5b00",
+       "id": "8f78ea9",
        "elType": "widget",
        "settings": {
         "title": "كيف نعمل",
@@ -1061,7 +1061,7 @@
        "widgetType": "heading"
       },
       {
-       "id": "8f78ea9",
+       "id": "6cbfb9a",
        "elType": "widget",
        "settings": {
         "editor": "<ul><li>نكتب كل نص بعربية فصحى واضحة، ونراجعه قبل النشر.</li><li>نختبر تطبيقاتنا على أجهزة حقيقية وأحجام شاشات مختلفة.</li><li>لا نطلب حسابًا إلا عند الحاجة، ونُبقي بياناتك على هاتفك ما أمكن.</li><li>نستمع لملاحظاتكم، ونصحّح الأخطاء بسرعة.</li></ul>",
@@ -1096,7 +1096,7 @@
    "isInner": false
   },
   {
-   "id": "1ef4088",
+   "id": "17dbb60",
    "elType": "section",
    "settings": {
     "layout": "boxed",
@@ -1130,7 +1130,7 @@
    },
    "elements": [
     {
-     "id": "2368320",
+     "id": "89d3c94",
      "elType": "column",
      "settings": {
       "_column_size": 20,
@@ -1138,7 +1138,7 @@
      },
      "elements": [
       {
-       "id": "087c7de",
+       "id": "2368320",
        "elType": "widget",
        "settings": {
         "image": {
@@ -1162,7 +1162,7 @@
      "isInner": false
     },
     {
-     "id": "7f85521",
+     "id": "1ef4088",
      "elType": "column",
      "settings": {
       "_column_size": 80,
@@ -1170,7 +1170,7 @@
      },
      "elements": [
       {
-       "id": "89d3c94",
+       "id": "d2a6809",
        "elType": "widget",
        "settings": {
         "title": "تواصل معنا",
@@ -1201,7 +1201,7 @@
        "widgetType": "heading"
       },
       {
-       "id": "d2a6809",
+       "id": "e43383b",
        "elType": "widget",
        "settings": {
         "editor": "<p>لاقتراح، أو ملاحظة على أحد تطبيقاتنا، أو تصحيح خطأ، راسلنا ويسعدنا الرد.</p>",
@@ -1230,7 +1230,7 @@
        "widgetType": "text-editor"
       },
       {
-       "id": "e43383b",
+       "id": "7f85521",
        "elType": "widget",
        "settings": {
         "text": "hello@farhoon.com",
@@ -1281,7 +1281,7 @@
    "isInner": false
   },
   {
-   "id": "11f6134",
+   "id": "09296da",
    "elType": "section",
    "settings": {
     "layout": "boxed",
@@ -1315,7 +1315,7 @@
    },
    "elements": [
     {
-     "id": "b96b171",
+     "id": "46dd743",
      "elType": "column",
      "settings": {
       "_column_size": 25,
@@ -1323,7 +1323,7 @@
      },
      "elements": [
       {
-       "id": "2f33ce5",
+       "id": "b96b171",
        "elType": "widget",
        "settings": {
         "image": {
@@ -1355,7 +1355,7 @@
      "isInner": false
     },
     {
-     "id": "e693b78",
+     "id": "a9743ce",
      "elType": "column",
      "settings": {
       "_column_size": 50,
@@ -1363,7 +1363,7 @@
      },
      "elements": [
       {
-       "id": "46dd743",
+       "id": "e693b78",
        "elType": "widget",
        "settings": {
         "editor": "<p class=\"f-foot-links\" style=\"margin:0\"><a href=\"/\">الرئيسية</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href=\"/about/\">من نحن</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href=\"/rafiq/\">رفيق الطاعة</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href=\"/games/\">ألعابنا</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href=\"/blog/\">المدونة</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href=\"/contact/\">تواصل معنا</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href=\"/rafiq/privacy/\">سياسة الخصوصية</a></p>",
@@ -1395,7 +1395,7 @@
      "isInner": false
     },
     {
-     "id": "47db960",
+     "id": "11f6134",
      "elType": "column",
      "settings": {
       "_column_size": 25,
@@ -1403,7 +1403,7 @@
      },
      "elements": [
       {
-       "id": "a9743ce",
+       "id": "47db960",
        "elType": "widget",
        "settings": {
         "editor": "<p style=\"margin:0\">© ٢٠٢٦ فرحون<br><a href=\"mailto:hello@farhoon.com\" style=\"color:#FFC531\">hello@farhoon.com</a></p>",

@@ -4,7 +4,7 @@
  "type": "page",
  "content": [
   {
-   "id": "a006a02",
+   "id": "652f03b",
    "elType": "section",
    "settings": {
     "layout": "boxed",
@@ -38,7 +38,7 @@
    },
    "elements": [
     {
-     "id": "08ca82e",
+     "id": "129fb2b",
      "elType": "column",
      "settings": {
       "_column_size": 20,
@@ -47,7 +47,7 @@
      },
      "elements": [
       {
-       "id": "eae2876",
+       "id": "f64fdfe",
        "elType": "widget",
        "settings": {
         "image": {
@@ -79,7 +79,7 @@
      "isInner": false
     },
     {
-     "id": "129fb2b",
+     "id": "37a45e6",
      "elType": "column",
      "settings": {
       "_column_size": 80,
@@ -88,7 +88,7 @@
      },
      "elements": [
       {
-       "id": "f64fdfe",
+       "id": "a006a02",
        "elType": "widget",
        "settings": {
         "html": "<nav class=\"f-nav\" aria-label=\"Main menu\"><input type=\"checkbox\" id=\"f-menu\" class=\"f-toggle\"><label for=\"f-menu\" class=\"f-burger\"><span class=\"f-sr\">Open menu</span><span></span><span></span><span></span></label><ul><li><a class=\"\" href=\"/en/\">Home</a></li><li><a class=\"\" href=\"/en/about/\">About</a></li><li><a class=\"on\" href=\"/en/rafiq/\">Rafiq Al-Taa</a></li><li><a class=\"\" href=\"/en/games/\">Games</a></li><li><a class=\"\" href=\"/en/blog/\">Blog</a></li><li><a class=\"\" href=\"/en/contact/\">Contact</a></li><li><a class=\"f-lang\" href=\"/rafiq/\" lang=\"ar\">العربية</a></li></ul></nav>"
@@ -103,7 +103,7 @@
    "isInner": false
   },
   {
-   "id": "9b64441",
+   "id": "5bde9fc",
    "elType": "section",
    "settings": {
     "layout": "boxed",
@@ -136,7 +136,7 @@
    },
    "elements": [
     {
-     "id": "3ac8bb5",
+     "id": "4f9fb3d",
      "elType": "column",
      "settings": {
       "_column_size": 100,
@@ -144,7 +144,7 @@
      },
      "elements": [
       {
-       "id": "f16137a",
+       "id": "3ac8bb5",
        "elType": "widget",
        "settings": {
         "title": "Privacy policy",
@@ -175,7 +175,7 @@
        "widgetType": "heading"
       },
       {
-       "id": "9dec737",
+       "id": "9b64441",
        "elType": "widget",
        "settings": {
         "editor": "<p>for the Rafiq Al-Taa app</p>",
@@ -210,7 +210,7 @@
    "isInner": false
   },
   {
-   "id": "1feb9ea",
+   "id": "08ca82e",
    "elType": "section",
    "settings": {
     "layout": "boxed",
@@ -243,7 +243,7 @@
    },
    "elements": [
     {
-     "id": "5bde9fc",
+     "id": "eae2876",
      "elType": "column",
      "settings": {
       "_column_size": 100,
@@ -303,7 +303,7 @@
      },
      "elements": [
       {
-       "id": "4f9fb3d",
+       "id": "1feb9ea",
        "elType": "widget",
        "settings": {
         "editor": "<p>Last updated: 8 November 2026. Publisher: Farhoon. Contact: <a href=\"mailto:hello@farhoon.com\">hello@farhoon.com</a>.</p>\n<h2>Summary</h2>\n<p>The app is free, with no account and no ads. Your worship data and settings stay on your phone, and we do not receive them.</p>\n<h2>Data kept only on your device</h2>\n<p>City, prayer and notification settings, saved verses and hadiths, reading, adhkar and tasbih progress, your daily deeds record, and the numbers you type into the zakat calculator. Delete all of it in Settings → Privacy and your data → Delete my data, or by removing the app.</p>\n<h2>Location</h2>\n<p>If you choose \"use my current location\", it is used on your phone to calculate prayer times, and we do not receive it. The permission is optional, and you can pick a city from the list instead. The Qibla compass runs only on your phone.</p>\n<h2>Third-party services</h2>\n<p>The app contacts these only when you open the related feature. Each sees your IP address, as any website does:</p>\n<ul>\n  <li>Open-Meteo: an approximate position (within about 11 km) to show the temperature on the prayer screen.</li>\n  <li>tafsir_api on GitHub: tafsir text.</li>\n  <li>api.islamic.app: recitations.</li>\n  <li>Radio stations and mp3quran.net: live streams.</li>\n  <li>YouTube: videos and search links, under Google's policies.</li>\n  <li>GitHub Pages: the content update and announcement file, when the app opens.</li>\n</ul>\n<h2>Notifications</h2>\n<p>Adhan and reminders are scheduled on your phone and need no server. The permission is optional.</p>\n<h2>Children</h2>\n<p>The app is not directed at children under 13 and requests no personal data from anyone.</p>\n<h2>Changes</h2>\n<p>Changes are published here with a new date. If usage statistics are added, they will be opt-in and off by default, and this page will list every event sent.</p>",
@@ -338,7 +338,7 @@
    "isInner": false
   },
   {
-   "id": "f19e82f",
+   "id": "e247ac9",
    "elType": "section",
    "settings": {
     "layout": "boxed",
@@ -372,7 +372,7 @@
    },
    "elements": [
     {
-     "id": "652f03b",
+     "id": "b7f8d0f",
      "elType": "column",
      "settings": {
       "_column_size": 25,
@@ -380,7 +380,7 @@
      },
      "elements": [
       {
-       "id": "37a45e6",
+       "id": "5e7c09c",
        "elType": "widget",
        "settings": {
         "image": {
@@ -412,7 +412,7 @@
      "isInner": false
     },
     {
-     "id": "b7f8d0f",
+     "id": "7887800",
      "elType": "column",
      "settings": {
       "_column_size": 50,
@@ -420,7 +420,7 @@
      },
      "elements": [
       {
-       "id": "5e7c09c",
+       "id": "6f4a60f",
        "elType": "widget",
        "settings": {
         "editor": "<p class=\"f-foot-links\" style=\"margin:0\"><a href=\"/en/\">Home</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href=\"/en/about/\">About</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href=\"/en/rafiq/\">Rafiq Al-Taa</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href=\"/en/games/\">Games</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href=\"/en/blog/\">Blog</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href=\"/en/contact/\">Contact</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href=\"/en/rafiq/privacy/\">Privacy policy</a></p>",
@@ -452,7 +452,7 @@
      "isInner": false
     },
     {
-     "id": "7887800",
+     "id": "72aacbf",
      "elType": "column",
      "settings": {
       "_column_size": 25,
@@ -460,7 +460,7 @@
      },
      "elements": [
       {
-       "id": "6f4a60f",
+       "id": "f19e82f",
        "elType": "widget",
        "settings": {
         "editor": "<p style=\"margin:0\">© 2026 Farhoon<br><a href=\"mailto:hello@farhoon.com\" style=\"color:#FFC531\">hello@farhoon.com</a></p>",
