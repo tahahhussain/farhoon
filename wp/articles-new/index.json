@@ -3,151 +3,176 @@
   "number": 11,
   "file": "11-prayer-times-calculation-methods.json",
   "slug": "prayer-times-calculation-methods",
-  "title": "طرق حساب مواقيت الصلاة: لماذا تختلف بين التطبيقات والمساجد؟"
+  "title": "طرق حساب مواقيت الصلاة: لماذا تختلف بين التطبيقات والمساجد؟",
+  "en": "11-prayer-times-calculation-methods.en.json"
  },
  {
   "number": 12,
   "file": "12-tafsir-saadi-vs-muyassar.json",
   "slug": "tafsir-saadi-vs-muyassar",
-  "title": "تفسير السعدي والميسر: الفرق بينهما وأيهما تبدأ به مع مثال عملي"
+  "title": "تفسير السعدي والميسر: الفرق بينهما وأيهما تبدأ به مع مثال عملي",
+  "en": "12-tafsir-saadi-vs-muyassar.en.json"
  },
  {
   "number": 13,
   "file": "13-quran-khatma-ramadan-schedule.json",
   "slug": "quran-khatma-ramadan-schedule",
-  "title": "جدول ختم القرآن في رمضان: خطط لختمة في ٣٠ يومًا و١٥ و١٠ أيام"
+  "title": "جدول ختم القرآن في رمضان: خطط لختمة في ٣٠ يومًا و١٥ و١٠ أيام",
+  "en": "13-quran-khatma-ramadan-schedule.en.json"
  },
  {
   "number": 14,
   "file": "14-quran-offline-app.json",
   "slug": "quran-offline-app",
-  "title": "تطبيق قرآن بدون إنترنت: كيف تقرأ وتستمع وتتدبر دون اتصال"
+  "title": "تطبيق قرآن بدون إنترنت: كيف تقرأ وتستمع وتتدبر دون اتصال",
+  "en": "14-quran-offline-app.en.json"
  },
  {
   "number": 15,
   "file": "15-adhan-not-working-android.json",
   "slug": "adhan-not-working-android",
-  "title": "الأذان لا يعمل في الجوال؟ دليل الحل خطوة بخطوة لأجهزة أندرويد"
+  "title": "الأذان لا يعمل في الجوال؟ دليل الحل خطوة بخطوة لأجهزة أندرويد",
+  "en": "15-adhan-not-working-android.en.json"
  },
  {
   "number": 16,
   "file": "16-fajr-prayer-time.json",
   "slug": "fajr-prayer-time",
-  "title": "وقت صلاة الفجر: متى يبدأ ومتى ينتهي وما أفضل وقت لأدائها؟"
+  "title": "وقت صلاة الفجر: متى يبدأ ومتى ينتهي وما أفضل وقت لأدائها؟",
+  "en": "16-fajr-prayer-time.en.json"
  },
  {
   "number": 17,
   "file": "17-asr-prayer-time.json",
   "slug": "asr-prayer-time",
-  "title": "وقت صلاة العصر: متى يبدأ ومتى ينتهي ولماذا يختلف بين التطبيقات؟"
+  "title": "وقت صلاة العصر: متى يبدأ ومتى ينتهي ولماذا يختلف بين التطبيقات؟",
+  "en": "17-asr-prayer-time.en.json"
  },
  {
   "number": 18,
   "file": "18-forbidden-prayer-times.json",
   "slug": "forbidden-prayer-times",
-  "title": "أوقات النهي عن الصلاة: الأوقات الخمسة وما يجوز فيها من الصلوات"
+  "title": "أوقات النهي عن الصلاة: الأوقات الخمسة وما يجوز فيها من الصلوات",
+  "en": "18-forbidden-prayer-times.en.json"
  },
  {
   "number": 19,
   "file": "19-rajab-month-virtues.json",
   "slug": "rajab-month-virtues",
-  "title": "فضل شهر رجب: ما ثبت فيه وما لم يثبت من صلاة وصيام ودعاء"
+  "title": "فضل شهر رجب: ما ثبت فيه وما لم يثبت من صلاة وصيام ودعاء",
+  "en": "19-rajab-month-virtues.en.json"
  },
  {
   "number": 20,
   "file": "20-sacred-months.json",
   "slug": "sacred-months",
-  "title": "الأشهر الحرم: ما هي وترتيبها وأحكامها ومواعيدها في ١٤٤٨هـ"
+  "title": "الأشهر الحرم: ما هي وترتيبها وأحكامها ومواعيدها في ١٤٤٨هـ",
+  "en": "20-sacred-months.en.json"
  },
  {
   "number": 21,
   "file": "21-fasting-shaban.json",
   "slug": "fasting-shaban",
-  "title": "صيام شعبان: هدي النبي ﷺ وحكم الصيام بعد النصف وخطة عملية"
+  "title": "صيام شعبان: هدي النبي ﷺ وحكم الصيام بعد النصف وخطة عملية",
+  "en": "21-fasting-shaban.en.json"
  },
  {
   "number": 22,
   "file": "22-mid-shaban-night.json",
   "slug": "mid-shaban-night",
-  "title": "ليلة النصف من شعبان: فضلها ودرجة حديثها وما لم يثبت فيها"
+  "title": "ليلة النصف من شعبان: فضلها ودرجة حديثها وما لم يثبت فيها",
+  "en": "22-mid-shaban-night.en.json"
  },
  {
   "number": 23,
   "file": "23-making-up-ramadan-fasts.json",
   "slug": "making-up-ramadan-fasts",
-  "title": "قضاء صيام رمضان: آخر موعد وحكم التأخير والفدية وجدول للأيام"
+  "title": "قضاء صيام رمضان: آخر موعد وحكم التأخير والفدية وجدول للأيام",
+  "en": "23-making-up-ramadan-fasts.en.json"
  },
  {
   "number": 24,
   "file": "24-white-days-fasting.json",
   "slug": "white-days-fasting",
-  "title": "الأيام البيض: فضل صيامها وأحاديثها وجدول مواعيدها لعام ١٤٤٨هـ"
+  "title": "الأيام البيض: فضل صيامها وأحاديثها وجدول مواعيدها لعام ١٤٤٨هـ",
+  "en": "24-white-days-fasting.en.json"
  },
  {
   "number": 25,
   "file": "25-sleep-adhkar.json",
   "slug": "sleep-adhkar",
-  "title": "أذكار النوم من السنة بالترتيب: النص والمصدر ومعنى كل ذكر"
+  "title": "أذكار النوم من السنة بالترتيب: النص والمصدر ومعنى كل ذكر",
+  "en": "25-sleep-adhkar.en.json"
  },
  {
   "number": 26,
   "file": "26-adhkar-after-prayer.json",
   "slug": "adhkar-after-prayer",
-  "title": "الأذكار بعد الصلاة بالترتيب: النص الصحيح والمصدر والفضل"
+  "title": "الأذكار بعد الصلاة بالترتيب: النص الصحيح والمصدر والفضل",
+  "en": "26-adhkar-after-prayer.en.json"
  },
  {
   "number": 27,
   "file": "27-sayyid-al-istighfar.json",
   "slug": "sayyid-al-istighfar",
-  "title": "سيد الاستغفار: النص الصحيح من البخاري ومعناه وفضله وطريقة حفظه"
+  "title": "سيد الاستغفار: النص الصحيح من البخاري ومعناه وفضله وطريقة حفظه",
+  "en": "27-sayyid-al-istighfar.en.json"
  },
  {
   "number": 28,
   "file": "28-istikhara-prayer-dua.json",
   "slug": "istikhara-prayer-dua",
-  "title": "دعاء الاستخارة الصحيح وكيفية صلاة الاستخارة خطوة بخطوة"
+  "title": "دعاء الاستخارة الصحيح وكيفية صلاة الاستخارة خطوة بخطوة",
+  "en": "28-istikhara-prayer-dua.en.json"
  },
  {
   "number": 29,
   "file": "29-surat-al-kahf-friday.json",
   "slug": "surat-al-kahf-friday",
-  "title": "فضل قراءة سورة الكهف يوم الجمعة: صحة الحديث ووقتها وخطة قراءتها"
+  "title": "فضل قراءة سورة الكهف يوم الجمعة: صحة الحديث ووقتها وخطة قراءتها",
+  "en": "29-surat-al-kahf-friday.en.json"
  },
  {
   "number": 30,
   "file": "30-friday-hour-of-answer.json",
   "slug": "friday-hour-of-answer",
-  "title": "ساعة الإجابة يوم الجمعة: متى تكون وكيف تغتنمها بالدعاء؟"
+  "title": "ساعة الإجابة يوم الجمعة: متى تكون وكيف تغتنمها بالدعاء؟",
+  "en": "30-friday-hour-of-answer.en.json"
  },
  {
   "number": 31,
   "file": "31-friday-sunnahs.json",
   "slug": "friday-sunnahs",
-  "title": "سنن يوم الجمعة الثابتة بالأدلة: قائمة كاملة وجدول للطباعة"
+  "title": "سنن يوم الجمعة الثابتة بالأدلة: قائمة كاملة وجدول للطباعة",
+  "en": "31-friday-sunnahs.en.json"
  },
  {
   "number": 32,
   "file": "32-missed-fajr-prayer.json",
   "slug": "missed-fajr-prayer",
-  "title": "قضاء صلاة الفجر لمن نام عنها: متى يصليها وكيف يقضيها مع سنتها؟"
+  "title": "قضاء صلاة الفجر لمن نام عنها: متى يصليها وكيف يقضيها مع سنتها؟",
+  "en": "32-missed-fajr-prayer.en.json"
  },
  {
   "number": 33,
   "file": "33-tahiyyat-al-masjid-khutbah.json",
   "slug": "tahiyyat-al-masjid-khutbah",
-  "title": "تحية المسجد والإمام يخطب يوم الجمعة: هل تصليها؟ الحكم والدليل"
+  "title": "تحية المسجد والإمام يخطب يوم الجمعة: هل تصليها؟ الحكم والدليل",
+  "en": "33-tahiyyat-al-masjid-khutbah.en.json"
  },
  {
   "number": 34,
   "file": "34-prophet-yunus-story.json",
   "slug": "prophet-yunus-story",
-  "title": "قصة يونس عليه السلام كما في القرآن والسنة: الأحداث والدروس"
+  "title": "قصة يونس عليه السلام كما في القرآن والسنة: الأحداث والدروس",
+  "en": "34-prophet-yunus-story.en.json"
  },
  {
   "number": 35,
   "file": "35-meem-sakinah-rules.json",
   "slug": "meem-sakinah-rules",
-  "title": "أحكام الميم الساكنة: شرح مبسط بالأمثلة وأبيات التحفة وجدول ملخص"
+  "title": "أحكام الميم الساكنة: شرح مبسط بالأمثلة وأبيات التحفة وجدول ملخص",
+  "en": "35-meem-sakinah-rules.en.json"
  },
  {
   "number": 36,

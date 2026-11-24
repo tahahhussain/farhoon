@@ -1,0 +1,192 @@
+{
+ "number": 21,
+ "slug": "fasting-shaban",
+ "category": "Fasting",
+ "title": "Fasting in Sha'ban: The Prophet's ﷺ Practice, the Second-Half Ruling and a Practical Plan",
+ "meta_title": "Fasting in Shaban: Hadith, Rulings & 1448 Plan | Farhoon",
+ "meta_description": "Fasting in Shaban from authentic hadith: how much the Prophet ﷺ fasted, the ruling after mid-Shaban and the day of doubt, plus a plan for Shaban 1448.",
+ "focus_keyword": "fasting in shaban",
+ "keywords": [
+  {
+   "keyword": "fasting in shaban",
+   "type": "primary",
+   "est_monthly_searches": "3,000–10,000, seasonal (estimated)",
+   "intent": "informational",
+   "kgr_note": "Medium; IslamQA and large Islamic sites rank, but few combine the rulings with dates and a plan (estimated)"
+  },
+  {
+   "keyword": "virtues of fasting in shaban",
+   "type": "secondary",
+   "est_monthly_searches": "500–2,000, seasonal (estimated)",
+   "intent": "informational",
+   "kgr_note": "Medium; many results mix authentic and weak reports (estimated)"
+  },
+  {
+   "keyword": "can you fast after 15 shaban",
+   "type": "question",
+   "est_monthly_searches": "500–2,000, seasonal (estimated)",
+   "intent": "informational",
+   "kgr_note": "Easy to medium; few pages present both the hadith debate and the exceptions (estimated)"
+  },
+  {
+   "keyword": "is it allowed to fast on the day of doubt",
+   "type": "question",
+   "est_monthly_searches": "200–800, seasonal (estimated)",
+   "intent": "informational",
+   "kgr_note": "Easy (estimated)"
+  },
+  {
+   "keyword": "when shaban is half over do not fast",
+   "type": "long-tail",
+   "est_monthly_searches": "100–500, seasonal (estimated)",
+   "intent": "informational",
+   "kgr_note": "Easy; mostly hadith pages and forums (estimated)"
+  },
+  {
+   "keyword": "how many days did the prophet fast in shaban",
+   "type": "question",
+   "est_monthly_searches": "100–500 (estimated)",
+   "intent": "informational",
+   "kgr_note": "Easy; direct question that suits a snippet (estimated)"
+  },
+  {
+   "keyword": "shaban 2027 start date",
+   "type": "long-tail",
+   "est_monthly_searches": "500–3,000 before the season (estimated)",
+   "intent": "informational",
+   "kgr_note": "Easy; few pages with 1448 dates so far (estimated)"
+  },
+  {
+   "keyword": "day of doubt",
+   "type": "LSI",
+   "est_monthly_searches": "300–1,000, seasonal (estimated)",
+   "intent": "informational",
+   "kgr_note": "Supporting term (estimated)"
+  }
+ ],
+ "keyword_variations": [
+  "fasting in shaban",
+  "shaban fasting",
+  "fasting in sha'ban",
+  "fasting in shaaban",
+  "sha'ban fasts",
+  "fasting the whole of shaban",
+  "virtue of fasting in shaban",
+  "sunnah fasting in shaban",
+  "fasting after 15th shaban",
+  "fasting in the second half of shaban",
+  "fasting before ramadan",
+  "day of doubt fasting",
+  "yawm ash shakk",
+  "hadith of usamah ibn zayd shaban",
+  "a month people neglect",
+  "shaban 1448",
+  "shaban 2027"
+ ],
+ "featured_snippet": {
+  "target_query": "is fasting in shaban sunnah",
+  "type": "paragraph",
+  "html": "<p>Yes. Fasting in Sha'ban is an emphasised sunnah from the practice of the Prophet ﷺ. He fasted most of the month, and after Ramadan there was no month in which he fasted more, as A'ishah (may Allah be pleased with her) reported in Sahih al-Bukhari and Sahih Muslim. It is recommended to fast often in its first half and middle, while fasting a day or two just before Ramadan is forbidden, except for someone with a regular fasting habit or a make-up fast.</p>"
+ },
+ "excerpt": "The authentic hadith on fasting in Sha'ban, the rulings on fasting after mid-Sha'ban, a day or two before Ramadan and on the day of doubt, plus expected dates for Sha'ban 1448 and a practical plan.",
+ "reading_minutes": 10,
+ "featured_image": {
+  "headline": "Fasting in Sha'ban",
+  "alt": "Fasting in Sha'ban: the Prophet's practice and the rulings on fasting after mid-Sha'ban and before Ramadan"
+ },
+ "cta_text": "Follow the days of Sha'ban and the White Days in the Hijri calendar of Rafiq Al-Taa, our free ad-free app (Arabic interface), with a ready Ramadan timetable. Coming soon to Google Play.",
+ "images": [
+  {
+   "file": "fasting-shaban-cover-en.webp",
+   "alt": "Cover image for the article on fasting in Sha'ban on a Farhoon background",
+   "caption": "",
+   "type": "cover",
+   "spec": "Title: Fasting in Sha'ban | Subtitle: The Prophet's ﷺ practice, the second-half rulings and a 1448 AH plan | Light crescent ornament"
+  },
+  {
+   "file": "shaban-1448-key-dates-en.webp",
+   "alt": "Table of the expected key dates of Sha'ban 1448 AH according to the Umm al-Qura calendar",
+   "caption": "Expected dates according to Umm al-Qura; they depend on the moon sighting",
+   "type": "table",
+   "spec": "Title: Sha'ban 1448 AH (expected) | Rows: First of Sha'ban → Saturday 9 January 2027 | The White Days → 21, 22 and 23 January | Start of the second half → Sunday 24 January | 30 Sha'ban → Sunday 7 February | First of Ramadan → Monday 8 February | Footer: depends on the moon sighting"
+  },
+  {
+   "file": "shaban-fasting-plan-en.webp",
+   "alt": "Sha'ban fasting plan divided across the weeks of the month",
+   "caption": "A suggested plan that takes the second-half disagreement into account",
+   "type": "steps",
+   "spec": "Title: Sha'ban fasting plan | 1) First week: Mondays and Thursdays or every other day | 2) Second week: keep going + the White Days | 3) Second half: for those fasting continuously, with a habit or owing make-up fasts | 4) Last two days: no fasting as a precaution for Ramadan"
+  },
+  {
+   "file": "shaban-fasting-exceptions-en.webp",
+   "alt": "Chart showing when fasting at the end of Sha'ban is allowed and when it is not",
+   "caption": "",
+   "type": "infographic",
+   "spec": "Allowed: someone continuing their earlier fasting, someone with a habit such as Mondays and Thursdays, making up Ramadan, a vowed fast | Not prescribed: fasting a day or two before Ramadan as a precaution, fasting the day of doubt, singling out the 15th because of a weak hadith"
+  }
+ ],
+ "content_html": "<p><strong>Fasting in Sha'ban</strong> is an established sunnah. The Prophet ﷺ fasted most of its days, and he did not fast in any month other than Ramadan as much as he fasted in it. In this guide we gather the authentic hadith on fasting in Sha'ban, explain the ruling on fasting after the middle of the month (including the scholarly debate about the hadith on it), the prohibition on fasting a day or two before Ramadan, and the ruling on the \"day of doubt\". We finish with a practical fasting plan for Sha'ban 1448 AH.</p>\n<p>Sha'ban 1448 AH is expected to begin around 9 January 2027 and end around 7 February 2027, according to the Umm al-Qura calendar. The actual start in each country depends on the sighting of the new moon.</p>\n\n<h2>Is fasting in Sha'ban sunnah?</h2>\n<div class=\"f-snippet\"><p>Yes. Fasting in Sha'ban is an emphasised sunnah from the practice of the Prophet ﷺ. He fasted most of the month, and after Ramadan there was no month in which he fasted more, as A'ishah (may Allah be pleased with her) reported in Sahih al-Bukhari and Sahih Muslim. It is recommended to fast often in its first half and middle, while fasting a day or two just before Ramadan is forbidden, except for someone with a regular fasting habit or a make-up fast.</p></div>\n<p>Fasting in Sha'ban is not obligatory, and there is no required number of days. Whoever fasts a single day of it is rewarded for it, and whoever fasts most of it has followed the way of the Prophet ﷺ. What matters is not to single out a particular day of the month for fasting without an authentic text, as we will see with the day of mid-Sha'ban.</p>\n\n<h2>What is reported about the Prophet's ﷺ fasting in Sha'ban?</h2>\n<h3>The hadith of A'ishah (may Allah be pleased with her)</h3>\n<p>This is the most authentic report on the subject. She said:</p>\n<blockquote>\"I never saw the Messenger of Allah ﷺ complete the fast of any month except Ramadan, and I never saw him fast more in any month than he did in Sha'ban.\" (Sahih al-Bukhari 1969; Sahih Muslim 1156)</blockquote>\n<p>In another narration in al-Bukhari (1970): \"The Prophet ﷺ did not fast any month more than Sha'ban; he used to fast the whole of Sha'ban.\" And in a narration in Muslim: \"He used to fast all of Sha'ban except a little.\"</p>\n<p>Scholars reconcile these narrations by explaining that \"the whole of it\" here means most of it, since Arabs would say that someone who fasted most of a month \"fasted the whole month\". This is supported by her words in the first narration that he never completed a full month of fasting except Ramadan. So the sunnah is for a Muslim to fast most of Sha'ban, not to join all of it to Ramadan.</p>\n<h3>The hadith of Usamah ibn Zayd (may Allah be pleased with them both)</h3>\n<p>Usamah asked the Prophet ﷺ why he fasted so much in Sha'ban, and he replied:</p>\n<blockquote>\"That is a month that people neglect, between Rajab and Ramadan. It is a month in which deeds are raised up to the Lord of the worlds, and I love that my deeds be raised up while I am fasting.\" (Sunan an-Nasa'i 2357 and Ahmad; graded hasan by al-Albani)</blockquote>\n<p>This hadith gives the wisdom behind fasting in Sha'ban in the Prophet's ﷺ own words, so we do not need explanations that are not reported. You can check its text and grading in the <a href=\"https://dorar.net/hadith\">Dorar hadith encyclopedia</a> (Arabic).</p>\n\n<h2>Why did the Prophet ﷺ fast so much in Sha'ban?</h2>\n<p>From these two hadith and the words of scholars, we can draw out three reasons:</p>\n<ol>\n<li><strong>People neglect it:</strong> Sha'ban falls between Rajab, one of the sacred months, and Ramadan, the month of fasting, so people are distracted from it. Worship at a time when others are heedless is harder on the soul and a stronger sign of sincerity.</li>\n<li><strong>Deeds are raised in it:</strong> the hadith states that deeds are raised to Allah in this month, and the Prophet ﷺ loved for his deeds to be raised while he was fasting.</li>\n<li><strong>Preparation for Ramadan:</strong> Ibn Rajab mentioned in <em>Lata'if al-Ma'arif</em> that fasting in Sha'ban is like training for the fast of Ramadan, so that a Muslim does not enter Ramadan with difficulty but already used to fasting and having tasted its sweetness. He compared it to the sunnah prayers offered before an obligatory prayer.</li>\n</ol>\n<p>As for hadith that circulate about the virtue of Sha'ban, such as \"Rajab is the month of Allah, Sha'ban is my month and Ramadan is the month of my nation\", they are not authentic. Hadith scholars graded it weak, and some even judged it fabricated, so it should not be attributed to the Prophet ﷺ. For what is authentic about the month before, see our article on <a href=\"/en/blog/rajab-month-virtues/\">the virtues of Rajab</a>.</p>\n\n<!--CTA:rafiq-->\n\n<h2>When does Sha'ban 1448 begin and end?</h2>\n<p>These are the expected dates of the coming Sha'ban according to the Umm al-Qura calendar. They are estimates and depend on the sighting of the moon in your country:</p>\n<table>\n<thead><tr><th>Occasion</th><th>Hijri date</th><th>Gregorian date (expected)</th></tr></thead>\n<tbody>\n<tr><td>First day of Sha'ban</td><td>1 Sha'ban 1448 AH</td><td>Saturday 9 January 2027</td></tr>\n<tr><td>The White Days</td><td>13, 14 and 15 Sha'ban</td><td>21, 22 and 23 January 2027</td></tr>\n<tr><td>Start of the second half</td><td>16 Sha'ban</td><td>Sunday 24 January 2027</td></tr>\n<tr><td>Last day of Sha'ban (if it has 30 days)</td><td>30 Sha'ban</td><td>Sunday 7 February 2027</td></tr>\n<tr><td>First day of Ramadan</td><td>1 Ramadan 1448 AH</td><td>Monday 8 February 2027</td></tr>\n</tbody>\n</table>\n<p>You can follow the Hijri date day by day in a reliable Hijri calendar. In some countries the month starts a day earlier or later than Umm al-Qura because of local moon sighting, so rely on the announcement of the official authority where you live.</p>\n\n<!--IMG:2-->\n\n<h2>Is it allowed to fast after the middle of Sha'ban?</h2>\n<p>There is a hadith on this from Abu Hurayrah (may Allah be pleased with him), that the Prophet ﷺ said:</p>\n<blockquote>\"When Sha'ban is half over, do not fast.\" (Sunan Abi Dawud 2337; Jami' at-Tirmidhi 738, who said: hasan sahih; Sunan Ibn Majah 1651; graded sahih by al-Albani)</blockquote>\n<h3>The difference over the hadith's grading</h3>\n<ul>\n<li><strong>Those who graded it authentic:</strong> at-Tirmidhi, Ibn Hibban, al-Hakim, at-Tahawi and Ibn 'Abd al-Barr, and among contemporary scholars al-Albani and others. They said its narrator, al-'Ala' ibn 'Abd al-Rahman, is trustworthy.</li>\n<li><strong>Those who rejected it:</strong> Imam Ahmad and Yahya ibn Ma'in, and 'Abd al-Rahman ibn Mahdi would not narrate it, because al-'Ala' was alone in reporting it, and because on the surface it seems to contradict the authentic reports that the Prophet ﷺ fasted most of Sha'ban.</li>\n</ul>\n<h3>The difference among jurists</h3>\n<p>Because of this, jurists differed on voluntary fasting in the second half of Sha'ban:</p>\n<ul>\n<li><strong>The Shafi'is:</strong> they do not allow starting a new voluntary fast after the middle of the month. The stronger view in their school is that the prohibition means it is forbidden (haram), while some of them said it is disliked (makruh).</li>\n<li><strong>Most scholars:</strong> they allow it, because they considered the hadith weak or understood it to apply to someone whom fasting would weaken for Ramadan. Some of them considered it mildly disliked.</li>\n</ul>\n<p>Those who hold that it is prohibited agree that it does not include the following cases:</p>\n<ul>\n<li>Someone who <strong>connects</strong> their fasting to what came before the middle, having fasted from the start of the month and carried on.</li>\n<li>Someone with a regular fasting <strong>habit</strong>, such as fasting Mondays and Thursdays, or fasting every other day.</li>\n<li><strong>Make-up</strong> fasts (qada) and <strong>vowed</strong> fasts (nadhr), which are obligatory and not covered by the prohibition.</li>\n</ul>\n<p>For more detail, see the fatwa on <a href=\"https://islamqa.info/en/answers/13726\">fasting in the second half of Sha'ban on IslamQA</a> and the fatwa on <a href=\"https://binbaz.org.sa/fatwas/11186\">fasting after mid-Sha'ban on Shaykh Ibn Baz's website</a> (Arabic). The more cautious course for someone who did not fast in the first half and has no fasting habit is to do most of their fasting early in the month, to stay clear of the disagreement.</p>\n\n<h2>What is the ruling on fasting a day or two before Ramadan?</h2>\n<p>This prohibition is authentic and agreed upon. Abu Hurayrah (may Allah be pleased with him) reported that the Prophet ﷺ said:</p>\n<blockquote>\"None of you should fast a day or two before Ramadan, unless he is a man who has been observing a habitual fast; then let him fast that day.\" (Sahih al-Bukhari 1914; Sahih Muslim 1082)</blockquote>\n<p>The wisdom is to keep the obligatory fast distinct from voluntary fasting, and not to add to Ramadan what is not part of it as a \"precaution\". So a Muslim should not fast the last day or two of Sha'ban with the intention of being on the safe side for Ramadan, which this year means around 6 and 7 February 2027 according to the expected calendar.</p>\n<p>The exceptions are:</p>\n<ul>\n<li>Someone whose regular fast falls on that day, such as a person who fasts on Mondays and the last of Sha'ban is a Monday.</li>\n<li>Someone who still owes days from last Ramadan and has no time left except these days; they must make them up.</li>\n<li>A vowed fast.</li>\n</ul>\n\n<h2>What is the day of doubt, and can you fast it?</h2>\n<p>The day of doubt (yawm ash-shakk) is the 30th of Sha'ban when the new moon could not be seen the night before because of cloud, dust or the like, so it is unclear whether the day belongs to Sha'ban or Ramadan. The Companion 'Ammar ibn Yasir (may Allah be pleased with him) said:</p>\n<blockquote>\"Whoever fasts the day about which there is doubt has disobeyed Abu al-Qasim ﷺ.\" (Sunan Abi Dawud 2334; Jami' at-Tirmidhi 686, who said: hasan sahih; al-Bukhari mentioned it without a full chain (mu'allaq); graded sahih by al-Albani)</blockquote>\n<p>The majority of scholars hold this view: the day of doubt is not fasted as a precaution for Ramadan. At-Tirmidhi reported that most people of knowledge disliked fasting it, including Sufyan ath-Thawri, Malik, ash-Shafi'i and Ahmad. The exceptions are the same as in the previous hadith: someone whose habitual fast falls on it, or who has a make-up or vowed fast. In the Hanbali school there is a well-known narration that it must be fasted if clouds prevent the sighting, but the position relied on by most jurists is that it is not fasted.</p>\n<p>The start of Ramadan is determined by the announcement of the official authority in your country after the moon has been sought, not by personal judgement.</p>\n\n<h2>A practical fasting plan for Sha'ban 1448</h2>\n<p>Here is a suggested plan that combines the sunnah with ease and takes the disagreement about the second half into account. Choose what suits your health and work:</p>\n<table>\n<thead><tr><th>Period</th><th>Expected dates</th><th>Suggestion</th></tr></thead>\n<tbody>\n<tr><td>First week</td><td>9 – 15 January</td><td>Fast Mondays and Thursdays, or every other day</td></tr>\n<tr><td>Second week</td><td>16 – 22 January</td><td>Keep going, including the White Days of the 13th and 14th (21 and 22 January)</td></tr>\n<tr><td>Middle of the month</td><td>23 January</td><td>The 15th, the last of the White Days</td></tr>\n<tr><td>Second half</td><td>24 January – 5 February</td><td>Those who have been fasting continuously or have a habit carry on; those who owe days make them up</td></tr>\n<tr><td>Last two days</td><td>6 and 7 February</td><td>No fasting, except for a habit, a make-up fast or a vow</td></tr>\n</tbody>\n</table>\n<!--IMG:3-->\n<h3>Tips to make the plan work</h3>\n<ol>\n<li><strong>Start early:</strong> fasting at the start of the month puts you within the \"connected fasting\" exception according to those who hold the prohibition.</li>\n<li><strong>Don't exhaust yourself:</strong> the goal is to prepare for Ramadan, not to arrive tired. If you feel weak, keep to Mondays and Thursdays.</li>\n<li><strong>Pair fasting with Quran recitation:</strong> set yourself a daily portion to practise before Ramadan. You will find ready-made plans in our <a href=\"/en/blog/quran-khatma-ramadan-schedule/\">Ramadan Quran completion schedule</a>.</li>\n<li><strong>Adjust your habits:</strong> cut down on caffeine gradually, regulate your sleep and get used to eating suhur (the pre-dawn meal).</li>\n<li><strong>Make it a family effort:</strong> encourage children who are old enough to understand to fast a few days as practice for Ramadan.</li>\n</ol>\n\n<h2>Should I make up missed Ramadan fasts first or fast Sha'ban?</h2>\n<p>If you owe days from last Ramadan, making them up comes first, because it is an obligatory debt and the time for it shrinks as Ramadan approaches. A'ishah (may Allah be pleased with her) used to delay her make-up fasts until Sha'ban because she was occupied with the Prophet ﷺ, as reported in al-Bukhari and Muslim. So use the days of Sha'ban to make up what you owe first, then fast voluntarily with what remains.</p>\n<p>Make-up fasts are not included in the prohibition on fasting after mid-Sha'ban, nor in the prohibition on fasting right before Ramadan, so you may make up days until the last day of Sha'ban. We explain the rulings and give a table of remaining days in our article on <a href=\"/en/blog/making-up-ramadan-fasts/\">making up missed Ramadan fasts</a>.</p>\n\n<h2>Common mistakes about fasting in Sha'ban</h2>\n<ul>\n<li><strong>Singling out the 15th of Sha'ban for fasting:</strong> some cite the hadith \"When it is the night of the middle of Sha'ban, spend its night in prayer and fast its day\". It is reported by Ibn Majah (1388), and its chain is very weak; it includes Ibn Abi Sabrah, who was accused of fabricating hadith. So this day should not be singled out for fasting because of this hadith, but there is no harm for someone who fasts it as one of the White Days or as part of their habit. We explain what is authentic about this night in our article on <a href=\"/en/blog/mid-shaban-night/\">the night of the 15th of Sha'ban</a>.</li>\n<li><strong>Fasting the end of Sha'ban as a precaution:</strong> this is prohibited, as explained above.</li>\n<li><strong>Neglecting make-up fasts:</strong> getting busy with voluntary fasting and leaving the obligation until Ramadan arrives.</li>\n<li><strong>Spreading weak hadith:</strong> such as the du'a \"O Allah, bless us in Rajab and Sha'ban and let us reach Ramadan\" attributed to the Prophet ﷺ. Scholars graded it weak. You may make a du'a with this meaning without attributing it to him.</li>\n<li><strong>Fasting Friday on its own:</strong> if you fast the White Days in Sha'ban 1448, the 14th of Sha'ban is expected to fall on a Friday. That is fine, because you will have fasted the Thursday before it; the prohibition is on singling out Friday by itself.</li>\n</ul>\n<!--IMG:4-->\n\n<h2>How can Rafiq Al-Taa help you in Sha'ban?</h2>\n<p><strong>Rafiq Al-Taa</strong> is a free, ad-free Islamic app by Farhoon with an Arabic interface. It has a Hijri calendar with Islamic occasions that shows where you are in the month, so you know when the second half begins and when the White Days arrive. It also includes a ready Ramadan timetable for after Sha'ban, and a \"My Worship\" section to track your daily prayers, adhkar and reading with a streak counter. The app does not have fasting-specific alerts, so rely on the calendar to know the days. It is coming soon to Google Play, with no ads and no account needed. To organise the rest of your daily worship, see our <a href=\"/en/blog/daily-worship-tracker/\">daily worship tracker</a>.</p>\n\n<h2>Summary of the rulings on fasting in Sha'ban</h2>\n<p>Fasting in Sha'ban is an emphasised sunnah. The Prophet ﷺ fasted most of it because it is a month people neglect and one in which deeds are raised. It is best to do most of your fasting in its first half and middle. Scholars differ about fasting after the middle of the month, and those who prohibit it exclude anyone who has been fasting continuously, has a habit, or owes make-up fasts. Do not fast the last day or two as a precaution for Ramadan, and do not fast the day of doubt. What we have presented is a summary of the well-known positions of scholars, so ask the people of knowledge in your country about your particular situation.</p>\n\n<!--CTA:rafiq-->\n",
+ "faq": [
+  {
+   "q": "Did the Prophet ﷺ fast the whole of Sha'ban?",
+   "a": "A'ishah (may Allah be pleased with her) reported in al-Bukhari and Muslim that he never completed a full month of fasting except Ramadan, and that he fasted more in Sha'ban than in any other month. One narration says he fasted all of Sha'ban and another says all of it except a little. Scholars reconcile them by saying he fasted most of it."
+  },
+  {
+   "q": "Can I fast after the 15th of Sha'ban?",
+   "a": "Scholars differ. The hadith \"When Sha'ban is half over, do not fast\" was graded authentic by at-Tirmidhi and al-Albani and rejected by Ahmad and Ibn Ma'in. The Shafi'is do not allow starting a new voluntary fast after the middle, while most scholars allow it. All agree it excludes someone continuing earlier fasting, someone with a habit, and make-up or vowed fasts."
+  },
+  {
+   "q": "Is it allowed to fast a day or two before Ramadan?",
+   "a": "It is not allowed to fast them as a precaution for Ramadan, because the Prophet ﷺ said: \"None of you should fast a day or two before Ramadan\" (al-Bukhari and Muslim). The exceptions are someone whose regular fast, such as Monday or Thursday, falls on that day, and someone who owes a make-up fast or has a vow."
+  },
+  {
+   "q": "What is the day of doubt?",
+   "a": "It is the 30th of Sha'ban when the new moon was not seen the night before because of cloud or similar, so it is unclear whether the day is part of Sha'ban or Ramadan. Most scholars hold that it is not fasted as a precaution, because 'Ammar (may Allah be pleased with him) said: \"Whoever fasts the day of doubt has disobeyed Abu al-Qasim ﷺ.\""
+  },
+  {
+   "q": "When does Sha'ban 1448 begin?",
+   "a": "Sha'ban 1448 AH is expected to begin on Saturday 9 January 2027, and Ramadan on Monday 8 February 2027, according to the Umm al-Qura calendar. The actual start depends on the sighting of the new moon and the announcement of the official authority in each country."
+  },
+  {
+   "q": "Should I make up Ramadan before fasting voluntarily in Sha'ban?",
+   "a": "Yes. Making up missed days comes first because it is obligatory and the time for it shrinks as Ramadan approaches, while voluntary fasting is sunnah. You may make up days on any day of Sha'ban until its last day, because make-up fasts are not included in the prohibition on fasting after mid-Sha'ban or right before Ramadan."
+  }
+ ],
+ "internal_links": [
+  "rajab-month-virtues",
+  "mid-shaban-night",
+  "making-up-ramadan-fasts",
+  "quran-khatma-ramadan-schedule",
+  "daily-worship-tracker"
+ ],
+ "sources": [
+  {
+   "title": "Sahih al-Bukhari 1969: the Prophet's ﷺ fasting in Sha'ban - Sunnah.com",
+   "url": "https://sunnah.com/bukhari:1969"
+  },
+  {
+   "title": "Sahih al-Bukhari 1914: do not fast a day or two before Ramadan - Sunnah.com",
+   "url": "https://sunnah.com/bukhari:1914"
+  },
+  {
+   "title": "Sunan an-Nasa'i 2357: a month that people neglect - Sunnah.com",
+   "url": "https://sunnah.com/nasai:2357"
+  },
+  {
+   "title": "Sunan Abi Dawud 2337: when Sha'ban is half over, do not fast - Sunnah.com",
+   "url": "https://sunnah.com/abudawud:2337"
+  },
+  {
+   "title": "IslamQA: fasting in the second half of Sha'ban",
+   "url": "https://islamqa.info/en/answers/13726"
+  },
+  {
+   "title": "Shaykh Ibn Baz: fasting after mid-Sha'ban (Arabic)",
+   "url": "https://binbaz.org.sa/fatwas/11186"
+  },
+  {
+   "title": "Dorar: hadith encyclopedia (Arabic)",
+   "url": "https://dorar.net/hadith"
+  }
+ ]
+}

@@ -1,0 +1,189 @@
+{
+ "number": 23,
+ "slug": "making-up-ramadan-fasts",
+ "category": "Fasting",
+ "title": "Making Up Missed Ramadan Fasts: The Deadline, Delay, Fidyah and a Days-Left Table",
+ "meta_title": "Making Up Ramadan Fasts: Deadline & Fidyah | Farhoon",
+ "meta_description": "How to make up missed Ramadan fasts: who must, the deadline before Ramadan 1448, the ruling on delay and fidyah, consecutive days, and a days-left table.",
+ "focus_keyword": "making up missed ramadan fasts",
+ "keywords": [
+  {
+   "keyword": "making up missed ramadan fasts",
+   "type": "primary",
+   "est_monthly_searches": "1,000–5,000, seasonal (estimated)",
+   "intent": "informational",
+   "kgr_note": "Medium; IslamQA and fatwa sites rank, few give a days-left table with dates (estimated)"
+  },
+  {
+   "keyword": "qada fasting",
+   "type": "secondary",
+   "est_monthly_searches": "1,000–3,000 (estimated)",
+   "intent": "informational",
+   "kgr_note": "Medium (estimated)"
+  },
+  {
+   "keyword": "deadline to make up ramadan fasts",
+   "type": "question",
+   "est_monthly_searches": "300–1,500, seasonal (estimated)",
+   "intent": "informational",
+   "kgr_note": "Easy; suits a paragraph snippet (estimated)"
+  },
+  {
+   "keyword": "what if i didn't make up my ramadan fasts before next ramadan",
+   "type": "question",
+   "est_monthly_searches": "200–1,000 (estimated)",
+   "intent": "informational",
+   "kgr_note": "Easy (estimated)"
+  },
+  {
+   "keyword": "do qada fasts have to be consecutive",
+   "type": "question",
+   "est_monthly_searches": "100–500 (estimated)",
+   "intent": "informational",
+   "kgr_note": "Easy (estimated)"
+  },
+  {
+   "keyword": "can i combine qada and shawwal fasts",
+   "type": "question",
+   "est_monthly_searches": "500–2,000, seasonal (estimated)",
+   "intent": "informational",
+   "kgr_note": "Medium; popular question with mixed answers (estimated)"
+  },
+  {
+   "keyword": "fidyah for fasting amount",
+   "type": "long-tail",
+   "est_monthly_searches": "500–2,000, seasonal (estimated)",
+   "intent": "informational",
+   "kgr_note": "Medium; charity pages compete (estimated)"
+  },
+  {
+   "keyword": "fidyah",
+   "type": "LSI",
+   "est_monthly_searches": "2,000–8,000, seasonal (estimated)",
+   "intent": "informational",
+   "kgr_note": "Supporting term (estimated)"
+  }
+ ],
+ "keyword_variations": [
+  "making up missed ramadan fasts",
+  "making up ramadan fasts",
+  "make up missed fasts",
+  "qada fasting",
+  "qadha fasts",
+  "qaza roza",
+  "missed fasts of ramadan",
+  "how to make up missed fasts",
+  "last day to make up ramadan fasts",
+  "delaying qada fasts",
+  "fidyah",
+  "fidya for missed fasts",
+  "kaffarah vs fidyah",
+  "qada and shawwal fasts together",
+  "making up fasts after period",
+  "ramadan 1448"
+ ],
+ "featured_snippet": {
+  "target_query": "when do you have to make up missed ramadan fasts",
+  "type": "paragraph",
+  "html": "<p>Making up missed Ramadan fasts is obligatory for anyone who did not fast some days of Ramadan for a valid reason such as illness, travel, menstruation or post-natal bleeding: they fast the same number of days before the next Ramadan begins. It may be delayed until Sha'ban, but not beyond that without a valid excuse. Whoever delays it must still make up the days, and according to the majority must also feed a poor person for each day, while the Hanafis require the make-up alone.</p>"
+ },
+ "excerpt": "A complete guide to making up missed Ramadan fasts: who must make them up, the last day before Ramadan 1448 AH, the rulings on delay, fidyah, consecutive days and combining with voluntary fasts, plus a table of the days left.",
+ "reading_minutes": 10,
+ "featured_image": {
+  "headline": "Making Up Missed Ramadan Fasts",
+  "alt": "Making up missed Ramadan fasts: the final deadline, the fidyah and a table of the days left"
+ },
+ "cta_text": "See how long is left until Sha'ban and Ramadan in the Hijri calendar of Rafiq Al-Taa, our free ad-free app (Arabic interface), and track your prayers and adhkar. Coming soon to Google Play.",
+ "images": [
+  {
+   "file": "making-up-ramadan-fasts-cover-en.webp",
+   "alt": "Cover image for the article on making up missed Ramadan fasts on a Farhoon background",
+   "caption": "",
+   "type": "cover",
+   "spec": "Title: Making Up Missed Ramadan Fasts | Subtitle: The deadline, fidyah and consecutive days | Element: a small calendar with tick marks"
+  },
+  {
+   "file": "ramadan-qada-who-must-table-en.webp",
+   "alt": "Table showing who must make up Ramadan fasts and who must pay fidyah",
+   "caption": "According to the majority of scholars",
+   "type": "table",
+   "spec": "Title: Make up or fidyah? | Illness expected to heal → make up | Traveller → make up | Menstruation and post-natal bleeding → make up | Pregnant and breastfeeding → make up (fidyah disputed) | Elderly and unable → fidyah | Chronic illness → fidyah"
+  },
+  {
+   "file": "ramadan-qada-days-left-1448-en.webp",
+   "alt": "Table of the days left to make up Ramadan fasts before Ramadan 1448 AH",
+   "caption": "Until 7 February 2027 (expected)",
+   "type": "table",
+   "spec": "Title: How many days are left to make up? | 1 December → 69 days | 15 December → 55 days | 1 January → 38 days | 9 January (1st of Sha'ban) → 30 days | 24 January → 15 days | 1 February → 7 days | Footer: Ramadan 1448 AH expected on 8 February 2027 according to Umm al-Qura"
+  },
+  {
+   "file": "ramadan-qada-steps-en.webp",
+   "alt": "Practical steps to finish making up Ramadan fasts before Sha'ban",
+   "caption": "",
+   "type": "steps",
+   "spec": "Title: 6 steps to finish your make-up fasts | 1) Count the days | 2) Set a start date | 3) Choose Mondays and Thursdays | 4) Intend the night before | 5) Cross off each day | 6) Finish before Sha'ban"
+  }
+ ],
+ "content_html": "<p>If you still owe days from last Ramadan, this is your complete guide to <strong>making up missed Ramadan fasts</strong> (qada'): who must make them up, the final deadline, the ruling on delaying them and on the fidyah (compensation by feeding the poor), whether the days must be consecutive, and whether you may combine a make-up fast with the intention of a voluntary fast. At the end you will find a table that counts the days you have left until Ramadan 1448 AH, expected around 8 February 2027, and a plan for spreading your days across them.</p>\n\n<h2>When must missed Ramadan fasts be made up?</h2>\n<div class=\"f-snippet\"><p>Making up missed Ramadan fasts is obligatory for anyone who did not fast some days of Ramadan for a valid reason such as illness, travel, menstruation or post-natal bleeding: they fast the same number of days before the next Ramadan begins. It may be delayed until Sha'ban, but not beyond that without a valid excuse. Whoever delays it must still make up the days, and according to the majority must also feed a poor person for each day, while the Hanafis require the make-up alone.</p></div>\n<p>The basis for this is Allah's words:</p>\n<blockquote>﴿أَيَّامًا مَّعْدُودَاتٍ ۚ فَمَن كَانَ مِنكُم مَّرِيضًا أَوْ عَلَىٰ سَفَرٍ فَعِدَّةٌ مِّنْ أَيَّامٍ أُخَرَ ۚ وَعَلَى الَّذِينَ يُطِيقُونَهُ فِدْيَةٌ طَعَامُ مِسْكِينٍ﴾ [Surah al-Baqarah: 184]<br>\"[Fasting for] a limited number of days. So whoever among you is ill or on a journey [during them] - then an equal number of other days [are to be made up]. And upon those who are able [to fast, but with hardship] - a ransom [as substitute] of feeding a poor person [each day].\" (Surah al-Baqarah 2:184, translation: Sahih International)</blockquote>\n<p>His words ﴿فَعِدَّةٌ مِّنْ أَيَّامٍ أُخَرَ﴾, \"then an equal number of other days\", mean that the person fasts the number of days he missed on other days after Ramadan. The verse does not set a particular time, so the time for making up is wide: from after the day of Eid until just before the next Ramadan.</p>\n\n<h2>Who must make up Ramadan, and who must pay fidyah?</h2>\n<p>The ruling depends on why the person did not fast. This table summarises the well-known cases according to the majority of scholars:</p>\n<table>\n<thead><tr><th>Situation</th><th>Make up (qada')</th><th>Fidyah</th><th>Note</th></tr></thead>\n<tbody>\n<tr><td>Someone with an illness that is expected to heal</td><td>Yes</td><td>No</td><td>Makes up the days after recovering</td></tr>\n<tr><td>A traveller</td><td>Yes</td><td>No</td><td>Makes up the days after returning</td></tr>\n<tr><td>A woman who was menstruating or had post-natal bleeding</td><td>Yes</td><td>No</td><td>By consensus of scholars</td></tr>\n<tr><td>A pregnant or breastfeeding woman</td><td>Yes, according to the majority</td><td>Disputed</td><td>See the details below</td></tr>\n<tr><td>Someone who broke the fast deliberately without excuse</td><td>Yes, according to the majority</td><td>No</td><td>Along with repentance; for intercourse there is a heavy expiation (kaffarah)</td></tr>\n<tr><td>An elderly person unable to fast</td><td>No</td><td>Yes</td><td>Feeding a poor person for each day</td></tr>\n<tr><td>Someone with a chronic illness not expected to heal</td><td>No</td><td>Yes</td><td>Based on the report of a trustworthy doctor</td></tr>\n</tbody>\n</table>\n<!--IMG:2-->\n<h3>Pregnant and breastfeeding women</h3>\n<p>If they did not fast out of fear for themselves, they only have to make up the days, like a sick person. If they did not fast only out of fear for the unborn child or the baby, the majority hold that they must make up the days; the Shafi'is and Hanbalis add feeding a poor person for each day, while the Hanafis require the make-up alone. It is reported from Ibn 'Abbas and Ibn 'Umar (may Allah be pleased with them) that they must pay the fidyah without making up the days. This is a question worth asking the scholars in your country about your own situation.</p>\n\n<h2>What is the deadline for making up Ramadan fasts?</h2>\n<p>The last day for making up is the last day of Sha'ban, that is, before the next Ramadan begins. The evidence is the hadith of A'ishah (may Allah be pleased with her), who said:</p>\n<blockquote>\"I would owe fasts from Ramadan, and I could not make them up except in Sha'ban.\" Yahya (one of the narrators) said: because she was occupied with the Prophet ﷺ. (Sahih al-Bukhari 1950; Sahih Muslim 1146)</blockquote>\n<p>The hadith shows two things: that making up can be delayed until Sha'ban, and that its time ends when Sha'ban ends, since A'ishah (may Allah be pleased with her) did not delay it beyond that. Hurrying is better, because it clears your obligation sooner, and because no one knows what illness or travel may come up.</p>\n<p>According to the Umm al-Qura calendar, Ramadan 1448 AH is expected to begin on Monday 8 February 2027, so the last available day for making up is approximately Sunday 7 February 2027. The actual date depends on the sighting of the new moon, so don't leave your days until the very end.</p>\n\n<h2>How many days do I have left to make up Ramadan? (Days-left table)</h2>\n<p>This table counts the days available to you from your start date until 7 February 2027 (the last expected day before Ramadan), counting the start day itself:</p>\n<table>\n<thead><tr><th>If you start on</th><th>Days available</th><th>Roughly in weeks</th></tr></thead>\n<tbody>\n<tr><td>23 November 2026</td><td>77 days</td><td>11 weeks</td></tr>\n<tr><td>1 December 2026</td><td>69 days</td><td>About 10 weeks</td></tr>\n<tr><td>15 December 2026</td><td>55 days</td><td>About 8 weeks</td></tr>\n<tr><td>1 January 2027</td><td>38 days</td><td>About 5 and a half weeks</td></tr>\n<tr><td>9 January 2027 (1st of Sha'ban)</td><td>30 days</td><td>About 4 weeks</td></tr>\n<tr><td>24 January 2027</td><td>15 days</td><td>Two weeks</td></tr>\n<tr><td>1 February 2027</td><td>7 days</td><td>One week</td></tr>\n</tbody>\n</table>\n<h3>How do I spread my make-up days across the weeks?</h3>\n<p>Divide the number of days you owe by the number of weeks left, then choose fixed days for them, such as Mondays and Thursdays. Here is an approximate table for someone starting at the beginning of December 2026 (about 10 weeks):</p>\n<table>\n<thead><tr><th>Days you owe</th><th>Suggested weekly rate</th><th>Finished in roughly</th></tr></thead>\n<tbody>\n<tr><td>3 – 7 days</td><td>One day a week</td><td>3 – 7 weeks</td></tr>\n<tr><td>8 – 10 days</td><td>Two days a week (Monday and Thursday)</td><td>4 – 5 weeks</td></tr>\n<tr><td>11 – 20 days</td><td>Two days a week</td><td>6 – 10 weeks</td></tr>\n<tr><td>21 – 30 days (e.g. after childbirth)</td><td>3 days a week</td><td>7 – 10 weeks</td></tr>\n</tbody>\n</table>\n<p>If you start late, for example owing ten days with only two weeks left, you will have to fast most of the remaining days. That is why starting early keeps making up light and easy on you.</p>\n<!--IMG:3-->\n\n<!--CTA:rafiq-->\n\n<h2>What is the ruling on delaying make-up fasts until another Ramadan arrives?</h2>\n<h3>If the delay was for a valid reason</h3>\n<p>For example, someone whose illness continued, or a woman who was pregnant and then breastfeeding and found fasting hard all year. There is no sin on such a person; they make up the days once the excuse ends, even after the next Ramadan, and according to scholars they owe no fidyah.</p>\n<h3>If the delay was without a valid reason</h3>\n<p>Then the person is sinful and must repent and make up the days, by agreement. Scholars differed about the fidyah:</p>\n<ul>\n<li><strong>The majority</strong> (the Malikis, Shafi'is and Hanbalis): along with the make-up, they must feed a poor person for each day. This is reported from some Companions, including Abu Hurayrah and Ibn 'Abbas (may Allah be pleased with them).</li>\n<li><strong>The Hanafis</strong>: they only have to make up the days, with no fidyah, because the verse mentions nothing but \"an equal number of other days\". Egypt's Dar al-Ifta adopted this view in its fatwa on <a href=\"https://www.dar-alifta.org/ar/fatwa/details/18377\">whether fidyah is due for delaying the make-up of Ramadan</a> (Arabic).</li>\n</ul>\n<p>Whoever wants to be cautious and pays the fidyah along with the make-up has stepped out of the disagreement. The fidyah is one mudd (a traditional measure) of the local staple food for each day, which is a quarter of a sa', about 600 to 750 grams of rice, wheat or similar. Some scholars allowed giving the poor person a filling meal instead. See also the fatwa on <a href=\"https://islamqa.info/ar/answers/95736\">delaying the make-up until after the second Ramadan</a> (Arabic).</p>\n\n<h2>Do make-up fasts have to be consecutive?</h2>\n<p>According to the majority of scholars they do not have to be consecutive, so you may make up the days in a row or spread out, because Allah said ﴿فَعِدَّةٌ مِّنْ أَيَّامٍ أُخَرَ﴾, \"then an equal number of other days\", and did not require them to be consecutive. Al-Bukhari mentioned in his Sahih, without a full chain (mu'allaq), that Ibn 'Abbas (may Allah be pleased with them both) said: there is no harm in spreading them out, because Allah says ﴿فَعِدَّةٌ مِّنْ أَيَّامٍ أُخَرَ﴾.</p>\n<p>Many scholars considered it recommended to fast them consecutively, because it clears the obligation sooner and is closer to how the original fast is performed. If it is easy for you to make up your days in a row, that is good; if it is hard, spreading them out is allowed without any blame. As for someone who broke the Ramadan fast by intercourse, they owe an expiation that includes fasting two consecutive months, which is a separate matter from making up.</p>\n\n<h2>Can I combine the intention of a make-up fast with a voluntary fast?</h2>\n<p>This is one of the most frequently asked questions, and scholars differ on it:</p>\n<ul>\n<li><strong>The first view:</strong> it is not valid to combine an obligatory make-up fast with a sunnah fast that is intended in its own right, such as the six days of Shawwal, under one intention, because each is a separate act of worship. This is the view preferred by <a href=\"https://islamqa.info/ar/answers/39328\">IslamQA</a> (Arabic).</li>\n<li><strong>The second view:</strong> combining them is allowed and one may hope for both rewards, though fasting them separately is more complete. This is the view of some Malikis and Shafi'is, and Egypt's Dar al-Ifta gave a fatwa to this effect.</li>\n</ul>\n<h3>The six days of Shawwal in particular</h3>\n<p>The Prophet ﷺ said: \"Whoever fasts Ramadan and then follows it with six days of Shawwal, it is as if he fasted for a lifetime.\" (Sahih Muslim 1164). The apparent meaning of the hadith is that the six days come after completing Ramadan, which is why many scholars said: whoever owes make-up fasts should make them up first and then fast the six, in order to gain the full reward mentioned.</p>\n<h3>Mondays and Thursdays, the White Days and the Day of 'Arafah</h3>\n<p>The virtue of these days lies in fasting the day itself, so for someone who makes up a Ramadan day on one of them, many scholars hoped that the virtue of the day would be written for him along with the make-up. So make up your fasts on these days if you can. You will find the dates of the White Days for the coming months in our article on <a href=\"/en/blog/white-days-fasting/\">fasting the White Days</a>.</p>\n\n<h2>How do women make up fasts missed because of menstruation or post-natal bleeding?</h2>\n<p>A woman makes up the days she did not fast because of menstruation or post-natal bleeding, but she does not make up the prayers. Mu'adhah said: I asked A'ishah (may Allah be pleased with her): why does a menstruating woman make up the fasts but not the prayers? She said:</p>\n<blockquote>\"That used to happen to us, and we were commanded to make up the fasts, and we were not commanded to make up the prayers.\" (Sahih Muslim 335)</blockquote>\n<p>Practical tips for women:</p>\n<ul>\n<li><strong>Write down the number as soon as Ramadan ends:</strong> note the number of days on paper or in a note on your phone so that doubt doesn't creep in later. If you forget the number, act on the more cautious side, that is, the larger number you think most likely.</li>\n<li><strong>Start early:</strong> your period may come during the days of Sha'ban and leave you short of time, so don't leave the make-up until the end.</li>\n<li><strong>If a make-up fast is interrupted by your period:</strong> the day your period began does not count, and you repeat it after you become pure.</li>\n<li><strong>After childbirth:</strong> a woman usually owes many days. If she is breastfeeding and fasting is hard for her, she is excused in delaying as long as the hardship continues, and she makes them up once it ends.</li>\n</ul>\n\n<h2>What about a sick or elderly person who cannot make up the fasts?</h2>\n<p>Someone who is permanently unable to fast, such as an elderly person who cannot manage it, or someone with an illness that is not expected to heal, does not make up the days; instead he feeds a poor person for each day. Ibn 'Abbas (may Allah be pleased with them both) said about Allah's words ﴿وَعَلَى الَّذِينَ يُطِيقُونَهُ فِدْيَةٌ طَعَامُ مِسْكِينٍ﴾ (\"And upon those who are able [to fast, but with hardship] - a ransom [as substitute] of feeding a poor person\"): it is not abrogated; it refers to the old man and the old woman who cannot fast, so they should feed a poor person in place of each day (Sahih al-Bukhari 4505).</p>\n<ul>\n<li><strong>The amount:</strong> one mudd of the local staple food for each day according to the majority (about 600 to 750 grams), or a filling meal according to some scholars.</li>\n<li><strong>How to give it:</strong> it may be given day by day, or gathered and given at the end of Ramadan, for example by feeding thirty poor people.</li>\n<li><strong>If the sick person later recovers:</strong> if doctors had judged that the illness was not expected to heal, and he paid the fidyah and then unexpectedly recovered, scholars differ about whether he must make up the days; many contemporary scholars held that he does not have to. See the fatwa on <a href=\"https://islamqa.info/ar/answers/568044\">someone who paid the fasting fidyah because of illness and then recovered</a> (Arabic).</li>\n</ul>\n<p>As for a sick person who is expected to recover, the fidyah is not enough for him; he waits until he recovers and then makes up the days.</p>\n\n<h2>What if someone dies while still owing Ramadan fasts?</h2>\n<p>If he died before he was able to make them up, for example because his illness continued until he died, he owes nothing. If he was able to make them up but neglected it until he died, the Prophet ﷺ said: \"Whoever dies owing fasts, his heir (wali) should fast on his behalf.\" (Sahih al-Bukhari 1952; Sahih Muslim 1147). Scholars differed: some allowed the heir to fast on his behalf or to feed a poor person for each day, while others limited the hadith to vowed fasts and required feeding the poor for missed Ramadan fasts. This is a question the heirs should ask the people of knowledge about.</p>\n\n<h2>Practical steps to finish your make-up fasts before Sha'ban</h2>\n<ol>\n<li><strong>Count the number precisely:</strong> write down how many days you owe right now.</li>\n<li><strong>Set your start date:</strong> and check the days-left table above.</li>\n<li><strong>Choose fixed days:</strong> Mondays and Thursdays are easier to stick to, and fasting on them has its own virtue.</li>\n<li><strong>Make the intention the night before:</strong> a make-up fast is obligatory, so according to the majority of scholars you must intend it before Fajr.</li>\n<li><strong>Cross off each day you make up:</strong> on paper or a calendar so you can see your progress.</li>\n<li><strong>Finish before Sha'ban if you can:</strong> so that Sha'ban is left for the voluntary fasting the Prophet ﷺ used to do so much of. You will find its rulings in our article on <a href=\"/en/blog/fasting-shaban/\">fasting in Sha'ban</a>.</li>\n</ol>\n<!--IMG:4-->\n<p><strong>Rafiq Al-Taa</strong>, our free Arabic-language app, has a Hijri calendar with Islamic occasions that shows where you are in the Hijri month, so you know how long is left until Sha'ban and Ramadan. It also has a \"My Worship\" section to track your daily prayers and adhkar, and a Ramadan timetable. The app has no reminder specifically for make-up fasts, so record your days in a note or on paper alongside it. It is coming soon to Google Play, with no ads and no account needed. To organise your daily worship, see our <a href=\"/en/blog/daily-worship-tracker/\">daily worship tracker</a>.</p>\n\n<h2>Summary of the rulings on making up Ramadan fasts</h2>\n<p>Making up Ramadan fasts is obligatory for anyone who did not fast because of an excuse that is expected to end. Its time is wide, lasting until the end of Sha'ban, and hurrying is better. The days do not have to be consecutive, though that is recommended. Whoever delays them without an excuse until the next Ramadan arrives is sinful, and must make them up, along with a fidyah according to the majority, or the make-up alone according to the Hanafis. As for someone permanently unable to fast, he feeds a poor person for each day. What we have mentioned is a summary of the well-known views, so ask the scholars in your country about your particular situation.</p>\n\n<!--CTA:rafiq-->\n",
+ "faq": [
+  {
+   "q": "What is the deadline for making up Ramadan fasts?",
+   "a": "The deadline is the last day of Sha'ban, before the next Ramadan begins, because of the hadith of A'ishah (may Allah be pleased with her) that she could only make up her fasts in Sha'ban, reported by al-Bukhari and Muslim. Ramadan 1448 AH is expected to begin on 8 February 2027, so the last day for making up would be around 7 February."
+  },
+  {
+   "q": "What do I owe if I delayed my make-up fasts until the next Ramadan arrived?",
+   "a": "If the delay was due to a continuing excuse such as illness, you only have to make up the days. If it was without an excuse, you must repent and make them up, and according to the majority of scholars also feed a poor person for each day, while the Hanafis hold that the make-up alone is enough. Whoever pays the fidyah as a precaution has stepped out of the disagreement."
+  },
+  {
+   "q": "Do I have to make up the Ramadan days consecutively?",
+   "a": "According to the majority of scholars, consecutiveness is not required, because Allah said \"then an equal number of other days\" without requiring them to be consecutive, and Ibn 'Abbas said there is no harm in spreading them out. Consecutive fasting is recommended because it clears the obligation sooner, but if it is hard for you, spreading them out is allowed."
+  },
+  {
+   "q": "Can I fast the six days of Shawwal before making up my missed fasts?",
+   "a": "The apparent meaning of the hadith \"Whoever fasts Ramadan and then follows it with six days of Shawwal\" is that the six come after completing Ramadan, which is why many scholars advise making up first. As for combining the make-up and the six days under one intention, scholars differ, and the more cautious course is to fast each of them separately."
+  },
+  {
+   "q": "How much is the fidyah for one day of fasting?",
+   "a": "The fidyah is feeding a poor person for each day. According to the majority it is one mudd of the local staple food, a quarter of a sa', which is about 600 to 750 grams of rice, wheat or similar. Some scholars allowed giving a filling meal instead. It may be given day by day or all together."
+  },
+  {
+   "q": "A woman forgot how many days she missed because of her period. What should she do?",
+   "a": "She acts on what she thinks most likely, and the more cautious course is to take the larger number she thinks most likely. If she is unsure whether it was five or seven days, she fasts seven so that her obligation is certainly cleared. It helps to write the number down as soon as Ramadan ends each year so the doubt does not happen again."
+  }
+ ],
+ "internal_links": [
+  "fasting-shaban",
+  "white-days-fasting",
+  "daily-worship-tracker"
+ ],
+ "sources": [
+  {
+   "title": "The Noble Quran: Surah al-Baqarah 2:184 - Quran.com",
+   "url": "https://quran.com/2/184"
+  },
+  {
+   "title": "Sahih al-Bukhari 1950: A'ishah making up her fasts in Sha'ban - Sunnah.com",
+   "url": "https://sunnah.com/bukhari:1950"
+  },
+  {
+   "title": "Sahih Muslim 1146: making up Ramadan in Sha'ban - Sunnah.com",
+   "url": "https://sunnah.com/muslim:1146"
+  },
+  {
+   "title": "Sahih al-Bukhari 4505: the fidyah of the elderly - Sunnah.com",
+   "url": "https://sunnah.com/bukhari:4505"
+  },
+  {
+   "title": "Egypt's Dar al-Ifta: whether fidyah is due for delaying the make-up of Ramadan (Arabic)",
+   "url": "https://www.dar-alifta.org/ar/fatwa/details/18377"
+  },
+  {
+   "title": "IslamQA: delaying the make-up until after the second Ramadan (Arabic)",
+   "url": "https://islamqa.info/ar/answers/95736"
+  },
+  {
+   "title": "IslamQA: combining the make-up of Ramadan with the six days of Shawwal under one intention is not valid (Arabic)",
+   "url": "https://islamqa.info/ar/answers/39328"
+  }
+ ]
+}

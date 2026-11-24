@@ -1,0 +1,211 @@
+{
+ "number": 17,
+ "slug": "asr-prayer-time",
+ "category": "Prayer",
+ "title": "Asr Prayer Time: When It Starts, When It Ends and Why Apps Differ",
+ "meta_title": "Asr Prayer Time: Start, End, Hanafi vs Majority | Farhoon",
+ "meta_description": "Asr prayer time with evidence: when it starts for the majority and Hanafis, the preferred time ending at yellowing, and why apps differ by up to an hour.",
+ "focus_keyword": "asr prayer time",
+ "keywords": [
+  {
+   "keyword": "asr prayer time",
+   "type": "primary",
+   "est_monthly_searches": "20,000–60,000 (estimated)",
+   "intent": "informational",
+   "kgr_note": "Hard; many searchers want today's time, so timetable tools dominate. We target the informational intent (estimated)"
+  },
+  {
+   "keyword": "when does asr end",
+   "type": "question",
+   "est_monthly_searches": "1,000–4,000 (estimated)",
+   "intent": "informational",
+   "kgr_note": "Medium; fatwa pages answer without explaining yellowing in practice (estimated)"
+  },
+  {
+   "keyword": "when does asr start",
+   "type": "question",
+   "est_monthly_searches": "1,000–3,000 (estimated)",
+   "intent": "informational",
+   "kgr_note": "Medium (estimated)"
+  },
+  {
+   "keyword": "asr hanafi vs shafi",
+   "type": "question",
+   "est_monthly_searches": "1,000–3,000 (estimated)",
+   "intent": "informational",
+   "kgr_note": "Easy to medium; partly shared with the pillar article, here detailed with numbers and seasons (estimated)"
+  },
+  {
+   "keyword": "last time for asr prayer",
+   "type": "question",
+   "est_monthly_searches": "500–1,500 (estimated)",
+   "intent": "informational",
+   "kgr_note": "Medium (estimated)"
+  },
+  {
+   "keyword": "makruh time for asr",
+   "type": "long-tail",
+   "est_monthly_searches": "200–700 (estimated)",
+   "intent": "informational",
+   "kgr_note": "Easy (estimated)"
+  },
+  {
+   "keyword": "why is asr time different in my app",
+   "type": "long-tail",
+   "est_monthly_searches": "50–300 (estimated)",
+   "intent": "informational",
+   "kgr_note": "Very easy; almost no dedicated page (estimated)"
+  },
+  {
+   "keyword": "middle prayer salat al wusta",
+   "type": "LSI",
+   "est_monthly_searches": "500–1,500 (estimated)",
+   "intent": "informational",
+   "kgr_note": "Medium; covered in a short section (estimated)"
+  },
+  {
+   "keyword": "delaying asr until the sun turns yellow",
+   "type": "question",
+   "est_monthly_searches": "50–300 (estimated)",
+   "intent": "informational",
+   "kgr_note": "Easy (estimated)"
+  }
+ ],
+ "keyword_variations": [
+  "asr time",
+  "asr namaz time",
+  "asar prayer time",
+  "asr salah time",
+  "when does asr prayer start",
+  "when does asr prayer end",
+  "end time of asr",
+  "asr hanafi",
+  "hanafi asr time",
+  "asr shafi",
+  "asr standard vs hanafi",
+  "difference between hanafi and shafi asr",
+  "shadow equal to its length asr",
+  "shadow twice its length",
+  "sun turning yellow asr",
+  "sunnah before asr",
+  "4 rakat before asr",
+  "وقت صلاة العصر"
+ ],
+ "featured_snippet": {
+  "target_query": "when does asr prayer time start and end",
+  "type": "table",
+  "html": "<table>\n<thead><tr><th>Question</th><th>Answer</th></tr></thead>\n<tbody>\n<tr><td>Start of Asr (majority)</td><td>When an object's shadow equals its length, after the noon shadow</td></tr>\n<tr><td>Start of Asr (Hanafi)</td><td>When an object's shadow is twice its length, after the noon shadow</td></tr>\n<tr><td>End of the preferred time</td><td>When the sun turns yellow</td></tr>\n<tr><td>Time of necessity</td><td>From the yellowing of the sun until sunset, for those with a valid excuse</td></tr>\n<tr><td>Best time</td><td>The start of its time</td></tr>\n</tbody>\n</table>"
+ },
+ "excerpt": "When does Asr prayer time start and end? The majority and Hanafi views with their evidence, the noon shadow with a practical example, the preferred time and the time of necessity, and why Asr differs between apps from 40 minutes to over an hour.",
+ "reading_minutes": 10,
+ "featured_image": {
+  "headline": "Asr prayer time",
+  "alt": "Asr prayer time and the shadow length for the majority and the Hanafis"
+ },
+ "cta_text": "Rafiq Al-Taa, our free ad-free app (Arabic interface), picks your country's calculation method and Asr school automatically, and lets you adjust each prayer by minutes. Coming soon to Google Play.",
+ "images": [
+  {
+   "alt": "Cover for the Asr prayer time guide with a stick and its shadow",
+   "caption": "",
+   "spec": "Brand background with a simple drawing of a low sun, an upright stick and its shadow | Title: Asr Prayer Time | Subtitle: When does it start and end?",
+   "file": "asr-prayer-time-cover-en.webp",
+   "type": "cover"
+  },
+  {
+   "alt": "Diagram of the shadow length when Asr prayer time begins for the majority and the Hanafis, after the noon shadow",
+   "caption": "Asr is measured by the shadow's length after subtracting the noon shadow",
+   "spec": "An upright stick labelled 1 m on level ground | Three graded shadows in different colours: Noon shadow (example: 30 cm) | Majority: 1 m + noon shadow = 1.30 m | Hanafi: 2 m + noon shadow = 2.30 m | Line at the bottom: Figures for illustration; the noon shadow varies by season and city",
+   "file": "asr-shadow-length-diagram-en.webp",
+   "type": "diagram"
+  },
+  {
+   "alt": "Table of the difference in minutes between Hanafi and majority Asr prayer time in Riyadh, Cairo, Rabat and Istanbul",
+   "caption": "Approximate calculation; your country's calendar is the reference",
+   "spec": "Title: How much later is Hanafi Asr? | Columns: City, December, March, June | Riyadh: 44, 55, 81 minutes | Cairo: 42, 53, 78 | Rabat: 40, 52, 76 | Istanbul: 37, 51, 74 | Note: Approximate",
+   "file": "asr-hanafi-vs-majority-difference-table-en.webp",
+   "type": "table"
+  },
+  {
+   "alt": "Timeline of Asr prayer time from its start to the yellowing of the sun, then the time of necessity until Maghrib",
+   "caption": "The preferred time lasts until yellowing; the time of necessity until sunset",
+   "spec": "Dhuhr | Start of Asr: majority, shadow equals the object; Hanafi, shadow twice the object | The preferred time: best at its start | The sun turns yellow | Time of necessity: for those with an excuse | Maghrib | Whoever catches one rak'ah before sunset has caught Asr (agreed upon)",
+   "file": "asr-time-chosen-vs-necessity-timeline-en.webp",
+   "type": "infographic"
+  }
+ ],
+ "content_html": "<p>According to the majority of scholars, <strong>Asr prayer time</strong> begins when the shadow of any object equals its length, after the noon shadow, and according to the Hanafis when it is twice its length. Its preferred time ends when the sun turns yellow, and a \"time of necessity\" remains for those with a valid excuse until sunset. This difference over when Asr begins is the reason for the large gap you sometimes see between apps, which can approach an hour or more. In this guide we explain the Islamic sign with its evidence, work out the difference in numbers, and give you practical guidance.</p>\n\n<h2>When does Asr prayer time start and end?</h2>\n<div class=\"f-snippet\"><table>\n<thead><tr><th>Question</th><th>Answer</th></tr></thead>\n<tbody>\n<tr><td>Start of Asr (majority)</td><td>When an object's shadow equals its length, after the noon shadow</td></tr>\n<tr><td>Start of Asr (Hanafi)</td><td>When an object's shadow is twice its length, after the noon shadow</td></tr>\n<tr><td>End of the preferred time</td><td>When the sun turns yellow</td></tr>\n<tr><td>Time of necessity</td><td>From the yellowing of the sun until sunset, for those with a valid excuse</td></tr>\n<tr><td>Best time</td><td>The start of its time</td></tr>\n</tbody>\n</table></div>\n<p>The basis for this is the hadith of Abdullah ibn Amr (may Allah be pleased with them both), in which the Prophet ﷺ said:</p>\n<blockquote>\"The time of Dhuhr is when the sun has passed its zenith and a man's shadow is equal to his height, as long as the time of Asr has not come. The time of Asr lasts as long as the sun has not turned yellow...\" (Sahih Muslim 612)</blockquote>\n<p>So the end of Dhuhr is the start of Asr, with no gap between them. In the hadith of Jibril leading the prayer, Ibn Abbas (may Allah be pleased with them both) reported that the Prophet ﷺ said Jibril led him in Asr on the first day \"when his shadow was the same as his length\", and on the second day \"when his shadow was twice his length\", and then said: \"The time is between these two times.\" (Sunan Abi Dawud 393 and Jami' at-Tirmidhi 149; al-Albani said: hasan sahih)</p>\n\n<h2>How do you tell that Asr has begun from a shadow? What is the \"noon shadow\"?</h2>\n<p>If you plant a straight stick in level ground, you will see its shadow long towards the west in the morning, then shrinking until midday. At its shortest, the sun is in the middle of the sky; this is the moment of zawal (the sun's decline from its zenith), and the shadow left at that moment is called the <strong>noon shadow</strong> (fay' al-zawal). Then the shadow starts to grow towards the east, and the time of Dhuhr begins.</p>\n<p>The noon shadow is longer in winter and shorter in summer, and on some days of the year it disappears altogether in countries between the tropics. That is why Asr is not worked out from the shadow's length alone, but from its length <strong>after subtracting the noon shadow</strong>. For example, with a stick one metre long:</p>\n<table>\n<thead><tr><th>Case</th><th>Noon shadow</th><th>Shadow length when Asr begins (majority)</th><th>Shadow length when Asr begins (Hanafi)</th></tr></thead>\n<tbody>\n<tr><td>A summer day</td><td>10 cm</td><td>1.10 m</td><td>2.10 m</td></tr>\n<tr><td>A winter day</td><td>60 cm</td><td>1.60 m</td><td>2.60 m</td></tr>\n</tbody>\n</table>\n<p>The figures in this table are for illustration only, because the noon shadow varies from city to city and from day to day. Apps calculate the sun's altitude at which this shadow length is reached, based on your location and the date.</p>\n\n<!--IMG:2-->\n\n<h2>Asr for the majority and for the Hanafis: what is the difference, and why?</h2>\n<ul>\n<li><strong>The majority view</strong>, held by the Malikis, Shafi'is and Hanbalis, and also by Abu Yusuf and Muhammad ibn al-Hasan, the two students of Abu Hanifa: Asr begins when an object's shadow equals its length after the noon shadow. Their evidence is the first day in the hadith of Jibril and the hadith of Abdullah ibn Amr. In apps it is labelled \"Shafi'i\" or \"Standard\".</li>\n<li><strong>The view of Abu Hanifa</strong>, in the well-known report from him: Asr does not begin until an object's shadow is twice its length after the noon shadow. In apps it is labelled \"Hanafi\".</li>\n</ul>\n<p>Many later Hanafi scholars adopted the view of the two students because of the strength of its evidence, as explained in the fatwa on <a href=\"https://islamqa.info/ar/answers/220820\">the difference between the Hanafi school and the majority on prayer times</a> (in Arabic). Hanafi Asr is used today in countries where most people follow the Hanafi school, such as Pakistan, India and Bangladesh, while most Arab countries follow the majority view.</p>\n\n<h2>Why does Asr time differ between apps by half an hour to an hour or more?</h2>\n<p>If you see a large difference in Asr alone between two apps, or between your app and the mosque, the cause is usually the \"Asr method\" (juristic method) setting. The difference between the two views is not fixed. We calculated it approximately for some cities, and it came out as follows:</p>\n<table>\n<thead><tr><th>City</th><th>Midwinter (December)</th><th>Near the equinox (March)</th><th>Midsummer (June)</th></tr></thead>\n<tbody>\n<tr><td>Riyadh</td><td>About 44 minutes</td><td>About 55 minutes</td><td>About 81 minutes</td></tr>\n<tr><td>Cairo</td><td>About 42 minutes</td><td>About 53 minutes</td><td>About 78 minutes</td></tr>\n<tr><td>Rabat</td><td>About 40 minutes</td><td>About 52 minutes</td><td>About 76 minutes</td></tr>\n<tr><td>Istanbul</td><td>About 37 minutes</td><td>About 51 minutes</td><td>About 74 minutes</td></tr>\n</tbody>\n</table>\n<p>The reason is that in summer the sun is still high in the afternoon, so the shadow grows slowly and takes longer to increase by the object's length a second time. In winter the sun is low and the shadow grows quickly, so the gap is shorter. If your difference falls in this range, check the Asr setting before anything else. Small differences of one to five minutes are usually caused by the safety minutes some bodies add, as we explained in our guide to <a href=\"/en/blog/prayer-times-calculation-methods/\">prayer times calculation methods</a>.</p>\n\n<!--CTA:rafiq-->\n\n<p>In <strong>Rafiq Al-Taa</strong>, our free, ad-free Islamic app with an Arabic interface, coming soon to Google Play, Asr is set to the majority view in most countries and automatically to the Hanafi view in Pakistan, India and Bangladesh, along with your country's official calculation method. You can change the method and adjust each prayer by minutes to match your local mosque, and the adhan sounds on time even when the app is closed.</p>\n\n<!--IMG:3-->\n\n<h2>When does Asr time end? The preferred time and the time of necessity</h2>\n<p>The majority of scholars divided the time of Asr into two parts:</p>\n<ul>\n<li><strong>The preferred time (al-waqt al-mukhtar):</strong> from the start of Asr until the sun turns yellow, because the Prophet ﷺ said: \"The time of Asr lasts as long as the sun has not turned yellow.\" (Sahih Muslim 612). Some scholars hold that the preferred time ends when an object's shadow is twice its length, as on the second day in the hadith of Jibril, and the two times are close to each other.</li>\n<li><strong>The time of necessity (waqt al-darurah):</strong> from the yellowing of the sun until sunset. It is for those with a valid excuse, such as a menstruating woman who becomes pure, the sick, someone who wakes from sleep, or someone who remembers after forgetting. Whoever prays in it without an excuse has still prayed it on time, but has done wrong by delaying it, and some scholars held such a delay to be forbidden.</li>\n</ul>\n<p>The evidence that the time extends to sunset is the Prophet's saying ﷺ: \"Whoever catches one rak'ah of Asr before the sun sets has caught Asr.\" (Sahih al-Bukhari 579 and Sahih Muslim 608). As for delaying it without an excuse, the Prophet ﷺ condemned it in the strongest terms. Anas (may Allah be pleased with him) reported that he said:</p>\n<blockquote>\"That is the prayer of the hypocrite: he sits watching the sun until, when it is between the two horns of Satan, he gets up and pecks out four rak'ahs, remembering Allah in them only a little.\" (Sahih Muslim 622)</blockquote>\n<p>The Hanafi view is close to this: for them the time extends until sunset, but delaying it until the sun changes is disliked.</p>\n<h3>How do you know the sun has turned yellow?</h3>\n<p>Yellowing is when the sun's light weakens and its colour changes, until you can look at it without it dazzling your eyes. Most apps do not show it as a separate time, but it falls roughly in the last hour before Maghrib and varies with the season and how clear the sky is. To be cautious, do not delay Asr beyond the midpoint between its adhan and Maghrib unless you need to. The time after the Asr prayer until sunset is one of the times when voluntary prayers without a specific reason are prohibited; the details are in our guide to the <a href=\"/en/blog/forbidden-prayer-times/\">forbidden times for prayer</a>.</p>\n\n<h2>How long is it between Asr and Maghrib?</h2>\n<p>On the majority view, the time between the Asr and Maghrib adhans in Arab cities is about two hours and twenty minutes in midwinter, about two and a half hours near the equinoxes, and close to three and a half hours in midsummer, according to our approximate calculation. On the Hanafi view it is shorter by the difference shown in the table above. This leaves plenty of time to pray in congregation without hardship, so there is no reason to delay it.</p>\n\n<h2>The virtue of Asr prayer and the warning against missing it</h2>\n<p>The Asr prayer has a special place among the prayers. Allah says:</p>\n<blockquote><p>﴿حَافِظُوا عَلَى الصَّلَوَاتِ وَالصَّلَاةِ الْوُسْطَىٰ وَقُومُوا لِلَّهِ قَانِتِينَ﴾</p><p>\"Maintain with care the [obligatory] prayers and [in particular] the middle [i.e., 'asr] prayer and stand before Allah, devoutly obedient.\" (Surah Al-Baqarah 2:238, translation: Sahih International)</p></blockquote>\n<p>Most scholars hold that the middle prayer (al-salah al-wusta) is Asr, because the Prophet ﷺ said on the day of the Battle of the Confederates (al-Ahzab): \"They kept us from the middle prayer, the Asr prayer.\" (Sahih Muslim 627). Among the hadiths on its virtue and the warning against missing it:</p>\n<ul>\n<li>\"Whoever prays the two cool prayers will enter Paradise.\" (Sahih al-Bukhari 574 and Sahih Muslim 635). The two cool prayers are Fajr and Asr.</li>\n<li>\"The one who misses the Asr prayer is as if he has lost his family and his wealth.\" (Sahih al-Bukhari 552 and Sahih Muslim 626)</li>\n<li>\"Whoever abandons the Asr prayer, his deeds are nullified.\" (Sahih al-Bukhari 553). The commentators understood this to refer to someone who deliberately leaves it until its time has passed, as in the <a href=\"https://dorar.net/hadith/sharh/23250\">explanation of the hadith on Dorar al-Saniyyah</a> (in Arabic).</li>\n</ul>\n<p>The Prophet ﷺ used to pray it early. Anas (may Allah be pleased with him) said: \"The Messenger of Allah ﷺ used to pray Asr while the sun was still high and bright, and someone could go to al-Awali and reach them while the sun was still high.\" (Sahih al-Bukhari 550 and Sahih Muslim 621). Al-Awali were villages around Madinah, some of them several miles away.</p>\n\n<h2>Is there a sunnah prayer before Asr?</h2>\n<p>Asr has no confirmed regular sunnah prayer (sunnah ratibah) before or after it, as Fajr, Dhuhr, Maghrib and Isha do. But it is recommended to pray four voluntary rak'ahs before it, because the Prophet ﷺ said: \"May Allah have mercy on a man who prays four before Asr.\" (Sunan Abi Dawud 1271 and Jami' at-Tirmidhi 430, graded hasan by al-Albani). After the Asr prayer, no general voluntary prayer is offered until sunset, though prayers with a specific reason are allowed according to many scholars.</p>\n\n<!--IMG:4-->\n\n<h2>Practical guidance for Asr time in your app</h2>\n<ol>\n<li><strong>Know your country's method:</strong> most Arab countries follow the majority view, while countries such as Pakistan, India and Bangladesh use the Hanafi view.</li>\n<li><strong>Compare with the mosque:</strong> if the difference is in Asr alone and roughly 40 to 80 minutes, the cause is the Asr setting.</li>\n<li><strong>Set the method:</strong> choose your country's calculation method in your app, and the Asr method its mosques call the adhan by.</li>\n<li><strong>Adjust small differences:</strong> if a difference of one to five minutes remains, adjust Asr by hand.</li>\n<li><strong>If you are Hanafi in a country that follows the majority view:</strong> some scholars hold that you may pray with the congregation, since the majority view is also the view of Abu Hanifa's two students. Ask a scholar you trust in your school.</li>\n<li><strong>Pray it early:</strong> it is best to pray at the start of its time, and not to delay it until the sun turns yellow unless you have an excuse.</li>\n</ol>\n<p>If the adhan does not reach you at all when the app is closed, the fix is in your phone's settings, not the calculation method; we have gathered the steps in our guide to the <a href=\"/en/blog/adhan-not-working-android/\">adhan not working on Android</a>. To learn about the prayer that begins the day with the first light, read our guide to <a href=\"/en/blog/fajr-prayer-time/\">Fajr prayer time</a>.</p>\n\n<h2>Summary</h2>\n<p>On the majority view, Asr begins when an object's shadow equals its length after the noon shadow, and on Abu Hanifa's view when it is twice its length. That is why Asr in apps differs by about 40 minutes in winter and more than an hour in summer in Arab countries. Its preferred time lasts until the sun turns yellow, the time of necessity for those with an excuse lasts until sunset, and it is best to pray it at the start of its time. This is a summary of the well-known views of scholars; for special cases, it is best to consult the scholars in your country.</p>\n\n<!--CTA:rafiq-->\n",
+ "faq": [
+  {
+   "q": "When does Asr prayer time begin?",
+   "a": "According to the majority of scholars (the Malikis, Shafi'is and Hanbalis, and Abu Hanifa's two students), it begins when the shadow of any object equals its length after the noon shadow. According to Abu Hanifa it begins when the shadow is twice its length after the noon shadow. The official calendar in most Arab countries follows the majority view."
+  },
+  {
+   "q": "When does Asr prayer time end?",
+   "a": "Its preferred time ends when the sun turns yellow, because the Prophet ﷺ said: \"The time of Asr lasts as long as the sun has not turned yellow\" (Sahih Muslim 612). A time of necessity then remains until sunset for those with an excuse, such as someone who slept, forgot or was ill. Whoever catches one rak'ah before sunset has caught Asr, but deliberately delaying it without an excuse is blameworthy."
+  },
+  {
+   "q": "What is the difference between Hanafi and Shafi'i Asr?",
+   "a": "\"Shafi'i\" Asr in apps is the majority view: it begins when the shadow equals the object's length after the noon shadow. \"Hanafi\" is the view of Abu Hanifa: when it is twice the length. So in Arab countries Hanafi Asr is roughly 40 minutes later in winter and close to 80 minutes later in summer."
+  },
+  {
+   "q": "Why is Asr in my app about an hour later than the mosque?",
+   "a": "Usually because the app is set to Hanafi Asr while the mosque follows the majority view, or the reverse. Open your prayer times settings and choose the Asr method used by the mosques in your country. If a small difference of one to five minutes remains, adjust Asr by hand."
+  },
+  {
+   "q": "What is the ruling on delaying Asr until the sun turns yellow?",
+   "a": "Delaying it until yellowing without an excuse is blameworthy; the Prophet ﷺ described it as the prayer of the hypocrite (Sahih Muslim 622). Some scholars held it forbidden and others disliked it. Someone with an excuse, such as a person who slept or forgot, prays it when able, and whoever catches one rak'ah before sunset has prayed it on time."
+  },
+  {
+   "q": "What is the middle prayer?",
+   "a": "Most scholars hold that the middle prayer mentioned in Allah's words \"Maintain with care the prayers and the middle prayer\" (Al-Baqarah 2:238) is the Asr prayer, because the Prophet ﷺ said on the day of al-Ahzab: \"They kept us from the middle prayer, the Asr prayer\" (Sahih Muslim 627). There are other, less well-known views on the question."
+  },
+  {
+   "q": "Does Asr have a regular sunnah prayer?",
+   "a": "Asr has no confirmed regular sunnah, but it is recommended to pray four voluntary rak'ahs before it, because of the hadith: \"May Allah have mercy on a man who prays four before Asr\" (Sunan Abi Dawud 1271 and Jami' at-Tirmidhi 430, graded hasan by al-Albani). After the Asr prayer, no general voluntary prayer is offered until sunset."
+  }
+ ],
+ "internal_links": [
+  "prayer-times-calculation-methods",
+  "fajr-prayer-time",
+  "forbidden-prayer-times",
+  "adhan-not-working-android"
+ ],
+ "sources": [
+  {
+   "title": "Encyclopedia of Translated Prophetic Hadiths: the time of Dhuhr is when the sun passes its zenith (Sahih Muslim 612)",
+   "url": "https://hadeethenc.com/en/browse/hadith/10596"
+  },
+  {
+   "title": "Hadith of Jibril leading the prayer (Sunan Abi Dawud 393, Jami' at-Tirmidhi 149) - Sunnah.com",
+   "url": "https://sunnah.com/abudawud:393"
+  },
+  {
+   "title": "IslamQA: the difference between the Hanafi school and the majority on prayer times (Arabic)",
+   "url": "https://islamqa.info/ar/answers/220820"
+  },
+  {
+   "title": "Dorar al-Saniyyah fiqh encyclopedia: the time of Asr (Arabic)",
+   "url": "https://dorar.net/feqhia/842"
+  },
+  {
+   "title": "Dorar al-Saniyyah: explanation of the hadith \"Whoever abandons the Asr prayer, his deeds are nullified\" (Arabic)",
+   "url": "https://dorar.net/hadith/sharh/23250"
+  },
+  {
+   "title": "Encyclopedia of Translated Prophetic Hadiths: Anas, he prayed Asr while the sun was high and bright (Arabic)",
+   "url": "https://hadeethenc.com/ar/browse/hadith/65395"
+  },
+  {
+   "title": "Sahih Muslim 622 (that is the prayer of the hypocrite) - Sunnah.com",
+   "url": "https://sunnah.com/muslim:622"
+  },
+  {
+   "title": "PrayTimes.org: Prayer Times Calculation (Asr methods)",
+   "url": "https://praytimes.org/docs/calculation"
+  },
+  {
+   "title": "Surah Al-Baqarah 2:238 - Quran.com",
+   "url": "https://quran.com/2/238"
+  }
+ ]
+}

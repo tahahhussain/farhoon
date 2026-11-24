@@ -1,0 +1,219 @@
+{
+ "number": 16,
+ "slug": "fajr-prayer-time",
+ "category": "Prayer",
+ "title": "Fajr Prayer Time: When It Starts, When It Ends and the Best Time to Pray",
+ "meta_title": "Fajr Prayer Time: Start, End and Best Time | Farhoon",
+ "meta_description": "Fajr prayer time runs from true dawn to sunrise: true vs false dawn, minutes until sunrise, the Sunnah of Fajr, and Imsak in Ramadan, with evidence.",
+ "focus_keyword": "fajr prayer time",
+ "keywords": [
+  {
+   "keyword": "fajr prayer time",
+   "type": "primary",
+   "est_monthly_searches": "20,000–60,000 (estimated)",
+   "intent": "informational",
+   "kgr_note": "Hard; many searchers want today's time in their city, so timetable sites dominate. We target the knowledge intent (estimated)"
+  },
+  {
+   "keyword": "when does fajr end",
+   "type": "question",
+   "est_monthly_searches": "2,000–6,000 (estimated)",
+   "intent": "informational",
+   "kgr_note": "Medium; answers are usually one line with no practical numbers (estimated)"
+  },
+  {
+   "keyword": "true dawn and false dawn",
+   "type": "question",
+   "est_monthly_searches": "500–1,500 (estimated)",
+   "intent": "informational",
+   "kgr_note": "Easy to medium; few pages with a clear comparison table (estimated)"
+  },
+  {
+   "keyword": "when does fajr start",
+   "type": "question",
+   "est_monthly_searches": "1,000–3,000 (estimated)",
+   "intent": "informational",
+   "kgr_note": "Medium (estimated)"
+  },
+  {
+   "keyword": "how long between fajr and sunrise",
+   "type": "question",
+   "est_monthly_searches": "1,000–3,000 (estimated)",
+   "intent": "informational",
+   "kgr_note": "Easy to medium; pages rarely give a seasonal table (estimated)"
+  },
+  {
+   "keyword": "sunnah of fajr",
+   "type": "secondary",
+   "est_monthly_searches": "2,000–6,000 (estimated)",
+   "intent": "informational",
+   "kgr_note": "Medium to hard; we cover it as a section, not a full article (estimated)"
+  },
+  {
+   "keyword": "imsak vs fajr",
+   "type": "question",
+   "est_monthly_searches": "1,000–5,000, seasonal in Ramadan (estimated)",
+   "intent": "informational",
+   "kgr_note": "Medium; rises sharply in Ramadan (estimated)"
+  },
+  {
+   "keyword": "best time to pray fajr",
+   "type": "long-tail",
+   "est_monthly_searches": "500–1,500 (estimated)",
+   "intent": "informational",
+   "kgr_note": "Easy to medium (estimated)"
+  },
+  {
+   "keyword": "false dawn",
+   "type": "LSI",
+   "est_monthly_searches": "500–2,000 (estimated)",
+   "intent": "informational",
+   "kgr_note": "Medium (estimated)"
+  }
+ ],
+ "keyword_variations": [
+  "fajr time",
+  "fajr salah time",
+  "fajr namaz time",
+  "subh prayer time",
+  "when does fajr end",
+  "last time for fajr",
+  "when does fajr start",
+  "true dawn",
+  "false dawn",
+  "fajr sadiq and kadhib",
+  "time between fajr and sunrise",
+  "how many minutes between fajr and sunrise",
+  "imsak time",
+  "imsak before fajr",
+  "fajr sunnah",
+  "two rakat before fajr",
+  "sunrise shuruq",
+  "وقت صلاة الفجر"
+ ],
+ "featured_snippet": {
+  "target_query": "when does fajr start and end",
+  "type": "paragraph",
+  "html": "<p>The Fajr prayer time begins at true dawn, when a band of whiteness spreads sideways across the eastern horizon, and ends at sunrise, the time marked \"Sunrise\" (Shuruq) in your prayer calendar. In most Arab countries this window lasts roughly 1 hour 15 minutes to 1 hour 40 minutes, depending on season and location. According to the majority of scholars, it is best to pray it early in its time.</p>"
+ },
+ "excerpt": "When does the Fajr prayer time start and end? True dawn vs false dawn from authentic hadith, the minutes until sunrise, the best time to pray, the Sunnah of Fajr, and Imsak vs Fajr in Ramadan.",
+ "reading_minutes": 9,
+ "featured_image": {
+  "headline": "Fajr prayer time",
+  "alt": "Fajr prayer time from true dawn on the eastern horizon until sunrise"
+ },
+ "cta_text": "Rafiq Al-Taa, our free ad-free app (Arabic interface), calculates Fajr and sunrise by your country's official method and sounds the Fajr adhan like a full-screen alarm. Coming soon to Google Play.",
+ "images": [
+  {
+   "file": "fajr-prayer-time-cover-en.webp",
+   "alt": "Fajr prayer time article cover with a glowing horizon before sunrise",
+   "caption": "",
+   "type": "cover",
+   "spec": "Brand background with a simple drawing of an eastern horizon where white light begins | Title: Fajr Prayer Time | Subtitle: From true dawn to sunrise"
+  },
+  {
+   "file": "true-dawn-vs-false-dawn-diagram-en.webp",
+   "alt": "Diagram showing the difference between the vertical false dawn and the horizontal true dawn for Fajr prayer time",
+   "caption": "False dawn stretches upwards; true dawn spreads sideways",
+   "type": "diagram",
+   "spec": "Two side-by-side panels of a night horizon | Right: False dawn, a faint vertical column of light rising from the horizon; below it: Vertical, followed by darkness, prayer not yet valid, eating still allowed | Left: True dawn, a horizontal band of white along the horizon; below it: Spreads sideways, grows until sunrise, prayer is valid, fasting begins | Small source line: Sahih Muslim 1094"
+  },
+  {
+   "file": "imsak-vs-fajr-ramadan-timeline-en.webp",
+   "alt": "Timeline showing the difference between the Imsak time and the Fajr adhan in Ramadan",
+   "caption": "The obligatory stop is at the Fajr adhan, not at the precautionary Imsak time",
+   "type": "infographic",
+   "spec": "Suhur: eat before Fajr | Imsak (a reminder, about 10 minutes before Fajr): eating still allowed | Fajr adhan: you must stop eating | Sunrise: end of Fajr prayer time | \"Until the white thread of dawn becomes distinct to you from the black thread\" (Al-Baqarah 2:187)"
+  },
+  {
+   "file": "fajr-to-sunrise-duration-table-en.webp",
+   "alt": "Table of the approximate time between Fajr and sunrise in Riyadh, Cairo and Rabat by season",
+   "caption": "Estimated with an 18° angle; your country's calendar is the reference",
+   "type": "table",
+   "spec": "Title: Time from Fajr to sunrise | Columns: City, March, December, June | Riyadh: 1:16, 1:21, 1:29 | Cairo: 1:20, 1:26, 1:37 | Rabat: 1:23, 1:30, 1:45 (hours:minutes, approximate) | Note: Estimated with an 18° angle; your country's calendar is the reference"
+  }
+ ],
+ "content_html": "<p>The <strong>Fajr prayer time</strong> begins at true dawn and ends at sunrise. Whoever prays within that window has prayed Fajr on time. Behind that short answer, though, sit questions people ask again and again: what is the difference between true dawn and false dawn? How many minutes are there between the Fajr adhan and sunrise? When is the best time to pray? And when exactly must a fasting person stop eating in Ramadan? This guide answers each one with authentic evidence and practical numbers.</p>\n\n<h2>When does Fajr start and when does it end?</h2>\n<div class=\"f-snippet\"><p>The Fajr prayer time begins at true dawn, when a band of whiteness spreads sideways across the eastern horizon, and ends at sunrise, the time marked \"Sunrise\" (Shuruq) in your prayer calendar. In most Arab countries this window lasts roughly 1 hour 15 minutes to 1 hour 40 minutes, depending on season and location. According to the majority of scholars, it is best to pray it early in its time.</p></div>\n<p>The basis for this is the hadith of Abdullah ibn Amr (may Allah be pleased with him), in which the Prophet ﷺ described the times of the five prayers and said:</p>\n<blockquote>\"And the time of the Subh (Fajr) prayer is from the break of dawn as long as the sun has not risen.\" (Sahih Muslim 612)</blockquote>\n<p>Fajr is the same prayer as Subh, the morning prayer. It is two rak'ahs (units), recited aloud. Allah singles it out by name in the Quran:</p>\n<blockquote><p>﴿أَقِمِ الصَّلَاةَ لِدُلُوكِ الشَّمْسِ إِلَىٰ غَسَقِ اللَّيْلِ وَقُرْآنَ الْفَجْرِ ۖ إِنَّ قُرْآنَ الْفَجْرِ كَانَ مَشْهُودًا﴾</p><p>\"Establish prayer at the decline of the sun [from its meridian] until the darkness of the night and [also] the Qur'ān [i.e., recitation] of dawn. Indeed, the recitation of dawn is ever witnessed.\" (Surah Al-Isra 17:78, translation: Sahih International)</p></blockquote>\n\n<h2>True dawn vs false dawn: what is the difference?</h2>\n<p>Before the real dawn, a faint light appears on the eastern horizon and stretches upwards into the sky like a pillar, and then darkness returns. This is <strong>false dawn</strong> (al-fajr al-kadhib). After it comes a whiteness that spreads sideways along the horizon and keeps growing brighter until the sun rises. This is <strong>true dawn</strong> (al-fajr al-sadiq), and it is the one that the rulings of prayer and fasting depend on. The Prophet ﷺ distinguished between the two by description and by gesture. Samurah ibn Jundub (may Allah be pleased with him) reported that he said:</p>\n<blockquote>\"Do not let the adhan of Bilal deceive you about your suhur, nor this whiteness of the horizon that stretches upwards like this, until it spreads out like this.\" (Sahih Muslim 1094)</blockquote>\n<p>\"Stretches upwards\" (mustatil) means the light runs vertically from the bottom up, while \"spreads out\" (yastatir) means it fans out across the horizon. In a narration from Ibn Abbas (may Allah be pleased with him), attributed to the Prophet ﷺ:</p>\n<blockquote>\"Dawn is of two kinds: a dawn that makes food forbidden and prayer permissible, and a dawn in which prayer is forbidden and food is permissible.\" (Reported by Ibn Khuzaymah 356 and al-Hakim 687; graded authentic by al-Albani in al-Silsilah al-Sahihah 693. Some hadith scholars discussed whether these are the Prophet's words or Ibn Abbas's own.)</blockquote>\n<table>\n<thead><tr><th>Point of comparison</th><th>False dawn</th><th>True dawn</th></tr></thead>\n<tbody>\n<tr><td>Shape</td><td>A vertical streak of light rising into the sky</td><td>A horizontal band of whiteness spreading along the horizon</td></tr>\n<tr><td>What follows</td><td>Darkness returns</td><td>The light keeps increasing until sunrise</td></tr>\n<tr><td>Fajr prayer</td><td>Not valid, because the time has not begun</td><td>The time of Fajr begins</td></tr>\n<tr><td>Fasting</td><td>Eating and drinking are still allowed</td><td>You must stop eating and drinking</td></tr>\n</tbody>\n</table>\n<p>For an explanation of this hadith, see Shaykh Ibn Baz's fatwa on <a href=\"https://binbaz.org.sa/fatwas/4646/\">the meaning of \"dawn is of two kinds\"</a> (Arabic). Because most of us now live in cities whose lights hide the horizon, people rely on calendars calculated astronomically rather than watching the sky themselves.</p>\n\n<!--IMG:2-->\n\n<h2>When does Fajr end?</h2>\n<p>The time for Fajr ends when the first edge of the sun appears, which your calendar shows as \"Sunrise\" (Shuruq). That is why prayer apps list sunrise alongside the prayer times, even though it is not itself the time of an obligatory prayer. Whoever manages to pray one rak'ah before sunrise has caught the prayer within its time, as the Prophet ﷺ said:</p>\n<blockquote>\"Whoever catches one rak'ah of Subh before the sun rises has caught Subh.\" (Sahih al-Bukhari 579; Sahih Muslim 608)</blockquote>\n<p>This hadith is for someone whose time ran short because of a genuine excuse. It is not permission to delay the prayer deliberately until the last moment. Anyone who sleeps through Fajr or forgets it should pray it as soon as they wake up or remember; we cover this in detail in <a href=\"/en/blog/missed-fajr-prayer/\">what to do if you miss Fajr</a>. After the Fajr prayer, a period begins in which general voluntary prayers are not offered until the sun has risen; we have gathered these periods in <a href=\"/en/blog/forbidden-prayer-times/\">the forbidden times for prayer</a>.</p>\n\n<h2>How long is it between the Fajr adhan and sunrise?</h2>\n<p>The gap is not fixed. It changes with the season, with latitude, and with the Fajr angle your country's calendar uses. Below is an estimate we calculated with an 18° angle for a few cities. It is for illustration only, not for acting on; your country's official calendar is the reference:</p>\n<table>\n<thead><tr><th>City</th><th>Near the equinox (March)</th><th>Midwinter (December)</th><th>Midsummer (June)</th></tr></thead>\n<tbody>\n<tr><td>Riyadh</td><td>About 1 hour 16 minutes</td><td>About 1 hour 21 minutes</td><td>About 1 hour 29 minutes</td></tr>\n<tr><td>Cairo</td><td>About 1 hour 20 minutes</td><td>About 1 hour 26 minutes</td><td>About 1 hour 37 minutes</td></tr>\n<tr><td>Rabat</td><td>About 1 hour 23 minutes</td><td>About 1 hour 30 minutes</td><td>About 1 hour 45 minutes</td></tr>\n</tbody>\n</table>\n<p>Notice that the gap is shortest near the equinoxes, longest in summer, and grows the further north you go. A calendar that uses a larger angle, such as the Egyptian General Authority of Survey (19.5°), makes it a few minutes longer.</p>\n\n<!--CTA:rafiq-->\n\n<p>In <strong>Rafiq Al-Taa</strong>, a free, ad-free Islamic app by Farhoon (Arabic interface) that is coming soon to Google Play, prayer times are calculated on your phone using your country's official method automatically. Sunrise is shown alongside the prayer times, and the Fajr adhan sounds like a full-screen alarm even when the app is closed. If your adhan does not arrive on time, read <a href=\"/en/blog/adhan-not-working-android/\">adhan not working on your phone</a>.</p>\n\n<h2>What is the best time to pray Fajr?</h2>\n<p>The majority of scholars, from the Maliki, Shafi'i and Hanbali schools, hold that it is best to pray Fajr early in its time, once you are sure dawn has broken. This is called <em>taghlis</em>, praying in the <em>ghalas</em>, the last darkness of the night. Their evidence is the hadith of Aisha (may Allah be pleased with her):</p>\n<blockquote>\"The believing women used to attend the Fajr prayer with the Messenger of Allah ﷺ, wrapped in their woollen sheets, then return to their homes when they had finished the prayer, and no one could recognise them because of the darkness.\" (Sahih al-Bukhari 578; Sahih Muslim 645)</blockquote>\n<p>The Hanafi school holds that <em>isfar</em> is better, meaning praying it once the light has spread. They cite the hadith of Rafi' ibn Khadij (may Allah be pleased with him): \"Pray Fajr when the light has spread, for that brings a greater reward.\" (Jami' al-Tirmidhi 154, and Sunan Abi Dawud 424 with the wording \"Pray Subh in the morning light\"; graded authentic by al-Albani.) The majority understood this as making sure dawn has truly broken and not rushing before it is clear, or as lengthening the recitation so that you finish when the light has spread.</p>\n<p>There is room for both views, because the whole period is valid time for the prayer. In practice, mosques today follow their country's calendar, with a gap between the adhan and the iqamah set by the official authority in each country. That gap is usually longer at Fajr than at other prayers, so that people can catch the congregation.</p>\n\n<h2>The Sunnah of Fajr: two rak'ahs better than the world</h2>\n<p>Before the obligatory Fajr prayer come two rak'ahs that are the most emphasised of the regular Sunnah prayers. Aisha (may Allah be pleased with her) said: \"The Prophet ﷺ did not keep to any voluntary prayer more firmly than the two rak'ahs of Fajr.\" (Sahih al-Bukhari 1169; Sahih Muslim 724) And the Prophet ﷺ said:</p>\n<blockquote>\"The two rak'ahs of Fajr are better than this world and everything in it.\" (Sahih Muslim 725)</blockquote>\n<ul>\n<li><strong>Its time:</strong> after dawn breaks and before the obligatory prayer. It is not prayed before the time has begun.</li>\n<li><strong>How to pray it:</strong> two light, short rak'ahs. It is Sunnah to recite, after Al-Fatihah, Surah Al-Kafirun in the first and Surah Al-Ikhlas in the second, as in the hadith of Abu Hurairah (may Allah be pleased with him) in Sahih Muslim (726).</li>\n<li><strong>When travelling:</strong> the Prophet ﷺ kept to it both at home and on journeys.</li>\n<li><strong>If you miss it:</strong> scholars have two well-known views: make it up straight after the obligatory prayer, or after the sun has risen.</li>\n</ul>\n\n<h2>The virtue of praying Fajr on time</h2>\n<p>Many authentic hadiths speak of the virtue of the Fajr prayer, including:</p>\n<ul>\n<li>The Prophet ﷺ said: \"Whoever prays the two cool prayers will enter Paradise.\" (Sahih al-Bukhari 574; Sahih Muslim 635) The two cool prayers are Fajr and Asr.</li>\n<li>He ﷺ said: \"Whoever prays Subh is under the protection of Allah.\" (Sahih Muslim 657)</li>\n<li>Allah says: ﴿إِنَّ قُرْآنَ الْفَجْرِ كَانَ مَشْهُودًا﴾, \"Indeed, the recitation of dawn is ever witnessed\" (Surah Al-Isra 17:78, translation: Sahih International), meaning it is witnessed by the angels of the night and the angels of the day.</li>\n</ul>\n<p>After the prayer comes the time for the morning adhkar (remembrances). If you want help staying consistent, track your prayers each day in a simple sheet that records all five.</p>\n\n<h2>Why does the Fajr adhan differ between apps and mosques?</h2>\n<p>Fajr is the prayer whose calculation varies the most, because true dawn is a light that grows gradually, and astronomers translate it into an angle of the sun below the horizon. Authorities use different angles: 19.5° for the Egyptian General Authority of Survey, 18.5° for the Umm al-Qura calendar, and 18° for the Muslim World League. Every degree and a half or so shifts the time by about seven to ten minutes. Some modern observation studies have called for smaller angles, and the matter is one of scholarly judgement (ijtihad).</p>\n<p>We explain this debate, with the full table of methods, in <a href=\"/en/blog/prayer-times-calculation-methods/\">prayer times calculation methods</a>. The practical conclusion: follow your country's official calendar that the mosques use for the adhan, and do not change the calculation method in your app based on personal judgement.</p>\n\n<h2>Imsak and Fajr in Ramadan: when must a fasting person stop eating?</h2>\n<p>You must stop eating and drinking at true dawn, that is, at the Fajr adhan that is calculated for it. Allah says:</p>\n<blockquote><p>﴿وَكُلُوا وَاشْرَبُوا حَتَّىٰ يَتَبَيَّنَ لَكُمُ الْخَيْطُ الْأَبْيَضُ مِنَ الْخَيْطِ الْأَسْوَدِ مِنَ الْفَجْرِ ۖ ثُمَّ أَتِمُّوا الصِّيَامَ إِلَى اللَّيْلِ﴾</p><p>\"And eat and drink until the white thread of dawn becomes distinct to you from the black thread [of night]. Then complete the fast until the night [i.e., sunset].\" (Surah Al-Baqarah 2:187, translation: Sahih International)</p></blockquote>\n<p>In the Prophet's time ﷺ there were two adhans: Bilal's adhan before dawn, and Ibn Umm Maktum's adhan when dawn broke. The Prophet ﷺ said: \"Let not the adhan of Bilal stop any of you from his suhur, for he calls the adhan at night so that those of you praying at night may return [to rest] and those of you sleeping may wake up.\" (Sahih al-Bukhari 621; Sahih Muslim 1093) Zayd ibn Thabit (may Allah be pleased with him) said that they had suhur with the Prophet ﷺ and then he stood for the prayer. He was asked how long there was between the adhan and the suhur, and he said: \"The length of fifty verses.\" (Sahih al-Bukhari 1921; Sahih Muslim 1097)</p>\n<h3>What is the \"Imsak\" time in Ramadan timetables?</h3>\n<p>Many Ramadan timetables show a time called \"Imsak\" about ten minutes to a quarter of an hour before the Fajr adhan. This time is a reminder to get ready. It is not the Islamic limit of the fast. Shaykh Ibn Baz (may Allah have mercy on him) stated that he knew of no basis for this fixed early time, and that the Quran and Sunnah show that you stop eating at dawn (<a href=\"https://binbaz.org.sa/fatwas/11916/\">fatwa on Ramadan timetables</a>, Arabic). <a href=\"https://www.dar-alifta.org/ar/Fatwa/Details/18350/\">Egypt's Dar al-Ifta</a> (Arabic) likewise stated that the obligatory time to stop is at the Fajr adhan.</p>\n<table>\n<thead><tr><th>Time</th><th>Ruling for the fasting person</th></tr></thead>\n<tbody>\n<tr><td>Before the \"Imsak\" time printed in the timetable</td><td>Eating and drinking are allowed</td></tr>\n<tr><td>Between \"Imsak\" and the Fajr adhan</td><td>Eating and drinking are allowed, though it is more cautious not to leave your suhur to the very last moment</td></tr>\n<tr><td>At the official Fajr adhan</td><td>You must stop eating and drinking</td></tr>\n</tbody>\n</table>\n<p>Ramadan 1448 AH is expected to begin around 8 February 2027 according to the Umm al-Qura calendar, though what counts is the confirmed sighting of the crescent in your country. If you hold a personal precaution about Imsak because you doubt the accuracy of your country's calendar, ask trusted scholars where you live.</p>\n\n<!--IMG:3-->\n\n<h2>Practical steps to pray Fajr on time</h2>\n<ol>\n<li>Find the Fajr and sunrise times for your city from your country's official calendar or an app set to it.</li>\n<li>Set the Fajr adhan on your phone, and make sure it works with the screen locked and in sleep mode.</li>\n<li>Sleep early if you can. The Prophet ﷺ disliked sleeping before Isha and talking after it (Sahih al-Bukhari 568; Sahih Muslim 647).</li>\n<li>Pray the two light Sunnah rak'ahs of Fajr, then the obligatory prayer in congregation at the mosque, for men, if possible.</li>\n<li>Sit afterwards for the morning adhkar, even for a few minutes.</li>\n</ol>\n\n<!--IMG:4-->\n\n<h2>Summary</h2>\n<p>The time for Fajr runs from true dawn, the light that spreads across the horizon, until sunrise. In Arab countries it lasts roughly 1 hour 15 minutes to 1 hour 40 minutes. The majority of scholars hold that it is best prayed early in its time, and before it come two rak'ahs that are better than this world and everything in it. A fasting person must stop eating at the official Fajr adhan, not at the precautionary \"Imsak\" time. What we have written summarises the well-known views of scholars; for special cases, it is best to ask the scholars in your country.</p>\n\n<!--CTA:rafiq-->\n",
+ "faq": [
+  {
+   "q": "When does Fajr prayer time start?",
+   "a": "Fajr begins at true dawn: the whiteness that spreads sideways across the eastern horizon and keeps brightening until sunrise. Calendars fix it astronomically as an angle of the sun below the horizon, and official bodies use angles of roughly 18° to 19.5°, so the reference is the Fajr adhan in your country's calendar."
+  },
+  {
+   "q": "When does Fajr prayer time end?",
+   "a": "Fajr ends at sunrise, the \"Sunrise\" (Shuruq) time in your calendar, because the Prophet ﷺ said: \"The time of the Subh prayer is from the break of dawn as long as the sun has not risen\" (Sahih Muslim 612). Whoever catches one rak'ah before sunrise has caught the prayer, but it is not permissible to delay it to then deliberately."
+  },
+  {
+   "q": "What is the difference between true dawn and false dawn?",
+   "a": "False dawn is a vertical streak of light rising into the sky, followed by darkness. Prayer time does not begin with it and food is not forbidden for the fasting person. True dawn is a whiteness spreading across the horizon and growing until sunrise. With it Fajr time begins and fasting starts, as in the hadith of Samurah in Sahih Muslim (1094)."
+  },
+  {
+   "q": "How many minutes are there between Fajr and sunrise?",
+   "a": "It varies with the season, location and the angle your calendar uses. In most Arab cities it ranges roughly from 1 hour 15 minutes near the equinoxes to about 1 hour 40 minutes in summer in northern cities such as Rabat. For the exact gap on any day, check the difference between Fajr and sunrise in your city's calendar."
+  },
+  {
+   "q": "Can I eat after the Imsak time and before the Fajr adhan?",
+   "a": "Yes. The \"Imsak\" time in Ramadan timetables is a precautionary reminder about ten minutes before Fajr, not the Islamic limit. You must stop at true dawn, that is, the official Fajr adhan in your country, as stated by Shaykh Ibn Baz and Egypt's Dar al-Ifta. If you have a particular precaution, ask the scholars in your country."
+  },
+  {
+   "q": "What is the best time to pray Fajr?",
+   "a": "The majority of scholars say it is best early in its time once dawn is certain, based on Aisha's hadith about women praying with the Prophet ﷺ in the darkness (Bukhari and Muslim). The Hanafis consider praying it once the light has spread to be better, citing the hadith \"Pray Fajr when the light has spread.\" The whole period until sunrise is valid time."
+  },
+  {
+   "q": "What is the Sunnah of Fajr and how many rak'ahs is it?",
+   "a": "The Sunnah of Fajr is two rak'ahs before the obligatory prayer, the most emphasised of the regular Sunnah prayers. The Prophet ﷺ said: \"The two rak'ahs of Fajr are better than this world and everything in it\" (Sahih Muslim 725). Keep them short, recite Al-Kafirun in the first and Al-Ikhlas in the second after Al-Fatihah, and do not pray them before Fajr time begins."
+  }
+ ],
+ "internal_links": [
+  "prayer-times-calculation-methods",
+  "adhan-not-working-android",
+  "forbidden-prayer-times",
+  "missed-fajr-prayer"
+ ],
+ "sources": [
+  {
+   "title": "Encyclopedia of Translated Prophetic Hadiths: hadith on the prayer times (Sahih Muslim 612)",
+   "url": "https://hadeethenc.com/en/browse/hadith/10596"
+  },
+  {
+   "title": "Ibn Baz: the meaning of \"dawn is of two kinds\" (Arabic)",
+   "url": "https://binbaz.org.sa/fatwas/4646/"
+  },
+  {
+   "title": "Dorar.net: explanation of \"Let not the adhan of Bilal stop any of you from his suhur\" (Arabic)",
+   "url": "https://dorar.net/hadith/sharh/3517"
+  },
+  {
+   "title": "Encyclopedia of Translated Prophetic Hadiths: Zayd ibn Thabit on the time between suhur and prayer",
+   "url": "https://hadeethenc.com/en/browse/hadith/4457"
+  },
+  {
+   "title": "Encyclopedia of Translated Prophetic Hadiths: Aisha on keeping to the two rak'ahs of Fajr",
+   "url": "https://hadeethenc.com/en/browse/hadith/3440"
+  },
+  {
+   "title": "Sunnah.com: Sahih Muslim 725 (the two rak'ahs of Fajr are better than the world)",
+   "url": "https://sunnah.com/muslim:725"
+  },
+  {
+   "title": "Encyclopedia of Translated Prophetic Hadiths: \"Offer the Fajr prayer at dawn\"",
+   "url": "https://hadeethenc.com/en/browse/hadith/10601"
+  },
+  {
+   "title": "Ibn Baz: ruling on Ramadan Imsak timetables (Arabic)",
+   "url": "https://binbaz.org.sa/fatwas/11916/"
+  },
+  {
+   "title": "Dar al-Ifta al-Misriyyah: the time a fasting person must stop eating in Ramadan (Arabic)",
+   "url": "https://www.dar-alifta.org/ar/Fatwa/Details/18350/"
+  },
+  {
+   "title": "Quran.com: Surah Al-Baqarah 2:187",
+   "url": "https://quran.com/2/187"
+  },
+  {
+   "title": "Quran.com: Surah Al-Isra 17:78",
+   "url": "https://quran.com/17/78"
+  }
+ ]
+}

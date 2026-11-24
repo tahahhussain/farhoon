@@ -1,0 +1,196 @@
+{
+ "number": 32,
+ "slug": "missed-fajr-prayer",
+ "category": "Prayer",
+ "title": "Missed Fajr Prayer Because You Overslept: When and How to Make It Up",
+ "meta_title": "Missed Fajr Prayer: How to Make It Up | Farhoon",
+ "meta_description": "Overslept and missed Fajr? Pray it as soon as you wake, even at sunrise, with its sunnah. The hadith, the story of the Prophet ﷺ, and tips to wake up.",
+ "focus_keyword": "missed fajr prayer",
+ "keywords": [
+  {
+   "keyword": "missed fajr prayer",
+   "type": "primary",
+   "est_monthly_searches": "2,000–6,000 (estimated)",
+   "intent": "informational",
+   "kgr_note": "Medium; many fatwa pages answer briefly, few combine the hadith, the madhhab views and practical steps, KGR above 1 (estimated)"
+  },
+  {
+   "keyword": "how to make up missed fajr prayer",
+   "type": "question",
+   "est_monthly_searches": "500–2,000 (estimated)",
+   "intent": "informational",
+   "kgr_note": "Featured snippet opportunity with a short paragraph and steps (estimated)"
+  },
+  {
+   "keyword": "overslept fajr what to do",
+   "type": "question",
+   "est_monthly_searches": "500–1,500 (estimated)",
+   "intent": "informational",
+   "kgr_note": "Medium (estimated)"
+  },
+  {
+   "keyword": "can i pray fajr after sunrise",
+   "type": "question",
+   "est_monthly_searches": "1,000–3,000 (estimated)",
+   "intent": "informational",
+   "kgr_note": "Medium; ties to the forbidden-time question (estimated)"
+  },
+  {
+   "keyword": "qada fajr prayer",
+   "type": "secondary",
+   "est_monthly_searches": "500–2,000 (estimated)",
+   "intent": "informational",
+   "kgr_note": "Medium (estimated)"
+  },
+  {
+   "keyword": "make up sunnah of fajr after sunrise",
+   "type": "long-tail",
+   "est_monthly_searches": "100–500 (estimated)",
+   "intent": "informational",
+   "kgr_note": "Easy (estimated)"
+  },
+  {
+   "keyword": "how to wake up for fajr",
+   "type": "secondary",
+   "est_monthly_searches": "2,000–6,000 (estimated)",
+   "intent": "informational",
+   "kgr_note": "Medium; many tips lists (estimated)"
+  },
+  {
+   "keyword": "hadith whoever forgets a prayer or sleeps through it",
+   "type": "long-tail",
+   "est_monthly_searches": "50–200 (estimated)",
+   "intent": "informational",
+   "kgr_note": "Easy; low KGR likely (estimated)"
+  }
+ ],
+ "keyword_variations": [
+  "missed fajr",
+  "missed fajr prayer what to do",
+  "slept through fajr",
+  "overslept fajr",
+  "woke up after sunrise fajr",
+  "praying fajr late",
+  "qadha fajr",
+  "qaza fajr",
+  "make up fajr prayer",
+  "fajr after sunrise",
+  "is it a sin to miss fajr if asleep",
+  "how to pray missed fajr"
+ ],
+ "featured_snippet": {
+  "target_query": "what to do if you slept through fajr and how to make it up",
+  "type": "paragraph",
+  "html": "<p>If you slept through Fajr until the sun rose, you are not sinful as long as you were not negligent. Pray it as soon as you wake up, even at sunrise, according to the majority of scholars, because the Prophet ﷺ said: \"Whoever forgets a prayer or sleeps through it, its expiation is to pray it when he remembers it\" (Sahih Muslim 684). Make wudu, pray the two-rak'ah sunnah of Fajr, then the two-rak'ah fard aloud as usual.</p>"
+ },
+ "excerpt": "Slept through Fajr? Pray it as soon as you wake, with its sunnah, even at sunrise in the view of the majority. The authentic hadith, the story of the Prophet ﷺ sleeping through it on a journey, the difference between sleeping and delaying on purpose, and tips to wake up.",
+ "reading_minutes": 10,
+ "featured_image": {
+  "headline": "Missed Fajr? Here Is How to Make It Up",
+  "alt": "Making up the missed Fajr prayer after oversleeping past sunrise"
+ },
+ "cta_text": "In Rafiq Al-Taa, Farhoon's free ad-free app (Arabic interface), the adhan works like an alarm: full screen, it wakes the screen and plays at Fajr even when the app is closed. Coming soon to Google Play.",
+ "images": [
+  {
+   "file": "missed-fajr-prayer-cover-en.webp",
+   "alt": "Cover of the Farhoon guide to making up a missed Fajr prayer",
+   "caption": "",
+   "type": "cover",
+   "spec": "Title: Missed Fajr Prayer | Subtitle: Slept through it? Pray it when you wake | A sun rising over the horizon on the brand background"
+  },
+  {
+   "file": "how-to-make-up-fajr-steps-en.webp",
+   "alt": "Steps for making up the missed Fajr prayer after waking up",
+   "caption": "Making up Fajr in six steps",
+   "type": "steps",
+   "spec": "Get up immediately | Make wudu | Call the adhan and iqamah | Sunnah of Fajr: two light rak'ahs | The fard: two rak'ahs recited aloud | Take a new step to wake up tomorrow | \"Whoever forgets a prayer or sleeps through it, its expiation is to pray it when he remembers it\" (Sahih Muslim 684)"
+  },
+  {
+   "file": "tips-wake-up-for-fajr-en.webp",
+   "alt": "Practical tips for waking up for the Fajr prayer",
+   "caption": "",
+   "type": "infographic",
+   "spec": "Sleep early | Sleep with wudu and adhkar | Make an intention and du'a | Use more than one alarm | Keep the phone away from the bed | Arrange for someone to wake you | Get up at once and remember Allah | Go light on dinner and screens"
+  },
+  {
+   "file": "sleeping-vs-deliberate-delay-fajr-en.webp",
+   "alt": "Comparison between sleeping through Fajr and delaying it on purpose",
+   "caption": "\"There is no negligence in sleep\" (Sahih Muslim 681)",
+   "type": "table",
+   "spec": "Title: Sleeping through Fajr vs delaying it on purpose | Column 1, The one who slept: no sin if he took the means | makes it up as soon as he wakes | takes a new measure | Column 2, The one who delayed on purpose: a grave sin | repentance + making it up according to the majority | resolve never to return to it"
+  }
+ ],
+ "content_html": "<p>You wake up, the sun is already up, and you have missed Fajr. Do not put it off until Dhuhr or the next day: the <strong>missed Fajr prayer</strong> is made up as soon as you wake. You make wudu (ablution), pray the sunnah of Fajr and then the fard (obligatory prayer), just as the Prophet ﷺ did when he and his Companions slept through it on a journey. In this article we cover the authentic hadith on this, the story of the Prophet ﷺ sleeping through Fajr, the ruling on praying at sunrise, the difference between the one who slept and the one who delayed on purpose, and practical tips to help you wake up for Fajr.</p>\n\n<h2>What is the ruling on someone who slept through Fajr?</h2>\n<div class=\"f-snippet\"><p>If you slept through Fajr until the sun rose, you are not sinful as long as you were not negligent. Pray it as soon as you wake up, even at sunrise, according to the majority of scholars, because the Prophet ﷺ said: \"Whoever forgets a prayer or sleeps through it, its expiation is to pray it when he remembers it\" (Sahih Muslim 684). Make wudu, pray the two-rak'ah sunnah of Fajr, then the two-rak'ah fard aloud as usual.</p></div>\n<p>The one who sleeps is excused as long as he did not neglect the means of waking up. But his excuse does not cancel the prayer; it only moves the time he must pray it to the moment he wakes. That is why the Prophet ﷺ called praying it when one remembers an \"expiation\" (kaffarah): it is enough, and nothing else is required alongside it.</p>\n\n<h2>What is the evidence for making up a prayer you slept through?</h2>\n<p>Anas ibn Malik (may Allah be pleased with him) reported that the Prophet ﷺ said:</p>\n<blockquote>\"Whoever forgets a prayer or sleeps through it, its expiation is to pray it when he remembers it.\" (Sahih Muslim 684)</blockquote>\n<p>In a wording in al-Bukhari: \"Whoever forgets a prayer, let him pray it when he remembers it; there is no expiation for it except that.\" Then he recited Allah's words: ﴿وَأَقِمِ الصَّلَاةَ لِذِكْرِي﴾ \"and establish prayer for My remembrance\" (Sahih al-Bukhari 597, Sahih Muslim 684). The verse comes from what Allah said to Musa (Moses), peace be upon him:</p>\n<blockquote>﴿إِنَّنِي أَنَا اللَّهُ لَا إِلَٰهَ إِلَّا أَنَا فَاعْبُدْنِي وَأَقِمِ الصَّلَاةَ لِذِكْرِي﴾ \"Indeed, I am Allāh. There is no deity except Me, so worship Me and establish prayer for My remembrance.\" (Surah Ta-Ha 20:14, translation: Sahih International)</blockquote>\n<p>Three rulings are taken from this hadith: making up the prayer is obligatory on the one who slept or forgot; it is done <strong>as soon as you remember</strong>, not some time later; and there is no financial expiation or anything else in addition to the prayer. You can read an explanation of the hadith on <a href=\"https://dorar.net/hadith/sharh/14289\">Dorar.net</a> (Arabic).</p>\n\n<h2>The story of the Prophet ﷺ and his Companions sleeping through Fajr</h2>\n<p>This happened on a journey. The story was narrated by several Companions in similar wordings; the best known are the hadith of Abu Qatadah and the hadith of Abu Hurairah (may Allah be pleased with them):</p>\n<h3>The narration of Abu Qatadah in Bukhari and Muslim</h3>\n<p>The Prophet ﷺ was travelling with his Companions by night. Some of them asked to stop at the end of the night to rest, and he was worried they would sleep through the prayer. Bilal (may Allah be pleased with him) said, \"I will wake you.\" So they lay down, and Bilal leaned his back against his mount, but his eyes overcame him and he fell asleep. The Prophet ﷺ woke up when the edge of the sun had already risen, and said, \"O Bilal, what about what you said?\" Bilal said, \"Never has such a sleep come over me.\" The Prophet ﷺ said:</p>\n<blockquote>\"Allah took your souls when He willed and returned them to you when He willed.\" (Sahih al-Bukhari 595)</blockquote>\n<p>Then he told Bilal to call the adhan, and he made wudu. When the sun had risen and turned white, he stood and prayed. In Muslim's narration of the hadith of Abu Qatadah, he prayed two rak'ahs before Fajr, then prayed Fajr, doing just as he did every day, and he said:</p>\n<blockquote>\"There is no negligence in sleep. Negligence is only on the one who does not pray the prayer until the time of the next prayer comes.\" (Sahih Muslim 681)</blockquote>\n<h3>The narration of Abu Hurairah in Sahih Muslim</h3>\n<p>In the hadith of Abu Hurairah (may Allah be pleased with him) in Sahih Muslim (680), this happened when the Prophet ﷺ was returning from the expedition of Khaybar. Some commentators, such as Ibn Hajar, discussed which journey it was, and some scholars held that the incident happened more than once. In one of Abu Hurairah's narrations in Muslim, they did not wake until the sun had risen, and the Prophet ﷺ said: \"Let every man take hold of the head of his mount, for this is a place where Shaytan came to us.\" So they moved a little, then he made wudu and prayed two rak'ahs, then the iqamah was called and he prayed Fajr.</p>\n<h3>What practical lessons come from the story?</h3>\n<ul>\n<li><strong>Sleeping through a prayer can happen to the most pious of people</strong> when sleep overcomes them, and there is no sin in it unless it comes from negligence.</li>\n<li><strong>Taking practical steps is part of the religion:</strong> the Prophet ﷺ appointed Bilal to wake them, which is a basis for using an alarm or someone to wake you.</li>\n<li><strong>The adhan and iqamah are called for the missed prayer</strong>, and it is prayed in congregation if possible.</li>\n<li><strong>The sunnah of Fajr is prayed with the missed fard</strong>, and then the fard in its usual form.</li>\n<li><strong>No blame or harshness:</strong> the Prophet ﷺ did not rebuke Bilal harshly; he referred the matter back to Allah's decree.</li>\n</ul>\n\n<h2>How to make up Fajr if you wake up after sunrise</h2>\n<ol>\n<li><strong>Get up immediately</strong> and do not delay it to a later time, because the hadith says \"when he remembers it\".</li>\n<li><strong>Make wudu</strong> as you do for every prayer.</li>\n<li><strong>Call the adhan and the iqamah</strong> if you wish; the iqamah is more emphasised, following what the Prophet ﷺ did.</li>\n<li><strong>Pray the two-rak'ah sunnah of Fajr</strong>, keeping it light.</li>\n<li><strong>Pray the two-rak'ah fard</strong>, reciting aloud as you would in its proper time, because he did \"just as he did every day\".</li>\n<li><strong>Carry on with your day</strong>, do not let missing one prayer lead you to miss the ones after it, and take a new step to help you wake tomorrow.</li>\n</ol>\n<!--IMG:2-->\n<p>If you missed more than one prayer, for example Fajr and Dhuhr through illness, pray them in order before the current prayer, unless the time of the current prayer is about to run out. This is the view of the majority of scholars.</p>\n\n<!--CTA:rafiq-->\n\n<p>One of the biggest helps for Fajr is an alarm that does not let you down. In <strong>Rafiq Al-Taa</strong>, Farhoon's free, ad-free app (Arabic interface) that is coming soon to Google Play, the adhan works like an alarm: it appears full screen, wakes the screen, and plays on time even when the app is closed. Even so, it is only a tool and does not replace your intention and going to bed early. If the adhan does not work on your phone, see <a href=\"/en/blog/adhan-not-working-android/\">adhan not working on Android</a>.</p>\n\n<h2>Can I pray Fajr at sunrise, which is a forbidden time?</h2>\n<p>Yes, according to the majority of scholars from the Maliki, Shafi'i and Hanbali schools: a missed obligatory prayer is prayed as soon as you wake, even at sunrise, because the Prophet's words \"let him pray it when he remembers it\" are specific to missed prayers, so they take precedence over the general prohibition on praying at sunrise. This is supported by his saying ﷺ: \"Whoever catches one rak'ah of Subh (Fajr) before the sun rises has caught Subh.\" (Sahih al-Bukhari 579, Sahih Muslim 608) So whoever prays one rak'ah and then the sun rises completes his prayer.</p>\n<p>The Hanafis held that a missed prayer is not prayed in the three short forbidden times, so one waits until the sun has risen the height of a spear, roughly a quarter of an hour after sunrise. They took support from the fact that the Prophet ﷺ only prayed after the sun had risen and turned white. The majority replied that the delay in the story had a reason stated in the hadith itself: moving away from the place where Shaytan had come to them and preparing for the prayer with wudu and the adhan, not the forbidden time. For the details of these times and what may be prayed in them, see <a href=\"/en/blog/forbidden-prayer-times/\">forbidden times for prayer</a>.</p>\n\n<h2>When do you make up the sunnah of Fajr if you missed it?</h2>\n<p>The sunnah of Fajr is one of the most emphasised sunnah prayers. The Prophet ﷺ said: \"The two rak'ahs of Fajr are better than this world and all it contains.\" (Sahih Muslim 725) There are three situations:</p>\n<table>\n<thead><tr><th>Situation</th><th>What to do</th><th>Evidence</th></tr></thead>\n<tbody>\n<tr><td>You slept through both the fard and the sunnah</td><td>Pray the sunnah, then the fard, as soon as you wake</td><td>What the Prophet ﷺ did in the story of the sleep (Sahih Muslim 681)</td></tr>\n<tr><td>You caught the fard in congregation but had not prayed the sunnah</td><td>Pray it straight after the fard, or after the sun has risen</td><td>Hadith of Qays ibn Amr (Sunan Abi Dawud 1267, graded sahih by al-Albani)</td></tr>\n<tr><td>You want to delay it to the forenoon (duha)</td><td>Pray it after the sun has risen the height of a spear</td><td>\"Whoever has not prayed the two rak'ahs of Fajr, let him pray them after the sun rises\" (Jami' at-Tirmidhi 423, graded sahih by al-Albani, while some hadith scholars graded it weak)</td></tr>\n</tbody>\n</table>\n\n<h2>What is the difference between sleeping through Fajr and delaying it on purpose?</h2>\n<p>The difference is huge, and many people confuse the two, thinking that \"making it up\" makes delaying the prayer a light matter:</p>\n<table>\n<thead><tr><th>Issue</th><th>The one who slept or forgot</th><th>The one who delayed on purpose</th></tr></thead>\n<tbody>\n<tr><td>Sin</td><td>No sin if he did not neglect the means of waking</td><td>A grave sin; delaying the prayer beyond its time without an excuse is one of the major sins</td></tr>\n<tr><td>Making it up</td><td>Obligatory as soon as he wakes, by consensus</td><td>Obligatory together with repentance according to the majority; some scholars, such as Ibn Hazm and Ibn Taymiyyah, held that it is not valid from him as a make-up prayer, and that he should repent and increase his voluntary prayers</td></tr>\n<tr><td>Description in the hadith</td><td>\"There is no negligence in sleep\"</td><td>\"Negligence is only on the one who does not pray the prayer until the time of the next one comes\"</td></tr>\n<tr><td>What is required of him</td><td>Praying, and taking steps to wake up</td><td>Sincere repentance, praying, and resolving never to return to it</td></tr>\n</tbody>\n</table>\n<!--IMG:4-->\n<h3>Is someone who went to bed late without an alarm excused?</h3>\n<p>Scholars distinguish between someone who slept after taking the usual measures, such as setting an alarm or asking someone to wake him and going to bed at a reasonable time; he is excused if sleep overcomes him. But someone who stays up late without need until shortly before Fajr, takes no measure at all to wake up, and knows that he does not usually wake, is negligent and deserves blame, even though making up the prayer is obligatory on him in both cases. Whoever finds this happening repeatedly should take a hard look at himself, because the hadith says that the two prayers heaviest on the hypocrites are Fajr and Isha (Sahih al-Bukhari 657, Sahih Muslim 651).</p>\n\n<h2>How do I wake up for Fajr? Practical, tested tips</h2>\n<ol>\n<li><strong>Sleep early:</strong> the Prophet ﷺ disliked sleeping before Isha and talking after it (Sahih al-Bukhari 568, Sahih Muslim 647). Count back at least seven hours from Fajr.</li>\n<li><strong>Sleep in a state of wudu and with the bedtime adhkar:</strong> they help you sleep peacefully with a sincere intention. You will find them in <a href=\"/en/blog/sleep-adhkar/\">adhkar before sleeping</a>.</li>\n<li><strong>Make a firm intention before sleeping</strong> and ask Allah to wake you; a sincere intention is one of the greatest means.</li>\n<li><strong>Set more than one alarm:</strong> an adhan that works even when the app is closed, and another alarm five minutes after it.</li>\n<li><strong>Keep your phone away from the bed</strong> so you have to get up to turn it off, and do not leave it on full silent mode.</li>\n<li><strong>Arrange with a family member or friend</strong> to wake you or call you, following the example of appointing Bilal in the story.</li>\n<li><strong>When you wake, get up immediately:</strong> the hadith says that Shaytan ties three knots at the back of the sleeper's head; if he wakes and remembers Allah, one knot is undone; if he makes wudu, another is undone; and if he prays, all his knots are undone (Sahih al-Bukhari 1142, Sahih Muslim 776).</li>\n<li><strong>Go light on dinner and screens at night:</strong> heavy food and bright light before bed delay deep sleep.</li>\n<li><strong>Track yourself:</strong> record your Fajr prayer every day in the <a href=\"/en/blog/daily-worship-tracker/\">daily worship tracker</a>; seeing an unbroken streak motivates you to keep it up.</li>\n</ol>\n<!--IMG:3-->\n<p>Keep in mind that setting the alarm itself needs a correct Fajr time for your city. We explained why Fajr times differ between apps and mosques in <a href=\"/en/blog/prayer-times-calculation-methods/\">prayer times calculation methods</a>, and the details of the Fajr time itself in <a href=\"/en/blog/fajr-prayer-time/\">Fajr prayer time</a>.</p>\n\n<h2>The virtue of Fajr: what motivates you to guard it</h2>\n<ul>\n<li>The Prophet ﷺ said: \"Whoever prays the two cool prayers will enter Paradise.\" (Sahih al-Bukhari 574, Sahih Muslim 635) The two cool prayers are Fajr and Asr.</li>\n<li>And he ﷺ said: \"Whoever prays Subh is under the protection of Allah.\" (Sahih Muslim 657) That is, in His care and covenant for that day.</li>\n<li>And Allah says: ﴿إِنَّ قُرْآنَ الْفَجْرِ كَانَ مَشْهُودًا﴾ \"Indeed, the recitation of dawn is ever witnessed.\" (Surah Al-Isra 17:78, translation: Sahih International). It is witnessed by the angels of the night and the angels of the day.</li>\n</ul>\n<p>So whoever misses Fajr once through sleep should not despair or give in to the habit. He should make it up straight away and take a new measure the following night.</p>\n\n<h2>Summary of the rulings on making up Fajr</h2>\n<p>Whoever sleeps through Fajr prays it as soon as he wakes, even at sunrise according to the majority: he makes wudu, prays the sunnah of Fajr and then the fard aloud as usual, and he is not sinful if he was not negligent. This is based on the hadith \"Whoever forgets a prayer or sleeps through it, its expiation is to pray it when he remembers it\" in Sahih Muslim, and on what the Prophet ﷺ did when he slept through it on a journey. As for the one who delays it on purpose until its time ends, he must repent and also make it up according to the majority. What we have presented is a summary of the scholars' views. Anyone who has many missed prayers or a special situation, such as illness or night-shift work, should ask trusted scholars in his own country.</p>\n\n<!--CTA:rafiq-->\n",
+ "faq": [
+  {
+   "q": "I woke up after sunrise. Do I pray Fajr now or wait?",
+   "a": "Pray it now, as soon as you wake, according to the majority of scholars, because the Prophet ﷺ said \"its expiation is to pray it when he remembers it\" (Muslim), and in their view the forbidden time does not prevent a missed obligatory prayer. The Hanafis hold that you wait until the sun has risen, roughly a quarter of an hour after sunrise. The stronger view by evidence is to pray straight away."
+  },
+  {
+   "q": "Do I pray the sunnah of Fajr before making up the fard?",
+   "a": "Yes, it is sunnah to pray the two rak'ahs of the sunnah of Fajr and then the fard, as the Prophet ﷺ did when he slept through Fajr on a journey: he prayed two rak'ahs and then prayed Fajr as he did every day, as in Sahih Muslim from the hadith of Abu Qatadah (may Allah be pleased with him)."
+  },
+  {
+   "q": "Do I recite aloud when making up Fajr?",
+   "a": "Yes, it is sunnah to recite aloud when making up Fajr even if you pray it after sunrise, because the make-up prayer follows the form of the original, and when the Prophet ﷺ made it up on the journey he did just as he did every day. Someone praying alone may choose how loudly to recite, as long as it does not disturb others."
+  },
+  {
+   "q": "Am I sinful if I slept through Fajr?",
+   "a": "There is no sin on someone overcome by sleep who took the usual measures, such as sleeping early and setting an alarm, because the Prophet ﷺ said \"There is no negligence in sleep\" (Muslim). But someone who stays up without need and takes no measure while knowing he does not wake is negligent and deserves blame. Making up the prayer is obligatory in both cases."
+  },
+  {
+   "q": "If I delayed Fajr on purpose until the sun rose, do I make it up?",
+   "a": "Delaying the prayer beyond its time on purpose without an excuse is one of the major sins, and sincere repentance is obligatory. According to the majority of scholars, including the four schools, making it up is also obligatory with the repentance. Some scholars, such as Ibn Hazm and Ibn Taymiyyah, held that it is not valid as a make-up prayer and that one should increase voluntary prayers. The more cautious course is to make it up and repent."
+  },
+  {
+   "q": "Is the adhan called for a missed Fajr prayer?",
+   "a": "Yes, the adhan and iqamah are prescribed for a missed prayer. The Prophet ﷺ told Bilal to call the adhan when they slept through Fajr on a journey, as in Sahih al-Bukhari from the hadith of Abu Qatadah. For someone praying alone at home the iqamah is more emphasised, and there is no harm if he calls only the iqamah."
+  },
+  {
+   "q": "I missed Fajr and Dhuhr together because of illness. How do I make them up?",
+   "a": "Pray the missed prayers in order, Fajr then Dhuhr, without waiting for any particular time, then pray the current prayer if its time has begun. This is the view of the majority of scholars, unless the time of the current prayer is about to run out, in which case you pray it first. Anyone with many missed prayers or a particular medical situation should ask a scholar in his own country for the details."
+  }
+ ],
+ "internal_links": [
+  "prayer-times-calculation-methods",
+  "forbidden-prayer-times",
+  "fajr-prayer-time",
+  "sleep-adhkar",
+  "adhan-not-working-android",
+  "daily-worship-tracker"
+ ],
+ "sources": [
+  {
+   "title": "Sahih al-Bukhari 595 - Sunnah.com (the hadith of Abu Qatadah on sleeping through the prayer)",
+   "url": "https://sunnah.com/bukhari:595"
+  },
+  {
+   "title": "Sahih Muslim 684 - Sunnah.com (\"Whoever forgets a prayer or sleeps through it\")",
+   "url": "https://sunnah.com/muslim:684a"
+  },
+  {
+   "title": "Dorar.net: explanation of the hadith of Abu Qatadah on sleeping through the prayer (Bukhari 595, Muslim 681) (Arabic)",
+   "url": "https://dorar.net/hadith/sharh/14289"
+  },
+  {
+   "title": "Sahih Muslim, Book of Mosques and Places of Prayer (hadith 680, 681, 684) (Arabic)",
+   "url": "https://ar.wikisource.org/wiki/صحيح_مسلم/كتاب_المساجد_ومواضع_الصلاة"
+  },
+  {
+   "title": "Jami at-Tirmidhi 423 - Sunnah.com (making up the two rak'ahs of Fajr after sunrise)",
+   "url": "https://sunnah.com/tirmidhi:423"
+  },
+  {
+   "title": "Dorar.net: hadith of Qays ibn Amr on making up the sunnah of Fajr (Abu Dawud 1267) (Arabic)",
+   "url": "https://dorar.net/hadith/sharh/31003"
+  },
+  {
+   "title": "Surah Ta-Ha 20:14 - Quran.com",
+   "url": "https://quran.com/20/14"
+  },
+  {
+   "title": "Surah Al-Isra 17:78 - Quran.com",
+   "url": "https://quran.com/17/78"
+  }
+ ]
+}

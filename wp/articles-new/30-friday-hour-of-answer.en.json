@@ -1,0 +1,202 @@
+{
+ "number": 30,
+ "slug": "friday-hour-of-answer",
+ "category": "Friday",
+ "title": "The Hour of Acceptance on Friday: When Is It and How to Make Du'a",
+ "meta_title": "Hour of Acceptance on Friday: When Is It? | Farhoon",
+ "meta_description": "When is the hour of acceptance on Friday? The hadith in Bukhari and Muslim, the two strongest opinions with their evidence, and a plan to seek both times.",
+ "focus_keyword": "hour of acceptance on friday",
+ "keywords": [
+  {
+   "keyword": "hour of acceptance on friday",
+   "type": "primary",
+   "est_monthly_searches": "1,000–4,000 (estimated)",
+   "intent": "informational",
+   "kgr_note": "Medium; many short posts and fatwa pages, few compare both opinions with gradings, KGR above 1 (estimated)"
+  },
+  {
+   "keyword": "when is the hour of acceptance on friday",
+   "type": "question",
+   "est_monthly_searches": "500–2,000 (estimated)",
+   "intent": "informational",
+   "kgr_note": "Featured snippet opportunity with a two-row table (estimated)"
+  },
+  {
+   "keyword": "friday dua acceptance time",
+   "type": "secondary",
+   "est_monthly_searches": "500–2,000 (estimated)",
+   "intent": "informational",
+   "kgr_note": "Medium (estimated)"
+  },
+  {
+   "keyword": "last hour of friday after asr",
+   "type": "secondary",
+   "est_monthly_searches": "300–1,000 (estimated)",
+   "intent": "informational",
+   "kgr_note": "Medium (estimated)"
+  },
+  {
+   "keyword": "dua in the last hour of jummah",
+   "type": "long-tail",
+   "est_monthly_searches": "200–800 (estimated)",
+   "intent": "informational",
+   "kgr_note": "Easy to medium (estimated)"
+  },
+  {
+   "keyword": "hour of acceptance between the two khutbahs",
+   "type": "long-tail",
+   "est_monthly_searches": "50–200 (estimated)",
+   "intent": "informational",
+   "kgr_note": "Easy; low KGR likely (estimated)"
+  },
+  {
+   "keyword": "is the hour of acceptance after asr",
+   "type": "question",
+   "est_monthly_searches": "100–500 (estimated)",
+   "intent": "informational",
+   "kgr_note": "Easy to medium (estimated)"
+  },
+  {
+   "keyword": "scholars opinions on the hour of acceptance",
+   "type": "LSI",
+   "est_monthly_searches": "50–200 (estimated)",
+   "intent": "informational",
+   "kgr_note": "Easy (estimated)"
+  },
+  {
+   "keyword": "hour of acceptance friday for women at home",
+   "type": "long-tail",
+   "est_monthly_searches": "50–200 (estimated)",
+   "intent": "informational",
+   "kgr_note": "Easy (estimated)"
+  }
+ ],
+ "keyword_variations": [
+  "friday hour of acceptance",
+  "hour of acceptance jummah",
+  "hour of acceptance jumuah",
+  "friday hour of dua",
+  "accepted dua time on friday",
+  "best time for dua on friday",
+  "last hour of jummah",
+  "last hour before maghrib on friday",
+  "jumuah hour of dua",
+  "moment of acceptance on friday",
+  "hour of answered dua friday",
+  "friday dua time after asr"
+ ],
+ "featured_snippet": {
+  "target_query": "when is the hour of acceptance on friday",
+  "type": "table",
+  "html": "<table><thead><tr><th>Opinion</th><th>Time</th><th>Evidence</th></tr></thead><tbody><tr><td>First</td><td>From when the imam sits on the minbar until the prayer is finished</td><td>Hadith of Abu Musa, Sahih Muslim 853</td></tr><tr><td>Second</td><td>The last hour after Asr until sunset</td><td>Hadith of Jabir, Sunan Abi Dawud 1048 and Sunan an-Nasa'i 1389, graded sahih by al-Albani</td></tr></tbody></table>"
+ },
+ "excerpt": "When is the hour of acceptance on Friday? Its hadith in Bukhari and Muslim, the two strongest opinions (from the imam sitting until the prayer ends, and the last hour after Asr) with their evidence and grading, and a practical plan to seek both times.",
+ "reading_minutes": 9,
+ "featured_image": {
+  "headline": "The Hour of Acceptance on Friday",
+  "alt": "The hour of acceptance on Friday and its time, between the khutbah and the last hour after Asr"
+ },
+ "cta_text": "Rafiq Al-Taa, Farhoon's free ad-free app (Arabic interface), plays the Asr and Maghrib adhan on time even when the app is closed, reminding you of Friday's last hour. Coming soon to Google Play.",
+ "images": [
+  {
+   "file": "friday-hour-of-answer-cover-en.webp",
+   "alt": "Cover of the Farhoon guide to the hour of acceptance on Friday",
+   "caption": "",
+   "type": "cover",
+   "spec": "Farhoon background | Title: The Hour of Acceptance on Friday | Subtitle: When is it and how to make the most of it?"
+  },
+  {
+   "file": "friday-hour-two-opinions-table-en.webp",
+   "alt": "Table comparing the two strongest opinions on the hour of acceptance on Friday",
+   "caption": "The two strongest opinions on the hour of acceptance and their evidence",
+   "type": "table",
+   "spec": "Title: The two strongest opinions | Column 1: From the imam sitting until the prayer ends | Sahih Muslim 853 | Preferred by an-Nawawi | Column 2: The last hour after Asr | Abu Dawud 1048 and an-Nasa'i 1389, graded sahih by al-Albani | Preferred by Ahmad, Ishaq and Ibn al-Qayyim | Footer: The original hadith: al-Bukhari 935 and Muslim 852"
+  },
+  {
+   "file": "friday-hour-timeline-diagram-en.webp",
+   "alt": "Timeline of Friday showing the two times of the hour of acceptance at the khutbah and before Maghrib",
+   "caption": "Seek both times: the khutbah and prayer, and the last hour before Maghrib",
+   "type": "diagram",
+   "spec": "Friday: Fajr, Sunrise, Dhuhr/Jumu'ah, Asr, Maghrib | First time: from the imam sitting until the prayer ends | Second time: the last hour before Maghrib"
+  },
+  {
+   "file": "friday-hour-dua-checklist-en.webp",
+   "alt": "Checklist of du'a etiquette and steps to seek the hour of acceptance on Friday",
+   "caption": "Practical steps to seek the hour of acceptance",
+   "type": "steps",
+   "spec": "Title: How to seek the hour of acceptance | 1. Prepare your du'a list the night before | 2. Go early and listen to the khutbah | 3. Make du'a silently between the two khutbahs | 4. Lengthen du'a in sujud and before the salam | 5. Free yourself for du'a after Asr until Maghrib | 6. Begin with praise of Allah and salawat on the Prophet ﷺ, and do not be hasty"
+  }
+ ],
+ "content_html": "<p>The <strong>hour of acceptance on Friday</strong> is a short moment, established in Sahih al-Bukhari and Sahih Muslim, in which no Muslim asks Allah for something good without being given it. The two strongest opinions on when it falls are: from the moment the imam sits on the minbar until the prayer is finished, and the last hour after Asr until Maghrib. In this article you will find the hadith itself, the evidence for each opinion and its grading, what Ibn Hajar said about the many other opinions, and then a practical plan to make the most of both times.</p>\n\n<h2>When is the hour of acceptance on Friday?</h2>\n<div class=\"f-snippet\"><table><thead><tr><th>Opinion</th><th>Time</th><th>Evidence</th></tr></thead><tbody><tr><td>First</td><td>From when the imam sits on the minbar until the prayer is finished</td><td>Hadith of Abu Musa, Sahih Muslim 853</td></tr><tr><td>Second</td><td>The last hour after Asr until sunset</td><td>Hadith of Jabir, Sunan Abi Dawud 1048 and Sunan an-Nasa'i 1389, graded sahih by al-Albani</td></tr></tbody></table></div>\n<p>Many scholars reconciled the two opinions by advising the Muslim to seek both times: to make du'a (supplication) in ways that suit the khutbah (Friday sermon) and the prayer, and then to devote himself to du'a in the last hour of the day. We will explain this in detail after setting out the evidence.</p>\n\n<h2>What is the hadith of the hour of acceptance in Bukhari and Muslim?</h2>\n<p>Abu Hurairah (may Allah be pleased with him) reported that the Messenger of Allah ﷺ mentioned Friday and said:</p>\n<blockquote>\"There is an hour on it which no Muslim servant happens upon while he is standing in prayer, asking Allah the Exalted for something, except that He gives it to him.\" And he gestured with his hand to show how short it is. (Sahih al-Bukhari 935, Sahih Muslim 852)</blockquote>\n<p>In a narration in Muslim: \"And it is a brief hour.\" Several points can be drawn from the hadith:</p>\n<ul>\n<li><strong>It is short:</strong> the Prophet ﷺ gestured with his hand to show it was small, so the \"hour\" here is not necessarily sixty minutes; it is a few moments of the day.</li>\n<li><strong>The answer is general:</strong> \"asking Allah for something\" covers every good of this world and the Hereafter, as long as it is not a request for sin or for cutting family ties.</li>\n<li><strong>\"While he is standing in prayer\":</strong> some scholars took this to mean the actual prayer, so they held that the hour falls during the time of the prayer. Others took it to mean staying in place and waiting, because the one waiting for the prayer is counted as being in prayer. Those who said the hour is after Asr argued from this, as we will see.</li>\n<li><strong>It is hidden:</strong> the hadith does not fix its time, so scholars worked to identify it from other hadith.</li>\n</ul>\n<p>You can read an explanation of the hadith in the <a href=\"https://hadeethenc.com/ar/browse/hadith/65753\">Encyclopedia of Translated Prophetic Hadiths</a> (Arabic page).</p>\n\n<h2>First opinion: from when the imam sits until the prayer ends</h2>\n<p>Abu Burdah, the son of Abu Musa al-Ash'ari, said: Abdullah ibn Umar asked me, \"Did you hear your father narrate anything from the Messenger of Allah ﷺ about the hour of Friday?\" I said, \"Yes. I heard him say: I heard the Messenger of Allah ﷺ say:</p>\n<blockquote>\"It is between the time the imam sits down until the prayer is finished.\" (Sahih Muslim 853)</blockquote>\n<p>\"The imam sits\" means his sitting on the minbar before the khutbah, as Abu Dawud explained in his narration. On this opinion, the hour covers the second adhan, both khutbahs, the short sitting between them, and the Friday prayer up to the closing salam. A group of scholars held this opinion, among them Imam an-Nawawi.</p>\n<p>Some hadith masters questioned whether this hadith is really the Prophet's own words, and thought it more likely to be the words of Abu Burdah. Others replied that Imam Muslim included it in his Sahih as the Prophet's words, and that this is an addition from a reliable narrator that is accepted. Either way, this is a blessed time in which the Muslims gather to remember Allah.</p>\n<p>The clearest way to fulfil \"standing in prayer\" on this opinion is to make du'a in sujud (prostration) and after the final tashahhud before the salam, since these are places for du'a within the prayer.</p>\n\n<h2>Second opinion: the last hour after Asr</h2>\n<p>Jabir ibn Abdullah (may Allah be pleased with him and his father) reported that the Messenger of Allah ﷺ said:</p>\n<blockquote>\"Friday is twelve hours. There is no Muslim servant who asks Allah for something but He gives it to him, so seek it in the last hour after Asr.\" (Sunan Abi Dawud 1048 and Sunan an-Nasa'i 1389, graded sahih by al-Albani in Sahih Abi Dawud)</blockquote>\n<p>The twelve hours are the hours of daytime, so an \"hour\" here is one twelfth of the day, which grows longer or shorter with the seasons. If the day from Fajr to Maghrib is roughly twelve hours, the last hour is the one just before sunset.</p>\n<p>This opinion is supported by a report from Abdullah ibn Salam (may Allah be pleased with him), who told Abu Hurairah that it is the last hour of Friday. Abu Hurairah said: \"How can it be the last hour, when the Messenger of Allah ﷺ said, 'No Muslim servant happens upon it while praying', and that is a time in which no prayer is offered?\" Abdullah ibn Salam replied: \"Did the Messenger of Allah ﷺ not say, 'Whoever sits waiting for the prayer is in prayer until he prays'?\" (Narrated by Abu Dawud and at-Tirmidhi, graded sahih by al-Albani.) So he counted waiting for Maghrib as being in prayer.</p>\n<p>Many imams preferred this opinion, among them Imam Ahmad and Ishaq ibn Rahawayh. Imam Ahmad is reported to have said that most of the hadith about the hour in which du'a is hoped to be answered say it is after the Asr prayer. Ibn al-Qayyim also preferred it in \"Zad al-Ma'ad\", while saying that both times are times of acceptance.</p>\n<!--IMG:2-->\n\n<h2>How many opinions are there about the hour of acceptance?</h2>\n<p>Al-Hafiz Ibn Hajar al-Asqalani, in \"Fath al-Bari\", in his explanation of the chapter \"The hour that is on Friday\" in the Book of Jumu'ah, gathered the scholars' opinions on when it falls and counted around forty opinions or more. Besides the two above, they include:</p>\n<ul>\n<li>That it is at the break of dawn, or from dawn until sunrise.</li>\n<li>That it is when the sun passes its zenith, or at the adhan for the Friday prayer.</li>\n<li>That it is when the imam comes out, or when the iqamah for the prayer is called.</li>\n<li>That it is hidden somewhere in the whole day, like Laylat al-Qadr in the last ten nights.</li>\n<li>That it moves between the hours of the day and is not fixed to one time.</li>\n</ul>\n<p>Ibn Hajar then explained that the strongest of these are two: the hadith of Abu Musa about the time of the prayer, and the hadith of Abdullah ibn Salam and what carries its meaning about the end of the day, and he named scholars who preferred each one. Ibn al-Qayyim likewise noted that both opinions are contained in the established hadith. And <a href=\"https://www.dar-alifta.org/ar/fatwa/details/18060\">Egypt's Dar al-Ifta, in its fatwa on the hour of answered du'a on Friday</a> (Arabic), stated that the matter is one of scholarly difference, and that those who preferred one opinion did not declare the others wrong.</p>\n<h3>Why did Allah keep the hour of acceptance hidden?</h3>\n<p>Scholars mention that the wisdom in hiding it is like the wisdom in hiding Laylat al-Qadr: so that the Muslim strives through the whole day in dhikr (remembrance of Allah) and du'a, rather than limiting himself to one moment and then becoming heedless. Whoever seeks it in the two strongest times, and makes du'a throughout the rest of the day, has the best hope of meeting it.</p>\n\n<!--CTA:rafiq-->\n\n<p>Because the second opinion is tied to the times of Asr and Maghrib, knowing those times accurately in your city helps you free yourself before sunset. In <strong>Rafiq Al-Taa</strong>, a free, ad-free Islamic app by Farhoon (Arabic interface) that is coming soon to Google Play, prayer times are calculated on your phone using your country's method, and the adhan is played on time even when the app is closed, so the Asr adhan reminds you that the last hour of Friday is approaching. If you notice a difference between the app and your mosque, read <a href=\"/en/blog/prayer-times-calculation-methods/\">prayer times calculation methods</a>.</p>\n\n<h2>Does the hour of acceptance differ from country to country?</h2>\n<p>Yes. Every country has its own Friday, with its own times for the Friday prayer, Asr and Maghrib. If the hour is from the imam sitting until the prayer ends, what counts is the imam sitting in the place where you are. If it is the last hour after Asr, what counts is sunset in your own city, as explained in the fatwa from <a href=\"https://islamqa.info/ar/answers/114609\">IslamQA: does the hour of acceptance on Friday differ between countries</a> (Arabic). So a Muslim in London, Lahore or Toronto has no need to follow Makkah time; he seeks the hour by his own local times.</p>\n\n<h2>Comparing the two strongest opinions</h2>\n<table>\n<thead><tr><th>Point of comparison</th><th>From the imam sitting until the prayer ends</th><th>The last hour after Asr</th></tr></thead>\n<tbody>\n<tr><td>Evidence</td><td>Hadith of Abu Musa, Sahih Muslim 853</td><td>Hadith of Jabir, Abu Dawud 1048 and an-Nasa'i 1389, graded sahih by al-Albani</td></tr>\n<tr><td>Who preferred it</td><td>A group of scholars, including an-Nawawi</td><td>Ahmad and Ishaq, many other imams, and Ibn al-Qayyim</td></tr>\n<tr><td>Length</td><td>About 30 to 60 minutes, depending on the length of the khutbah</td><td>The last part of the day before sunset, roughly an hour</td></tr>\n<tr><td>How to make du'a</td><td>Silently in the sitting between the two khutbahs, in sujud, and before the salam, while listening to the khutbah</td><td>Freely: raise your hands, take your time and repeat, in the mosque or at home</td></tr>\n<tr><td>Caution</td><td>Do not talk or busy yourself with loud du'a during the khutbah</td><td>Do not let your phone or social gatherings take this time</td></tr>\n</tbody>\n</table>\n\n<h2>How to make the most of the hour of acceptance on Friday</h2>\n<p>Here is a plan that combines both opinions and works for men and women alike:</p>\n<ol>\n<li><strong>Prepare your du'a list the night before:</strong> write down what you want to ask Allah for yourself, your parents, your family and the Muslims, so the precious moments are not lost in thinking.</li>\n<li><strong>Go early to the Friday prayer:</strong> so your heart is present when the imam sits on the minbar, and pray two rak'ahs when you enter the mosque. We explained the ruling on these in <a href=\"/en/blog/tahiyyat-al-masjid-khutbah/\">praying tahiyyat al-masjid while the imam is giving the khutbah</a>.</li>\n<li><strong>Listen to the khutbah:</strong> listening in silence is obligatory, so do not talk or use your phone, and say \"Ameen\" to the khatib's du'a silently, within yourself.</li>\n<li><strong>Use the sitting between the two khutbahs:</strong> make whatever du'a you can silently; these are brief moments inside the hoped-for time.</li>\n<li><strong>Lengthen your du'a in sujud and before the salam:</strong> in your prostration and after the final tashahhud, ask for whatever you love of the good of this world and the Hereafter.</li>\n<li><strong>Free yourself after Asr:</strong> after the Asr prayer, and especially in the last hour before Maghrib, sit in your place of prayer or somewhere quiet, and increase your dhikr, your salawat (sending blessings) on the Prophet ﷺ and your du'a until the Maghrib adhan.</li>\n<li><strong>For women at home:</strong> a woman can seek the hour after Asr by sitting for du'a in her prayer place, and she can also seek the time of the Friday prayer in her city and make du'a then.</li>\n</ol>\n<!--IMG:3-->\n\n<h2>Etiquette of du'a in the hour of acceptance</h2>\n<p>The answer is a promise from Allah, but du'a has etiquette through which you hope for acceptance:</p>\n<ul>\n<li><strong>Begin by praising Allah and sending blessings on the Prophet ﷺ</strong>; sending abundant blessings on him on Friday is one of the sunnahs of this day.</li>\n<li><strong>Make du'a with certainty that it will be answered.</strong> Allah says: ﴿وَقَالَ رَبُّكُمُ ادْعُونِي أَسْتَجِبْ لَكُمْ﴾ \"And your Lord says, 'Call upon Me; I will respond to you.'\" (Surah Ghafir 40:60, translation: Sahih International).</li>\n<li><strong>Do not be hasty:</strong> the Prophet ﷺ said: \"The du'a of any of you is answered as long as he is not hasty and says: I made du'a but it was not answered for me.\" (Sahih al-Bukhari 6340, Sahih Muslim 2735)</li>\n<li><strong>Ask with resolve and repeat your request</strong>, and raise your hands outside the prayer and the khutbah.</li>\n<li><strong>Ask for the good of both worlds.</strong> One of the most comprehensive du'as is the verse: ﴿رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الْآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ﴾ <em>Rabbana atina fid-dunya hasanatan wa fil-akhirati hasanatan wa qina 'adhaban-nar</em>: \"Our Lord, give us in this world [that which is] good and in the Hereafter [that which is] good and protect us from the punishment of the Fire.\" (Surah Al-Baqarah 2:201, translation: Sahih International).</li>\n<li><strong>Pray for others</strong>: for your parents, your family and your fellow Muslims in their absence.</li>\n<li><strong>Avoid what blocks acceptance</strong>: such as unlawful earnings, and asking for sin or for cutting family ties.</li>\n</ul>\n<p>Know that an answer may come by being given what you asked for, by having some harm turned away from you, or by having the reward stored up for you in the Hereafter. So do not give up on du'a if what you asked for is delayed.</p>\n<!--IMG:4-->\n\n<h2>The hour of acceptance is part of your Friday routine</h2>\n<p>Seeking the hour of acceptance is completed by the other sunnahs of Friday: ghusl (full bath), perfume and going early, reciting Surah Al-Kahf, and sending abundant blessings on the Prophet ﷺ. We have gathered these in <a href=\"/en/blog/friday-sunnahs/\">the sunnahs of Jummah</a>, and explained in a separate article <a href=\"/en/blog/surat-al-kahf-friday/\">the virtue of reading Surah Al-Kahf on Friday</a> and its time. To build a habit of du'a every day of the week, give it a place in your <a href=\"/en/blog/morning-evening-adhkar-virtues/\">morning and evening adhkar</a>.</p>\n\n<h2>Summary</h2>\n<p>The hour of acceptance on Friday is established in Sahih al-Bukhari and Sahih Muslim. It is a brief hour in which no Muslim asks Allah for good without being given it. The two strongest opinions are: from when the imam sits on the minbar until the prayer is finished, as in Sahih Muslim, and the last hour after Asr, as in the hadith of Jabir graded sahih by al-Albani. Ibn Hajar mentioned many other opinions in Fath al-Bari. So combine both times: make du'a silently during the khutbah and the prayer, free yourself for du'a before Maghrib, and make plenty of du'a throughout the rest of your day. What we have presented is a summary of the scholars' views; for your own specific questions, it is best to ask the scholars in your country.</p>\n\n<!--CTA:rafiq-->\n",
+ "faq": [
+  {
+   "q": "When does the hour of acceptance on Friday begin and end?",
+   "a": "The hadith in Bukhari and Muslim does not fix it. The two strongest opinions are: from when the imam sits on the minbar until the Friday prayer is finished, as in the hadith of Abu Musa in Sahih Muslim, or the last hour after Asr until sunset, as in the hadith of Jabir in Abu Dawud and an-Nasa'i, graded sahih by al-Albani. The best approach is to seek both times."
+  },
+  {
+   "q": "Is the hour of acceptance a full sixty-minute hour?",
+   "a": "Not necessarily. In the hadith of Bukhari and Muslim, the Prophet ﷺ gestured with his hand to show it was short, and a narration in Muslim says \"it is a brief hour\". The \"twelve hours\" in the hadith of Jabir are parts of the daytime that grow longer or shorter with the seasons, so the last hour is the final part of the day before Maghrib."
+  },
+  {
+   "q": "Can I make du'a during the Friday khutbah to catch the hour of acceptance?",
+   "a": "Listening to the khutbah is obligatory, so a Muslim should not talk or raise his voice in du'a. But he may say Ameen to the khatib's du'a within himself, make du'a silently in the sitting between the two khutbahs, and lengthen his du'a in sujud and after the final tashahhud before the salam."
+  },
+  {
+   "q": "How can a woman at home seek the hour of acceptance?",
+   "a": "A woman can seek the last hour after Asr by sitting in her prayer place for dhikr and du'a until Maghrib, since this opinion is not tied to attending the khutbah. She can also seek the time of the Friday prayer in her city and make du'a then, and du'a throughout the rest of the day is good."
+  },
+  {
+   "q": "Does the hour of acceptance differ from one country to another?",
+   "a": "Yes, each country goes by its own times. On the opinion that it is from the imam sitting until the prayer ends, what counts is the Friday prayer where you live; on the opinion that it is the last hour after Asr, what counts is sunset where you live. There is no need to follow Makkah time or anywhere else."
+  },
+  {
+   "q": "How many scholarly opinions are there on the hour of acceptance?",
+   "a": "Al-Hafiz Ibn Hajar gathered them in Fath al-Bari and they reached around forty or more, including that it is at dawn, at the zenith, at the adhan, or hidden in the whole day. He then explained that the strongest are two: the time of the khutbah and prayer, and the last hour after Asr."
+  },
+  {
+   "q": "What should I ask for in the hour of acceptance on Friday?",
+   "a": "Ask for whatever you love of the good of this world and the Hereafter; no specific du'a has been reported for this hour. Begin by praising Allah and sending blessings on the Prophet ﷺ. One of the most comprehensive du'as is \"Rabbana atina fid-dunya hasanatan wa fil-akhirati hasanatan wa qina 'adhaban-nar\" (Al-Baqarah 2:201). Pray for your parents, your family and the Muslims too."
+  }
+ ],
+ "internal_links": [
+  "prayer-times-calculation-methods",
+  "tahiyyat-al-masjid-khutbah",
+  "friday-sunnahs",
+  "surat-al-kahf-friday",
+  "morning-evening-adhkar-virtues"
+ ],
+ "sources": [
+  {
+   "title": "HadeethEnc: hadith \"There is an hour on it which no Muslim servant happens upon\" (agreed upon) (Arabic)",
+   "url": "https://hadeethenc.com/ar/browse/hadith/65753"
+  },
+  {
+   "title": "HadeethEnc: hadith \"Friday is twelve hours\" (Abu Dawud and an-Nasa'i) (Arabic)",
+   "url": "https://hadeethenc.com/ar/browse/hadith/65755"
+  },
+  {
+   "title": "Sunan Abi Dawud 1048 - Sunnah.com",
+   "url": "https://sunnah.com/abudawud:1048"
+  },
+  {
+   "title": "Dorar.net: explanation of the hadith of Jabir on the last hour after Asr (Arabic)",
+   "url": "https://dorar.net/hadith/sharh/29662"
+  },
+  {
+   "title": "Dorar.net: Fiqh Encyclopedia, the hour of acceptance on Friday (Arabic)",
+   "url": "https://dorar.net/feqhia/1672"
+  },
+  {
+   "title": "Dar al-Ifta al-Misriyyah: determining the hour of answered du'a on Friday (Arabic)",
+   "url": "https://www.dar-alifta.org/ar/fatwa/details/18060"
+  },
+  {
+   "title": "IslamQA: Time of the Hour of Response on Friday",
+   "url": "https://islamqa.info/en/answers/112165"
+  },
+  {
+   "title": "IslamQA: does the hour of acceptance differ with the Friday times of different countries (Arabic)",
+   "url": "https://islamqa.info/ar/answers/114609"
+  }
+ ]
+}

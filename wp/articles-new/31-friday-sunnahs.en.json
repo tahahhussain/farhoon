@@ -1,0 +1,186 @@
+{
+ "number": 31,
+ "slug": "friday-sunnahs",
+ "category": "Friday",
+ "title": "Sunnahs of Jummah With Evidence: Full List and Printable Checklist",
+ "meta_title": "Sunnahs of Jummah: Full List With Evidence | Farhoon",
+ "meta_description": "The authentic sunnahs of Jummah with their hadith: ghusl, perfume, going early, Al-Kahf, salawat and silence, plus a printable checklist and common myths.",
+ "focus_keyword": "sunnahs of jummah",
+ "keywords": [
+  {
+   "keyword": "sunnahs of jummah",
+   "type": "primary",
+   "est_monthly_searches": "2,000–6,000 (estimated)",
+   "intent": "informational",
+   "kgr_note": "Medium to high; many list-style blogs rank but few give hadith numbers or flag what is not established, KGR above 1 (estimated). Our edge: references plus printable checklist"
+  },
+  {
+   "keyword": "sunnah of friday",
+   "type": "secondary",
+   "est_monthly_searches": "1,000–3,000 (estimated)",
+   "intent": "informational",
+   "kgr_note": "Medium (estimated)"
+  },
+  {
+   "keyword": "what are the sunnahs of jummah",
+   "type": "question",
+   "est_monthly_searches": "500–1,500 (estimated)",
+   "intent": "informational",
+   "kgr_note": "Featured snippet opportunity with a numbered list (estimated)"
+  },
+  {
+   "keyword": "friday etiquette in islam",
+   "type": "secondary",
+   "est_monthly_searches": "500–2,000 (estimated)",
+   "intent": "informational",
+   "kgr_note": "Medium (estimated)"
+  },
+  {
+   "keyword": "hadith whoever goes in the first hour it is as if he offered a camel",
+   "type": "long-tail",
+   "est_monthly_searches": "100–500 (estimated)",
+   "intent": "informational",
+   "kgr_note": "Easy; few exact-title pages, KGR around 0.25 (estimated)"
+  },
+  {
+   "keyword": "is ghusl on friday wajib",
+   "type": "question",
+   "est_monthly_searches": "300–1,000 (estimated)",
+   "intent": "informational",
+   "kgr_note": "Medium; many fatwa pages (estimated)"
+  },
+  {
+   "keyword": "jummah checklist",
+   "type": "long-tail",
+   "est_monthly_searches": "100–500 (estimated)",
+   "intent": "informational",
+   "kgr_note": "Easy; few pages offer a printable table, KGR likely under 0.25 (estimated)"
+  },
+  {
+   "keyword": "virtues of friday",
+   "type": "LSI",
+   "est_monthly_searches": "1,000–3,000 (estimated)",
+   "intent": "informational",
+   "kgr_note": "High; targeted indirectly only (estimated)"
+  }
+ ],
+ "keyword_variations": [
+  "sunnahs of jumuah",
+  "sunnah of jummah",
+  "jummah sunnahs",
+  "friday sunnahs",
+  "sunnahs of friday in order",
+  "sunnah acts on friday",
+  "what to do on jummah",
+  "things to do on friday in islam",
+  "jumuah etiquette",
+  "adab of jummah",
+  "friday sunnah for women",
+  "sunnah of jumu'ah"
+ ],
+ "featured_snippet": {
+  "target_query": "what are the sunnahs of jummah",
+  "type": "list",
+  "html": "<ol>\n<li>Take a ghusl (full bath), use perfume and the miswak, and wear your best clothes.</li>\n<li>Set out early for the mosque, on foot if you can, and sit close to the imam.</li>\n<li>Pray whatever voluntary prayers you can before the imam comes out.</li>\n<li>Listen to the khutbah in silence: no talking and no stepping over people.</li>\n<li>Send abundant blessings (salawat) on the Prophet ﷺ.</li>\n<li>Recite Surah Al-Kahf.</li>\n<li>Seek the hour of answered du'a.</li>\n<li>For the imam: recite As-Sajdah and Al-Insan in Fajr on Friday.</li>\n</ol>"
+ },
+ "excerpt": "An ordered list of the authentic sunnahs of Jummah with their evidence from Bukhari, Muslim and the Sunan, a printable checklist, and a note on things people think are sunnah but are not established.",
+ "reading_minutes": 11,
+ "featured_image": {
+  "headline": "Sunnahs of Jummah",
+  "alt": "The authentic sunnahs of Jummah with evidence, in a list and a printable checklist"
+ },
+ "cta_text": "Read Surah Al-Kahf on Friday from the Madinah Mushaf offline in Rafiq Al-Taa, Farhoon's free ad-free app (Arabic interface), and count your salawat on its tasbih counter. Coming soon to Google Play.",
+ "images": [
+  {
+   "file": "friday-sunnahs-cover-en.webp",
+   "alt": "Cover of the Farhoon guide to the sunnahs of Jummah",
+   "caption": "",
+   "type": "cover",
+   "spec": "Title: Sunnahs of Jummah | Subtitle: An authentic list with evidence and a printable checklist"
+  },
+  {
+   "file": "friday-early-arrival-hours-reward-en.webp",
+   "alt": "Infographic of the reward for going early to Jummah across the five hours, from a camel to an egg",
+   "caption": "The reward for going early to Jummah, as in Sahih al-Bukhari 881 and Sahih Muslim 850",
+   "type": "infographic",
+   "spec": "1st hour = a camel (badanah) | 2nd hour = a cow | 3rd hour = a horned ram | 4th hour = a hen | 5th hour = an egg | The imam ascends the minbar = the angels fold up their scrolls | Narrated by al-Bukhari 881 and Muslim 850"
+  },
+  {
+   "file": "friday-sunnahs-printable-checklist-en.webp",
+   "alt": "Printable checklist of the sunnahs of Jummah with tick boxes",
+   "caption": "Save the checklist on your phone or print it",
+   "type": "table",
+   "spec": "Title: Sunnahs of Jummah checklist | ☐ Surah Al-Kahf | ☐ Salawat on the Prophet ﷺ | ☐ As-Sajdah and Al-Insan in Fajr | ☐ Ghusl, miswak and perfume | ☐ Best clothes | ☐ Go early on foot | ☐ Pray before the imam comes out | ☐ Listen silently to the khutbah | ☐ Sunnah prayer after Jummah | ☐ Du'a in the hour of answer"
+  },
+  {
+   "file": "friday-morning-plan-steps-en.webp",
+   "alt": "Steps of a Friday morning plan from Thursday night to after Asr",
+   "caption": "",
+   "type": "steps",
+   "spec": "Thursday night: Al-Kahf and salawat on the Prophet ﷺ | After Fajr: morning adhkar and get your clothes ready | Before leaving: ghusl, miswak and perfume | Walk to the mosque and sit near the imam | Listen silently to the khutbah | After Asr: du'a in the hour of answer"
+  }
+ ],
+ "content_html": "<p>The <strong>sunnahs of Jummah</strong> that are established by authentic hadith are: taking a ghusl, wearing perfume and your best clothes, going early to the mosque, listening silently to the khutbah (Friday sermon), sending abundant blessings on the Prophet ﷺ, reciting Surah Al-Kahf, seeking the hour when du'a is answered, and reciting Surahs As-Sajdah and Al-Insan in the Fajr prayer. Below you will find each one with its evidence, a printable checklist, and a list of popular practices that are not established.</p>\n<p>Friday is the weekly Eid of the Muslims, and about it Allah revealed: ﴿يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا نُودِيَ لِلصَّلَاةِ مِن يَوْمِ الْجُمُعَةِ فَاسْعَوْا إِلَىٰ ذِكْرِ اللَّهِ وَذَرُوا الْبَيْعَ ۚ ذَٰلِكُمْ خَيْرٌ لَّكُمْ إِن كُنتُمْ تَعْلَمُونَ﴾ \"O you who have believed, when [the adhān] is called for the prayer on the day of Jumuʿah [Friday], then proceed to the remembrance of Allāh and leave trade. That is better for you, if you only knew.\" (Surah Al-Jumu'ah 62:9, translation: Sahih International).</p>\n\n<h2>What are the sunnahs of Jummah?</h2>\n<div class=\"f-snippet\"><ol>\n<li>Take a ghusl (full bath), use perfume and the miswak, and wear your best clothes.</li>\n<li>Set out early for the mosque, on foot if you can, and sit close to the imam.</li>\n<li>Pray whatever voluntary prayers you can before the imam comes out.</li>\n<li>Listen to the khutbah in silence: no talking and no stepping over people.</li>\n<li>Send abundant blessings (salawat) on the Prophet ﷺ.</li>\n<li>Recite Surah Al-Kahf.</li>\n<li>Seek the hour of answered du'a.</li>\n<li>For the imam: recite As-Sajdah and Al-Insan in Fajr on Friday.</li>\n</ol></div>\n<p>Each is explained below with its proof. Keep in mind that the Friday prayer itself is a personal obligation (fard 'ayn) on every adult, sane, resident man who has no valid excuse. Everything on this list, however, is sunnah: you are rewarded for doing it and not sinful for leaving it, except where there is an explicit prohibition, such as talking during the khutbah.</p>\n\n<h2>Sunnah 1: Ghusl, perfume and the miswak</h2>\n<p>The bath is the first and most emphasised sunnah of Friday. The Prophet ﷺ said:</p>\n<blockquote>\"Ghusl on Friday is obligatory (wajib) upon every person who has reached puberty.\" (Sahih al-Bukhari 879, Sahih Muslim 846)</blockquote>\n<p>The majority of scholars hold that the Friday ghusl is a <strong>strongly emphasised sunnah</strong> (sunnah mu'akkadah), and that \"wajib\" here means \"strongly recommended\", based on other hadith showing that wudu alone is valid. Some scholars, however, hold that it is obligatory, so the cautious approach is never to leave it when you are able to do it.</p>\n<p>The hadith of Salman al-Farisi (may Allah be pleased with him) gathers several sunnahs together. The Prophet ﷺ said:</p>\n<blockquote>\"No man bathes on Friday, purifies himself as much as he can, puts on oil or touches some of the perfume of his house, then goes out and does not separate two people, then prays what has been written for him, then listens in silence when the imam speaks, except that he is forgiven what is between that Friday and the next.\" (Sahih al-Bukhari 883)</blockquote>\n<p>This one hadith contains six sunnahs. The hadith of Abu Sa'id al-Khudri (may Allah be pleased with him), in both Sahih collections, also mentions the miswak (tooth-stick) and perfume along with the bath (Sahih al-Bukhari 880, Sahih Muslim 846).</p>\n<h3>When does the time for the Friday ghusl begin?</h3>\n<p>According to the majority of jurists, it begins at dawn (Fajr) on Friday. It is best taken close to the time you leave, since the purpose is cleanliness at the gathering. A bath taken on Thursday night does not count as the Friday ghusl according to the majority.</p>\n\n<h2>Sunnah 2: Wearing your best clothes</h2>\n<p>It is recommended to wear the best clothes you have on Friday. The Prophet ﷺ said:</p>\n<blockquote>\"What harm would it do any of you, if he can afford it, to keep two garments for Friday other than his two work garments?\" (Sunan Abi Dawud 1078, graded sahih by al-Albani)</blockquote>\n<p>The \"work garments\" are your everyday working clothes. The aim is clean, decent clothes that suit a gathering, without extravagance; if you have only one outfit, wash it and wear it.</p>\n\n<h2>Sunnah 3: Going early to Jummah, on foot</h2>\n<p>Going early carries one of the greatest rewards of the day, yet it is the most neglected. Abu Hurayrah (may Allah be pleased with him) reported that the Messenger of Allah ﷺ said:</p>\n<blockquote>\"Whoever takes a bath on Friday like the bath for janabah and then goes [to the prayer] in the first hour, it is as if he offered a camel. Whoever goes in the second hour, it is as if he offered a cow. Whoever goes in the third hour, it is as if he offered a horned ram. Whoever goes in the fourth hour, it is as if he offered a hen. Whoever goes in the fifth hour, it is as if he offered an egg. Then when the imam comes out, the angels come to listen to the remembrance.\" (Sahih al-Bukhari 881, Sahih Muslim 850)</blockquote>\n<p>The camel (badanah) here is a camel offered as a sacrifice at the Sacred Mosque. \"The angels come to listen to the remembrance\" means that the angels who record those who arrive fold up their scrolls when the imam ascends the minbar. Whoever comes after that misses the reward of coming early, even if he catches the prayer.</p>\n<!--IMG:2-->\n<h3>When do the \"hours\" of coming early begin?</h3>\n<p>Scholars differ on when these five hours start. The majority say they begin at the start of the day (from dawn or sunrise, with a difference among them), dividing the time until the imam enters into five parts. The Malikis hold that they are short moments after the sun passes its zenith. Following the majority is safer: the earlier, the better.</p>\n<h3>Walking and sitting close to the imam</h3>\n<p>The reward for coming early is multiplied further by what Aws ibn Aws ath-Thaqafi (may Allah be pleased with him) reported from the Prophet ﷺ:</p>\n<blockquote>\"Whoever washes and bathes on Friday, sets out early and arrives early, walks and does not ride, sits close to the imam, listens and does not engage in idle talk, will have for every step the reward of a year's deeds: the reward of its fasting and its night prayer.\" (Sunan Abi Dawud 345, graded sahih by al-Albani)</blockquote>\n<p>So if the mosque is near you, walk. If you need to drive, drive and then walk whatever part you can. Sit close to the imam if there is space, without stepping over people.</p>\n\n<!--CTA:rafiq-->\n\n<p><strong>Rafiq Al-Taa</strong>, Farhoon's free Arabic-language app (coming soon to Google Play), calculates prayer times on your phone using your country's method, and its adhan works like an alarm even when the app is closed, so you can plan to leave in good time.</p>\n\n<h2>Sunnah 4: Sending abundant blessings on the Prophet ﷺ</h2>\n<p>The Prophet ﷺ specifically told us to send many blessings on him on Friday. Aws ibn Aws (may Allah be pleased with him) reported that the Messenger of Allah ﷺ said:</p>\n<blockquote>\"Among the best of your days is Friday. On it Adam was created, on it he was taken, on it the Trumpet will be blown, and on it the swoon will happen. So send abundant blessings upon me on it, for your blessings are presented to me.\" (Sunan Abi Dawud 1047; al-Albani said: its chain is sahih)</blockquote>\n<p>No specific number is set: the instruction is simply to do it a lot. The most complete wording is the Ibrahimic salawat recited in the tashahhud:</p>\n<blockquote>«اللهم صلِّ على محمد وعلى آل محمد كما صليت على إبراهيم وعلى آل إبراهيم إنك حميد مجيد، اللهم بارك على محمد وعلى آل محمد كما باركت على إبراهيم وعلى آل إبراهيم إنك حميد مجيد»<br><em>Allahumma salli 'ala Muhammad wa 'ala ali Muhammad, kama sallayta 'ala Ibrahim wa 'ala ali Ibrahim, innaka Hamidun Majid. Allahumma barik 'ala Muhammad wa 'ala ali Muhammad, kama barakta 'ala Ibrahim wa 'ala ali Ibrahim, innaka Hamidun Majid.</em><br>Meaning: \"O Allah, send prayers upon Muhammad and upon the family of Muhammad, as You sent prayers upon Ibrahim and the family of Ibrahim; You are Praiseworthy, Glorious. O Allah, bless Muhammad and the family of Muhammad, as You blessed Ibrahim and the family of Ibrahim; You are Praiseworthy, Glorious.\"</blockquote>\n<p>The short form «اللهم صلِّ وسلم على نبينا محمد» (<em>Allahumma salli wa sallim 'ala nabiyyina Muhammad</em>, \"O Allah, send prayers and peace upon our Prophet Muhammad\") is also sufficient. You can count a set portion on a tasbih counter while waiting in the mosque or after Asr.</p>\n\n<h2>Sunnah 5: Reciting Surah Al-Kahf</h2>\n<p>On the virtue of reciting Surah Al-Kahf on Friday there is the hadith of Abu Sa'id al-Khudri (may Allah be pleased with him), attributed to the Prophet ﷺ: \"Whoever recites Surah Al-Kahf on Friday, a light will shine for him between the two Fridays.\" It was narrated by al-Hakim and al-Bayhaqi, and al-Albani graded it sahih in Sahih al-Jami' 6470. According to many scholars, its time runs from sunset on Thursday until sunset on Friday. See our article on <a href=\"/en/blog/surat-al-kahf-friday/\">reading Surah Al-Kahf on Friday</a>.</p>\n\n<h2>Sunnah 6: Seeking the hour of answered du'a</h2>\n<p>There is an hour on Friday in which du'a is answered. The Prophet ﷺ said about Friday: \"In it there is an hour; no Muslim servant coincides with it while standing in prayer, asking Allah for something, except that He gives it to him,\" and he gestured with his hand to show how short it is. (Sahih al-Bukhari 935, Sahih Muslim 852). The two best-known opinions on its time are: from when the imam sits on the minbar until the prayer ends, or the last hour after Asr. We cover the opinions and the best du'as in our article on <a href=\"/en/blog/friday-hour-of-answer/\">the hour of answered du'a on Friday</a>.</p>\n\n<h2>Sunnah 7: Listening to the khutbah and its etiquette</h2>\n<p>Listening in silence to the khutbah is obligatory, and talking during it takes away the reward of Jummah. The Prophet ﷺ said:</p>\n<blockquote>\"If you say to your companion on Friday, 'Be quiet,' while the imam is giving the khutbah, you have engaged in idle talk (laghw).\" (Sahih al-Bukhari 934, Sahih Muslim 851)</blockquote>\n<p>If saying \"be quiet\", which is itself enjoining good, counts as idle talk, other talk is even more clearly forbidden, and fiddling with your phone is included. Other etiquette:</p>\n<ul>\n<li><strong>Not stepping over people's necks:</strong> the Prophet ﷺ saw a man stepping over people while he was giving the khutbah and said to him: \"Sit down, for you have caused harm.\" (Sunan Abi Dawud 1118, graded sahih by al-Albani)</li>\n<li><strong>Not separating two people,</strong> as in the hadith of Salman above.</li>\n<li><strong>Praying two short rak'ahs if you enter while the imam is speaking.</strong> We explain this ruling in detail in our article on <a href=\"/en/blog/tahiyyat-al-masjid-khutbah/\">tahiyyat al-masjid during the khutbah</a>.</li>\n<li><strong>Praying before the imam comes out, with no fixed number,</strong> based on the words \"then prays what has been written for him\" in the hadith of Salman.</li>\n</ul>\n\n<h2>Sunnah 8: What is recited in Fajr and in the Friday prayer</h2>\n<p>One sunnah specific to the imam, and to anyone praying alone, is reciting Surah As-Sajdah in the first rak'ah of Fajr on Friday and Surah Al-Insan in the second. Abu Hurayrah (may Allah be pleased with him) said: \"On Friday, in the Fajr prayer, the Prophet ﷺ used to recite ﴿الم ۝ تَنزِيلُ﴾ (As-Sajdah) and ﴿هَلْ أَتَىٰ عَلَى الْإِنسَانِ﴾ (Al-Insan).\" (Sahih al-Bukhari 891, Sahih Muslim 880)</p>\n<p>In the Friday prayer itself, it is authentically reported that the Prophet ﷺ recited Surahs Al-Jumu'ah and Al-Munafiqun (Sahih Muslim 877), and also that he recited Surahs Al-A'la and Al-Ghashiyah (Sahih Muslim 878).</p>\n<h3>The sunnah prayer after Jummah</h3>\n<p>According to the correct view, there is no fixed sunnah prayer before Jummah, but you may pray as much as you like before the imam comes out. After it, the Prophet ﷺ said: \"When one of you prays Jumu'ah, let him pray four [rak'ahs] after it.\" (Sahih Muslim 881). It is also authentically reported that he ﷺ used to pray two rak'ahs at home after Jummah (Sahih al-Bukhari 937, Sahih Muslim 882). So if you pray in the mosque, pray four; if you pray at home, two or four.</p>\n\n<h2>Printable checklist of Friday sunnahs</h2>\n<p>Print this table or save it on your phone, and tick each sunnah as you do it:</p>\n<table>\n<thead><tr><th>When</th><th>Sunnah</th><th>Evidence</th><th>Done</th></tr></thead>\n<tbody>\n<tr><td>Thursday night and Friday</td><td>Recite Surah Al-Kahf</td><td>Sahih al-Jami' 6470</td><td>☐</td></tr>\n<tr><td>Thursday night and Friday</td><td>Send abundant blessings on the Prophet ﷺ</td><td>Abu Dawud 1047</td><td>☐</td></tr>\n<tr><td>Fajr prayer</td><td>Recite As-Sajdah and Al-Insan (imam and those praying alone)</td><td>Bukhari 891, Muslim 880</td><td>☐</td></tr>\n<tr><td>Before leaving</td><td>Ghusl, miswak and perfume</td><td>Bukhari 879, 880 and 883</td><td>☐</td></tr>\n<tr><td>Before leaving</td><td>Wear your best clothes</td><td>Abu Dawud 1078</td><td>☐</td></tr>\n<tr><td>Going</td><td>Go early, walk, sit close to the imam</td><td>Bukhari 881, Abu Dawud 345</td><td>☐</td></tr>\n<tr><td>In the mosque</td><td>Pray before the imam comes out; do not step over people</td><td>Bukhari 883, Abu Dawud 1118</td><td>☐</td></tr>\n<tr><td>During the khutbah</td><td>Listen in silence; no talking or fidgeting</td><td>Bukhari 934, Muslim 851</td><td>☐</td></tr>\n<tr><td>After the prayer</td><td>Four rak'ahs in the mosque or two at home</td><td>Muslim 881 and 882</td><td>☐</td></tr>\n<tr><td>All day, especially the last hour after Asr</td><td>Seek the hour of answered du'a</td><td>Bukhari 935, Muslim 852</td><td>☐</td></tr>\n</tbody>\n</table>\n<!--IMG:3-->\n\n<h2>Things people think are Friday sunnahs but are not established</h2>\n<p>Following the Sunnah also means knowing what is not established:</p>\n<ul>\n<li><strong>Fasting Friday on its own:</strong> this is prohibited. The Prophet ﷺ said: \"None of you should fast on Friday unless he fasts a day before it or a day after it.\" (Sahih al-Bukhari 1985, Sahih Muslim 1144). If you fast Thursday or Saturday with it, or it falls on a day you would fast anyway, such as the Day of Arafah, there is no harm.</li>\n<li><strong>Singling out Friday night for night prayer:</strong> this was forbidden in the hadith in Sahih Muslim 1144: \"Do not single out the night of Friday for night prayer among the other nights.\"</li>\n<li><strong>A fixed sunnah prayer before Jummah with a set number of rak'ahs:</strong> not established according to the correct view. What is prescribed is general voluntary prayer before the imam comes out.</li>\n<li><strong>Hadith about the virtue of other surahs on Friday night:</strong> such as \"Whoever recites Ha-Mim Ad-Dukhan on Friday night will be forgiven\", narrated by at-Tirmidhi and graded weak by hadith scholars.</li>\n<li><strong>Clipping the nails on Friday for a special virtue:</strong> the hadith attributed to the Prophet ﷺ that single it out are weak. It is allowed on any day, including Friday, as part of cleanliness.</li>\n<li><strong>\"Jummah Mubarak\" messages as a sunnah:</strong> neither the Prophet ﷺ nor the Companions are reported to have kept a special Friday greeting. Some scholars considered it permissible occasionally, as a kind of good du'a, but it should not be turned into a weekly ritual treated as sunnah.</li>\n</ul>\n\n<h2>Do the Friday sunnahs apply to women too?</h2>\n<p>The Friday prayer is not obligatory for women, but if a woman attends it, it counts in place of Dhuhr. Most of the day's sunnahs apply to men and women alike: sending abundant blessings on the Prophet ﷺ, reciting Surah Al-Kahf, seeking the hour of answered du'a, and not fasting Friday on its own. The ghusl, going early and perfume are tied to attending the prayer. A woman going out to the mosque does not wear perfume, because the Prophet ﷺ forbade that. A woman who does not attend Jummah prays four rak'ahs of Dhuhr at home.</p>\n\n<h2>A practical plan for Friday morning</h2>\n<ol>\n<li>Thursday night: start reciting Surah Al-Kahf, or part of it, and send many blessings on the Prophet ﷺ.</li>\n<li>After Fajr: finish Al-Kahf and your morning adhkar, and get your clothes and perfume ready.</li>\n<li>Well before leaving: take your ghusl, use the miswak and put on perfume.</li>\n<li>Walk to the mosque if you can, sit close to the imam, and pray what you are able to.</li>\n<li>Keep busy with dhikr, Quran and salawat until the imam ascends the minbar, then listen in silence.</li>\n<li>After the prayer: pray the sunnah after Jummah, then make plenty of du'a in the last hour after Asr.</li>\n</ol>\n<!--IMG:4-->\n<p>To make these a habit, add one new sunnah each week, as we explain in our <a href=\"/en/blog/daily-worship-tracker/\">daily worship tracker</a> guide. To check the hadith mentioned here and their gradings, you can refer to <a href=\"https://dorar.net/hadith\">the Hadith Encyclopedia at Dorar.net (Arabic)</a> or to <a href=\"https://sunnah.com/\">Sunnah.com</a>.</p>\n\n<!--CTA:rafiq-->\n\n<p>In short: the sunnahs of Jummah begin on Thursday night with Surah Al-Kahf and salawat on the Prophet ﷺ, continue with the ghusl, perfume, best clothes and walking early to the mosque, then listening silently to the khutbah, and end with du'a in the hour of answer. This is the view of the majority of scholars, with the main differences noted. For a particular situation, ask the scholars in your own country.</p>\n",
+ "faq": [
+  {
+   "q": "What are the most important sunnahs of Jummah?",
+   "a": "The main established sunnahs of Friday are: ghusl, perfume and the miswak, wearing your best clothes, going early to the mosque on foot, sitting close to the imam, listening silently to the khutbah, sending abundant blessings on the Prophet ﷺ, reciting Surah Al-Kahf, seeking the hour of answered du'a, and, for the imam, reciting As-Sajdah and Al-Insan in Fajr on Friday."
+  },
+  {
+   "q": "Is ghusl on Friday wajib or sunnah?",
+   "a": "The majority of scholars hold that the Friday ghusl is a strongly emphasised sunnah, and they understood the hadith \"Ghusl on Friday is obligatory upon every person who has reached puberty\" as stressing its recommendation. Some scholars held it to be obligatory, so the cautious approach is not to leave it when you are able. Its time begins at dawn on Friday."
+  },
+  {
+   "q": "What does the hadith \"whoever goes in the first hour, it is as if he offered a camel\" mean?",
+   "a": "It means that whoever bathes on Friday and then goes to the mosque in the first hour has the reward of someone who offered a camel; in the second hour, a cow; in the third, a horned ram; in the fourth, a hen; and in the fifth, an egg. When the imam ascends the minbar, the angels fold up their scrolls. Narrated by al-Bukhari 881 and Muslim 850."
+  },
+  {
+   "q": "Can I fast on Friday?",
+   "a": "It is disliked to single out Friday for fasting, because the Prophet ﷺ said: \"None of you should fast on Friday unless he fasts a day before it or a day after it\" (al-Bukhari 1985, Muslim 1144). If you fast Thursday or Saturday with it, or it coincides with a fast you would keep anyway, such as the Day of Arafah or a make-up fast, there is no harm."
+  },
+  {
+   "q": "Is there a sunnah prayer before Jummah?",
+   "a": "The correct view is that there is no fixed sunnah prayer before Jummah with a set number of rak'ahs, but it is recommended to pray whatever voluntary prayers you can before the imam comes out, because of the words \"then prays what has been written for him\" in the hadith of Salman. After Jummah, pray four rak'ahs in the mosque or two at home."
+  },
+  {
+   "q": "Does talking during the Friday khutbah invalidate the prayer?",
+   "a": "Talking during the khutbah does not invalidate the prayer, but it is forbidden and takes away or reduces the reward of Jummah, because the Prophet ﷺ said: \"If you say to your companion on Friday 'Be quiet' while the imam is giving the khutbah, you have engaged in idle talk\" (al-Bukhari and Muslim). Fiddling with your phone is included. Speaking to the imam for a need is allowed."
+  }
+ ],
+ "internal_links": [
+  "surat-al-kahf-friday",
+  "friday-hour-of-answer",
+  "tahiyyat-al-masjid-khutbah",
+  "daily-worship-tracker"
+ ],
+ "sources": [
+  {
+   "title": "Sahih al-Bukhari 881 - Sunnah.com",
+   "url": "https://sunnah.com/bukhari:881"
+  },
+  {
+   "title": "Sunan Abi Dawud 1047 - Sunnah.com",
+   "url": "https://sunnah.com/abudawud:1047"
+  },
+  {
+   "title": "Sunan Abi Dawud 1078 - Sunnah.com",
+   "url": "https://sunnah.com/abudawud:1078"
+  },
+  {
+   "title": "Dorar.net: explanation of the hadith of Aws ibn Aws on going early (Arabic)",
+   "url": "https://dorar.net/hadith/sharh/30343"
+  },
+  {
+   "title": "Dorar.net: explanation of the hadith on reciting Surah Al-Kahf on Friday (Arabic)",
+   "url": "https://dorar.net/hadith/sharh/146478"
+  },
+  {
+   "title": "Hadith Encyclopedia - Dorar.net (Arabic)",
+   "url": "https://dorar.net/hadith"
+  },
+  {
+   "title": "Surah Al-Jumu'ah 62:9 - Quran.com",
+   "url": "https://quran.com/62/9"
+  }
+ ]
+}

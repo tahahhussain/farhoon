@@ -1,0 +1,212 @@
+{
+ "number": 15,
+ "slug": "adhan-not-working-android",
+ "category": "Islamic Apps",
+ "title": "Adhan Not Working on Android? A Step-by-Step Fix",
+ "meta_title": "Adhan Not Working on Android? Step-by-Step Fix | Farhoon",
+ "meta_description": "Adhan not working on Android? A practical fix: notification and alarm permissions, battery optimisation, and Samsung, Xiaomi, Oppo, Vivo, Huawei settings.",
+ "focus_keyword": "adhan not working android",
+ "keywords": [
+  {
+   "keyword": "adhan not working android",
+   "type": "primary",
+   "est_monthly_searches": "300–1,000 (estimated)",
+   "intent": "informational",
+   "kgr_note": "Easy to medium; most results are forums or one app's help page without steps per brand (estimated)"
+  },
+  {
+   "keyword": "azan notification not working",
+   "type": "secondary",
+   "est_monthly_searches": "300–1,000 (estimated)",
+   "intent": "informational",
+   "kgr_note": "Easy; few pages explain the Android 12–14 permissions (estimated)"
+  },
+  {
+   "keyword": "adhan not working when app is closed",
+   "type": "long-tail",
+   "est_monthly_searches": "50–300 (estimated)",
+   "intent": "informational",
+   "kgr_note": "Easy; KGR usually low (estimated)"
+  },
+  {
+   "keyword": "why is my adhan app not working",
+   "type": "question",
+   "est_monthly_searches": "100–400 (estimated)",
+   "intent": "informational",
+   "kgr_note": "Easy (estimated)"
+  },
+  {
+   "keyword": "athan not working samsung",
+   "type": "long-tail",
+   "est_monthly_searches": "100–400 (estimated)",
+   "intent": "informational",
+   "kgr_note": "Easy; specific app help pages compete (estimated)"
+  },
+  {
+   "keyword": "adhan not working xiaomi",
+   "type": "long-tail",
+   "est_monthly_searches": "50–300 (estimated)",
+   "intent": "informational",
+   "kgr_note": "Easy (estimated)"
+  },
+  {
+   "keyword": "alarms and reminders permission android",
+   "type": "LSI",
+   "est_monthly_searches": "500–1,500 (estimated)",
+   "intent": "informational",
+   "kgr_note": "Medium; general, not specific to the adhan (estimated)"
+  },
+  {
+   "keyword": "adhan notification no sound",
+   "type": "question",
+   "est_monthly_searches": "50–200 (estimated)",
+   "intent": "informational",
+   "kgr_note": "Easy (estimated)"
+  },
+  {
+   "keyword": "adhan stops after phone restart",
+   "type": "long-tail",
+   "est_monthly_searches": "20–100 (estimated)",
+   "intent": "informational",
+   "kgr_note": "Very easy; almost no pages answer it (estimated)"
+  }
+ ],
+ "keyword_variations": [
+  "adhan not working on android",
+  "azan not working android",
+  "athan not working",
+  "azan app not working",
+  "adhan notification not working",
+  "prayer app notification not working",
+  "azan alarm not working",
+  "adhan no sound",
+  "azan notification not showing",
+  "adhan not working when screen is locked",
+  "athan not working samsung",
+  "azan not working xiaomi",
+  "adhan not working oppo",
+  "adhan not working huawei",
+  "alarms & reminders permission",
+  "xiaomi autostart",
+  "prayer times app not notifying",
+  "muslim prayer app adhan not playing",
+  "الأذان لا يعمل في الجوال"
+ ],
+ "featured_snippet": {
+  "target_query": "why is the adhan not working on my phone",
+  "type": "list",
+  "html": "<ol>\n<li>Allow notifications for the app (Android 13 and later).</li>\n<li>Grant it the \"Alarms &amp; reminders\" permission (Android 12 and later).</li>\n<li>Set its battery usage to \"Unrestricted\" and turn off battery optimisation for it.</li>\n<li>Turn on \"Autostart\" on Xiaomi, Oppo, Vivo and Huawei phones.</li>\n<li>Exempt the app from \"Do Not Disturb\".</li>\n<li>Turn up the alarm and notification volume.</li>\n<li>Open the app once after a restart or update, and never use \"Force stop\".</li>\n</ol>"
+ },
+ "excerpt": "A practical guide to fixing an adhan that does not work on Android: the new permissions in Android 12–14, battery optimisation, Samsung, Xiaomi, Oppo, Vivo and Huawei settings, sound and Do Not Disturb, and what to do after a restart.",
+ "reading_minutes": 10,
+ "featured_image": {
+  "headline": "Adhan not working? Here's the fix",
+  "alt": "Adhan not working on Android: steps to set notifications and battery settings"
+ },
+ "cta_text": "In Rafiq Al-Taa, our free ad-free app (Arabic interface), the adhan works like an alarm: full screen, it wakes the display and sounds even when the app is closed. Coming soon to Google Play.",
+ "images": [
+  {
+   "alt": "Cover for the guide on fixing the adhan not working on Android phones",
+   "caption": "",
+   "spec": "Brand background | Title: Adhan not working on your phone? | Subtitle: A step-by-step fix for Android | A simple phone icon with an alert bell and a tick",
+   "file": "adhan-not-working-android-cover-en.webp",
+   "type": "cover"
+  },
+  {
+   "alt": "Table of settings that stop Samsung, Xiaomi, Oppo, Vivo and Huawei from killing the adhan app",
+   "caption": "The key setting for each brand so the adhan keeps working in the background",
+   "spec": "Title: The key setting for each brand | Two-column table | Samsung: Battery → Background usage limits → Never sleeping apps | Xiaomi: Autostart + battery saver No restrictions + lock in recent apps | Oppo/Realme: Allow auto launch + background activity | Vivo: Autostart + high background power consumption | Huawei: Battery → App launch → manual, with all three switches on | Small note: Names may differ by model",
+   "file": "adhan-android-brand-settings-table-en.webp",
+   "type": "table"
+  },
+  {
+   "alt": "Five steps to fix the adhan not working on Android: notifications, alarms, battery, sound and restart",
+   "caption": "Five steps that solve most adhan problems",
+   "spec": "Notifications: Allowed (Android 13+) | Alarms & reminders: On (Android 12+) | Battery: Unrestricted | Do Not Disturb: exempt the app + raise alarm volume | After a restart: open the app once, no Force stop",
+   "file": "adhan-android-five-checks-steps-en.webp",
+   "type": "steps"
+  },
+  {
+   "alt": "Diagnosis chart for the adhan not working on Android, from symptom to cause to fix",
+   "caption": "From symptom to fix",
+   "spec": "Three-column chart: Symptom → Cause → Fix | No notification → notification permission → allow it | Late or arrives when you unlock the phone → exact alarms/battery → allow and Unrestricted | No sound → Do Not Disturb/volume → exempt and raise volume | Stopped after days → restart/sleeping → autostart | Different time from the mosque → location/calculation method → your country's method",
+   "file": "adhan-problem-diagnosis-chart-en.webp",
+   "type": "diagram"
+  }
+ ],
+ "content_html": "<p>If the <strong>adhan is not working on Android</strong> even though you set up your prayer app, the cause in most cases is not the app itself but Android settings that stop closed apps from running in the background: the notification permission, the exact alarms permission, battery saving, and manufacturer restrictions. In this guide we order the causes from most to least common, and give you specific steps for each Android version and each major phone brand, so the adhan sounds on time while your phone is in your pocket.</p>\n\n<h2>Why is the adhan not working on my phone? The quick checklist</h2>\n<div class=\"f-snippet\"><ol>\n<li>Allow notifications for the app (Android 13 and later).</li>\n<li>Grant it the \"Alarms &amp; reminders\" permission (Android 12 and later).</li>\n<li>Set its battery usage to \"Unrestricted\" and turn off battery optimisation for it.</li>\n<li>Turn on \"Autostart\" on Xiaomi, Oppo, Vivo and Huawei phones.</li>\n<li>Exempt the app from \"Do Not Disturb\".</li>\n<li>Turn up the alarm and notification volume.</li>\n<li>Open the app once after a restart or update, and never use \"Force stop\".</li>\n</ol></div>\n<p>These steps are general and work for any prayer times app on Android. Menu names differ slightly depending on the brand, the system version and the phone's language, so we give the common English names. You can always type the setting's name into the search box at the top of the Settings app to go straight to it.</p>\n\n<h3>How do you find the fault before you start?</h3>\n<p>Set a test alert in the app if it offers one, or wait for the next prayer twice: once with the app open in the background, and once after closing it from the recent apps list and locking the screen. If the adhan works the first time and fails the second, the problem is background and battery restrictions. If it fails both times, start with permissions and sound.</p>\n\n<h2>Step 1: the notification permission on Android 13 and later</h2>\n<p>Since Android 13, showing notifications is a permission the app must ask for explicitly the first time it runs. If you tapped \"Don't allow\" at that point, neither the adhan nor any other alert from the app will appear, even if every other setting is correct.</p>\n<table>\n<thead><tr><th>Step</th><th>What to do</th></tr></thead>\n<tbody>\n<tr><td>1</td><td>Open \"Settings\", then \"Apps\".</td></tr>\n<tr><td>2</td><td>Choose your prayer times app from the list.</td></tr>\n<tr><td>3</td><td>Open \"Notifications\" and turn on \"Allow notifications\".</td></tr>\n<tr><td>4</td><td>Go into the notification categories on that page, and make sure the adhan or prayer category is on and not set to \"Silent\".</td></tr>\n</tbody>\n</table>\n<p>On older versions of Android, notifications are allowed by default, but someone may have turned them off by hand, so the same check is useful on every phone.</p>\n\n<h2>Step 2: the \"Alarms &amp; reminders\" permission on Android 12 and later</h2>\n<p>The adhan has to sound at a specific minute, not \"somewhere around\" that minute. That is why prayer apps use what Android calls \"exact alarms\". Since Android 12 this has been a special permission called <strong>\"Alarms &amp; reminders\"</strong>. The <a href=\"https://developer.android.com/about/versions/14/changes/schedule-exact-alarms\">official Android documentation</a> states that on Android 14 this permission is no longer granted automatically to most newly installed apps, and that revoking it cancels all the exact alarms the app has scheduled. Alarm clock and calendar apps are an exception and get a special permission at installation.</p>\n<ol>\n<li>Open \"Settings\", then \"Apps\".</li>\n<li>Choose \"Special app access\"; you may find it in the three-dot menu at the top of the Apps page.</li>\n<li>Open \"Alarms &amp; reminders\".</li>\n<li>Turn on the switch next to your prayer times app.</li>\n</ol>\n<p>Some phones also show this option inside the app's own page. If you removed the permission and then granted it again, open the app once so it reschedules the prayer times.</p>\n\n<h3>The full-screen notification permission on Android 14</h3>\n<p>Some adhan apps show the adhan on the whole screen like an alarm, even when the phone is locked. Android 14 restricted this type of notification, so it is only granted automatically to calling and alarm apps. If the adhan arrives as a small notification without lighting up the screen, look in \"Special app access\" for \"Full screen notifications\" (sometimes \"Full screen intents\") and turn it on for the app if it appears.</p>\n\n<!--CTA:rafiq-->\n\n<p>In <strong>Rafiq Al-Taa</strong>, our free, ad-free Islamic app with an Arabic interface, coming soon to Google Play, the adhan is designed to work like an alarm: it appears full screen, wakes the screen, and sounds even when the app is closed. But that does not replace the steps in this guide, because battery restrictions and system permissions are controlled by your phone and apply to every app without exception.</p>\n\n<h2>Step 3: battery optimisation, the most common reason the adhan stops</h2>\n<p>Android tries to extend battery life by delaying or stopping apps you do not use often. A prayer app is opened rarely but must run five times a day, so it falls victim to this feature. Since Android 12, each app's page offers three battery options:</p>\n<table>\n<thead><tr><th>Option</th><th>Effect on the adhan</th></tr></thead>\n<tbody>\n<tr><td>Unrestricted</td><td>Best: the app runs in the background without limits.</td></tr>\n<tr><td>Optimized</td><td>The default: the adhan may be late or missed on some phones.</td></tr>\n<tr><td>Restricted</td><td>Almost blocks background work, so it cannot be relied on for the adhan.</td></tr>\n</tbody>\n</table>\n<ol>\n<li>Long-press the app icon, then tap \"App info\".</li>\n<li>Open \"Battery\" or \"Battery usage\".</li>\n<li>Choose \"Unrestricted\".</li>\n<li>If you cannot find this option, search Settings for \"Battery optimization\", choose \"All apps\", then set the app to \"Not optimized\" (or \"Don't optimize\").</li>\n</ol>\n<p>Do not put the prayer app under \"Ultra power saving mode\" if your phone has one, because that mode stops almost every app except a few.</p>\n\n<h2>Brand settings: Samsung, Xiaomi, Oppo, Vivo and Huawei</h2>\n<p>Phone makers add their own restrictions on top of Android, and these are a very common reason the adhan fails. The <a href=\"https://dontkillmyapp.com/\">Don't kill my app</a> website documents these restrictions for each brand, and we took the menu names below from it after comparing them with other sources. Names may differ slightly by model and interface version.</p>\n\n<!--IMG:2-->\n\n<table>\n<thead><tr><th>Brand</th><th>The key setting</th><th>Approximate location</th></tr></thead>\n<tbody>\n<tr><td>Samsung (One UI)</td><td>Remove the app from \"Sleeping apps\" and \"Deep sleeping apps\", and add it to \"Never sleeping apps\"</td><td>Settings → Battery (or Device care) → Background usage limits</td></tr>\n<tr><td>Xiaomi, Redmi and Poco</td><td>\"Autostart\" and \"No restrictions\" in battery saver</td><td>Settings → Apps → the app → App permissions → Autostart in background; then Battery saver → No restrictions</td></tr>\n<tr><td>Oppo and Realme (ColorOS)</td><td>Allow auto launch and background activity</td><td>App info → Allow auto launch; and App info → Battery usage → Allow background activity</td></tr>\n<tr><td>Vivo</td><td>Autostart and high background power consumption</td><td>Settings → More settings → Apps → Autostart; and Battery → High background power consumption</td></tr>\n<tr><td>Huawei (EMUI)</td><td>Manage \"App launch\" manually with all switches on</td><td>Settings → Battery → App launch → turn off \"Manage automatically\" → turn on all three switches</td></tr>\n</tbody>\n</table>\n\n<h3>Samsung</h3>\n<p>Samsung phones automatically move unused apps to the \"Sleeping apps\" list. So after taking the prayer app out of it, turn off \"Put unused apps to sleep\", or the phone may put it back after a few days. Then set the app's battery to \"Unrestricted\" from its app page.</p>\n<h3>Xiaomi, Redmi and Poco</h3>\n<p>Xiaomi's interface is one of the strictest at stopping apps. Alongside \"Autostart\" and \"No restrictions\", it helps to <strong>lock the app in the recent apps list</strong>: open recent apps, swipe the app's card down or long-press it and choose the lock icon, so \"Clear all\" does not close it. On older versions you will find Autostart in the \"Security\" app → \"Permissions\".</p>\n<h3>Oppo, Realme and OnePlus</h3>\n<p>These phones run ColorOS or a close relative of it. Turn on auto launch from the app's page, allow background activity from the battery settings, and lock it in the recent apps list as on Xiaomi.</p>\n<h3>Vivo and iQOO</h3>\n<p>Turn on \"Autostart\" for the app, then in battery settings allow \"High background power consumption\", which some versions call \"Background power consumption management\".</p>\n<h3>Huawei and Honor</h3>\n<p>From \"Battery\" → \"App launch\", choose the app and turn off automatic management, then turn on \"Auto-launch\", \"Secondary launch\" and \"Run in background\". Also keep the app out of the battery optimisation list.</p>\n\n<h2>Step 4: \"Do Not Disturb\" and volume</h2>\n<p>The adhan notification often appears without sound, for one of three reasons:</p>\n<ul>\n<li><strong>\"Do Not Disturb\" mode:</strong> it mutes notifications by default and usually allows alarms. If your app sounds the adhan as a normal notification, add it in the \"Do Not Disturb\" settings to the \"Apps\" allowed to interrupt. Watch out for automatic schedules, such as a sleep mode that turns on \"Do Not Disturb\" at night and mutes the Fajr adhan.</li>\n<li><strong>Volume level:</strong> Android has several separate volume levels: ringtone, notifications, alarm and media. Some apps play the adhan through the alarm volume, others through notifications or media. Press a volume button, tap the settings icon on the slider that appears, raise the last three levels, and test.</li>\n<li><strong>The notification category's sound:</strong> under \"Notifications\" in the app's page, make sure the adhan category is set to \"Alerting\" with sound, not \"Silent\".</li>\n</ul>\n<p>If a smartwatch or Bluetooth earphones are connected, the sound may go to them instead of the phone's speaker.</p>\n\n<!--IMG:3-->\n\n<h2>Step 5: the adhan stopped after a restart or update</h2>\n<p>Alarms scheduled by any app are cleared when the phone restarts, and the app reschedules them when it receives the \"boot completed\" signal from the system. If the manufacturer blocks it from \"Autostart\", the alarms will not return until you open the app yourself. That is why, in practice, you see the adhan work for days and then suddenly disappear after a restart or system update.</p>\n<ul>\n<li><strong>After a restart:</strong> open the prayer app once, and make sure Autostart is on as described above.</li>\n<li><strong>After an app or system update:</strong> open it once and check its permissions, because some system updates reset battery settings.</li>\n<li><strong>After moving your data to a new phone:</strong> Android's documentation notes that on Android 14 the exact alarms permission is not carried over with a backup, so grant it again.</li>\n<li><strong>Do not use \"Force stop\":</strong> this button cancels all the app's alarms until you open it again. Many \"memory cleaner\" and \"phone booster\" apps do the same, so exclude the prayer app from them or uninstall them.</li>\n</ul>\n\n<h2>The adhan works, but at the wrong time: why?</h2>\n<p>If the adhan sounds, but before or after your local mosque, the problem is not the settings above but the calculation itself:</p>\n<ul>\n<li><strong>A full hour off in every prayer:</strong> the time zone or daylight saving time. Set the date and time to \"Automatic\" in your phone's settings.</li>\n<li><strong>Varying minutes off in every prayer:</strong> the location is wrong. Turn on location services or choose your city by hand, especially after travelling.</li>\n<li><strong>A difference in Fajr, Isha or Asr only:</strong> a calculation method or Asr school different from your country's calendar.</li>\n</ul>\n<p>We explained this in detail in our guide to <a href=\"/en/blog/prayer-times-calculation-methods/\">prayer times calculation methods and why they differ</a>, with steps to match your app to the official calendar. If the difference is only in Asr, by about an hour, read our guide to <a href=\"/en/blog/asr-prayer-time/\">Asr prayer time</a>.</p>\n\n<h2>Diagnosis table: from symptom to fix</h2>\n<table>\n<thead><tr><th>What you notice</th><th>Likely cause</th><th>Fix</th></tr></thead>\n<tbody>\n<tr><td>No notification at all from the app</td><td>Notification permission denied</td><td>Step 1</td></tr>\n<tr><td>The adhan is minutes late or comes when you unlock the phone</td><td>Exact alarms permission or battery optimisation</td><td>Steps 2 and 3</td></tr>\n<tr><td>Works with the app open, fails after closing it</td><td>Background or manufacturer restrictions</td><td>Step 3 and brand settings</td></tr>\n<tr><td>Notification with no sound</td><td>Do Not Disturb, volume level or notification category</td><td>Step 4</td></tr>\n<tr><td>Small notification without lighting the screen</td><td>Full-screen permission on Android 14</td><td>Step 2</td></tr>\n<tr><td>Suddenly stopped after working for days</td><td>Restart, update or \"Sleeping apps\"</td><td>Step 5 and Samsung settings</td></tr>\n<tr><td>Sounds at a different time from the mosque</td><td>Location, time zone or calculation method</td><td>The previous section</td></tr>\n</tbody>\n</table>\n\n<!--IMG:4-->\n\n<h2>Summary: set it once and test it</h2>\n<p>Setting up the adhan on Android takes ten minutes, once: the notification permission, the alarms and reminders permission, unrestricted battery, your phone brand's autostart setting, then sound and \"Do Not Disturb\". After that, test two prayers with the app closed and the screen locked, and check again after every restart or major update. The adhan in an app is a reminder that helps you pray on time, and you can track how well you keep your prayers each day in a <a href=\"/en/blog/daily-worship-tracker/\">daily worship tracker</a>. To see what a good Islamic app should offer, read our guide to the <a href=\"/en/blog/islamic-app-no-ads/\">best Islamic app without ads</a>.</p>\n\n<!--CTA:rafiq-->\n",
+ "faq": [
+  {
+   "q": "Why does the adhan not work when the app is closed?",
+   "a": "Because Android and phone makers stop closed apps to save battery. The fix is to set the app's battery usage to \"Unrestricted\", grant it the \"Alarms & reminders\" permission, turn on \"Autostart\" for it on Xiaomi, Oppo, Vivo and Huawei phones, take it out of \"Sleeping apps\" on Samsung, and then test it with the app closed."
+  },
+  {
+   "q": "Where do I find the Alarms & reminders permission on Android?",
+   "a": "Open Settings, then Apps, choose \"Special app access\", then \"Alarms & reminders\", and turn on the switch next to your prayer times app. You may find the option in the three-dot menu at the top of the Apps page, or by typing its name into the Settings search box."
+  },
+  {
+   "q": "Why does the adhan notification appear without sound?",
+   "a": "Usually because of \"Do Not Disturb\" or a sleep schedule that turns it on automatically, low alarm, notification or media volume depending on how the app plays the adhan, or the adhan notification category being set to \"Silent\". Check all three, and make sure the sound is not going to connected Bluetooth earphones."
+  },
+  {
+   "q": "The adhan stopped after restarting my phone. What should I do?",
+   "a": "Scheduled alarms are cleared on restart, and the app reschedules them automatically if it is allowed to autostart. Open the prayer app once after a restart, turn on \"Autostart\" for it in your phone's settings, and avoid the \"Force stop\" button and memory cleaner apps, because they cancel the alarms."
+  },
+  {
+   "q": "How do I stop my Xiaomi phone from killing the adhan app?",
+   "a": "Turn on \"Autostart in background\" from the app's page → App permissions, set the app's battery saver to \"No restrictions\", then lock the app in the recent apps list by swiping its card down or long-pressing it and choosing the lock icon. Menu names may differ slightly by interface version."
+  },
+  {
+   "q": "Does setting the battery to Unrestricted drain my battery?",
+   "a": "In a well-designed prayer app the effect is small, because it only wakes at the five prayer times and then goes back to rest. The setting applies to that app alone and does not change how other apps behave. If you notice heavy drain, check the battery usage page to see which app is really responsible."
+  },
+  {
+   "q": "The adhan works but is earlier or later than the mosque. Why?",
+   "a": "This is not a permissions problem but a calculation one: the time zone or daylight saving time if the difference is a full hour, the location if the differences vary, or the calculation method and Asr school if the difference is in Fajr, Isha or Asr only. Choose your country's official method and adjust small differences by hand."
+  }
+ ],
+ "internal_links": [
+  "prayer-times-calculation-methods",
+  "asr-prayer-time",
+  "daily-worship-tracker",
+  "islamic-app-no-ads"
+ ],
+ "sources": [
+  {
+   "title": "Android Developers: Schedule exact alarms are denied by default (Android 14)",
+   "url": "https://developer.android.com/about/versions/14/changes/schedule-exact-alarms"
+  },
+  {
+   "title": "Android Developers: Schedule alarms",
+   "url": "https://developer.android.com/training/scheduling/alarms"
+  },
+  {
+   "title": "Android Developers: Notification runtime permission (Android 13)",
+   "url": "https://developer.android.com/develop/ui/views/notifications/notification-permission"
+  },
+  {
+   "title": "Android Open Source Project: Full-screen intent limits",
+   "url": "https://source.android.com/docs/core/permissions/fsi-limits"
+  },
+  {
+   "title": "Don't kill my app: Samsung",
+   "url": "https://dontkillmyapp.com/samsung"
+  },
+  {
+   "title": "Don't kill my app: Xiaomi",
+   "url": "https://dontkillmyapp.com/xiaomi"
+  },
+  {
+   "title": "Don't kill my app: Oppo",
+   "url": "https://dontkillmyapp.com/oppo"
+  },
+  {
+   "title": "Don't kill my app: Vivo",
+   "url": "https://dontkillmyapp.com/vivo"
+  },
+  {
+   "title": "Don't kill my app: Huawei",
+   "url": "https://dontkillmyapp.com/huawei"
+  }
+ ]
+}

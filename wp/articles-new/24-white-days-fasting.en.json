@@ -1,0 +1,193 @@
+{
+ "number": 24,
+ "slug": "white-days-fasting",
+ "category": "Fasting",
+ "title": "The White Days: The Virtue of Fasting Them, the Hadith and a 1448 AH Dates Table",
+ "meta_title": "Fasting the White Days: Virtue & 1448 Dates | Farhoon",
+ "meta_description": "Fasting the White Days (13th, 14th, 15th of each Hijri month): the authentic hadith, the ruling, and expected 1448 AH dates, plus the Dhu al-Hijjah note.",
+ "focus_keyword": "fasting the white days",
+ "keywords": [
+  {
+   "keyword": "fasting the white days",
+   "type": "primary",
+   "est_monthly_searches": "1,000–5,000 (estimated)",
+   "intent": "informational",
+   "kgr_note": "Medium; IslamQA and general Islamic sites rank, few give a dated table for the coming months (estimated)"
+  },
+  {
+   "keyword": "white days fasting",
+   "type": "secondary",
+   "est_monthly_searches": "1,000–4,000 (estimated)",
+   "intent": "informational",
+   "kgr_note": "Medium (estimated)"
+  },
+  {
+   "keyword": "what are the white days in islam",
+   "type": "question",
+   "est_monthly_searches": "500–2,000 (estimated)",
+   "intent": "informational",
+   "kgr_note": "Easy; suits a paragraph snippet (estimated)"
+  },
+  {
+   "keyword": "ayyam al bid",
+   "type": "secondary",
+   "est_monthly_searches": "500–2,000 (estimated)",
+   "intent": "informational",
+   "kgr_note": "Easy to medium (estimated)"
+  },
+  {
+   "keyword": "white days this month",
+   "type": "long-tail",
+   "est_monthly_searches": "1,000–5,000, monthly peaks (estimated)",
+   "intent": "informational",
+   "kgr_note": "Medium; calendar sites compete (estimated)"
+  },
+  {
+   "keyword": "can you fast the 13th of dhul hijjah",
+   "type": "question",
+   "est_monthly_searches": "100–500, seasonal (estimated)",
+   "intent": "informational",
+   "kgr_note": "Easy (estimated)"
+  },
+  {
+   "keyword": "virtue of fasting three days every month",
+   "type": "long-tail",
+   "est_monthly_searches": "100–500 (estimated)",
+   "intent": "informational",
+   "kgr_note": "Easy (estimated)"
+  },
+  {
+   "keyword": "full moon fasting islam",
+   "type": "LSI",
+   "est_monthly_searches": "200–800 (estimated)",
+   "intent": "informational",
+   "kgr_note": "Supporting term (estimated)"
+  }
+ ],
+ "keyword_variations": [
+  "fasting the white days",
+  "white days fasting",
+  "white days",
+  "ayyam al-bid",
+  "ayyam al beed",
+  "ayyamul bidh",
+  "fasting 13 14 15",
+  "fasting three days a month",
+  "fasting three days every month",
+  "white days dates",
+  "white days 1448",
+  "white days december 2026",
+  "white days in rajab",
+  "white days in dhul hijjah",
+  "sunnah fasts"
+ ],
+ "featured_snippet": {
+  "target_query": "what are the white days",
+  "type": "paragraph",
+  "html": "<p>The White Days (al-ayyam al-bid) are the 13th, 14th and 15th of every Hijri month. They are called \"white\" because their nights are lit up by the light of the full moon. Fasting them is a sunnah of the Prophet ﷺ, and fasting three days every month is like fasting for a lifetime, because each good deed is rewarded tenfold.</p>"
+ },
+ "excerpt": "What the White Days are, the authentic hadith on fasting them with their gradings, the ruling, and a table of their expected dates from Jumada al-Akhirah to Dhu al-Hijjah 1448 AH, with a note on the days of Tashriq.",
+ "reading_minutes": 9,
+ "featured_image": {
+  "headline": "Fasting the White Days",
+  "alt": "The White Days: the 13th, 14th and 15th of the Hijri month"
+ },
+ "cta_text": "The Hijri calendar in Rafiq Al-Taa, our free ad-free app (Arabic interface), shows today's Hijri date and occasions, so you know when the White Days come each month. Coming soon to Google Play.",
+ "images": [
+  {
+   "file": "white-days-fasting-cover-en.webp",
+   "alt": "Cover image for the article on fasting the White Days with a drawing of the full moon",
+   "caption": "",
+   "type": "cover",
+   "spec": "Title: Fasting the White Days | Subtitle: The 13th, 14th and 15th of every Hijri month | Element: a full moon in flat style"
+  },
+  {
+   "file": "white-days-1448-schedule-en.webp",
+   "alt": "Table of the expected White Days dates from Jumada al-Akhirah to Dhu al-Hijjah 1448 AH",
+   "caption": "Expected according to Umm al-Qura; they depend on the moon sighting",
+   "type": "table",
+   "spec": "Title: White Days 1448 AH (expected) | Jumada al-Akhirah: 23–25 November 2026 | Rajab: 22–24 December 2026 | Sha'ban: 21–23 January 2027 | Ramadan: 20–22 February (obligatory fast) | Shawwal: 21–23 March | Dhu al-Qa'dah: 20–22 April | Dhu al-Hijjah: 20–21 May only (19 May is a day of Tashriq)"
+  },
+  {
+   "file": "dhul-hijja-white-days-tashriq-en.webp",
+   "alt": "Diagram showing that the 13th of Dhu al-Hijjah is a day of Tashriq on which fasting is not allowed",
+   "caption": "",
+   "type": "diagram",
+   "spec": "Day 9, 'Arafah: recommended to fast for those not on Hajj | Day 10, Eid: not fasted | Days 11, 12 and 13, Tashriq: not fasted | Days 14 and 15: fast ✓ | Plus a third day after them | \"The days of Tashriq are days of eating and drinking\" (Muslim)"
+  },
+  {
+   "file": "white-days-monthly-steps-en.webp",
+   "alt": "Steps to keep up fasting the White Days every month",
+   "caption": "",
+   "type": "steps",
+   "spec": "Title: Keep up the White Days | 1) Know the first of the Hijri month | 2) Add 12 days = the 13th | 3) Note the dates in advance | 4) Make the intention on the night of the 12th | 5) Missed a day? Complete the three later in the month"
+  }
+ ],
+ "content_html": "<p>The <strong>White Days</strong> are the 13th, 14th and 15th of every Hijri (Islamic lunar) month. Fasting them is an established prophetic sunnah, and whoever fasts three days every month is as if he had fasted for a lifetime. In this article we bring together the authentic hadith on them with their gradings, the ruling on fasting them and what is authentically said about their wisdom. Then we give a table of the expected dates of the White Days for the coming months, from Jumada al-Akhirah 1448 AH to Dhu al-Hijjah, with an important note about the 13th of Dhu al-Hijjah.</p>\n\n<h2>What are the White Days?</h2>\n<div class=\"f-snippet\"><p>The White Days (al-ayyam al-bid) are the 13th, 14th and 15th of every Hijri month. They are called \"white\" because their nights are lit up by the light of the full moon. Fasting them is a sunnah of the Prophet ﷺ, and fasting three days every month is like fasting for a lifetime, because each good deed is rewarded tenfold.</p></div>\n<p>What is meant is the days, not the nights, so you fast during the daytime of the 13th, 14th and 15th. What counts is the Hijri month, not the Gregorian one: the Hijri month begins with the sighting of the new crescent, and the moon becomes full at roughly the middle of it.</p>\n<h3>Why are they called the White Days?</h3>\n<p>Scholars said they are called this because their nights are white with moonlight from beginning to end; the full meaning is \"the days of the white nights\". As for the stories mentioned in some books about the reason for the name, such as a story about Adam (peace be upon him), nothing about them is authentic, so they should not be attributed to the religion.</p>\n\n<h2>What are the authentic hadith on fasting the White Days?</h2>\n<p>There are hadith in al-Bukhari and Muslim about fasting three days of every month, and hadith in the Sunan collections, graded hasan or sahih by scholars, that specify them as the White Days:</p>\n<h3>1. Fasting three days a month equals fasting for a lifetime</h3>\n<p>'Abdullah ibn 'Amr (may Allah be pleased with them both) reported that the Prophet ﷺ said to him:</p>\n<blockquote>\"Fast three days of the month, for each good deed is rewarded tenfold, and that is like fasting for a lifetime.\" (Reported by al-Bukhari at length, and in one of his narrations, number 1979: \"Fasting three days is fasting the whole of time\"; also reported by Muslim 1159)</blockquote>\n<h3>2. The Prophet's ﷺ advice to Abu Hurayrah (may Allah be pleased with him)</h3>\n<blockquote>\"My close friend ﷺ advised me to do three things: to fast three days of every month, to pray the two rak'ahs of Duha, and to pray witr before I sleep.\" (Sahih al-Bukhari 1981; Sahih Muslim 721)</blockquote>\n<h3>3. Specifying them as the 13th, 14th and 15th</h3>\n<p>Abu Dharr (may Allah be pleased with him) reported that the Messenger of Allah ﷺ said:</p>\n<blockquote>\"O Abu Dharr, if you fast three days of the month, then fast the thirteenth, fourteenth and fifteenth.\" (Jami' at-Tirmidhi 761, who graded it hasan; also reported by an-Nasa'i; graded hasan by al-Albani)</blockquote>\n<p>Qatadah ibn Milhan (may Allah be pleased with him) said: \"The Messenger of Allah ﷺ used to command us to fast the White Days: the thirteenth, fourteenth and fifteenth.\" And he said: \"They are like fasting for a lifetime.\" (Sunan Abi Dawud 2449; graded sahih by al-Albani; there is some discussion about its chain, and it is strengthened by the hadith before it)</p>\n<h3>4. He ﷺ kept to them at home and when travelling</h3>\n<p>Ibn 'Abbas (may Allah be pleased with them both) said: \"The Messenger of Allah ﷺ would not leave off fasting the White Days, whether at home or travelling.\" (Sunan an-Nasa'i 2345; a number of scholars graded its chain hasan)</p>\n<h3>5. He did not always keep to particular days</h3>\n<p>Mu'adhah al-'Adawiyyah asked A'ishah (may Allah be pleased with her): \"Did the Messenger of Allah ﷺ fast three days of every month?\" She said: \"Yes.\" She asked: \"Which days of the month did he fast?\" She said: \"He did not mind which days of the month he fasted.\" (Sahih Muslim 1160)</p>\n<p>You can check the texts and gradings of these hadith in the <a href=\"https://dorar.net/hadith\">Dorar hadith encyclopedia</a> (Arabic).</p>\n\n<h2>What is the ruling on fasting the White Days?</h2>\n<p>Fasting three days of every month is a sunnah by agreement of scholars, and according to most of them it is best for these to be the White Days, reconciling the hadith: A'ishah's hadith shows that any three days are enough to gain the reward of fasting for a lifetime, and Abu Dharr's hadith shows that the White Days are the best of them. It is reported that Imam Malik disliked deliberately fasting these exact days, for fear that people would think them obligatory, while the majority consider them recommended.</p>\n<p>Shaykh Ibn Baz (may Allah have mercy on him) said, in meaning: fasting the White Days is best when it is easy to do, but if a person fasts three days at the start, middle or end of the month, all of it is good. See his fatwa on <a href=\"https://binbaz.org.sa/fatwas/17129\">what is meant by the White Days</a> (Arabic).</p>\n<p>The ruling in brief:</p>\n<ul>\n<li>Fasting them is <strong>recommended</strong>, not obligatory, so there is no sin on someone who leaves them.</li>\n<li>Whoever cannot fast those exact days should fast any three days of the month, and he gains the reward of fasting for a lifetime.</li>\n<li>They do not have to be consecutive. If someone fasts the 13th and 15th, misses the 14th for a reason and then fasts another day, he has completed the three.</li>\n</ul>\n\n<!--CTA:rafiq-->\n\n<h2>What is the wisdom behind fasting the White Days?</h2>\n<p>Here we keep to what the texts indicate, without explanations that have no evidence:</p>\n<ol>\n<li><strong>The reward of fasting for a lifetime:</strong> because each good deed is rewarded tenfold, so three days in a month equal thirty days. Allah the Exalted says: ﴿مَن جَاءَ بِالْحَسَنَةِ فَلَهُ عَشْرُ أَمْثَالِهَا﴾ [Surah al-An'am: 160], \"Whoever comes [on the Day of Judgement] with a good deed will have ten times the like thereof [to his credit]\" (Surah al-An'am 6:160, translation: Sahih International).</li>\n<li><strong>Following the Prophet's ﷺ advice:</strong> he advised Abu Hurayrah, Abu ad-Darda' and Abu Dharr (may Allah be pleased with them) to fast them.</li>\n<li><strong>An easy, lasting act of worship:</strong> only three days a month, and the deeds most beloved to Allah are those done consistently, even if small, as reported in al-Bukhari and Muslim.</li>\n<li><strong>Preparation for the special seasons:</strong> someone used to fasting the White Days will not find fasting Sha'ban and Ramadan hard.</li>\n</ol>\n<p>As for the popular claim that fasting them counteracts the effect of the full moon on the body or its fluids, this is not mentioned in the hadith, and we know of no established scientific evidence for it, so we do not make it the reason for this worship. We fast to follow the Sunnah and to seek the reward.</p>\n\n<h2>When are the White Days in the coming months? (1448 AH table)</h2>\n<p>We worked out these dates from the start of each month in the Umm al-Qura calendar, adding 12 days to the first of the month to reach the 13th. They are <strong>expected</strong> dates and may differ by a day depending on the moon sighting in your country:</p>\n<table>\n<thead><tr><th>Month</th><th>First of the month (expected)</th><th>13th</th><th>14th</th><th>15th</th><th>Note</th></tr></thead>\n<tbody>\n<tr><td>Jumada al-Akhirah 1448 AH</td><td>11 November 2026</td><td>Monday 23 November</td><td>Tuesday 24 November</td><td>Wednesday 25 November</td><td>If they have passed, start from Rajab</td></tr>\n<tr><td>Rajab 1448 AH</td><td>10 December 2026</td><td>Tuesday 22 December</td><td>Wednesday 23 December</td><td>Thursday 24 December</td><td>One of the sacred months</td></tr>\n<tr><td>Sha'ban 1448 AH</td><td>9 January 2027</td><td>Thursday 21 January</td><td>Friday 22 January</td><td>Saturday 23 January</td><td>Before the middle of Sha'ban</td></tr>\n<tr><td>Ramadan 1448 AH</td><td>8 February 2027</td><td>Saturday 20 February</td><td>Sunday 21 February</td><td>Monday 22 February</td><td>The Ramadan fast is obligatory anyway</td></tr>\n<tr><td>Shawwal 1448 AH</td><td>9 March 2027</td><td>Sunday 21 March</td><td>Monday 22 March</td><td>Tuesday 23 March</td><td>Alongside the six days of Shawwal</td></tr>\n<tr><td>Dhu al-Qa'dah 1448 AH</td><td>8 April 2027</td><td>Tuesday 20 April</td><td>Wednesday 21 April</td><td>Thursday 22 April</td><td>One of the sacred months</td></tr>\n<tr><td>Dhu al-Hijjah 1448 AH</td><td>7 May 2027</td><td>Wednesday 19 May (not fasted)</td><td>Thursday 20 May</td><td>Friday 21 May</td><td>The 13th of Dhu al-Hijjah is one of the days of Tashriq</td></tr>\n</tbody>\n</table>\n<!--IMG:2-->\n<h3>Notes on the table</h3>\n<ul>\n<li><strong>Ramadan:</strong> its White Days are already part of the obligatory fast, so there is nothing extra to fast; whoever fasts Ramadan has fasted them.</li>\n<li><strong>Sha'ban:</strong> its White Days fall before the second half of the month, so they are not affected by the well-known disagreement about fasting after mid-Sha'ban. You will find its rulings in our article on <a href=\"/en/blog/fasting-shaban/\">fasting in Sha'ban</a>.</li>\n<li><strong>Friday:</strong> in Sha'ban the 14th is expected to fall on a Friday. That is fine because you will have fasted the Thursday before it; the prohibition is only on singling out Friday by itself for fasting.</li>\n<li><strong>Rajab and Dhu al-Qa'dah:</strong> these are among the sacred months, in which it is recommended to do more good deeds. Details in our article on <a href=\"/en/blog/sacred-months/\">the sacred months</a>.</li>\n</ul>\n\n<h2>Can you fast the 13th of Dhu al-Hijjah as one of the White Days?</h2>\n<p>No. The 13th of Dhu al-Hijjah is the last of the <strong>days of Tashriq</strong> (the 11th, 12th and 13th of Dhu al-Hijjah), and the Prophet ﷺ forbade fasting them. Nubayshah al-Hudhali (may Allah be pleased with him) reported that the Messenger of Allah ﷺ said:</p>\n<blockquote>\"The days of Tashriq are days of eating and drinking.\" (Sahih Muslim 1141)</blockquote>\n<p>A'ishah and Ibn 'Umar (may Allah be pleased with them) said: \"No one was permitted to fast the days of Tashriq except someone who could not find a sacrificial animal (hady).\" (Sahih al-Bukhari 1997). So the exception applies only to a pilgrim performing Hajj tamattu' or qiran who could not find a sacrificial animal, according to the majority of scholars.</p>\n<p>So what should someone do who wants to fast three days in Dhu al-Hijjah 1448 AH?</p>\n<ul>\n<li>Fast the 14th and 15th (expected to be 20 and 21 May 2027), and add a third day after them, such as the 16th.</li>\n<li>Or fast the three days at any other time in the month after the days of Tashriq, and gain the reward of fasting three days.</li>\n<li>Whoever fasts the Day of 'Arafah (the 9th) has fasted a day of great virtue. It does not count as a replacement for the three for someone aiming for those specific days, but it does fall under the general sunnah of fasting three days of the month.</li>\n</ul>\n<!--IMG:3-->\n\n<h2>Practical questions about fasting the White Days</h2>\n<h3>Must the intention be made the night before?</h3>\n<p>Fasting the White Days is voluntary, and the majority hold that the intention for a voluntary fast is valid during the day, as long as one has not eaten, drunk or done anything that breaks the fast since Fajr. The Prophet ﷺ came to A'ishah (may Allah be pleased with her) and asked: \"Do you have anything (to eat)?\" She said no. He said: \"Then I am fasting.\" (Sahih Muslim 1154). It is better to make the intention the night before.</p>\n<h3>What does a woman do if her period falls on them?</h3>\n<p>She does not fast during her period, and she may fast three other days of the month after she becomes pure, gaining the reward of fasting three days every month. The White Days are a sunnah, so there is no obligatory make-up for them.</p>\n<h3>Can I make up Ramadan fasts on the White Days?</h3>\n<p>Yes, and many scholars hope that the virtue of fasting these days will be written for you along with the make-up. There is a difference of opinion about combining the two intentions, which we explain in our article on <a href=\"/en/blog/making-up-ramadan-fasts/\">making up missed Ramadan fasts</a>.</p>\n<h3>Can I fast the White Days and Mondays and Thursdays together?</h3>\n<p>If one of the White Days falls on a Monday or Thursday and you fast it, you may hope for the virtue of both, because the virtue of each is tied to fasting that particular day.</p>\n<h3>Are the White Days based on the official Hijri calendar or on seeing the moon?</h3>\n<p>What counts is the Hijri month adopted in your country. If the start of the month differs from the Umm al-Qura calendar by a day, follow your country's calendar and fast the 13th, 14th and 15th of it.</p>\n\n<h2>How can you keep up the White Days every month?</h2>\n<ol>\n<li><strong>Know the first of the Hijri month:</strong> follow the Hijri date every day, and when the month begins add 12 days to find the 13th.</li>\n<li><strong>Note the dates in advance:</strong> copy the table in this article into your personal calendar.</li>\n<li><strong>Get ready on the night of the 12th:</strong> prepare suhur (the pre-dawn meal) and make the intention to fast.</li>\n<li><strong>If you miss a day, complete the three later in the month:</strong> don't give up the whole sunnah because you missed one day of it.</li>\n<li><strong>Make it a family habit:</strong> encourage your children who are able to fast to fast one of the days.</li>\n</ol>\n<!--IMG:4-->\n<p><strong>Rafiq Al-Taa</strong>, our free Arabic-language app, has a Hijri calendar with Islamic occasions that shows you the Hijri date every day, so you know when the 13th of the month arrives without any calculating. The app does not send fasting-specific alerts, so check the calendar at the start of each month. It also has a \"My Worship\" section to track your daily prayers and adhkar, with a streak counter. The app is coming soon to Google Play, with no ads and no account needed. To organise the rest of your worship, see our <a href=\"/en/blog/daily-worship-tracker/\">daily worship tracker</a>.</p>\n\n<h2>Summary: the White Days are an easy sunnah with a great reward</h2>\n<p>The White Days are the 13th, 14th and 15th of every Hijri month. Fasting them is an established sunnah that the Prophet ﷺ advised, and whoever fasts three days every month is as if he had fasted for a lifetime. It is best for them to be the White Days, and whoever cannot manage that may fast any three days. In Ramadan they are part of the obligatory fast, and in Dhu al-Hijjah the 13th is not fasted because it is one of the days of Tashriq. The dates in the table are expected dates according to Umm al-Qura and depend on the moon sighting. The rulings we have mentioned are a summary of the views of scholars, so ask the scholars in your country about your particular situation.</p>\n\n<!--CTA:rafiq-->\n",
+ "faq": [
+  {
+   "q": "What are the White Days and why are they called that?",
+   "a": "The White Days are the 13th, 14th and 15th of every Hijri month. They are called that because their nights are white with the light of the full moon; the meaning is \"the days of the white nights\". The other stories told about the reason for the name are not authentic."
+  },
+  {
+   "q": "What is the virtue of fasting the White Days?",
+   "a": "Fasting three days every month equals fasting for a lifetime, because each good deed is rewarded tenfold, as in the hadith of 'Abdullah ibn 'Amr in al-Bukhari and Muslim. The Prophet ﷺ advised Abu Hurayrah to fast them, and told Abu Dharr to make them the 13th, 14th and 15th, as reported by at-Tirmidhi, who graded it hasan."
+  },
+  {
+   "q": "Can I fast the White Days separately or on other days?",
+   "a": "Yes. The sunnah is to fast three days of every month, and it is best for them to be the White Days. Whoever cannot manage them may fast any three days of the month, consecutive or separate, because A'ishah (may Allah be pleased with her) said: \"He did not mind which days of the month he fasted\" (Muslim)."
+  },
+  {
+   "q": "Do I fast the White Days in Dhu al-Hijjah?",
+   "a": "The 13th of Dhu al-Hijjah is not fasted because it is one of the days of Tashriq, which the Prophet ﷺ forbade fasting, saying: \"The days of Tashriq are days of eating and drinking\" (Muslim). So fast the 14th and 15th and a third day after them, or any other three days of the month."
+  },
+  {
+   "q": "When are the White Days of Rajab 1448 AH?",
+   "a": "Rajab 1448 AH is expected to begin on 10 December 2026 according to the Umm al-Qura calendar, so the White Days would be Tuesday 22, Wednesday 23 and Thursday 24 December 2026. They may differ by a day depending on the moon sighting and the announced start of the month in your country."
+  },
+  {
+   "q": "Must I make the intention the night before to fast the White Days?",
+   "a": "Not according to the majority of scholars, because it is a voluntary fast, so the intention is valid during the day as long as you have not eaten, drunk or done anything that breaks the fast since Fajr, because of A'ishah's hadith in Sahih Muslim: \"Then I am fasting.\" It is better to intend it the night before so that you gain the reward of the whole day."
+  }
+ ],
+ "internal_links": [
+  "fasting-shaban",
+  "sacred-months",
+  "making-up-ramadan-fasts",
+  "daily-worship-tracker"
+ ],
+ "sources": [
+  {
+   "title": "Sahih al-Bukhari 1979: fasting three days is fasting the whole of time - Sunnah.com",
+   "url": "https://sunnah.com/bukhari:1979"
+  },
+  {
+   "title": "Sahih al-Bukhari 1981: my close friend advised me to do three things - Sunnah.com",
+   "url": "https://sunnah.com/bukhari:1981"
+  },
+  {
+   "title": "Jami' at-Tirmidhi 761: O Abu Dharr, if you fast three days of the month - Sunnah.com",
+   "url": "https://sunnah.com/tirmidhi:761"
+  },
+  {
+   "title": "Sunan Abi Dawud 2449: he used to command us to fast the White Days - Sunnah.com",
+   "url": "https://sunnah.com/abudawud:2449"
+  },
+  {
+   "title": "Sunan an-Nasa'i 2345: he would not leave off the White Days at home or travelling - Sunnah.com",
+   "url": "https://sunnah.com/nasai:2345"
+  },
+  {
+   "title": "Sahih Muslim 1141: the days of Tashriq are days of eating and drinking - Sunnah.com",
+   "url": "https://sunnah.com/muslim:1141"
+  },
+  {
+   "title": "Shaykh Ibn Baz: what is meant by the White Days (Arabic)",
+   "url": "https://binbaz.org.sa/fatwas/17129"
+  },
+  {
+   "title": "Dorar: hadith encyclopedia (Arabic)",
+   "url": "https://dorar.net/hadith"
+  }
+ ]
+}

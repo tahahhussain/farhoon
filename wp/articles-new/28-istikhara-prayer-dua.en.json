@@ -1,0 +1,215 @@
+{
+ "number": 28,
+ "slug": "istikhara-prayer-dua",
+ "category": "Adhkar and Du'a",
+ "title": "The Authentic Istikhara Dua and How to Pray Salat al-Istikhara Step by Step",
+ "meta_title": "Istikhara Dua and How to Pray It, Step by Step | Farhoon",
+ "meta_description": "The authentic istikhara dua from al-Bukhari with transliteration, how to pray salat al-istikhara step by step, before or after salam, and common mistakes.",
+ "focus_keyword": "istikhara dua",
+ "keywords": [
+  {
+   "keyword": "istikhara dua",
+   "type": "primary",
+   "est_monthly_searches": "20,000–60,000 (estimated)",
+   "intent": "informational",
+   "kgr_note": "Hard; big dua sites and IslamQA compete, our edge is a complete, sourced explanation (estimated)"
+  },
+  {
+   "keyword": "istikhara prayer",
+   "type": "secondary",
+   "est_monthly_searches": "10,000–30,000 (estimated)",
+   "intent": "informational",
+   "kgr_note": "Hard; shares intent with the main keyword (estimated)"
+  },
+  {
+   "keyword": "how to pray istikhara",
+   "type": "question",
+   "est_monthly_searches": "5,000–15,000 (estimated)",
+   "intent": "informational",
+   "kgr_note": "Medium; most competitors give short steps without the related rulings (estimated)"
+  },
+  {
+   "keyword": "istikhara dua before or after salam",
+   "type": "question",
+   "est_monthly_searches": "200–800 (estimated)",
+   "intent": "informational",
+   "kgr_note": "Easy to medium; answered by short fatwas, KGR may be under 0.25 (estimated)"
+  },
+  {
+   "keyword": "do you need a dream after istikhara",
+   "type": "question",
+   "est_monthly_searches": "500–1,500 (estimated)",
+   "intent": "informational",
+   "kgr_note": "Easy; few pages go into detail (estimated)"
+  },
+  {
+   "keyword": "can you repeat istikhara",
+   "type": "long-tail",
+   "est_monthly_searches": "300–1,000 (estimated)",
+   "intent": "informational",
+   "kgr_note": "Easy (estimated)"
+  },
+  {
+   "keyword": "istikhara for someone else",
+   "type": "long-tail",
+   "est_monthly_searches": "200–700 (estimated)",
+   "intent": "informational",
+   "kgr_note": "Easy; KGR often low (estimated)"
+  },
+  {
+   "keyword": "signs after istikhara",
+   "type": "question",
+   "est_monthly_searches": "1,000–4,000 (estimated)",
+   "intent": "informational",
+   "kgr_note": "Medium; much competing content is unsourced, so a sourced answer stands out (estimated)"
+  },
+  {
+   "keyword": "istikhara dua meaning",
+   "type": "LSI",
+   "est_monthly_searches": "300–1,000 (estimated)",
+   "intent": "informational",
+   "kgr_note": "Easy (estimated)"
+  }
+ ],
+ "keyword_variations": [
+  "dua istikhara",
+  "istikhara dua in english",
+  "istikhara dua transliteration",
+  "salat al istikhara",
+  "salatul istikhara",
+  "istikhara namaz",
+  "how to do istikhara",
+  "istikhara for marriage",
+  "istikhara dua for marriage",
+  "allahumma inni astakhiruka bi ilmika",
+  "when to read istikhara dua",
+  "istikhara without prayer",
+  "istikhara signs",
+  "istikharah"
+ ],
+ "featured_snippet": {
+  "target_query": "what is the istikhara dua",
+  "type": "paragraph",
+  "html": "<p>The istikhara dua is: «اللَّهُمَّ إِنِّي أَسْتَخِيرُكَ بِعِلْمِكَ، وَأَسْتَقْدِرُكَ بِقُدْرَتِكَ، وَأَسْأَلُكَ مِنْ فَضْلِكَ الْعَظِيمِ...» <em>Allahumma inni astakhiruka bi'ilmik, wa astaqdiruka biqudratik, wa as'aluka min fadlikal-'azim...</em> to the end, as al-Bukhari narrated from Jabir (may Allah be pleased with him). A Muslim says it after praying two rak'ahs (units of prayer) other than the obligatory prayer, names his need where it says \"this matter\", and according to most scholars it is better to make the du'a after the salam.</p>"
+ },
+ "excerpt": "The authentic istikhara dua from Sahih al-Bukhari with transliteration and meaning, how to pray salat al-istikhara step by step, when to say the du'a, common mistakes such as requiring a dream, and how to combine istikhara with consultation.",
+ "reading_minutes": 11,
+ "featured_image": {
+  "headline": "The istikhara dua and how to pray it",
+  "alt": "The authentic istikhara dua and the steps of salat al-istikhara"
+ },
+ "cta_text": "Rafiq Al-Taa, our free app with no ads or accounts (Arabic interface), has the istikhara dua and the rest of Hisn al-Muslim in order. Coming soon to Google Play.",
+ "images": [
+  {
+   "file": "istikhara-dua-cover-en.webp",
+   "alt": "Cover image for the article on the istikhara dua and how to pray salat al-istikhara",
+   "caption": "",
+   "type": "cover",
+   "spec": "Farhoon background | Title: The istikhara dua | Small line beneath: The authentic text and how to pray it, step by step"
+  },
+  {
+   "file": "istikhara-prayer-steps-en.webp",
+   "alt": "Steps of salat al-istikhara from wudu to the du'a after the salam",
+   "caption": "The steps of salat al-istikhara as in the hadith of Jabir in Sahih al-Bukhari",
+   "type": "steps",
+   "spec": "Define the matter clearly | Make wudu and face the qiblah | Pray two rak'ahs other than the obligatory prayer | Give the salam | Make the istikhara dua and name your need | Go ahead relying on Allah and see whether it becomes easy (Sahih al-Bukhari 1162)"
+  },
+  {
+   "file": "istikhara-myths-vs-facts-en.webp",
+   "alt": "Table comparing common mistakes about istikhara with what is correct",
+   "caption": "Common mistakes about istikhara and what scholars hold",
+   "type": "table",
+   "spec": "Two-column table: Common belief, Correct | Row 1: A dream is required, A dream is not a condition | Row 2: Ease in the heart is a decisive sign, Ease or difficulty in the matter is clearer | Row 3: It is repeated seven times, It may be repeated with no fixed number | Row 4: Someone else makes istikhara for me, The person concerned makes it himself | Row 5: 'Whoever seeks Allah's guidance will not fail' is a hadith, It is a very weak hadith"
+  },
+  {
+   "file": "istikhara-and-consultation-flow-en.webp",
+   "alt": "Diagram of combining consultation and istikhara before making a decision",
+   "caption": "Consultation is asking people of experience; istikhara is asking Allah, the All-Knowing",
+   "type": "diagram",
+   "spec": "Gather information | Consult people of experience and trust | Make istikhara | Decide and go ahead | Be content with what Allah decrees | \"And when you have decided, then rely upon Allah\" (Al 'Imran 3:159)"
+  }
+ ],
+ "content_html": "<p>If you are torn between two permissible options, such as a job, a move or a marriage, the Sunnah is to pray two rak'ahs other than the obligatory prayer, then make the <strong>istikhara dua</strong> narrated in Sahih al-Bukhari, naming your need in it, and then go ahead with whatever becomes easy for you. You do not need to see a dream or feel any special sign. In this guide you will find the full authentic text of the du'a with transliteration and meaning, how to pray salat al-istikhara step by step, whether the du'a comes before or after the salam, the most common mistakes, and how to combine istikhara (asking Allah to choose for you) with consulting people of experience.</p>\n\n<h2>What is the authentic istikhara dua?</h2>\n<div class=\"f-snippet\"><p>The istikhara dua is: «اللَّهُمَّ إِنِّي أَسْتَخِيرُكَ بِعِلْمِكَ، وَأَسْتَقْدِرُكَ بِقُدْرَتِكَ، وَأَسْأَلُكَ مِنْ فَضْلِكَ الْعَظِيمِ...» <em>Allahumma inni astakhiruka bi'ilmik, wa astaqdiruka biqudratik, wa as'aluka min fadlikal-'azim...</em> to the end, as al-Bukhari narrated from Jabir (may Allah be pleased with him). A Muslim says it after praying two rak'ahs (units of prayer) other than the obligatory prayer, names his need where it says \"this matter\", and according to most scholars it is better to make the du'a after the salam.</p></div>\n<p>Here is the full hadith. Jabir ibn 'Abdillah (may Allah be pleased with them both) said: The Messenger of Allah ﷺ used to teach us istikhara in all matters, just as he taught us a surah of the Quran. He would say:</p>\n<blockquote><p>«إِذَا هَمَّ أَحَدُكُمْ بِالْأَمْرِ فَلْيَرْكَعْ رَكْعَتَيْنِ مِنْ غَيْرِ الْفَرِيضَةِ، ثُمَّ لِيَقُلْ: اللَّهُمَّ إِنِّي أَسْتَخِيرُكَ بِعِلْمِكَ، وَأَسْتَقْدِرُكَ بِقُدْرَتِكَ، وَأَسْأَلُكَ مِنْ فَضْلِكَ الْعَظِيمِ، فَإِنَّكَ تَقْدِرُ وَلَا أَقْدِرُ، وَتَعْلَمُ وَلَا أَعْلَمُ، وَأَنْتَ عَلَّامُ الْغُيُوبِ. اللَّهُمَّ إِنْ كُنْتَ تَعْلَمُ أَنَّ هَذَا الْأَمْرَ خَيْرٌ لِي فِي دِينِي وَمَعَاشِي وَعَاقِبَةِ أَمْرِي، أَوْ قَالَ: عَاجِلِ أَمْرِي وَآجِلِهِ، فَاقْدُرْهُ لِي وَيَسِّرْهُ لِي ثُمَّ بَارِكْ لِي فِيهِ، وَإِنْ كُنْتَ تَعْلَمُ أَنَّ هَذَا الْأَمْرَ شَرٌّ لِي فِي دِينِي وَمَعَاشِي وَعَاقِبَةِ أَمْرِي، أَوْ قَالَ: فِي عَاجِلِ أَمْرِي وَآجِلِهِ، فَاصْرِفْهُ عَنِّي وَاصْرِفْنِي عَنْهُ، وَاقْدُرْ لِيَ الْخَيْرَ حَيْثُ كَانَ ثُمَّ أَرْضِنِي بِهِ». «وَيُسَمِّي حَاجَتَهُ»</p></blockquote>\n<p><strong>Transliteration of the du'a:</strong></p>\n<blockquote><p><em>Allahumma inni astakhiruka bi'ilmik, wa astaqdiruka biqudratik, wa as'aluka min fadlikal-'azim, fa innaka taqdiru wa la aqdir, wa ta'lamu wa la a'lam, wa anta 'allamul-ghuyub. Allahumma in kunta ta'lamu anna hadhal-amra khayrun li fi dini wa ma'ashi wa 'aqibati amri (or he said: 'ajili amri wa ajilih), faqdurhu li wa yassirhu li thumma barik li fih. Wa in kunta ta'lamu anna hadhal-amra sharrun li fi dini wa ma'ashi wa 'aqibati amri (or he said: fi 'ajili amri wa ajilih), fasrifhu 'anni wasrifni 'anh, waqdur liyal-khayra haythu kana thumma ardini bih.</em></p></blockquote>\n<p><strong>Meaning:</strong> \"When one of you is concerned about a matter, let him pray two rak'ahs other than the obligatory prayer, then say: O Allah, I seek Your guidance through Your knowledge, and I seek ability through Your power, and I ask You of Your immense bounty. For You have power and I have none, You know and I do not, and You are the Knower of the unseen. O Allah, if You know that this matter is good for me in my religion, my livelihood and the outcome of my affairs (or he said: in my immediate and later affairs), then decree it for me, make it easy for me, and then bless me in it. And if You know that this matter is bad for me in my religion, my livelihood and the outcome of my affairs (or he said: in my immediate and later affairs), then turn it away from me and turn me away from it, and decree for me what is good wherever it may be, and then make me pleased with it.\" He said: \"And he names his need.\" (Al-Bukhari 1162, and in another place, number 6382)</p>\n<p>The words \"or he said\" reflect the narrator's doubt about the exact wording, so some scholars said you may combine both: \"fi dini wa ma'ashi wa 'aqibati amri, wa 'ajili amri wa ajilih\", and whoever says only one of them has followed the Sunnah. You name your need where you say \"this matter\", for example: \"O Allah, if You know that my travelling to such-and-such\" or \"that my accepting this job is good for me...\". You may also keep the matter in mind and simply say \"this matter\". You can read the hadith and its explanation in the <a href=\"https://hadeethenc.com/en/browse/hadith/3293\">Encyclopedia of Translated Prophetic Hadiths</a>.</p>\n\n<h2>How do I pray salat al-istikhara step by step?</h2>\n<p>The istikhara prayer is Sunnah by agreement of the four schools of fiqh. It is prayed like any two voluntary rak'ahs, and no specific recitation for it is established in the hadith. Here are the steps in order:</p>\n<ol>\n<li><strong>Define the matter clearly:</strong> know exactly what you are seeking guidance about, such as moving to a certain city or proposing to a certain person.</li>\n<li><strong>Make wudu</strong> (ablution) as for prayer, and face the qiblah.</li>\n<li><strong>Make the intention in your heart</strong> to pray two rak'ahs of istikhara. The intention is in the heart, and saying it aloud is not prescribed.</li>\n<li><strong>Pray two rak'ahs other than the obligatory prayer</strong>, reciting Al-Fatihah and whatever you can of the Quran in each. Some scholars, such as an-Nawawi, recommended Al-Kafirun in the first and Al-Ikhlas in the second. This is their recommendation, not a text, so recite whatever you wish.</li>\n<li><strong>Give the salam</strong> to end the prayer.</li>\n<li><strong>Make the istikhara dua.</strong> It is better to begin by praising Allah and sending blessings on the Prophet ﷺ, and to raise your hands.</li>\n<li><strong>Name your need</strong> where you say \"this matter\", in both places.</li>\n<li><strong>Go ahead with your matter</strong>, relying on Allah, take the practical means, and see whether it becomes easy or difficult.</li>\n</ol>\n<!--IMG:2-->\n<p>The two rak'ahs may be a regular sunnah prayer, the prayer for greeting the mosque or the Duha prayer if you also intend istikhara with it, as some jurists stated, because the hadith says \"other than the obligatory prayer\" and does not require a separate prayer. It is not prayed during <a href=\"/en/blog/forbidden-prayer-times/\">the forbidden times for prayer</a> unless the matter is urgent and cannot wait; scholars differ on that case, and the more cautious option is to delay it to a time when prayer is not discouraged.</p>\n\n<h2>When is the istikhara dua said: before or after the salam?</h2>\n<p>This is one of the questions people ask most, and the difference is about what is better, not about validity:</p>\n<table>\n<thead><tr><th>Position</th><th>Who held it</th><th>Evidence</th></tr></thead>\n<tbody>\n<tr><td>After the salam (the majority)</td><td>Most jurists of the four schools, as in the Kuwaiti Encyclopedia of Fiqh, the Permanent Committee, Shaykh Ibn Baz and Shaykh Ibn 'Uthaymin</td><td>The apparent wording \"let him pray two rak'ahs... then say\", where \"then\" indicates sequence, so the du'a comes after the prayer is complete</td></tr>\n<tr><td>Before the salam, after the tashahhud</td><td>Allowed by some scholars, and some considered it better</td><td>The worshipper is in intimate conversation with his Lord during the prayer, and the end of the prayer before the salam is a place of du'a</td></tr>\n</tbody>\n</table>\n<p>The practical conclusion: make the du'a after the salam, as that is the apparent meaning of the hadith and the view of the majority, as in <a href=\"https://binbaz.org.sa/fatwas/25310\">Ibn Baz's fatwa on whether the istikhara dua is before or after the salam (Arabic)</a>. Whoever says it before the salam, after the tashahhud, has done nothing wrong, as the commentators of the hadith noted. What matters is not to leave a long gap that cuts the link between the prayer and the du'a.</p>\n\n<!--CTA:rafiq-->\n\n<p>Since many people do not know the du'a by heart, it helps to keep its text close. In <strong>Rafiq Al-Taa</strong>, a free Islamic app with no ads and no accounts (Arabic interface), coming soon to Google Play, you will find the istikhara dua in <strong>Hisn al-Muslim</strong> (Fortress of the Muslim) with the other duas, so you can read it from your phone right after the prayer.</p>\n\n<h2>What do the words of the istikhara dua mean?</h2>\n<p>Understanding the meaning turns the du'a into humble worship instead of mere repetition. Here are its key phrases in brief:</p>\n<ul>\n<li><strong>\"Astakhiruka bi'ilmik\":</strong> I ask You to choose what is good for me, relying on Your all-encompassing knowledge from which nothing is hidden.</li>\n<li><strong>\"Wa astaqdiruka biqudratik\":</strong> I ask You to give me the ability to do it, if it is good.</li>\n<li><strong>\"Fa innaka taqdiru wa la aqdir, wa ta'lamu wa la a'lam\":</strong> an admission of the servant's weakness and ignorance of outcomes, which is the heart of istikhara.</li>\n<li><strong>\"Fi dini wa ma'ashi wa 'aqibati amri\":</strong> worldly benefit alone is not enough; you ask for good in your religion, your worldly life and the final outcome.</li>\n<li><strong>\"Faqdurhu li wa yassirhu li thumma barik li fih\":</strong> three requests: that it is decreed, made easy, and blessed once you have it.</li>\n<li><strong>\"Fasrifhu 'anni wasrifni 'anh\":</strong> you ask not only that the matter be kept away, but that your heart's attachment to it be removed too.</li>\n<li><strong>\"Thumma ardini bih\":</strong> asking for contentment with the decree, because whoever is not content with what Allah chose for him stays in regret, even if the good was in what happened.</li>\n</ul>\n<p>This meaning is in the words of Allah:</p>\n<blockquote>﴿وَعَسَىٰ أَن تَكْرَهُوا شَيْئًا وَهُوَ خَيْرٌ لَّكُمْ ۖ وَعَسَىٰ أَن تُحِبُّوا شَيْئًا وَهُوَ شَرٌّ لَّكُمْ ۗ وَاللَّهُ يَعْلَمُ وَأَنتُمْ لَا تَعْلَمُونَ﴾<p>\"But perhaps you hate a thing and it is good for you; and perhaps you love a thing and it is bad for you. And Allah knows, while you know not.\" (Surah Al-Baqarah 2:216, translation: Sahih International)</p></blockquote>\n\n<h2>For which matters is istikhara made?</h2>\n<p>Jabir (may Allah be pleased with him) said \"in all matters\", meaning every matter a Muslim is unsure about, small or large. But scholars explained that istikhara is for permissible matters where the better option is not clear, and for the details of acts of worship rather than whether to do them at all:</p>\n<table>\n<thead><tr><th>Type of matter</th><th>Is istikhara made for it?</th><th>Example</th></tr></thead>\n<tbody>\n<tr><td>Obligatory</td><td>No istikhara about doing it</td><td>You do not make istikhara about whether to pray Fajr or honour your parents</td></tr>\n<tr><td>Forbidden or disliked</td><td>No istikhara about leaving it</td><td>You do not make istikhara about whether to leave an interest-based deal</td></tr>\n<tr><td>Recommended, with competing options</td><td>Istikhara about timing and manner</td><td>Which year to perform Hajj, or with which group</td></tr>\n<tr><td>Permissible, and you are unsure</td><td>Yes, this is the main place for istikhara</td><td>Marrying a particular person, a job, travel, buying a house, choosing a field of study</td></tr>\n</tbody>\n</table>\n<p>It is a mistake to think istikhara is only for big decisions, since the Prophet ﷺ taught it to his Companions \"in all matters\".</p>\n\n<h2>Common mistakes about istikhara you should know</h2>\n<h3>1. Requiring a dream after istikhara</h3>\n<p>The hadith does not mention dreams at all, nor that the person should sleep after the du'a to wait for one. Scholars pointed out that the one making istikhara does not wait for a dream telling him to act or refrain; he goes ahead with his matter. A person may also dream about what is already on his mind, so no ruling is built on it. See the details in <a href=\"https://islamqa.info/en/answers/5882\">IslamQA: Istikharah signs</a>.</p>\n<h3>2. Making a feeling of ease in the heart the only sign</h3>\n<p>Some scholars said the person acts on what his heart feels at ease with, while others noted that people usually make istikhara about something they already lean towards, so this feeling should not be treated as a decisive sign. The closer view is to go ahead with the matter while taking the means: if it becomes easy, that is a sign of good, and if it becomes difficult and is turned away from you, that is a sign it was turned away.</p>\n<h3>3. Believing it cannot be repeated, or must be repeated seven times</h3>\n<p>Istikhara may be repeated if you remain unsure, just as a Muslim repeats his du'a, and a number of scholars mentioned this. As for fixing it at seven times, that comes in a hadith narrated by Ibn as-Sunni from Anas, which hadith scholars consider very weak, so it is not relied on to set a number.</p>\n<h3>4. Making istikhara on someone else's behalf</h3>\n<p>The hadith says \"when one of you is concerned about a matter\", so istikhara is for the person whose matter it is. That is why Shaykh Ibn Baz, Shaykh Ibn 'Uthaymin and others held that it is not prescribed to pray istikhara for someone else, though some jurists allowed it. The safer course is for the person concerned to make istikhara himself, and for his family and loved ones to make general du'a for him for good and success, which is prescribed without any disagreement.</p>\n<h3>5. Relying on weak hadiths</h3>\n<p>The saying \"Whoever seeks Allah's guidance will not fail, and whoever seeks counsel will not regret\" is widely attributed to the Prophet ﷺ, but it is a very weak hadith and cannot be attributed to him. Its general meaning is sound and supported by other evidence, but it should not be introduced with \"the Messenger of Allah said\".</p>\n<h3>6. Making istikhara after a final decision, or after the matter has passed</h3>\n<p>The hadith says \"when he is concerned\", meaning at the start of moving towards the matter, before the heart has fully settled on it. Whoever makes istikhara after an irreversible decision has missed part of its purpose, which is to leave the choice to Allah.</p>\n<!--IMG:3-->\n\n<h2>How do I combine istikhara with consulting people?</h2>\n<p>Istikhara does not replace consultation. Allah commanded His Prophet ﷺ to consult others, even though he was supported by revelation:</p>\n<blockquote>﴿وَشَاوِرْهُمْ فِي الْأَمْرِ ۖ فَإِذَا عَزَمْتَ فَتَوَكَّلْ عَلَى اللَّهِ ۚ إِنَّ اللَّهَ يُحِبُّ الْمُتَوَكِّلِينَ﴾<p>\"...and consult them in the matter. And when you have decided, then rely upon Allah. Indeed, Allah loves those who rely [upon Him].\" (Surah Al 'Imran 3:159, translation: Sahih International)</p></blockquote>\n<p>And He described the believers as those ﴿وَأَمْرُهُمْ شُورَىٰ بَيْنَهُمْ﴾ \"whose affair is [determined by] consultation among themselves\" (Surah Ash-Shura 42:38, translation: Sahih International). Consultation is asking an experienced person, and istikhara is asking the All-Knowing Creator. Here is a practical way to combine them:</p>\n<ol>\n<li><strong>Gather information:</strong> learn the details, such as the salary and nature of the job, or the character and religion of the suitor.</li>\n<li><strong>Consult people of experience and trust:</strong> those who know the matter and are known for honesty and sincere advice, not those who just tell you what you want to hear.</li>\n<li><strong>Make istikhara:</strong> pray two rak'ahs and make the narrated du'a.</li>\n<li><strong>Decide and go ahead:</strong> make your decision and take the means, relying on Allah.</li>\n<li><strong>Be content with what Allah decrees:</strong> if it becomes easy, praise Allah, and if it is turned away from you, know that the good lies elsewhere.</li>\n</ol>\n<p>Scholars differ on which comes first. Some put consultation first, so the person makes istikhara once the picture is clear, and others put istikhara first. The matter is broad; what matters is to do both.</p>\n<!--IMG:4-->\n\n<h2>What do I do after the istikhara prayer?</h2>\n<p>After istikhara, do not sit waiting for a sign from the unseen. Go ahead with the matter as if you will do it, then watch what happens:</p>\n<ul>\n<li>If the means become easy and doors open, go ahead, as this is a sign that Allah has decreed it for you.</li>\n<li>If the matter becomes difficult and real obstacles keep coming, do not force it and strain yourself; perhaps Allah has turned it away from you.</li>\n<li>If you are still unsure, repeat the istikhara and consult again; there is no harm in that.</li>\n<li>In every case, keep in mind \"thumma ardini bih\" (then make me pleased with it), for contentment is the fruit of istikhara.</li>\n</ul>\n<p>And remember the Quranic etiquette of tying plans to Allah's will: ﴿وَلَا تَقُولَنَّ لِشَيْءٍ إِنِّي فَاعِلٌ ذَٰلِكَ غَدًا ۝ إِلَّا أَن يَشَاءَ اللَّهُ﴾ \"And never say of anything, 'Indeed, I will do that tomorrow,' Except [when adding], 'If Allah wills.'\" (Surah Al-Kahf 18:23-24, translation: Sahih International)</p>\n<p>Istikhara is part of the life of du'a a Muslim lives every day, so pair it with <a href=\"/en/blog/adhkar-after-prayer/\">the adhkar after salah</a> and <a href=\"/en/blog/morning-evening-adhkar-virtues/\">the morning and evening adhkar</a>, and follow your daily du'a in the <a href=\"/en/blog/daily-worship-tracker/\">daily worship tracker</a>.</p>\n\n<h2>Summary: the istikhara dua is entrusting, not fortune-telling</h2>\n<p>The istikhara dua is not a way of knowing the unseen; it is handing the choice to Allah, the All-Knowing, the All-Powerful. Pray two rak'ahs other than the obligatory prayer, make the du'a after the salam with the text established in Sahih al-Bukhari, name your need, consult people of experience, then go ahead relying on Allah and content with His choice. Do not wait for a dream, and do not treat a passing feeling as a final verdict. What we have mentioned summarises what is well known among scholars; for special cases, it is best to ask trustworthy scholars in your country.</p>\n\n<!--CTA:rafiq-->\n",
+ "faq": [
+  {
+   "q": "Can I say the istikhara dua without praying?",
+   "a": "The Sunnah is to make the du'a after two rak'ahs, as in the hadith of Jabir in Sahih al-Bukhari. If prayer is not possible, such as for a menstruating woman, or someone who cannot pray at that time while the matter is urgent, some scholars mentioned that he may make the istikhara dua without the prayer, since du'a is allowed at any time. Praying is better whenever possible."
+  },
+  {
+   "q": "Is the istikhara dua said before or after the salam?",
+   "a": "Most jurists, including Ibn Baz, Ibn 'Uthaymin and the Permanent Committee, hold that it is after the salam, based on the apparent wording: let him pray two rak'ahs, then say. Some scholars allowed it before the salam after the tashahhud. So after the salam is better, and whoever says it before has done nothing wrong."
+  },
+  {
+   "q": "Do I have to see a dream after salat al-istikhara?",
+   "a": "No. The hadith does not mention dreams, and the person making istikhara does not need to sleep after the du'a. He goes ahead with the matter while taking the means: if it becomes easy, that is a sign of good, and if it becomes difficult and is turned away, that is a sign it was turned away. A person may also dream about what is already on his mind, so nothing is built on it."
+  },
+  {
+   "q": "How many times should I pray istikhara?",
+   "a": "Istikhara may be repeated if you remain unsure, just as a Muslim repeats his du'a, with no fixed number. The hadith that sets it at seven times was narrated by Ibn as-Sunni from Anas, and hadith scholars consider it very weak, so it is not relied upon."
+  },
+  {
+   "q": "Can I pray istikhara for someone else?",
+   "a": "The hadith addresses the person in need: when one of you is concerned about a matter. That is why Shaykh Ibn Baz, Ibn 'Uthaymin and others held that it is not prescribed to make istikhara on another's behalf, though some jurists allowed it. The safer course is for the person concerned to make istikhara himself, while his family make general du'a for him for good."
+  },
+  {
+   "q": "Are there specific surahs to recite in salat al-istikhara?",
+   "a": "No specific surahs are established in the hadith, so you recite Al-Fatihah and whatever you can of the Quran. Some scholars, such as an-Nawawi, recommended Al-Kafirun in the first rak'ah and Al-Ikhlas in the second. That is their recommendation without a text, so whoever recites other surahs has a valid prayer."
+  },
+  {
+   "q": "What are the signs of good after istikhara?",
+   "a": "The clearest sign is that the matter becomes easy and its means open up once you pursue them, and the sign that it was turned away is that it becomes difficult with real obstacles one after another. Some scholars mentioned ease in the heart as a sign, but it should not be taken alone as decisive, because a person may already lean towards the matter before istikhara."
+  }
+ ],
+ "internal_links": [
+  "forbidden-prayer-times",
+  "adhkar-after-prayer",
+  "morning-evening-adhkar-virtues",
+  "daily-worship-tracker"
+ ],
+ "sources": [
+  {
+   "title": "Sahih al-Bukhari 1162: the hadith of Jabir on istikhara (Sunnah.com)",
+   "url": "https://sunnah.com/bukhari:1162"
+  },
+  {
+   "title": "Encyclopedia of Translated Prophetic Hadiths: the hadith of istikhara",
+   "url": "https://hadeethenc.com/en/browse/hadith/3293"
+  },
+  {
+   "title": "Dorar hadith encyclopedia: the hadith of istikhara (Arabic)",
+   "url": "https://dorar.net/h/HkHepnlN"
+  },
+  {
+   "title": "Ibn Baz: is the istikhara dua before or after the salam (Arabic)",
+   "url": "https://binbaz.org.sa/fatwas/25310"
+  },
+  {
+   "title": "IslamQA: when is the du'a in salat al-istikhara (Arabic)",
+   "url": "https://islamqa.info/ar/answers/164728"
+  },
+  {
+   "title": "IslamQA (English): Istikharah signs (praying istikhara and feeling nothing)",
+   "url": "https://islamqa.info/en/answers/5882"
+  },
+  {
+   "title": "IslamQA: no one prays istikhara on behalf of another (Arabic)",
+   "url": "https://islamqa.info/ar/answers/134612"
+  },
+  {
+   "title": "Ibn Baz: ruling on praying istikhara for someone else (Arabic)",
+   "url": "https://binbaz.org.sa/fatwas/10634"
+  },
+  {
+   "title": "IslamQA (English): How to pray istikharah",
+   "url": "https://islamqa.info/en/answers/2217"
+  },
+  {
+   "title": "The Quran: Surah Al 'Imran 3:159",
+   "url": "https://quran.com/3/159"
+  },
+  {
+   "title": "The Quran: Surah Al-Baqarah 2:216",
+   "url": "https://quran.com/2/216"
+  }
+ ]
+}

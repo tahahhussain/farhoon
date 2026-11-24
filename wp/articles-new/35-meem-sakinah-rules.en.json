@@ -1,0 +1,169 @@
+{
+ "number": 35,
+ "slug": "meem-sakinah-rules",
+ "category": "Quran & Tajweed",
+ "title": "Meem Sakinah Rules: A Simple Guide With Examples, Tuhfat al-Atfal and a Table",
+ "meta_title": "Meem Sakinah Rules With Examples and Table | Farhoon",
+ "meta_description": "The 3 meem sakinah rules: ikhfa shafawi, idgham shafawi and izhar shafawi, with Quran examples and references, the Tuhfah lines, a table and an exercise.",
+ "focus_keyword": "meem sakinah rules",
+ "keywords": [
+  {
+   "keyword": "meem sakinah rules",
+   "type": "primary",
+   "est_monthly_searches": "1,000–3,000 (estimated)",
+   "intent": "informational",
+   "kgr_note": "Medium; many academy pages, few give verse references, mushaf marks and the Tuhfah lines together, KGR around 1 (estimated)"
+  },
+  {
+   "keyword": "rules of meem saakin",
+   "type": "secondary",
+   "est_monthly_searches": "500–2,000 (estimated)",
+   "intent": "informational",
+   "kgr_note": "Medium; spelling variant (estimated)"
+  },
+  {
+   "keyword": "ikhfa shafawi",
+   "type": "secondary",
+   "est_monthly_searches": "1,000–3,000 (estimated)",
+   "intent": "informational",
+   "kgr_note": "Medium (estimated)"
+  },
+  {
+   "keyword": "idgham shafawi",
+   "type": "secondary",
+   "est_monthly_searches": "500–2,000 (estimated)",
+   "intent": "informational",
+   "kgr_note": "Medium (estimated)"
+  },
+  {
+   "keyword": "izhar shafawi",
+   "type": "secondary",
+   "est_monthly_searches": "500–2,000 (estimated)",
+   "intent": "informational",
+   "kgr_note": "Medium (estimated)"
+  },
+  {
+   "keyword": "what are the rules of meem sakinah",
+   "type": "question",
+   "est_monthly_searches": "200–800 (estimated)",
+   "intent": "informational",
+   "kgr_note": "Featured snippet opportunity with a three-row table (estimated)"
+  },
+  {
+   "keyword": "difference between ikhfa shafawi and iqlab",
+   "type": "long-tail",
+   "est_monthly_searches": "50–200 (estimated)",
+   "intent": "informational",
+   "kgr_note": "Easy; low KGR likely (estimated)"
+  },
+  {
+   "keyword": "meem sakinah examples from quran",
+   "type": "long-tail",
+   "est_monthly_searches": "100–500 (estimated)",
+   "intent": "informational",
+   "kgr_note": "Easy to medium (estimated)"
+  }
+ ],
+ "keyword_variations": [
+  "meem saakin rules",
+  "meem sakin rules",
+  "rules of meem sakinah",
+  "meem sakinah tajweed",
+  "mim sakinah",
+  "ikhfa shafawi examples",
+  "idgham shafawi examples",
+  "izhar shafawi examples",
+  "ikhfaa shafawi",
+  "idgham mithlain saghir",
+  "labial rules tajweed",
+  "silent meem rules"
+ ],
+ "featured_snippet": {
+  "target_query": "what are the rules of meem sakinah",
+  "type": "table",
+  "html": "<table>\n<thead><tr><th>Rule</th><th>Next letter</th><th>Example</th></tr></thead>\n<tbody>\n<tr><td>Ikhfa shafawi (labial concealment)</td><td>Ba (ب)</td><td>تَرْمِيهِم بِحِجَارَةٍ</td></tr>\n<tr><td>Idgham shafawi (labial merging, also called the small idgham of two identical letters)</td><td>Meem (م)</td><td>لَهُم مَّا يَشَاءُونَ</td></tr>\n<tr><td>Izhar shafawi (labial clarity)</td><td>All other letters (26 letters), with extra care before waw (و) and fa (ف)</td><td>عَلَيْهِمْ وَلَا، هُمْ فِيهَا</td></tr>\n</tbody>\n</table>"
+ },
+ "excerpt": "A simple explanation of the three meem sakinah rules, their letters and how to pronounce them, with Quran examples and references, the lines of Tuhfat al-Atfal, Mushaf markings, a summary table and an exercise.",
+ "reading_minutes": 8,
+ "featured_image": {
+  "headline": "Meem Sakinah Rules",
+  "alt": "Summary table of the meem sakinah rules: ikhfa shafawi, idgham shafawi and izhar shafawi"
+ },
+ "cta_text": "Review the meem sakinah rules in the tajweed lessons of Rafiq Al-Taa, Farhoon's free ad-free app (Arabic interface), and hear the examples from many reciters. Coming soon to Google Play.",
+ "images": [
+  {
+   "file": "meem-sakinah-rules-cover-en.webp",
+   "alt": "Cover of the Farhoon lesson on the three meem sakinah rules",
+   "caption": "",
+   "type": "cover",
+   "spec": "Title: Meem Sakinah Rules | Subtitle: Ikhfa, idgham and izhar shafawi with examples"
+  },
+  {
+   "file": "meem-sakinah-three-rules-diagram-en.webp",
+   "alt": "Diagram of the three meem sakinah rules according to the next letter",
+   "caption": "The letter after meem sakinah decides the rule",
+   "type": "diagram",
+   "spec": "Top box: مْ (meem sakinah) | Three arrows: → ب = Ikhfa shafawi (ghunnah, two counts), example: تَرْمِيهِم بِحِجَارَةٍ | → م = Idgham shafawi (ghunnah, two counts), example: لَهُم مَّا | → all other letters = Izhar shafawi, note: take care before و and ف, example: هُمْ فِيهَا"
+  },
+  {
+   "file": "meem-sakinah-summary-table-en.webp",
+   "alt": "Summary table of the meem sakinah rules with letters, ghunnah and examples",
+   "caption": "",
+   "type": "table",
+   "spec": "Title: Meem sakinah rules | Four columns: Rule | Letter | Ghunnah | Example | Row 1: Ikhfa shafawi | ب | Two counts | تَرْمِيهِم بِحِجَارَةٍ [Al-Fil 105:4] | Row 2: Idgham shafawi | م | Two counts | لَهُم مَّا يَشَاءُونَ [Qaf 50:35] | Row 3: Izhar shafawi | All other letters | No extra ghunnah | هُمْ فِيهَا [Al-Baqarah 2:39]"
+  },
+  {
+   "file": "meem-sakinah-al-imran-103-exercise-en.webp",
+   "alt": "Practice exercise on the meem sakinah rules in verse 103 of Surah Al Imran",
+   "caption": "Exercise: Al Imran 3:103",
+   "type": "infographic",
+   "spec": "كُنتُمْ أَعْدَاءً: izhar | قُلُوبِكُمْ فَأَصْبَحْتُم: izhar before fa | فَأَصْبَحْتُم بِنِعْمَتِهِ: ikhfa | فَأَنقَذَكُم مِّنْهَا: idgham"
+  }
+ ],
+ "content_html": "<p>The <strong>meem sakinah rules</strong> are three: ikhfa shafawi (labial concealment) when the letter after it is ba (ب), idgham shafawi (labial merging) when the letter after it is meem (م), and izhar shafawi (labial clarity) when any other letter follows, with special care to pronounce it clearly before waw (و) and fa (ف). In tajweed books this chapter comes straight after <a href=\"/en/blog/noon-sakinah-tanween-rules/\">the rules of noon sakinah and tanween</a>, and it is easier, because it has fewer rules. In this lesson we explain each rule and how to pronounce it, with examples from the Quran and their references, the lines of Tuhfat al-Atfal on this chapter, a summary table, and common mistakes.</p>\n\n<h2>What are the rules of meem sakinah?</h2>\n<div class=\"f-snippet\"><table>\n<thead><tr><th>Rule</th><th>Next letter</th><th>Example</th></tr></thead>\n<tbody>\n<tr><td>Ikhfa shafawi (labial concealment)</td><td>Ba (ب)</td><td>تَرْمِيهِم بِحِجَارَةٍ</td></tr>\n<tr><td>Idgham shafawi (labial merging, also called the small idgham of two identical letters)</td><td>Meem (م)</td><td>لَهُم مَّا يَشَاءُونَ</td></tr>\n<tr><td>Izhar shafawi (labial clarity)</td><td>All other letters (26 letters), with extra care before waw (و) and fa (ف)</td><td>عَلَيْهِمْ وَلَا، هُمْ فِيهَا</td></tr>\n</tbody>\n</table></div>\n<p>This table is the whole chapter in brief; what follows explains it. The three rules are called \"shafawi\" (labial) because meem and ba are both pronounced with the lips, so the whole chapter revolves around the movement of the lips.</p>\n\n<h2>What is meem sakinah?</h2>\n<p><strong>Meem sakinah</strong> is a meem that carries no vowel, and its sukun (absence of a vowel) stays both when you continue reading and when you stop. It occurs in the middle and at the end of words, in nouns, verbs and particles:</p>\n<ul>\n<li>In the middle of a noun: «الْحَمْدُ» in ﴿الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ﴾ [Al-Fatihah 1:2], \"[All] praise is [due] to Allāh, Lord of the worlds\" (translation: Sahih International).</li>\n<li>At the end of a particle: «أَلَمْ» in ﴿أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَابِ الْفِيلِ﴾ [Al-Fil 105:1], \"Have you not considered, [O Muḥammad], how your Lord dealt with the companions of the elephant?\" (translation: Sahih International).</li>\n<li>The meem of the plural at the end of a pronoun: «عَلَيْهِمْ» و«لَهُمْ» و«أَنتُمْ» ('alayhim, lahum, antum). This is the most frequent kind of meem sakinah in the Quran.</li>\n</ul>\n<p>Alif never comes after meem sakinah, because alif is always without a vowel, and two such letters do not meet in this way. So meem sakinah comes before the twenty-eight letters of the alphabet (counting hamzah as a letter) apart from alif: ba, meem, and twenty-six other letters.</p>\n<h3>The lines of Tuhfat al-Atfal on the rules of meem sakinah</h3>\n<p>Imam Sulayman al-Jamzuri put this chapter into six lines of verse in his poem \"Tuhfat al-Atfal\" (The Children's Gift). He said:</p>\n<blockquote>وَالْمِيمُ إِنْ تَسْكُنْ تَجِي قَبْلَ الْهِجَا ... لَا أَلِفٍ لَيِّنَةٍ لِذِي الْحِجَا<br>\nأَحْكَامُهَا ثَلَاثَةٌ لِمَنْ ضَبَطْ ... إِخْفَاءٌ ادْغَامٌ وَإِظْهَارٌ فَقَطْ<br>\nفَالْأَوَّلُ الْإِخْفَاءُ عِنْدَ الْبَاءِ ... وَسَمِّهِ الشَّفْوِيَّ لِلْقُرَّاءِ<br>\nوَالثَّانِ إِدْغَامٌ بِمِثْلِهَا أَتَى ... وَسَمِّ إِدْغَامًا صَغِيرًا يَا فَتَى<br>\nوَالثَّالِثُ الْإِظْهَارُ فِي الْبَقِيَّهْ ... مِنْ أَحْرُفٍ وَسَمِّهَا شَفْوِيَّهْ<br>\nوَاحْذَرْ لَدَى وَاوٍ وَفَا أَنْ تَخْتَفِي ... لِقُرْبِهَا وَلِاتِّحَادٍ فَاعْرِفِ</blockquote>\n<p>In meaning, the six lines say:</p>\n<ol>\n<li>When meem is without a vowel, it comes before the letters of the alphabet, except the soft alif; take note, O person of understanding.</li>\n<li>Its rules are three, for whoever wants precision: ikhfa, idgham and izhar, nothing more.</li>\n<li>The first is ikhfa, before ba; call it shafawi (labial), for the reciters.</li>\n<li>The second is idgham, which comes with its like (another meem); call it the small idgham, young man.</li>\n<li>The third is izhar, with the remaining letters; and call it shafawi too.</li>\n<li>And beware of it being hidden before waw and fa, because of nearness and sameness (of articulation point); so know this.</li>\n</ol>\n<p>In the first line, \"dhul-hija\" means a person of intellect. We will explain the other lines with each rule.</p>\n\n<h2>Rule one: ikhfa shafawi (labial concealment)</h2>\n<p><strong>Definition:</strong> concealing meem sakinah before ba, with a ghunnah (nasal sound) lasting two counts (harakah).</p>\n<p><strong>Its letter:</strong> one letter only, <strong>ba (ب)</strong>, as the poet said: «فَالْأَوَّلُ الْإِخْفَاءُ عِنْدَ الْبَاءِ» (\"The first is ikhfa, before ba\").</p>\n<p><strong>Why it is called this:</strong> it is called ikhfa (concealment) because the meem is hidden before ba and not pronounced fully, and shafawi because meem and ba both come from the lips.</p>\n<p><strong>Its reason:</strong> tajanus (shared articulation point): meem and ba come from the same place, the lips, so pronouncing the meem fully before ba is heavy. It is not merged into ba either, because meem is distinguished by its ghunnah. So ikhfa is the middle way between the two.</p>\n<p><strong>How to pronounce it:</strong> the lips close lightly on the meem without pressing, the ghunnah comes from the nose for two counts, and then you pronounce the ba.</p>\n<h3>Examples of ikhfa shafawi from the Quran</h3>\n<ul>\n<li>﴿تَرْمِيهِم بِحِجَارَةٍ مِّن سِجِّيلٍ﴾ [Al-Fil 105:4], \"Striking them with stones of hard clay\" (translation: Sahih International).</li>\n<li>﴿وَمِنَ النَّاسِ مَن يَقُولُ آمَنَّا بِاللَّهِ وَبِالْيَوْمِ الْآخِرِ وَمَا هُم بِمُؤْمِنِينَ﴾ [Al-Baqarah 2:8], \"And of the people are some who say, 'We believe in Allāh and the Last Day,' but they are not believers\" (translation: Sahih International). The example: «هُم بِمُؤْمِنِينَ».</li>\n<li>﴿وَمَن يَعْتَصِم بِاللَّهِ فَقَدْ هُدِيَ إِلَىٰ صِرَاطٍ مُّسْتَقِيمٍ﴾ [Al Imran 3:101], \"And whoever holds firmly to Allāh has [indeed] been guided to a straight path\" (translation: Sahih International). The example: «يَعْتَصِم بِاللَّهِ».</li>\n<li>﴿فَأَصْبَحْتُم بِنِعْمَتِهِ إِخْوَانًا﴾ [Al Imran 3:103], \"and you became, by His favor, brothers\" (translation: Sahih International).</li>\n</ul>\n<p>Notice that ikhfa shafawi only happens between two words: you will not find in the Quran a meem sakinah followed by ba within one word.</p>\n<h3>The difference between ikhfa shafawi and iqlab</h3>\n<p>The pronunciation in both rules is almost the same: a concealed meem with ghunnah before ba. The difference is in the origin. In iqlab, the original letter is a noon sakinah or tanween that is changed into a meem, as in ﴿مِن بَعْدِهِ﴾ [An-Nisa 4:163], whereas in ikhfa shafawi the meem is an original meem. In the Madinah Mushaf, iqlab is shown by a small meem above the noon, and ikhfa shafawi is shown by a meem without a sukun sign followed by a ba without a shaddah.</p>\n<h3>The difference of opinion on ikhfa or izhar before ba</h3>\n<p>Ikhfa is the chosen and well-known view among the expert scholars of recitation, and it is what is practised in the recitation of Hafs from Asim by way of ash-Shatibiyyah. Some reciters in early times pronounced the meem clearly before ba, but practice today is on ikhfa. There is also a contemporary difference about the position of the lips: do they close fully, or is a very small gap left between them? This is learned by hearing it from a teacher, so follow what your qualified teacher teaches you.</p>\n\n<!--CTA:rafiq-->\n\n<p>Listening is the fastest way to master the ghunnah of ikhfa shafawi. <strong>Rafiq Al-Taa</strong>, Farhoon's free, ad-free app (Arabic interface) that is coming soon to Google Play, has the Madinah Mushaf with many reciters, so you can open any of the examples above and listen to it again and again, then review the rule in its tajweed lessons section. You can download a surah once and listen to it afterwards without internet.</p>\n\n<h2>Rule two: idgham shafawi (labial merging)</h2>\n<p><strong>Definition:</strong> merging meem sakinah into the voweled meem after it, so the two become one meem with a shaddah (doubling), with a ghunnah of two counts.</p>\n<p><strong>Its letter:</strong> one letter only, <strong>meem (م)</strong>, as the poet said: «وَالثَّانِ إِدْغَامٌ بِمِثْلِهَا أَتَى» (\"The second is idgham, which comes with its like\").</p>\n<p><strong>Its names:</strong> it is called \"idgham shafawi\" because meem comes from the lips, and \"idgham mithlayn saghir\" (the small idgham of two identical letters) because the two letters are the same (meem and meem), and the first has no vowel while the second has one; that is what \"small idgham\" means. It is also called \"idgham mutamathilayn bi ghunnah\" (merging of two identical letters with ghunnah).</p>\n<p><strong>How to pronounce it:</strong> you pronounce one doubled meem, keeping the lips closed with a full ghunnah of two counts, then they open on the vowel of the second meem.</p>\n<h3>Examples of idgham shafawi from the Quran</h3>\n<ul>\n<li>﴿لَهُم مَّا يَشَاءُونَ فِيهَا وَلَدَيْنَا مَزِيدٌ﴾ [Qaf 50:35], \"They will have whatever they wish therein, and with Us is more\" (translation: Sahih International).</li>\n<li>﴿الَّذِي أَطْعَمَهُم مِّن جُوعٍ وَآمَنَهُم مِّنْ خَوْفٍ﴾ [Quraysh 106:4], \"Who has fed them, [saving them] from hunger and made them safe, [saving them] from fear\" (translation: Sahih International). It contains two cases of idgham shafawi.</li>\n<li>﴿كَم مِّن فِئَةٍ قَلِيلَةٍ غَلَبَتْ فِئَةً كَثِيرَةً بِإِذْنِ اللَّهِ﴾ [Al-Baqarah 2:249], \"How many a small company has overcome a large company by permission of Allāh\" (translation: Sahih International).</li>\n<li>﴿وَكُنتُمْ عَلَىٰ شَفَا حُفْرَةٍ مِّنَ النَّارِ فَأَنقَذَكُم مِّنْهَا﴾ [Al Imran 3:103], \"And you were on the edge of a pit of the Fire, and He saved you from it\" (translation: Sahih International). The example: «فَأَنقَذَكُم مِّنْهَا».</li>\n</ul>\n<p>In the Madinah Mushaf, idgham shafawi is recognised by a first meem without a sukun sign and a second meem with a shaddah.</p>\n\n<h2>Rule three: izhar shafawi (labial clarity)</h2>\n<p><strong>Definition:</strong> pronouncing meem sakinah clearly from its point of articulation, without any extra ghunnah, when any letter other than ba or meem follows it.</p>\n<p><strong>Its letters:</strong> the rest of the alphabet after ba and meem, which are twenty-six letters counting hamzah. The soft alif is not among them, because it never comes after meem sakinah. As the poet said: «وَالثَّالِثُ الْإِظْهَارُ فِي الْبَقِيَّهْ» (\"The third is izhar, with the remaining letters\").</p>\n<p><strong>How to pronounce it:</strong> the lips close lightly on the meem, then move straight on to the next letter without a pause, without lengthening the ghunnah, and without adding a vowel to the meem.</p>\n<h3>Examples of izhar shafawi from the Quran</h3>\n<table>\n<thead><tr><th>Next letter</th><th>Example</th><th>Reference</th></tr></thead>\n<tbody>\n<tr><td>Dal (within one word)</td><td>﴿الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ﴾</td><td>Al-Fatihah 1:2</td></tr>\n<tr><td>Ta</td><td>﴿أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ﴾</td><td>Al-Fil 105:1</td></tr>\n<tr><td>Waw</td><td>﴿أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ﴾</td><td>Al-Fatihah 1:7</td></tr>\n<tr><td>Fa</td><td>﴿أُولَٰئِكَ أَصْحَابُ النَّارِ ۖ هُمْ فِيهَا خَالِدُونَ﴾</td><td>Al-Baqarah 2:39</td></tr>\n<tr><td>Lam</td><td>﴿أَأَنذَرْتَهُمْ أَمْ لَمْ تُنذِرْهُمْ لَا يُؤْمِنُونَ﴾</td><td>Al-Baqarah 2:6</td></tr>\n<tr><td>Jeem</td><td>﴿أَنَّ لَهُمْ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ﴾</td><td>Al-Baqarah 2:25</td></tr>\n<tr><td>Hamzah</td><td>﴿إِذْ كُنتُمْ أَعْدَاءً فَأَلَّفَ بَيْنَ قُلُوبِكُمْ﴾</td><td>Al Imran 3:103</td></tr>\n</tbody>\n</table>\n<!--IMG:2-->\n<h3>Why is izhar stressed before waw and fa?</h3>\n<p>The poet drew attention to these two letters in particular: «وَاحْذَرْ لَدَى وَاوٍ وَفَا أَنْ تَخْتَفِي ... لِقُرْبِهَا وَلِاتِّحَادٍ فَاعْرِفِ» (\"Beware of it being hidden before waw and fa, because of nearness and sameness; so know this\"). That is: O reciter, be careful not to hide the meem before waw and fa, for these reasons:</p>\n<ul>\n<li><strong>With waw: the same point of articulation.</strong> Waw and meem both come from the lips, so the tongue easily slips into hiding the meem or merging it into the waw, the way noon merges into waw.</li>\n<li><strong>With fa: a nearby point of articulation.</strong> Fa comes from the inside of the lower lip with the tips of the upper front teeth, which is close to where meem is pronounced, so the two are easily confused.</li>\n</ul>\n<p>So the reciter needs extra care in places like ﴿عَلَيْهِمْ وَلَا الضَّالِّينَ﴾ [Al-Fatihah 1:7] and ﴿هُمْ فِيهَا خَالِدُونَ﴾ [Al-Baqarah 2:39], which are among the most frequently repeated places in daily recitation. In the Mushaf, izhar shafawi is shown by a sukun sign on the meem.</p>\n\n<h2>How can I tell the meem sakinah rule from the Mushaf's markings?</h2>\n<p>The marks in the Madinah Mushaf show you the rule at a glance:</p>\n<table>\n<thead><tr><th>Rule</th><th>Mark on the meem</th><th>Mark on the next letter</th></tr></thead>\n<tbody>\n<tr><td>Izhar shafawi</td><td>A sukun (shaped like the head of a small letter ha) above the meem</td><td>No shaddah</td></tr>\n<tr><td>Ikhfa shafawi</td><td>The meem has no sukun</td><td>Ba without a shaddah</td></tr>\n<tr><td>Idgham shafawi</td><td>The meem has no sukun</td><td>Meem with a shaddah</td></tr>\n</tbody>\n</table>\n<p>The general rule of Mushaf markings: a meem with a sukun is pronounced clearly, and a meem without a sukun is not. These marks differ in some Mushafs printed in narrations other than Hafs, or in the Maghreb, so check the explanation of the marks at the end of your own Mushaf.</p>\n\n<h2>Summary table of the meem sakinah rules</h2>\n<table>\n<thead><tr><th>Rule</th><th>Number of letters</th><th>Letter</th><th>Ghunnah</th><th>Reason</th><th>Example and reference</th></tr></thead>\n<tbody>\n<tr><td>Ikhfa shafawi</td><td>1</td><td>ب</td><td>Two counts</td><td>Shared articulation point (tajanus)</td><td>﴿تَرْمِيهِم بِحِجَارَةٍ﴾ [Al-Fil 105:4]</td></tr>\n<tr><td>Idgham shafawi (small idgham of two identical letters)</td><td>1</td><td>م</td><td>Two counts</td><td>Identical letters (tamathul)</td><td>﴿لَهُم مَّا يَشَاءُونَ﴾ [Qaf 50:35]</td></tr>\n<tr><td>Izhar shafawi</td><td>26</td><td>All other letters</td><td>No extra ghunnah</td><td>Distance between articulation points, with care before و and ف</td><td>﴿هُمْ فِيهَا﴾ [Al-Baqarah 2:39]</td></tr>\n</tbody>\n</table>\n<!--IMG:3-->\n\n<h2>Practice exercise on a single verse</h2>\n<p>This verse from Surah Al Imran brings together all three rules, along with rules of noon sakinah. Read it in your Mushaf or on <a href=\"https://quran.com/3/103\">Quran.com</a>:</p>\n<blockquote>﴿وَاعْتَصِمُوا بِحَبْلِ اللَّهِ جَمِيعًا وَلَا تَفَرَّقُوا ۚ وَاذْكُرُوا نِعْمَتَ اللَّهِ عَلَيْكُمْ إِذْ كُنتُمْ أَعْدَاءً فَأَلَّفَ بَيْنَ قُلُوبِكُمْ فَأَصْبَحْتُم بِنِعْمَتِهِ إِخْوَانًا وَكُنتُمْ عَلَىٰ شَفَا حُفْرَةٍ مِّنَ النَّارِ فَأَنقَذَكُم مِّنْهَا ۗ كَذَٰلِكَ يُبَيِّنُ اللَّهُ لَكُمْ آيَاتِهِ لَعَلَّكُمْ تَهْتَدُونَ﴾ [Al Imran 3:103]<br>\"And hold firmly to the rope of Allāh all together and do not become divided. And remember the favor of Allāh upon you - when you were enemies and He brought your hearts together and you became, by His favor, brothers. And you were on the edge of a pit of the Fire, and He saved you from it. Thus does Allāh make clear to you His verses that you may be guided.\" (translation: Sahih International)</blockquote>\n<ol>\n<li>«عَلَيْكُمْ إِذْ»: izhar shafawi before hamzah.</li>\n<li>«كُنتُمْ أَعْدَاءً»: izhar shafawi before hamzah.</li>\n<li>«قُلُوبِكُمْ فَأَصْبَحْتُم»: izhar shafawi before fa, one of the places that need care.</li>\n<li>«فَأَصْبَحْتُم بِنِعْمَتِهِ»: ikhfa shafawi.</li>\n<li>«وَكُنتُمْ عَلَىٰ»: izhar shafawi before 'ayn.</li>\n<li>«فَأَنقَذَكُم مِّنْهَا»: idgham shafawi.</li>\n<li>«لَكُمْ آيَاتِهِ» و«لَعَلَّكُمْ تَهْتَدُونَ»: izhar shafawi.</li>\n</ol>\n<p>The same verse also contains rules of noon sakinah: «كُنتُمْ» has true ikhfa (concealment) of the noon before ta, «فَأَنقَذَكُم» has ikhfa before qaf with a heavy ghunnah, and «مِّنْهَا» has throat-letter izhar before ha.</p>\n<!--IMG:4-->\n\n<h2>Common mistakes in the meem sakinah rules</h2>\n<ul>\n<li><strong>Hiding the meem before waw and fa:</strong> reading «عَلَيْهِمْ وَلَا» with a weak, unclear meem, which is exactly the mistake the poet warned against.</li>\n<li><strong>Adding a vowel to meem sakinah:</strong> some reciters add a slight vowel after the meem in izhar, saying «عَلَيْهِمُ وَلَا», when the correct way is a complete sukun.</li>\n<li><strong>Pressing the lips hard in ikhfa:</strong> so the meem comes out strong as if it were doubled; the correct way is a light closing.</li>\n<li><strong>Lengthening the ghunnah in izhar, or shortening it in idgham and ikhfa:</strong> what is required is two counts in idgham and ikhfa, and only the meem's natural ghunnah without extra length in izhar.</li>\n<li><strong>Confusing the plural meem with a sukun and the plural meem with a vowel:</strong> when the plural meem is followed by a letter without a vowel, it is given a dammah or kasrah to avoid two silent letters meeting, as in ﴿عَلَيْهِمُ الذِّلَّةُ﴾, and in that case it does not fall under the rules of meem sakinah.</li>\n<li><strong>Pausing after the meem:</strong> such as stopping for a moment between «هُمْ» and «فِيهَا»; the correct way is to join them while pronouncing the meem clearly.</li>\n</ul>\n\n<h2>How can I master the rules of meem sakinah?</h2>\n<ol>\n<li>Memorise the short rule: <strong>ba = ikhfa, meem = idgham, anything else = izhar</strong>.</li>\n<li>Memorise the six lines of Tuhfat al-Atfal, because they cover the whole chapter.</li>\n<li>Review <a href=\"/en/blog/noon-sakinah-tanween-rules/\">the rules of noon sakinah and tanween</a>, and compare iqlab with ikhfa shafawi.</li>\n<li>Track every plural meem in Surah Al-Fatihah and the beginning of Al-Baqarah, and write down the rule for each one.</li>\n<li>Listen to a skilled reciter and repeat after him, then recite to a teacher who can correct you, because tajweed is learned by hearing and reciting in person.</li>\n</ol>\n<p>If you want to review your recitation anywhere, we explained in <a href=\"/en/blog/quran-offline-app/\">Quran app without internet</a> what you need to read and listen offline. To make review a daily habit, read <a href=\"/en/blog/daily-worship-tracker/\">the daily worship tracker</a>. To study the full text of Tuhfat al-Atfal and its explanations, you can refer to <a href=\"https://www.alukah.net/sharia/0/57837/\">the text of Tuhfat al-Atfal on Alukah</a> (Arabic).</p>\n\n<!--CTA:rafiq-->\n\n<p>In summary: meem sakinah has three rules, decided by the letter that follows it. Ba gives ikhfa shafawi, meem gives idgham shafawi, and every other letter gives izhar shafawi, with great care not to hide it before waw and fa. Memorise the rule, apply it to Al-Fatihah every day, and recite to a skilled teacher.</p>\n",
+ "faq": [
+  {
+   "q": "How many meem sakinah rules are there?",
+   "a": "There are three rules of meem sakinah: ikhfa shafawi when the letter after it is ba, idgham shafawi (also called the small idgham of two identical letters) when the letter after it is meem, and izhar shafawi when any other letter of the alphabet follows. They are called shafawi (labial) because meem is pronounced with the lips."
+  },
+  {
+   "q": "What is the letter of ikhfa shafawi?",
+   "a": "Ikhfa shafawi has one letter, ba. When meem sakinah comes before ba, it is concealed with a ghunnah of two counts, as in \"tarmihim bi-hijarah\" in Surah Al-Fil. It is called shafawi because meem and ba are both pronounced with the lips."
+  },
+  {
+   "q": "Why is idgham shafawi called the small idgham of two identical letters?",
+   "a": "It is called idgham of two identical letters (mithlayn) because the two letters are the same, a meem without a vowel followed by a voweled meem, and it is called small (saghir) because the first is silent and the second voweled. They are pronounced as one doubled meem with a ghunnah of two counts, as in \"lahum ma yasha'un\" in Surah Qaf 50:35."
+  },
+  {
+   "q": "Why must you be careful not to hide the meem before waw and fa?",
+   "a": "Because meem shares its point of articulation with waw, both coming from the lips, and is close to the articulation point of fa, so a reciter can easily hide the meem before them by mistake. That is why al-Jamzuri said: \"Beware of it being hidden before waw and fa\". Examples are \"'alayhim wa lad-dallin\" and \"hum fiha khalidun\"."
+  },
+  {
+   "q": "What is the difference between ikhfa shafawi and iqlab?",
+   "a": "The pronunciation is close in both: a concealed meem with a ghunnah of two counts before ba. The difference is that in iqlab the original letter is a noon sakinah or tanween that turns into a meem, as in \"min ba'dihi\", marked with a small meem above the noon. In ikhfa shafawi the meem is an original meem, as in \"tarmihim bi-hijarah\"."
+  },
+  {
+   "q": "Does the plural meem follow the meem sakinah rules?",
+   "a": "Yes. The silent plural meem, as in \"'alayhim\" and \"lahum\", follows the three meem sakinah rules depending on the letter after it. But if a silent letter comes after it, it is given a dammah or kasrah to avoid two silent letters meeting, as in \"'alayhimudh-dhillah\", and then it does not fall under these rules."
+  }
+ ],
+ "internal_links": [
+  "noon-sakinah-tanween-rules",
+  "quran-offline-app",
+  "daily-worship-tracker"
+ ],
+ "sources": [
+  {
+   "title": "The text of Tuhfat al-Atfal by Shaykh Sulayman al-Jamzuri - Alukah (Arabic)",
+   "url": "https://www.alukah.net/sharia/0/57837/"
+  },
+  {
+   "title": "Surah Al Imran 3:103 - Quran.com",
+   "url": "https://quran.com/3/103"
+  },
+  {
+   "title": "Tuhfat al-Atfal - text from al-Maktabah ash-Shamilah (OpenITI) (Arabic)",
+   "url": "https://github.com/OpenITI/1225AH/tree/master/data/1208SulaymanJamzuriAffandi"
+  }
+ ]
+}

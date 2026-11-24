@@ -1,0 +1,204 @@
+{
+ "number": 18,
+ "slug": "forbidden-prayer-times",
+ "category": "Prayer",
+ "title": "Forbidden Prayer Times: The Five Times and Which Prayers Are Allowed in Them",
+ "meta_title": "Forbidden Prayer Times: The 5 Times & Rulings | Farhoon",
+ "meta_description": "The five forbidden prayer times with authentic hadith, how long each lasts in minutes, and whether you may make up missed prayers or greet the mosque then.",
+ "focus_keyword": "forbidden prayer times",
+ "keywords": [
+  {
+   "keyword": "forbidden prayer times",
+   "type": "primary",
+   "est_monthly_searches": "2,000–8,000 (estimated)",
+   "intent": "informational",
+   "kgr_note": "Medium; IslamQA and fatwa sites rank, but few give approximate minutes in a table together with prayers that have a reason (estimated)"
+  },
+  {
+   "keyword": "forbidden times for prayer in islam",
+   "type": "secondary",
+   "est_monthly_searches": "1,000–4,000 (estimated)",
+   "intent": "informational",
+   "kgr_note": "Medium (estimated)"
+  },
+  {
+   "keyword": "makruh prayer times",
+   "type": "secondary",
+   "est_monthly_searches": "500–2,000 (estimated)",
+   "intent": "informational",
+   "kgr_note": "Medium; common term among Hanafi and South Asian readers (estimated)"
+  },
+  {
+   "keyword": "how long after sunrise can you pray",
+   "type": "question",
+   "est_monthly_searches": "300–1,500 (estimated)",
+   "intent": "informational",
+   "kgr_note": "Easy; answers are scattered across forums and audio fatwas (estimated)"
+  },
+  {
+   "keyword": "how many minutes before dhuhr is forbidden to pray",
+   "type": "question",
+   "est_monthly_searches": "200–800 (estimated)",
+   "intent": "informational",
+   "kgr_note": "Easy (estimated)"
+  },
+  {
+   "keyword": "can i make up missed prayer after asr",
+   "type": "question",
+   "est_monthly_searches": "200–800 (estimated)",
+   "intent": "informational",
+   "kgr_note": "Easy (estimated)"
+  },
+  {
+   "keyword": "prayers with a reason in forbidden times",
+   "type": "long-tail",
+   "est_monthly_searches": "100–500 (estimated)",
+   "intent": "informational",
+   "kgr_note": "Easy; few English pages explain the difference of opinion (estimated)"
+  },
+  {
+   "keyword": "zawal time",
+   "type": "LSI",
+   "est_monthly_searches": "1,000–5,000 (estimated)",
+   "intent": "informational",
+   "kgr_note": "Supporting term (estimated)"
+  }
+ ],
+ "keyword_variations": [
+  "forbidden prayer times",
+  "forbidden times for prayer",
+  "forbidden times to pray",
+  "prohibited prayer times",
+  "makruh prayer times",
+  "makrooh times for salah",
+  "times when prayer is not allowed",
+  "zawal time",
+  "zawal time today",
+  "awqat an-nahy",
+  "when is it haram to pray",
+  "can you pray after asr",
+  "can you pray after fajr",
+  "tahiyyat al masjid after asr",
+  "duha prayer time after sunrise",
+  "sunrise prayer forbidden"
+ ],
+ "featured_snippet": {
+  "target_query": "what are the forbidden times for prayer",
+  "type": "list",
+  "html": "<ol><li>After the Fajr prayer until the sun rises.</li><li>From sunrise until the sun has risen the height of a spear (roughly 12–15 minutes).</li><li>When the sun is at its zenith in the middle of the sky until it passes it (a few minutes before Dhuhr).</li><li>After the Asr prayer until the sun turns yellow and nears setting.</li><li>From when the sun nears setting until it has fully set.</li></ol>"
+ },
+ "excerpt": "The five forbidden prayer times with their evidence from al-Bukhari and Muslim, an approximate table of how long each lasts in minutes, and which prayers are allowed in them, including missed obligatory prayers and prayers that have a reason.",
+ "reading_minutes": 10,
+ "featured_image": {
+  "headline": "Forbidden Prayer Times",
+  "alt": "The five forbidden prayer times marked along the sun's path from Fajr to Maghrib"
+ },
+ "cta_text": "Rafiq Al-Taa, our free ad-free app (Arabic interface), calculates prayer times by your country's method with per-prayer minute adjustments, so you know sunrise, Dhuhr and Maghrib. Coming soon to Google Play.",
+ "images": [
+  {
+   "file": "forbidden-prayer-times-cover-en.webp",
+   "alt": "Cover image for the article on the forbidden prayer times on a Farhoon background",
+   "caption": "",
+   "type": "cover",
+   "spec": "Title: Forbidden Prayer Times | Subtitle: The five times and what may be prayed in them | A simple sun arc from east to west on the brand background"
+  },
+  {
+   "file": "forbidden-prayer-times-minutes-table-en.webp",
+   "alt": "Approximate table of how long each forbidden prayer time lasts in minutes",
+   "caption": "The durations of the forbidden times are approximate and vary by country and season",
+   "type": "table",
+   "spec": "Title: Forbidden times (approximate) | After the Fajr prayer → until sunrise | From sunrise → +12–15 minutes | Zenith → 5–10 minutes before Dhuhr | After the Asr prayer → until the sun nears setting | Before Maghrib → 15–20 minutes | Badge: Approximate"
+  },
+  {
+   "file": "prayers-allowed-in-forbidden-times-en.webp",
+   "alt": "Which prayers are allowed and which are not allowed in the forbidden prayer times",
+   "caption": "",
+   "type": "infographic",
+   "spec": "Forbidden: unrestricted voluntary prayer | Allowed: a missed obligatory prayer, completing the current obligatory prayer, the funeral prayer after Fajr and Asr | Disputed: greeting the mosque, the two rak'ahs of tawaf, the eclipse prayer, making up a regular sunnah | Allowed by the Shafi'is, and the choice of Ibn Taymiyyah and Ibn Baz"
+  },
+  {
+   "file": "forbidden-times-sun-path-diagram-en.webp",
+   "alt": "Diagram of the sun's path showing where the five forbidden prayer times fall during the day",
+   "caption": "Where the forbidden times fall on the sun's path",
+   "type": "diagram",
+   "spec": "Fajr → sunrise | Sunrise → height of a spear (~15 min) | Zenith (~10 min before Dhuhr) | Asr → sun turning yellow | Yellowing → sunset | Prayer allowed between them: Duha and the rest of the day"
+  }
+ ],
+ "content_html": "<p>The <strong>forbidden prayer times</strong> are five: after the Fajr prayer until the sun rises, from sunrise until the sun has risen the height of a spear, when the sun is at its zenith until it passes it, after the Asr prayer until the sun nears setting, and from then until it sets. The prohibition covers voluntary prayer with no particular reason (nafl mutlaq); an obligatory prayer that was missed can be prayed at any time. In this guide we bring together the authentic hadith on the subject, give an approximate estimate in minutes for each period, and explain which prayers are allowed in these times and where scholars differ.</p>\n\n<h2>What are the forbidden times for prayer?</h2>\n<div class=\"f-snippet\"><ol><li>After the Fajr prayer until the sun rises.</li><li>From sunrise until the sun has risen the height of a spear (roughly 12–15 minutes).</li><li>When the sun is at its zenith in the middle of the sky until it passes it (a few minutes before Dhuhr).</li><li>After the Asr prayer until the sun turns yellow and nears setting.</li><li>From when the sun nears setting until it has fully set.</li></ol></div>\n<p>On closer study, these five times come down to three \"narrow\" periods that last only a short time: at sunrise, at the zenith, and at sunset; and two \"wide\" periods that last longer: after the Fajr prayer and after the Asr prayer. The prohibition in the narrow periods is stronger, which is why many jurists distinguish between the two kinds in some rulings, as we will see.</p>\n\n<h2>What is the evidence for the forbidden times in the authentic Sunnah?</h2>\n<p>These times are established by several authentic hadith. The best known are three:</p>\n<h3>The hadith of 'Uqbah ibn 'Amir: the three narrow times</h3>\n<p>'Uqbah ibn 'Amir al-Juhani (may Allah be pleased with him) said:</p>\n<blockquote>\"There are three times at which the Messenger of Allah ﷺ forbade us to pray or to bury our dead: when the sun begins to rise until it is fully up, when the sun is at its height at midday until it passes the meridian, and when the sun draws near to setting until it sets.\" (Sahih Muslim 831)</blockquote>\n<p>\"When the sun is at its height at midday\" refers to the moment the sun stands in the middle of the sky and shadows stop shortening or lengthening. \"Draws near to setting\" means it has inclined towards the horizon and is close to setting. You can read an explanation of the hadith in the <a href=\"https://hadeethenc.com/ar/browse/hadith/10604\">Encyclopedia of Translated Prophetic Hadiths</a>.</p>\n<h3>The hadith of Abu Sa'id al-Khudri: the two wide times</h3>\n<p>Abu Sa'id al-Khudri (may Allah be pleased with him) reported that the Messenger of Allah ﷺ said:</p>\n<blockquote>\"There is no prayer after the morning prayer until the sun rises high, and no prayer after the 'Asr prayer until the sun sets.\" (Sahih al-Bukhari 586; Sahih Muslim 827)</blockquote>\n<h3>The hadith of 'Amr ibn 'Abasah: the reason for the prohibition</h3>\n<p>In the long hadith of 'Amr ibn 'Abasah as-Sulami in Sahih Muslim, the Prophet ﷺ told him: \"Offer the morning prayer, then refrain from prayer when the sun is rising until it is fully up, for when it rises it rises between the horns of Satan, and at that time the disbelievers prostrate to it.\" (Sahih Muslim 832). In the same hadith he then mentioned the prohibition when the shadow stands still at midday, and after the Asr prayer until the sun sets. Other narrations of the hadith give the height as \"the length of a spear\" (qid rumh), meaning about a spear's length to the naked eye.</p>\n<p>'Abdullah ibn 'Umar (may Allah be pleased with them both) reported that the Prophet ﷺ said: \"None of you should aim to pray at sunrise or at sunset.\" (Sahih al-Bukhari 585; Sahih Muslim 828)</p>\n\n<h2>What is the wisdom behind forbidding prayer at these times?</h2>\n<p>The hadith of 'Amr ibn 'Abasah states the wisdom clearly: at sunrise and sunset the sun's worshippers among the idolaters prostrate to it, so the Muslim is told not to pray at those moments, so as not to resemble them even outwardly. As for the time of the zenith, the same hadith says it is a time when Hell is stoked. As for the two wide periods after Fajr and after Asr, scholars explain that the prohibition there closes the door to a greater harm, so that someone praying voluntary prayers does not carry on until the very moment of sunrise or sunset. Part of the wisdom too is that a Muslim worships by obeying: he prays when commanded and holds back when told to.</p>\n\n<h2>How long are the forbidden times in minutes? An approximate table</h2>\n<p>The Sunnah did not define these times in minutes but by visible signs in the sun. What follows is an approximate estimate given by scholars and astronomers to make things easier for people. It varies by country and season, so always leave a margin of caution:</p>\n<table>\n<thead><tr><th>Forbidden time</th><th>Starts</th><th>Ends</th><th>Duration (approximate)</th></tr></thead>\n<tbody>\n<tr><td>After the Fajr prayer</td><td>After you have prayed Fajr</td><td>Sunrise</td><td>Varies; about one to one and a half hours depending on when you pray (approximate)</td></tr>\n<tr><td>At sunrise</td><td>Sunrise</td><td>The sun rising the height of a spear</td><td>About 12–15 minutes after sunrise (approximate)</td></tr>\n<tr><td>At the zenith</td><td>The sun standing in the middle of the sky</td><td>The sun passing the meridian (start of Dhuhr)</td><td>About 5–10 minutes before the Dhuhr adhan (approximate)</td></tr>\n<tr><td>After the Asr prayer</td><td>After you have prayed Asr</td><td>The sun nearing sunset</td><td>Varies with when you pray and the length of the day (approximate)</td></tr>\n<tr><td>At sunset</td><td>The sun turning yellow and inclining to set</td><td>The whole disc has set (Maghrib adhan)</td><td>About 15–20 minutes before Maghrib (approximate)</td></tr>\n</tbody>\n</table>\n<!--IMG:2-->\n<p>Shaykh Ibn 'Uthaymin (may Allah have mercy on him) was asked about the length of \"the height of a spear\" and put it at about a quarter of an hour after sunrise; adding a few minutes for caution is even better. Because these times depend on sunrise, Dhuhr and Maghrib, their accuracy follows the accuracy of your local prayer times. We explain why prayer times differ between apps in our article on <a href=\"/en/blog/prayer-times-calculation-methods/\">prayer time calculation methods</a>.</p>\n<h3>Important: the prohibition after Fajr and Asr is tied to the prayer itself</h3>\n<p>The apparent meaning of Abu Sa'id's hadith is that the prohibition in the two wide periods begins after the <strong>prayer</strong> of Fajr and after the <strong>prayer</strong> of Asr. So if someone delays the Asr prayer for a valid reason, he may pray voluntary prayers before praying it, as long as the time has not come close to sunset. As for the time between the Fajr adhan and the Fajr prayer, the Hanbalis and a group of scholars hold that nothing is prayed in it except the sunnah of Fajr, while others hold that the prohibition only begins after the prayer. The more cautious course is to pray only the sunnah of Fajr.</p>\n\n<!--CTA:rafiq-->\n\n<p>Since the forbidden times are built on the prayer times themselves, the first thing you need is accurate prayer times for your city. In <strong>Rafiq Al-Taa</strong>, our free Arabic-language app coming soon to Google Play, prayer times are calculated on your phone using your country's official method automatically. You can adjust each prayer by minutes to match your mosque's timetable, and the adhan sounds on time even when the app is closed.</p>\n\n<h2>Which prayers are allowed during the forbidden times?</h2>\n<p>The prohibition is basically about <strong>unrestricted voluntary prayer</strong> (nafl mutlaq), meaning extra prayer with no particular reason behind it, such as a person standing up to pray two voluntary rak'ahs after Asr for no reason. Other prayers are treated in more detail:</p>\n<h3>1. A missed obligatory prayer: made up at any time</h3>\n<p>Whoever sleeps through an obligatory prayer or forgets it should pray it as soon as he remembers, even in a forbidden time, according to the majority of scholars, because the Prophet ﷺ said:</p>\n<blockquote>\"Whoever forgets a prayer or sleeps through it, its expiation is to pray it when he remembers it.\" (Sahih Muslim 684)</blockquote>\n<p>And he ﷺ said: \"Whoever catches one rak'ah of the morning prayer before the sun rises has caught the morning prayer, and whoever catches one rak'ah of Asr before the sun sets has caught Asr.\" (Sahih al-Bukhari 579; Sahih Muslim 608). This shows that an obligatory prayer is completed even if the sun rises or sets during it. The Hanafis differ regarding the three narrow times: they hold that a missed prayer should be delayed until the forbidden time is over, with the exception of that same day's Asr at sunset. For the details of sleeping through Fajr, see our article on <a href=\"/en/blog/missed-fajr-prayer/\">making up a missed Fajr prayer</a>.</p>\n<h3>2. Prayers that have a reason: a well-known difference of opinion</h3>\n<p>\"Prayers with a reason\" (dhawat al-asbab) are voluntary prayers prompted by a specific cause, such as the prayer of greeting the mosque (tahiyyat al-masjid), the two rak'ahs after tawaf, the eclipse prayer, the sunnah prayer after wudu, making up missed regular sunnah prayers (sunan rawatib), and the funeral prayer. There are two well-known views on them:</p>\n<ul>\n<li><strong>The first view: they are allowed in the forbidden times.</strong> This is the Shafi'i position and one narration from Imam Ahmad. It was the choice of Shaykh al-Islam Ibn Taymiyyah, and among contemporary scholars Shaykh Ibn Baz considered it stronger in <a href=\"https://binbaz.org.sa/fatwas/4222/\">his fatwa on greeting the mosque in a forbidden time</a> (Arabic). Their evidence is that the hadith about these specific prayers are particular, so they take precedence over the general hadith of prohibition.</li>\n<li><strong>The second view: they are not allowed, except what has been exempted.</strong> This is the position of the Hanafis, the Malikis and the well-known view among the Hanbalis, with exceptions in each school, such as the funeral prayer in the two wide periods, and the two rak'ahs of tawaf among the Hanbalis. Their evidence is the general wording of the hadith of prohibition.</li>\n</ul>\n<p>Among the evidence for the first view:</p>\n<ul>\n<li>Umm Salamah (may Allah be pleased with her) reported that the Prophet ﷺ prayed two rak'ahs after Asr. She asked him about it, and he told her that people from 'Abd al-Qays had kept him busy from the two rak'ahs after Dhuhr, and these were those two (Sahih al-Bukhari 1233; Sahih Muslim 834). So he made up a missed regular sunnah after Asr.</li>\n<li>The Prophet's ﷺ words: \"O Banu 'Abd Manaf, do not prevent anyone from circling this House and praying at whatever hour he wishes, by night or by day.\" (Jami' at-Tirmidhi 868; graded sahih by al-Albani)</li>\n<li>The hadith of Qays ibn 'Amr, who prayed the sunnah of Fajr after the Fajr prayer and the Prophet ﷺ remained silent about it (Sunan Abi Dawud 1267; graded sahih by al-Albani, while some hadith scholars considered it defective because of a break in the chain (irsal)).</li>\n<li>The general wording of his ﷺ words: \"When one of you enters the mosque, let him pray two rak'ahs before he sits.\" (Sahih al-Bukhari 444; Sahih Muslim 714)</li>\n</ul>\n<p>You can review the views and their evidence in the <a href=\"https://dorar.net/feqhia/1312\">fiqh encyclopedia on Dorar</a> (Arabic).</p>\n<h3>Table: what is and isn't allowed in the forbidden times</h3>\n<table>\n<thead><tr><th>Prayer</th><th>Ruling in a forbidden time</th><th>Note</th></tr></thead>\n<tbody>\n<tr><td>Unrestricted voluntary prayer (with no reason)</td><td>Forbidden by agreement of the schools</td><td>This is what the prohibition is mainly about</td></tr>\n<tr><td>A missed obligatory prayer</td><td>Prayed when remembered, according to the majority</td><td>The Hanafis delay it out of the three narrow times</td></tr>\n<tr><td>Completing the current obligatory prayer</td><td>Allowed</td><td>Whoever catches a rak'ah of Fajr or Asr has caught it</td></tr>\n<tr><td>Greeting the mosque (tahiyyat al-masjid)</td><td>Disputed; allowed by the Shafi'is and those who agree with them</td><td>Not allowed by the Hanafis, the Malikis and the well-known Hanbali view</td></tr>\n<tr><td>The two rak'ahs of tawaf</td><td>Allowed by the Shafi'is and Hanbalis</td><td>Based on the hadith \"do not prevent anyone from circling this House\"</td></tr>\n<tr><td>Making up a missed regular sunnah</td><td>Disputed; the hadith of Umm Salamah is reported on it</td><td>Such as making up the sunnah of Dhuhr after Asr</td></tr>\n<tr><td>The eclipse prayer</td><td>Disputed; allowed by the Shafi'is and those who agree with them</td><td>Because its reason passes once the eclipse ends</td></tr>\n<tr><td>The funeral prayer</td><td>Allowed in the two wide periods by nearly all scholars</td><td>Delayed in the narrow times unless there is concern for the body</td></tr>\n</tbody>\n</table>\n<!--IMG:3-->\n\n<h2>Are the funeral prayer and burial allowed in the forbidden times?</h2>\n<p>The hadith of 'Uqbah ibn 'Amir quoted above forbids praying in the three narrow times and also forbids that \"we bury our dead\" in them. For this reason many scholars distinguish between the two wide periods and the narrow times: the funeral prayer after the Fajr prayer and after the Asr prayer is allowed according to nearly all scholars, while at sunrise, at the zenith and at sunset the funeral prayer and the burial are delayed a few minutes until the time has passed, unless there is concern that the body will change. As the table shows, these periods are short, so waiting for them is no hardship.</p>\n\n<h2>Are Friday or Makkah exempt from the forbidden times?</h2>\n<h3>The zenith on Friday</h3>\n<p>The Shafi'is hold that voluntary prayer at the zenith on Friday is not disliked, and Ibn Taymiyyah chose this view for someone who comes early to the Friday prayer and keeps praying until the imam comes out. They cite the fact that the Prophet ﷺ encouraged coming early to Jumu'ah and praying until the imam comes out without any restriction, and a hadith in Sunan Abi Dawud exempting Friday, which hadith scholars graded weak. The majority hold that the prohibition applies on Friday as on any other day. Someone who enters the mosque on Friday while the imam is giving the sermon has a specific ruling, which we explain in our article on <a href=\"/en/blog/tahiyyat-al-masjid-khutbah/\">greeting the mosque during the khutbah</a>.</p>\n<h3>Praying in al-Masjid al-Haram</h3>\n<p>The Shafi'is take the hadith of Jubayr ibn Mut'im quoted above, \"do not prevent anyone from circling this House and praying at whatever hour he wishes\", as evidence that there is no forbidden time at all in Makkah, while others apply it to the two rak'ahs of tawaf only. It is a disputed question, and the more cautious course for someone who wants to pray unrestricted voluntary prayers there is to avoid the three narrow times.</p>\n\n<h2>Common misunderstandings about the forbidden times</h2>\n<ul>\n<li><strong>Not making up a missed obligatory prayer because \"it is a forbidden time\":</strong> according to the majority this is a mistake; an obligatory prayer is made up as soon as it is remembered.</li>\n<li><strong>Delaying Asr until the sun turns yellow without a valid reason:</strong> the Prophet ﷺ said about this: \"That is the prayer of the hypocrite: he sits watching the sun until, when it is between the horns of Satan, he gets up and pecks out four rak'ahs.\" (Sahih Muslim 622). A forbidden time is no excuse for delaying the obligatory prayer into it.</li>\n<li><strong>Praying Duha (the forenoon prayer) straight after sunrise:</strong> the time of Duha begins once the sun has risen the height of a spear, so wait about a quarter of an hour after sunrise.</li>\n<li><strong>Thinking the zenith lasts a long time:</strong> it is only a few minutes before the Dhuhr adhan; the whole forenoon until those minutes is a time for prayer.</li>\n<li><strong>Relying on approximate times from another city:</strong> sunrise and sunset differ from one city to another, so work them out from your own city's prayer times.</li>\n</ul>\n\n<h2>How can you find the forbidden times in your day? Simple steps</h2>\n<ol>\n<li>Open the prayer times for your city in an app set to your country's method, or on your mosque's timetable.</li>\n<li>After the Fajr prayer: don't pray voluntary prayers until the sun has risen.</li>\n<li>Add about a quarter of an hour to the sunrise time; after that the time of Duha begins.</li>\n<li>Subtract about 10 minutes from the Dhuhr adhan time; those are the minutes of the zenith, so don't start a voluntary prayer in them.</li>\n<li>After the Asr prayer: don't pray unrestricted voluntary prayers until Maghrib.</li>\n<li>About a quarter of an hour before Maghrib: this is the strictest forbidden time, so pray nothing except the current obligatory prayer or a missed one, as explained above.</li>\n</ol>\n<!--IMG:4-->\n<p>If you want to keep your prayers at the start of their times and stay on top of your regular sunnah prayers, you may find the idea of a <a href=\"/en/blog/daily-worship-tracker/\">daily worship tracker</a> useful. Knowing the forbidden times is part of organising your whole day of worship, together with knowing the exact <a href=\"/en/blog/fajr-prayer-time/\">Fajr prayer time</a> and <a href=\"/en/blog/asr-prayer-time/\">Asr prayer time</a>.</p>\n\n<h2>Summary of the rulings on the forbidden prayer times</h2>\n<p>There are five forbidden times, established by authentic texts in al-Bukhari and Muslim: after the Fajr prayer until sunrise, from sunrise until the sun has risen the height of a spear, at the zenith until the sun passes it, after the Asr prayer until the sun nears setting, and from then until it sets. The prohibition is on unrestricted voluntary prayer; a missed obligatory prayer is prayed whenever it is remembered, according to the majority. There is a well-known difference of opinion about prayers with a reason, such as greeting the mosque, and the view that they are allowed is the Shafi'i position and the choice of Ibn Taymiyyah and Ibn Baz. The minutes given in this article are approximate to make things easier; what counts is the actual position of the sun. What we have presented is a summary of the views of scholars, and for particular situations it is best to ask trustworthy scholars in your country.</p>\n\n<!--CTA:rafiq-->\n",
+ "faq": [
+  {
+   "q": "How many minutes after sunrise can I pray Duha?",
+   "a": "The time of Duha begins when the sun has risen the height of a spear after sunrise, which some scholars, such as Shaykh Ibn 'Uthaymin, put at about a quarter of an hour after sunrise. If you wait twelve to fifteen minutes after your city's sunrise time, and add a little for caution, the forbidden time has passed. This is an approximate estimate that varies slightly by country and season."
+  },
+  {
+   "q": "Can I make up a missed prayer after Asr?",
+   "a": "Yes. According to the majority of scholars a missed obligatory prayer is made up whenever a Muslim remembers it, even in a forbidden time, because of the hadith \"Whoever forgets a prayer or sleeps through it, its expiation is to pray it when he remembers it\" (Muslim). The Hanafis differ only regarding the three narrow times, at sunrise, the zenith and sunset, and hold that it should be delayed a few minutes until the time passes."
+  },
+  {
+   "q": "Should I pray tahiyyat al-masjid if I enter the mosque after Asr?",
+   "a": "This is a disputed question. The Shafi'is, one narration from Ahmad, and the choice of Ibn Taymiyyah and Ibn Baz hold that greeting the mosque is prayed in a forbidden time because it has a reason. The Hanafis, the Malikis and the well-known Hanbali view do not allow it, based on the general hadith of prohibition. Whoever prays it following the first view has done nothing wrong, and whoever sits down out of caution has done nothing wrong."
+  },
+  {
+   "q": "What is the zenith (zawal) time and how long does it last?",
+   "a": "The zenith is when the sun stands in the middle of the sky just before it passes the meridian, so the shadow neither grows nor shrinks; then it inclines westward and the time of Dhuhr begins. It is short, and people estimate it at roughly five to ten minutes before the Dhuhr adhan. Don't start an unrestricted voluntary prayer in it; the whole forenoon before it is a time for prayer."
+  },
+  {
+   "q": "Does the prohibition after Asr start from the adhan or from the prayer?",
+   "a": "The apparent meaning of Abu Sa'id's hadith in al-Bukhari and Muslim, \"no prayer after the 'Asr prayer until the sun sets\", is that the prohibition is linked to actually praying Asr. So someone who has not yet prayed Asr may pray voluntary prayers as long as the sun is not near setting. After the Fajr adhan, the Hanbalis and a group of scholars hold that only the sunnah of Fajr is prayed."
+  },
+  {
+   "q": "Is the funeral prayer allowed after Fajr or after Asr?",
+   "a": "Yes. The funeral prayer after the Fajr prayer and after the Asr prayer is allowed according to nearly all scholars. In the three narrow times, at sunrise, the zenith and sunset, the hadith of 'Uqbah ibn 'Amir in Sahih Muslim forbids praying and burying, so one waits a few minutes until the time passes, unless there is concern for the body."
+  },
+  {
+   "q": "Why is it forbidden to pray at sunrise and sunset?",
+   "a": "The Prophet ﷺ explained in the hadith of 'Amr ibn 'Abasah in Sahih Muslim that the sun rises between the horns of Satan and at that time the disbelievers prostrate to it, and likewise when it sets. So the Muslim was told not to pray at those moments, so as not to resemble sun-worshippers in the outward form of their worship. It is also an act of worship through obeying Allah's command."
+  }
+ ],
+ "internal_links": [
+  "prayer-times-calculation-methods",
+  "missed-fajr-prayer",
+  "tahiyyat-al-masjid-khutbah",
+  "daily-worship-tracker",
+  "fajr-prayer-time",
+  "asr-prayer-time"
+ ],
+ "sources": [
+  {
+   "title": "Sunnah.com: Sahih Muslim 831 (hadith of 'Uqbah ibn 'Amir, the three times)",
+   "url": "https://sunnah.com/muslim:831"
+  },
+  {
+   "title": "Encyclopedia of Translated Prophetic Hadiths: explanation of the hadith of 'Uqbah ibn 'Amir",
+   "url": "https://hadeethenc.com/ar/browse/hadith/10604"
+  },
+  {
+   "title": "Encyclopedia of Translated Prophetic Hadiths: hadith of 'Amr ibn 'Abasah (Sahih Muslim 832)",
+   "url": "https://hadeethenc.com/ar/browse/hadith/6610"
+  },
+  {
+   "title": "Dorar: fiqh encyclopedia, prayers with a reason in the forbidden times (Arabic)",
+   "url": "https://dorar.net/feqhia/1312"
+  },
+  {
+   "title": "Shaykh Ibn Baz: ruling on greeting the mosque in the forbidden times (Arabic)",
+   "url": "https://binbaz.org.sa/fatwas/4222/"
+  },
+  {
+   "title": "Shaykh Ibn Baz: the times in which prayer is forbidden and the wisdom behind it (Arabic)",
+   "url": "https://binbaz.org.sa/fatwas/10693/"
+  },
+  {
+   "title": "Sunnah.com: Sahih Muslim 832 (hadith of 'Amr ibn 'Abasah)",
+   "url": "https://sunnah.com/muslim:832"
+  },
+  {
+   "title": "Sunnah.com: Jami' at-Tirmidhi 868 (hadith of Jubayr ibn Mut'im)",
+   "url": "https://sunnah.com/tirmidhi:868"
+  },
+  {
+   "title": "IslamQA: forbidden prayer times",
+   "url": "https://islamqa.info/en/answers/48998"
+  }
+ ]
+}

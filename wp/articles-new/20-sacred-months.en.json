@@ -1,0 +1,184 @@
+{
+ "number": 20,
+ "slug": "sacred-months",
+ "category": "Islamic Months",
+ "title": "The Sacred Months in Islam: What They Are, Their Order, Rulings and 1448 Dates",
+ "meta_title": "The 4 Sacred Months in Islam: Names & Rulings | Farhoon",
+ "meta_description": "The four sacred months in Islam: Dhu al-Qa'dah, Dhu al-Hijjah, Muharram and Rajab, with their order, the verse and hadith, their rulings and 1448 AH dates.",
+ "focus_keyword": "sacred months in islam",
+ "keywords": [
+  {
+   "keyword": "sacred months in islam",
+   "type": "primary",
+   "est_monthly_searches": "2,000–6,000 (estimated)",
+   "intent": "informational",
+   "kgr_note": "Medium; IslamQA and general Islamic sites rank, few combine the rulings with a dates table (estimated)"
+  },
+  {
+   "keyword": "4 sacred months in islam",
+   "type": "secondary",
+   "est_monthly_searches": "1,000–4,000 (estimated)",
+   "intent": "informational",
+   "kgr_note": "Medium (estimated)"
+  },
+  {
+   "keyword": "what are the four sacred months",
+   "type": "question",
+   "est_monthly_searches": "500–2,000 (estimated)",
+   "intent": "informational",
+   "kgr_note": "Easy; suits a list snippet (estimated)"
+  },
+  {
+   "keyword": "why are they called sacred months",
+   "type": "question",
+   "est_monthly_searches": "100–500 (estimated)",
+   "intent": "informational",
+   "kgr_note": "Easy (estimated)"
+  },
+  {
+   "keyword": "are sins multiplied in the sacred months",
+   "type": "question",
+   "est_monthly_searches": "100–500 (estimated)",
+   "intent": "informational",
+   "kgr_note": "Easy; few pages explain the difference between gravity and number (estimated)"
+  },
+  {
+   "keyword": "is ramadan a sacred month",
+   "type": "question",
+   "est_monthly_searches": "200–800 (estimated)",
+   "intent": "informational",
+   "kgr_note": "Easy (estimated)"
+  },
+  {
+   "keyword": "sacred months 1448 dates",
+   "type": "long-tail",
+   "est_monthly_searches": "100–500 (estimated)",
+   "intent": "informational",
+   "kgr_note": "Easy; few pages with 1448 dates so far (estimated)"
+  },
+  {
+   "keyword": "ashhur al-hurum",
+   "type": "LSI",
+   "est_monthly_searches": "100–300 (estimated)",
+   "intent": "informational",
+   "kgr_note": "Supporting term (estimated)"
+  }
+ ],
+ "keyword_variations": [
+  "sacred months in islam",
+  "sacred months",
+  "4 sacred months",
+  "four sacred months",
+  "the holy months in islam",
+  "islamic sacred months",
+  "ashhur al-hurum",
+  "al-ashhur al-hurum",
+  "which months are sacred in islam",
+  "sacred months order",
+  "dhul qadah dhul hijjah muharram rajab",
+  "fighting in the sacred months",
+  "sins in the sacred months",
+  "sacred months 1448",
+  "sacred months 2027"
+ ],
+ "featured_snippet": {
+  "target_query": "what are the sacred months in islam",
+  "type": "list",
+  "html": "<ol><li><strong>Dhu al-Qa'dah</strong>: the eleventh month, and the first of the three consecutive ones.</li><li><strong>Dhu al-Hijjah</strong>: the twelfth month, the month of Hajj and Eid al-Adha.</li><li><strong>Muharram</strong>: the first month of the Hijri year, which contains 'Ashura.</li><li><strong>Rajab</strong>: the seventh month, standing alone between Jumada al-Akhirah and Sha'ban.</li></ol>"
+ },
+ "excerpt": "The four sacred months are Dhu al-Qa'dah, Dhu al-Hijjah, Muharram and Rajab. Their order, why they are called sacred, the verse and the hadith, their rulings according to scholars, and a table of their expected dates for 1448 AH.",
+ "reading_minutes": 9,
+ "featured_image": {
+  "headline": "The four sacred months",
+  "alt": "The four sacred months Dhu al-Qa'dah, Dhu al-Hijjah, Muharram and Rajab in the Hijri year"
+ },
+ "cta_text": "The Hijri calendar in Rafiq Al-Taa, our free ad-free app (Arabic interface), shows the Hijri months and their occasions, so you know when each sacred month begins. Coming soon to Google Play.",
+ "images": [
+  {
+   "file": "sacred-months-cover-en.webp",
+   "alt": "Cover image for the article on the four sacred months on a Farhoon background",
+   "caption": "",
+   "type": "cover",
+   "spec": "Title: The Sacred Months | Subtitle: Dhu al-Qa'dah · Dhu al-Hijjah · Muharram · Rajab | On the brand background"
+  },
+  {
+   "file": "hijri-year-sacred-months-diagram-en.webp",
+   "alt": "Circle of the twelve Hijri months with the four sacred months highlighted",
+   "caption": "Three in a row and one alone: where the sacred months fall in the Hijri year",
+   "type": "diagram",
+   "spec": "Circle of 12 segments in order: 1 Muharram | 2 Safar | 3 Rabi' al-Awwal | 4 Rabi' al-Akhir | 5 Jumada al-Ula | 6 Jumada al-Akhirah | 7 Rajab | 8 Sha'ban | 9 Ramadan | 10 Shawwal | 11 Dhu al-Qa'dah | 12 Dhu al-Hijjah | Highlight the four sacred months (11, 12 and 1 together, 7 alone) | Caption under the circle: Three in a row: Dhu al-Qa'dah, Dhu al-Hijjah and Muharram; one alone: Rajab"
+  },
+  {
+   "file": "sacred-months-1448-dates-table-en.webp",
+   "alt": "Table of the expected dates of the sacred months for the year 1448 AH",
+   "caption": "Expected dates according to the Umm al-Qura calendar; they depend on the moon sighting",
+   "type": "table",
+   "spec": "Title: Sacred months 1448 AH (expected) | Rajab 1448: 10 December 2026 – 8 January 2027 | Dhu al-Qa'dah 1448: 7 April – 6 May 2027 | Dhu al-Hijjah 1448: 7 May – 5 June 2027 ('Arafah ≈ 15 May, Eid al-Adha ≈ 16 May) | Muharram 1449: from 6 June 2027 ('Ashura ≈ 15 June) | Small note: expected dates"
+  },
+  {
+   "file": "sacred-months-recommended-deeds-en.webp",
+   "alt": "Infographic of the established good deeds in each of the sacred months",
+   "caption": "What is established in each of the sacred months",
+   "type": "infographic",
+   "spec": "Dhu al-Qa'dah: all the Prophet's ﷺ 'Umrahs were in it except the one with his Hajj | Dhu al-Hijjah: the first ten days, fasting 'Arafah, the sacrifice | Muharram: the best fasting after Ramadan, fasting 'Ashura and the 9th | Rajab: no special worship, general good deeds | \"So do not wrong yourselves during them\" (at-Tawbah 36)"
+  }
+ ],
+ "content_html": "<p>The <strong>sacred months</strong> in Islam are four: Dhu al-Qa'dah, Dhu al-Hijjah, Muharram and Rajab. Three of them come one after another at the end and start of the Hijri year, and the fourth, Rajab, stands alone in the middle of it, as the Prophet ﷺ explained during the Farewell Pilgrimage. In this article you will find their order, why they are called sacred, the verse and the hadith about them, their rulings according to scholars, and their expected dates for 1448 AH.</p>\n\n<h2>What are the four sacred months?</h2>\n<div class=\"f-snippet\"><ol><li><strong>Dhu al-Qa'dah</strong>: the eleventh month, and the first of the three consecutive ones.</li><li><strong>Dhu al-Hijjah</strong>: the twelfth month, the month of Hajj and Eid al-Adha.</li><li><strong>Muharram</strong>: the first month of the Hijri year, which contains 'Ashura.</li><li><strong>Rajab</strong>: the seventh month, standing alone between Jumada al-Akhirah and Sha'ban.</li></ol></div>\n<p>Some people remember them with the Arabic phrase \"thalathah sard wa wahid fard\": three in a row, namely Dhu al-Qa'dah, Dhu al-Hijjah and Muharram, and one on its own, namely Rajab. This is exactly what the authentic hadith states, as we will see.</p>\n\n<h2>What is the evidence for the sacred months in the Quran and Sunnah?</h2>\n<p>Allah the Exalted says:</p>\n<blockquote>﴿إِنَّ عِدَّةَ الشُّهُورِ عِندَ اللَّهِ اثْنَا عَشَرَ شَهْرًا فِي كِتَابِ اللَّهِ يَوْمَ خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ مِنْهَا أَرْبَعَةٌ حُرُمٌ ۚ ذَٰلِكَ الدِّينُ الْقَيِّمُ ۚ فَلَا تَظْلِمُوا فِيهِنَّ أَنفُسَكُمْ ۚ وَقَاتِلُوا الْمُشْرِكِينَ كَافَّةً كَمَا يُقَاتِلُونَكُمْ كَافَّةً ۚ وَاعْلَمُوا أَنَّ اللَّهَ مَعَ الْمُتَّقِينَ﴾ [Surah at-Tawbah: 36]<br>\"Indeed, the number of months with Allah is twelve [lunar] months in the register of Allah [from] the day He created the heavens and the earth; of these, four are sacred. That is the correct religion [i.e., way], so do not wrong yourselves during them. And fight against the disbelievers collectively as they fight against you collectively. And know that Allah is with the righteous [who fear Him].\" (Surah at-Tawbah 9:36, translation: Sahih International)</blockquote>\n<p>The verse does not name the four months; the Sunnah identifies them. Abu Bakrah (may Allah be pleased with him) reported that the Prophet ﷺ said in his sermon on the Day of Sacrifice during the Farewell Pilgrimage:</p>\n<blockquote>\"Time has come back round to how it was on the day Allah created the heavens and the earth. The year is twelve months, four of which are sacred: three in a row, Dhu al-Qa'dah, Dhu al-Hijjah and Muharram, and Rajab of Mudar, which comes between Jumada and Sha'ban.\" (Sahih al-Bukhari 3197; Sahih Muslim 1679)</blockquote>\n<p>\"Time has come back round to how it was\" means that the months had returned to their original places, after the Arabs in the Jahiliyyah (the pre-Islamic era) used to shift the sanctity of one month to another so that they could make fighting lawful in it. This is the \"postponement\" (nasi') about which Allah said:</p>\n<blockquote>﴿إِنَّمَا النَّسِيءُ زِيَادَةٌ فِي الْكُفْرِ ۖ يُضَلُّ بِهِ الَّذِينَ كَفَرُوا يُحِلُّونَهُ عَامًا وَيُحَرِّمُونَهُ عَامًا لِّيُوَاطِئُوا عِدَّةَ مَا حَرَّمَ اللَّهُ﴾ [Surah at-Tawbah: 37]<br>\"Indeed, the postponing [of restriction within sacred months] is an increase in disbelief by which those who have disbelieved are led [further] astray. They make it lawful one year and unlawful another year to correspond to the number made unlawful by Allah\" (Surah at-Tawbah 9:37, translation: Sahih International)</blockquote>\n<p>The sacred month is mentioned in other verses too, including Allah's words: ﴿يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تُحِلُّوا شَعَائِرَ اللَّهِ وَلَا الشَّهْرَ الْحَرَامَ﴾ [Surah al-Ma'idah: 2], \"O you who have believed, do not violate the rites of Allah or [the sanctity of] the sacred month\" (Surah al-Ma'idah 5:2, translation: Sahih International).</p>\n\n<h2>What is the order of the sacred months in the Hijri year?</h2>\n<p>The Hijri year has twelve lunar months. It begins with Muharram and ends with Dhu al-Hijjah. This is where the sacred months fall among them:</p>\n<!--IMG:2-->\n<table>\n<thead><tr><th>No.</th><th>Month</th><th>Is it a sacred month?</th></tr></thead>\n<tbody>\n<tr><td>1</td><td>Muharram</td><td>Yes</td></tr>\n<tr><td>2</td><td>Safar</td><td>No</td></tr>\n<tr><td>3</td><td>Rabi' al-Awwal</td><td>No</td></tr>\n<tr><td>4</td><td>Rabi' al-Akhir</td><td>No</td></tr>\n<tr><td>5</td><td>Jumada al-Ula</td><td>No</td></tr>\n<tr><td>6</td><td>Jumada al-Akhirah</td><td>No</td></tr>\n<tr><td>7</td><td>Rajab</td><td>Yes</td></tr>\n<tr><td>8</td><td>Sha'ban</td><td>No</td></tr>\n<tr><td>9</td><td>Ramadan</td><td>No (it is the best of months, but not one of the sacred ones)</td></tr>\n<tr><td>10</td><td>Shawwal</td><td>No</td></tr>\n<tr><td>11</td><td>Dhu al-Qa'dah</td><td>Yes</td></tr>\n<tr><td>12</td><td>Dhu al-Hijjah</td><td>Yes</td></tr>\n</tbody>\n</table>\n<p>Someone might ask: why does the hadith say \"Dhu al-Qa'dah, Dhu al-Hijjah and Muharram\", starting with Dhu al-Qa'dah when Muharram is the first month of the year? The answer is that it lists them in the order they actually follow one another: Dhu al-Qa'dah, then Dhu al-Hijjah, then Muharram of the following year. Notice too that Ramadan, although it is the best of months, is not a sacred month; sanctity is a quality specific to these four.</p>\n\n<h2>Why are they called the sacred months?</h2>\n<p>They are called \"hurum\" (sacred, inviolable) for two reasons mentioned by the commentators:</p>\n<ul>\n<li><strong>Fighting was forbidden in them:</strong> before Islam the Arabs honoured them and stopped war and blood feuds in them, and Islam confirmed their sanctity.</li>\n<li><strong>Violating what is forbidden in them is graver:</strong> a sin in them is more serious than a sin at other times, as explained under their rulings below.</li>\n</ul>\n<p>Ibn Kathir mentioned in his tafsir a wisdom in how they are spread across the year. The three consecutive months surround the Hajj season: a month before it in which pilgrims travel safely (Dhu al-Qa'dah), a month in which Hajj takes place (Dhu al-Hijjah), and a month after it in which they return home safely (Muharram). Rajab was placed in the middle of the year so that those heading to the House for 'Umrah and visiting would be safe. As for the name \"Rajab of Mudar\", it is because the tribe of Mudar were the strictest of the Arabs in honouring it and keeping to its proper time. You will find what is and isn't established about Rajab in our article on <a href=\"/en/blog/rajab-month-virtues/\">the virtues of Rajab</a>.</p>\n\n<!--CTA:rafiq-->\n\n<h2>When are the sacred months in 1448 AH?</h2>\n<p>These dates are <strong>expected</strong> dates according to the Umm al-Qura calendar, and they may differ by one day depending on the moon sighting in your country, so check the announcement of the official authorities:</p>\n<!--IMG:3-->\n<table>\n<thead><tr><th>Sacred month</th><th>Expected start</th><th>Expected end</th><th>Highlights</th></tr></thead>\n<tbody>\n<tr><td>Rajab 1448 AH</td><td>Thursday 10 December 2026</td><td>Friday 8 January 2027</td><td>The single month in the middle of the year</td></tr>\n<tr><td>Dhu al-Qa'dah 1448 AH</td><td>Wednesday 7 April 2027</td><td>Thursday 6 May 2027</td><td>The first of the three consecutive months</td></tr>\n<tr><td>Dhu al-Hijjah 1448 AH</td><td>Friday 7 May 2027</td><td>Saturday 5 June 2027</td><td>The Day of 'Arafah around Saturday 15 May, and Eid al-Adha around Sunday 16 May</td></tr>\n<tr><td>Muharram 1449 AH</td><td>Sunday 6 June 2027</td><td>Early July 2027</td><td>'Ashura around Tuesday 15 June</td></tr>\n</tbody>\n</table>\n<p>So if you are reading this in late 2026, the nearest sacred month to you is Rajab, followed by the three consecutive months in the spring and summer of 2027.</p>\n\n<h2>What are the rulings of the sacred months?</h2>\n<h3>1. Wrongdoing and sin are graver in them</h3>\n<p>Allah says: ﴿فَلَا تَظْلِمُوا فِيهِنَّ أَنفُسَكُمْ﴾, \"so do not wrong yourselves during them\". The commentators, including at-Tabari and Ibn Kathir, reported from Ibn 'Abbas (may Allah be pleased with them both) that Allah singled out these four months and made their sanctity great, made sin in them more serious, and made good deeds and their reward greater. Qatadah said that wrongdoing in the sacred months is a greater sin and burden than wrongdoing at other times, even though wrongdoing is grave in every case.</p>\n<p>According to careful scholars, \"multiplying the bad deed\" here means that it becomes greater in its ugliness and its sin, not that it is recorded as several bad deeds in number, because Allah says: ﴿وَمَن جَاءَ بِالسَّيِّئَةِ فَلَا يُجْزَىٰ إِلَّا مِثْلَهَا﴾ [Surah al-An'am: 160], \"and whoever comes with an evil deed will not be recompensed except the like thereof\" (Surah al-An'am 6:160, translation: Sahih International). So a sin in a sacred month is worse than the same sin at another time, just as a sin inside the Haram (the sacred precinct of Makkah) is worse than the same sin outside it.</p>\n<h3>2. The ruling on fighting in the sacred months</h3>\n<p>Starting a fight in the sacred months was forbidden. Allah says: ﴿يَسْأَلُونَكَ عَنِ الشَّهْرِ الْحَرَامِ قِتَالٍ فِيهِ ۖ قُلْ قِتَالٌ فِيهِ كَبِيرٌ﴾ [Surah al-Baqarah: 217], \"They ask you about the sacred month - about fighting therein. Say, 'Fighting therein is great [sin]'\" (Surah al-Baqarah 2:217, translation: Sahih International). After that, scholars differed, in brief:</p>\n<ul>\n<li><strong>The majority of scholars:</strong> hold that the prohibition on starting a fight in these months was abrogated, which is what Shaykh Ibn Baz and others concluded.</li>\n<li><strong>Some scholars</strong>, including 'Ata' ibn Abi Rabah, held that the prohibition still stands and was not abrogated.</li>\n<li><strong>What is agreed upon:</strong> that repelling an aggressor who starts fighting in these months is permitted.</li>\n</ul>\n<p>This question concerns the rulings of states and jihad, not the actions of individuals. It is explained in detail in <a href=\"https://islamqa.info/ar/answers/227931\">IslamQA's answer on fighting in the sacred months</a> (Arabic).</p>\n<h3>3. The heavier blood money</h3>\n<p>The Shafi'is and Hanbalis held that the blood money (diyah) for accidental killing is made heavier if it happens in the sacred months, just as it is made heavier if it happens in the sacred precinct of Makkah or against a close relative, out of respect for the sanctity of the time and place. The Hanafis did not hold that it is made heavier for this reason, and some contemporary scholars, such as Shaykh Ibn 'Uthaymin, considered it stronger that it is not made heavier, based on the general evidence. This is a judicial matter that is referred to the courts and specialists.</p>\n\n<h2>What good deeds are recommended in the sacred months?</h2>\n<p>No special act of worship has been reported for the sacred months as a group, but each of them has virtues established in the Sunnah, in addition to the general encouragement to obey Allah and avoid sin in them:</p>\n<!--IMG:4-->\n<table>\n<thead><tr><th>Month</th><th>What is established about it</th><th>Evidence</th></tr></thead>\n<tbody>\n<tr><td>Dhu al-Qa'dah</td><td>All the Prophet's ﷺ 'Umrahs were in Dhu al-Qa'dah, except the one he performed with his Hajj</td><td>Reported by al-Bukhari 1778 and, similarly, Muslim 1253, from the hadith of Anas (may Allah be pleased with him)</td></tr>\n<tr><td>Dhu al-Hijjah</td><td>The virtue of good deeds in the first ten days, fasting the Day of 'Arafah for those not on Hajj, and the sacrifice (udhiyah)</td><td>Al-Bukhari 969 on the virtue of the ten days, and Muslim 1162 on fasting 'Arafah</td></tr>\n<tr><td>Muharram</td><td>The best fasting after Ramadan, and fasting 'Ashura, with the 9th recommended alongside it</td><td>Muslim 1163, Muslim 1162 and Muslim 1134</td></tr>\n<tr><td>Rajab</td><td>No act of worship belongs to it alone; what is prescribed at other times is prescribed in it</td><td>The general meaning of the verse; details in our article on the virtues of Rajab</td></tr>\n</tbody>\n</table>\n<p>Among these texts is the Prophet's ﷺ saying:</p>\n<blockquote>\"The best fasting after Ramadan is in Allah's month of Muharram, and the best prayer after the obligatory prayer is the night prayer.\" (Sahih Muslim 1163)</blockquote>\n<p>And he ﷺ said about fasting the Day of 'Arafah: \"It expiates for the past year and the coming year\", and about fasting 'Ashura: \"It expiates for the past year\" (Sahih Muslim 1162).</p>\n<h3>Is fasting recommended throughout the sacred months?</h3>\n<p>The majority of jurists considered it recommended to fast often in the sacred months in general, out of respect for their sanctity. As for the hadith \"Fast some of the sacred months and leave some\", it was reported by Abu Dawud (2428), and al-Albani graded it weak because its chain is inconsistent and its narrator is unknown. So there is room here: fast what you can of the established voluntary fasts, such as Mondays and Thursdays and the White Days, without believing that particular days have a virtue that has not been reported. For details on the White Days, see our article on <a href=\"/en/blog/white-days-fasting/\">fasting the White Days</a>.</p>\n\n<h2>Common mistakes about the sacred months</h2>\n<ul>\n<li><strong>Thinking sin at other times is minor:</strong> wrongdoing is forbidden at all times; it is only that its ugliness increases in these months.</li>\n<li><strong>Counting Ramadan or Sha'ban among the sacred months:</strong> this is a mistake. The sacred months are four, fixed by the texts.</li>\n<li><strong>Circulating the hadith \"Rajab is the month of Allah, Sha'ban is my month and Ramadan is the month of my nation\":</strong> it is a fabricated hadith, as noted in the <a href=\"https://dorar.net/h/7lAxODTU\">Dorar hadith encyclopedia</a> (Arabic).</li>\n<li><strong>Inventing special acts of worship:</strong> such as Salat ar-Ragha'ib in Rajab, which scholars consider an innovation.</li>\n<li><strong>Mixing up the order:</strong> for example, thinking the three consecutive months are Shawwal, Dhu al-Qa'dah and Dhu al-Hijjah. The correct three are Dhu al-Qa'dah, Dhu al-Hijjah and Muharram.</li>\n</ul>\n\n<h2>How can you benefit from the sacred months in practice?</h2>\n<ol>\n<li><strong>Know their dates in advance:</strong> put them in your calendar so they don't pass without you noticing.</li>\n<li><strong>Make them a season of self-review:</strong> review how you treat people, give others their rights, and give up a sin you know you have.</li>\n<li><strong>Seize their established seasons:</strong> the ten days of Dhu al-Hijjah, the Day of 'Arafah, and fasting in Muharram and on 'Ashura.</li>\n<li><strong>Make your daily worship steady:</strong> prayers, adhkar and a portion of Quran, and track them with a daily list, as in our <a href=\"/en/blog/daily-worship-tracker/\">daily worship tracker</a>.</li>\n<li><strong>Check what you share:</strong> before forwarding a message about the virtues of these months, look up the grading of the hadith on <a href=\"https://dorar.net/hadith\">Dorar</a> (Arabic).</li>\n</ol>\n\n<h2>Summary: there are four sacred months</h2>\n<p>The sacred months are Dhu al-Qa'dah, Dhu al-Hijjah and Muharram, one after another, and Rajab on its own between Jumada al-Akhirah and Sha'ban, according to Surah at-Tawbah, verse 36, and the hadith of Abu Bakrah in al-Bukhari and Muslim. They are called sacred because fighting was forbidden in them and because of their great sanctity; wrongdoing in them is a graver sin, and the majority hold that the prohibition on starting a fight in them was abrogated. In 1448 AH, Rajab is expected to begin on 10 December 2026, Dhu al-Qa'dah on 7 April 2027, Dhu al-Hijjah on 7 May 2027, and Muharram 1449 AH on 6 June 2027, depending on the moon sighting. What we have mentioned is a summary of the views of scholars, so ask the scholars in your country about your particular situation.</p>\n\n<!--CTA:rafiq-->\n",
+ "faq": [
+  {
+   "q": "What are the four sacred months in order?",
+   "a": "The sacred months are four: Dhu al-Qa'dah, Dhu al-Hijjah and Muharram, which come one after another, and Rajab, which stands alone between Jumada al-Akhirah and Sha'ban. In the order of the Hijri year, Muharram is the 1st, Rajab the 7th, Dhu al-Qa'dah the 11th and Dhu al-Hijjah the 12th. The Prophet ﷺ named them in the hadith of Abu Bakrah in al-Bukhari and Muslim."
+  },
+  {
+   "q": "Why are they called the sacred months?",
+   "a": "They are called sacred because Allah forbade starting a fight in them, the Arabs honoured them before Islam, and violating what is forbidden in them is a graver sin than at other times. Ibn Kathir mentioned that the three consecutive months were set so that pilgrims would be safe going to Hajj, performing it and returning, and Rajab was placed in the middle of the year so that those performing 'Umrah would be safe."
+  },
+  {
+   "q": "Are sins multiplied in the sacred months?",
+   "a": "A sin in the sacred months is graver than at other times, because Allah says: \"so do not wrong yourselves during them\". According to careful scholars, this means the bad deed becomes greater in its ugliness and punishment, not that it is recorded as several bad deeds in number, because Allah says: \"whoever comes with an evil deed will not be recompensed except the like thereof\"."
+  },
+  {
+   "q": "Is Ramadan one of the sacred months?",
+   "a": "No. Ramadan is not one of the sacred months, even though it is the best of months, the month in which the Quran was revealed and which contains Laylat al-Qadr. The sacred months are four, fixed by the texts: Dhu al-Qa'dah, Dhu al-Hijjah, Muharram and Rajab, and every month has its own virtue established by its own evidence."
+  },
+  {
+   "q": "When do the sacred months begin in 1448 AH?",
+   "a": "According to the Umm al-Qura calendar, Rajab 1448 AH is expected to begin on 10 December 2026, Dhu al-Qa'dah on 7 April 2027, Dhu al-Hijjah on 7 May 2027, and Muharram 1449 AH on 6 June 2027. These are approximate dates that depend on the sighting of the new moon in each country."
+  }
+ ],
+ "internal_links": [
+  "rajab-month-virtues",
+  "white-days-fasting",
+  "daily-worship-tracker"
+ ],
+ "sources": [
+  {
+   "title": "The Noble Quran: Surah at-Tawbah 9:36-37 - Quran.com",
+   "url": "https://quran.com/9/36-37"
+  },
+  {
+   "title": "Sahih al-Bukhari 3197: the year is twelve months, four of them sacred - Sunnah.com",
+   "url": "https://sunnah.com/bukhari:3197"
+  },
+  {
+   "title": "Sahih Muslim 1163: the best fasting after Ramadan is Allah's month of Muharram - Sunnah.com",
+   "url": "https://sunnah.com/muslim:1163a"
+  },
+  {
+   "title": "IslamQA: the ruling on fighting in the sacred months (Arabic)",
+   "url": "https://islamqa.info/ar/answers/227931"
+  },
+  {
+   "title": "Shaykh Ibn Baz: what are the sacred months? (Arabic)",
+   "url": "https://binbaz.org.sa/fatwas/17040/"
+  },
+  {
+   "title": "Sunan Abi Dawud 2428: fast some of the sacred months and leave some (weak) - Sunnah.com",
+   "url": "https://sunnah.com/abudawud:2428"
+  },
+  {
+   "title": "Dorar: hadith encyclopedia (Arabic)",
+   "url": "https://dorar.net/hadith"
+  }
+ ]
+}

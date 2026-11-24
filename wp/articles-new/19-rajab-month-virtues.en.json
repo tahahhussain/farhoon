@@ -1,0 +1,195 @@
+{
+ "number": 19,
+ "slug": "rajab-month-virtues",
+ "category": "Islamic Months",
+ "title": "Virtues of Rajab: What Is and Isn't Authentic About Its Prayer, Fasting and Du'a",
+ "meta_title": "Virtues of Rajab: Authentic vs Weak Hadith | Farhoon",
+ "meta_description": "The virtues of Rajab: what is authentic and what is weak or fabricated, the ruling on fasting Rajab and Salat ar-Ragha'ib, and expected Rajab 1448 dates.",
+ "focus_keyword": "virtues of rajab",
+ "keywords": [
+  {
+   "keyword": "virtues of rajab",
+   "type": "primary",
+   "est_monthly_searches": "1,000–5,000, seasonal (estimated)",
+   "intent": "informational",
+   "kgr_note": "Medium; many pages mix authentic and weak reports, few grade each one in a table (estimated)"
+  },
+  {
+   "keyword": "month of rajab",
+   "type": "secondary",
+   "est_monthly_searches": "2,000–8,000, seasonal (estimated)",
+   "intent": "informational",
+   "kgr_note": "Medium (estimated)"
+  },
+  {
+   "keyword": "fasting in rajab",
+   "type": "secondary",
+   "est_monthly_searches": "1,000–4,000, seasonal (estimated)",
+   "intent": "informational",
+   "kgr_note": "Medium; IslamQA ranks well (estimated)"
+  },
+  {
+   "keyword": "allahumma barik lana fi rajab authentic",
+   "type": "question",
+   "est_monthly_searches": "300–1,500, seasonal (estimated)",
+   "intent": "informational",
+   "kgr_note": "Easy; few pages give the chain and grading clearly (estimated)"
+  },
+  {
+   "keyword": "is isra and miraj on 27 rajab",
+   "type": "question",
+   "est_monthly_searches": "300–1,000, seasonal (estimated)",
+   "intent": "informational",
+   "kgr_note": "Easy (estimated)"
+  },
+  {
+   "keyword": "salat ar raghaib",
+   "type": "long-tail",
+   "est_monthly_searches": "100–500, seasonal (estimated)",
+   "intent": "informational",
+   "kgr_note": "Easy (estimated)"
+  },
+  {
+   "keyword": "rajab 1448 start date",
+   "type": "long-tail",
+   "est_monthly_searches": "500–2,000 before the season (estimated)",
+   "intent": "informational",
+   "kgr_note": "Easy; few pages with 1448 dates so far (estimated)"
+  },
+  {
+   "keyword": "sacred months",
+   "type": "LSI",
+   "est_monthly_searches": "1,000–3,000 (estimated)",
+   "intent": "informational",
+   "kgr_note": "Supporting term (estimated)"
+  }
+ ],
+ "keyword_variations": [
+  "virtues of rajab",
+  "virtue of rajab",
+  "rajab virtues",
+  "fazilat of rajab",
+  "significance of rajab",
+  "month of rajab",
+  "rajab month",
+  "fasting in rajab",
+  "rajab fasting",
+  "rajab dua",
+  "allahumma barik lana fi rajab",
+  "weak hadith about rajab",
+  "salat ar-raghaib",
+  "isra and miraj 27 rajab",
+  "umrah in rajab",
+  "rajab 1448",
+  "rajab 2026"
+ ],
+ "featured_snippet": {
+  "target_query": "what is the virtue of rajab",
+  "type": "paragraph",
+  "html": "<p>The virtue of Rajab is established because it is one of the four sacred months that Allah honoured in Surah at-Tawbah (verse 36). In it, avoiding wrongdoing and sin matters even more, and good deeds in general are encouraged. But no authentic hadith singles it out for a particular prayer, fast or du'a, as Ibn Hajar and other hadith scholars concluded.</p>"
+ },
+ "excerpt": "What is established about the virtues of Rajab and what is not? A table grading the hadith that spread, the rulings on Salat ar-Ragha'ib and fasting Rajab, the date of the Isra', and a practical plan to welcome the month.",
+ "reading_minutes": 10,
+ "featured_image": {
+  "headline": "Virtues of Rajab: authentic and not authentic",
+  "alt": "The virtues of Rajab as one of the sacred months, showing what is authentic and what is not"
+ },
+ "cta_text": "The Hijri calendar in Rafiq Al-Taa, our free ad-free app (Arabic interface), shows the start of Rajab and its occasions, and \"My Worship\" tracks your daily prayers, adhkar and reading. Coming soon to Google Play.",
+ "images": [
+  {
+   "file": "rajab-month-virtues-cover-en.webp",
+   "alt": "Cover image for the article on the virtues of Rajab on a Farhoon background",
+   "caption": "",
+   "type": "cover",
+   "spec": "Title: Virtues of Rajab | Subtitle: What is authentic and what is not | Light crescent ornament on the brand background"
+  },
+  {
+   "file": "rajab-authentic-vs-weak-table-en.webp",
+   "alt": "Table showing what is authentic and what is not authentic about the virtues of Rajab",
+   "caption": "What is and isn't established about Rajab according to hadith scholars",
+   "type": "table",
+   "spec": "Title: Rajab: authentic or not? | Authentic: Rajab is a sacred month (at-Tawbah 36, al-Bukhari 3197) | Authentic: the sin of wrongdoing is greater in it | Authentic: general worship such as fasting Mondays, Thursdays and the White Days, night prayer, Quran, charity | Not authentic: Salat ar-Ragha'ib (innovation) | Not authentic: \"Rajab is the month of Allah\" (fabricated) | Not authentic: \"O Allah, bless us in Rajab and Sha'ban\" (weak) | Not authentic: specific rewards for fasting days of Rajab (weak/fabricated) | Not authentic: singling out the night of 27 Rajab for worship"
+  },
+  {
+   "file": "rajab-ramadan-preparation-steps-en.webp",
+   "alt": "Five steps to make the most of the month of Rajab in preparation for Ramadan",
+   "caption": "A Rajab plan: five small steps before Ramadan",
+   "type": "steps",
+   "spec": "Title: Your Rajab plan | 1) Give up one sin and set right any wrongs | 2) Keep the five prayers on time | 3) A daily Quran portion, even two pages | 4) Fast what you can (Mondays and Thursdays, the White Days) and make up missed fasts first | 5) Track yourself daily with a worship list"
+  },
+  {
+   "file": "rajab-1448-dates-infographic-en.webp",
+   "alt": "Expected dates of Rajab 1448, its White Days and the start of Sha'ban and Ramadan",
+   "caption": "Approximate dates according to the Umm al-Qura calendar; they depend on the moon sighting",
+   "type": "infographic",
+   "spec": "Rajab 1, 1448 = Thursday 10 December 2026 | White Days, Rajab 13–15 = 22–24 December | Rajab 30 = Friday 8 January 2027 | Sha'ban 1 = Saturday 9 January 2027 | Ramadan 1 ≈ 8 February 2027 | Dates depend on the moon sighting"
+  }
+ ],
+ "content_html": "<p>As the month draws near, many Muslims ask about the <strong>virtues of Rajab</strong>. The short answer: Rajab is a great month because it is one of the four sacred months, according to the Quran and the authentic Sunnah, but no authentic hadith singles it out for a particular prayer, fast or du'a. Rajab 1448 AH is expected to begin on Thursday 10 December 2026 according to the Umm al-Qura calendar; the actual start depends on the sighting of the new moon.</p>\n<p>In this article we calmly separate what is established about Rajab from what is not, giving the grading of each text as found in the Dorar hadith encyclopedia. That way you can welcome the month with sound, confident worship, without missing its blessing and without spreading things that are not authentically from the Prophet ﷺ.</p>\n\n<h2>What is the virtue of the month of Rajab?</h2>\n<div class=\"f-snippet\"><p>The virtue of Rajab is established because it is one of the four sacred months that Allah honoured in Surah at-Tawbah (verse 36). In it, avoiding wrongdoing and sin matters even more, and good deeds in general are encouraged. But no authentic hadith singles it out for a particular prayer, fast or du'a, as Ibn Hajar and other hadith scholars concluded.</p></div>\n<p>So the established virtue of Rajab is a general one that it shares with Dhu al-Qa'dah, Dhu al-Hijjah and Muharram: the sanctity of the time. That alone is enough to make a Muslim keener to obey Allah and further from disobeying Him in this month. As for the detailed virtues that spread in messages (a reward for fasting each day of Rajab, prayers with a set number of rak'ahs, special du'as), most of them are weak or fabricated, as we will see.</p>\n\n<h2>Rajab is a sacred month: the evidence from the Quran and Sunnah</h2>\n<p>Allah the Exalted says:</p>\n<blockquote>﴿إِنَّ عِدَّةَ الشُّهُورِ عِندَ اللَّهِ اثْنَا عَشَرَ شَهْرًا فِي كِتَابِ اللَّهِ يَوْمَ خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ مِنْهَا أَرْبَعَةٌ حُرُمٌ ۚ ذَٰلِكَ الدِّينُ الْقَيِّمُ ۚ فَلَا تَظْلِمُوا فِيهِنَّ أَنفُسَكُمْ﴾ [Surah at-Tawbah: 36]<br>\"Indeed, the number of months with Allah is twelve [lunar] months in the register of Allah [from] the day He created the heavens and the earth; of these, four are sacred. That is the correct religion [i.e., way], so do not wrong yourselves during them.\" (Surah at-Tawbah 9:36, translation: Sahih International)</blockquote>\n<p>The Prophet ﷺ named these four months in his sermon during the Farewell Pilgrimage. Abu Bakrah (may Allah be pleased with him) reported that the Prophet ﷺ said:</p>\n<blockquote>\"Time has come back round to how it was on the day Allah created the heavens and the earth. The year is twelve months, four of which are sacred: three in a row, Dhu al-Qa'dah, Dhu al-Hijjah and Muharram, and Rajab of Mudar, which comes between Jumada and Sha'ban.\" (Sahih al-Bukhari 3197; Sahih Muslim 1679)</blockquote>\n<p>It was called \"Rajab of Mudar\" because the tribe of Mudar were especially strict in honouring it and keeping to its proper time. So the Prophet ﷺ confirmed that it is the month between Jumada al-Akhirah and Sha'ban, not some other month the Arabs moved it to by postponement (nasi'). To learn the four months, their order and their rulings in detail, read our article on <a href=\"/en/blog/sacred-months/\">the sacred months</a>.</p>\n<p>As for the meaning of ﴿فَلَا تَظْلِمُوا فِيهِنَّ أَنفُسَكُمْ﴾ (\"so do not wrong yourselves during them\"), the commentators reported from Ibn 'Abbas and Qatadah (may Allah be pleased with them) that wrongdoing and sin in these months carry a greater burden than at other times, and that good deeds in them bring a greater reward, even though wrongdoing is forbidden at all times.</p>\n\n<h2>What good deeds are recommended in Rajab?</h2>\n<p>Rajab has no act of worship that belongs to it alone, but its sanctity makes it a fitting season to do more of the worship that is prescribed at all times. Some of the most beneficial things you can do in it:</p>\n<ul>\n<li><strong>Avoiding sins and wrongdoing:</strong> this is the clearest meaning of the verse. Review what you owe other people, guard your tongue, and repent from a sin you know you have.</li>\n<li><strong>Prescribed fasting in general:</strong> such as fasting Mondays and Thursdays, and the White Days (the 13th, 14th and 15th of the Hijri month). These are established sunnahs in every month, Rajab included. The majority of jurists considered it recommended to fast often in the sacred months in general, without singling out a particular day.</li>\n<li><strong>Night prayer (qiyam al-layl):</strong> whatever rak'ahs you can manage, as on any other night, without a set number or a special form for any night of Rajab.</li>\n<li><strong>Reciting the Quran, dhikr (remembrance of Allah) and charity:</strong> doors of goodness that stay open all year.</li>\n<li><strong>Preparing for Ramadan:</strong> Rajab comes before Sha'ban, and Sha'ban before Ramadan, so it is a good time to build steady habits before the greatest season.</li>\n</ul>\n<p>All of these deeds are prescribed by general evidence. If you do them in Rajab, you gain their reward along with the sanctity of the time, without attributing to the month a virtue that is not established.</p>\n\n<!--CTA:rafiq-->\n\n<h2>What is not established about the virtues of Rajab?</h2>\n<p>Al-Hafiz Ibn Hajar al-'Asqalani said in his treatise <em>Tabyin al-'Ajab bima Warada fi Fadl Rajab</em>, in meaning, that there is no authentic hadith fit to be used as proof about the virtue of the month of Rajab, nor about fasting it, nor about fasting any specific part of it, nor about praying on a particular night in it. Here is a table of the best-known things that spread during this month, with their grading:</p>\n<!--IMG:2-->\n<table>\n<thead><tr><th>The text or practice that spreads</th><th>Ruling according to scholars</th><th>Explanation</th></tr></thead>\n<tbody>\n<tr><td>\"Rajab is the month of Allah, Sha'ban is my month and Ramadan is the month of my nation\"</td><td>Fabricated</td><td>Hadith scholars judged it fabricated, as noted in the Dorar hadith encyclopedia</td></tr>\n<tr><td>\"O Allah, bless us in Rajab and Sha'ban and let us reach Ramadan\"</td><td>Weak</td><td>Reported by Ahmad (2346); its chain includes Za'idah ibn Abi ar-Ruqad, of whom al-Bukhari said \"his hadith are rejected (munkar al-hadith)\". An-Nawawi, Ibn Rajab and al-Albani graded it weak</td></tr>\n<tr><td>Salat ar-Ragha'ib (twelve rak'ahs on the night of the first Friday of Rajab)</td><td>Its hadith is fabricated and the prayer is an innovation</td><td>An-Nawawi said in <em>al-Majmu'</em>: Salat ar-Ragha'ib and the prayer of the night of mid-Sha'ban are two blameworthy innovations</td></tr>\n<tr><td>A specific reward for fasting certain days of Rajab (e.g. \"whoever fasts a day of Rajab will get such-and-such\")</td><td>Weak or fabricated</td><td>These fall under the hadith on the virtues of Rajab that Ibn Hajar judged not authentic</td></tr>\n<tr><td>Singling out the night of 27 Rajab for worship because it is the night of the Isra'</td><td>Not established</td><td>The date of the Isra' is disputed, and nothing is reported from the Prophet ﷺ or his Companions singling it out for worship</td></tr>\n<tr><td>\"Fast some of the sacred months and leave some\"</td><td>Weak</td><td>Reported by Abu Dawud (2428); al-Albani graded it weak because its chain is inconsistent and its narrator unknown</td></tr>\n</tbody>\n</table>\n<p>This does not mean that asking Allah for blessing in Rajab and Sha'ban is forbidden. You may ask Allah to bless your days and let you reach Ramadan in any words you like. The well-known wording is <span lang=\"ar\">اللهم بارك لنا في رجب وشعبان وبلّغنا رمضان</span> (<em>Allahumma barik lana fi Rajab wa Sha'ban, wa ballighna Ramadan</em>), meaning \"O Allah, bless us in Rajab and Sha'ban, and let us reach Ramadan\". What is not allowed is to attribute this weak wording to the Prophet ﷺ as if he said it. IslamQA explains the status of this du'a in <a href=\"https://islamqa.info/ar/202017\">its answer on the subject</a> (Arabic).</p>\n\n<h2>Is fasting in Rajab recommended?</h2>\n<p>No authentic hadith speaks of a virtue for fasting Rajab specifically. What scholars hold is:</p>\n<ul>\n<li><strong>Keeping up your usual voluntary fasts in Rajab is prescribed:</strong> such as Mondays and Thursdays and the White Days, because these are sunnahs in every month.</li>\n<li><strong>Fasting often in the sacred months in general</strong> was considered recommended by the majority of jurists, without giving Rajab any extra virtue over the other three.</li>\n<li><strong>Fasting the whole of Rajab as a way of venerating it</strong> was disliked by a group of scholars. They cited what is reported from 'Umar ibn al-Khattab (may Allah be pleased with him): that he would strike the hands of those who fasted all of Rajab until they put them into the food, saying that it was merely a month the people of Jahiliyyah (the pre-Islamic era) used to venerate. Al-Albani graded the chain of this report sahih in <em>Irwa' al-Ghalil</em> (957).</li>\n</ul>\n<p>The <a href=\"https://www.dar-alifta.org/ar/fatwa/details/15062/\">fatwa of Egypt's Dar al-Ifta</a> (Arabic) sums up the question: fasting in Rajab is allowed and prescribed by the general evidence on fasting, while noting that the specific hadith on the virtue of fasting it are not authentic. So whoever fasts in it with the intention of ordinary voluntary fasting is doing good, and whoever does not fast commits no sin.</p>\n\n<h2>What is the ruling on Salat ar-Ragha'ib in Rajab?</h2>\n<p>Salat ar-Ragha'ib is a prayer of twelve rak'ahs offered between Maghrib and 'Isha on the night of the first Friday of Rajab, with specific surahs and repetitions. It appeared after the early generations; the Prophet ﷺ, the Companions and the four imams did not know it. Its hadith is fabricated by agreement of the hadith scholars, and an-Nawawi and other Shafi'i scholars counted it a blameworthy innovation, saying that one should not be misled by its mention in some books on heart-softening topics.</p>\n<p>The principle here is the Prophet's ﷺ saying:</p>\n<blockquote>\"Whoever introduces into this affair of ours something that is not part of it, it will be rejected.\" (Sahih al-Bukhari 2697; Sahih Muslim 1718)</blockquote>\n<p>So whoever wants to pray at night on the first Friday night of Rajab should pray as many rak'ahs as he wishes, as on any other night, without keeping to that invented form.</p>\n\n<h2>Did the Isra' and Mi'raj happen on 27 Rajab?</h2>\n<p>The Isra' and Mi'raj (the Night Journey and the Ascension) is a miracle established by the Quran and the Sunnah. Allah the Exalted says: ﴿سُبْحَانَ الَّذِي أَسْرَىٰ بِعَبْدِهِ لَيْلًا مِّنَ الْمَسْجِدِ الْحَرَامِ إِلَى الْمَسْجِدِ الْأَقْصَى﴾ [Surah al-Isra': 1], \"Exalted is He who took His Servant by night from al-Masjid al-Haram to al-Masjid al-Aqsa\" (Surah al-Isra' 17:1, translation: Sahih International). But <strong>its date is disputed</strong>, and historians and scholars differ widely about it:</p>\n<ul>\n<li>They differed about the year: some said one year before the Hijrah, others said more than that.</li>\n<li>They differed about the month: Rajab, Rabi' al-Awwal, Ramadan, Shawwal and Dhu al-Qa'dah have all been suggested. As-Suyuti mentioned more than fifteen opinions about it.</li>\n<li>The view that it was the night of 27 Rajab is the well-known one among later scholars and is the view adopted by Egypt's Dar al-Ifta, while others, such as an-Nawawi and Ibn al-Athir, considered Rabi' al-Awwal more likely. Ibn Kathir pointed out the weakness of the hadith that fixes it on the 27th of Rajab.</li>\n</ul>\n<p>What is agreed upon is that nothing is established from the Prophet ﷺ or his Companions singling out that night for prayer or fasting. The more beneficial thing is to remember the lessons of the journey at any time, the greatest of which is that the five daily prayers were made obligatory during it, and to let that memory help you keep up your prayers.</p>\n\n<h2>What is the ruling on 'Umrah in Rajab?</h2>\n<p>'Umrah is prescribed in every month of the year, Rajab included. As for the claim that the Prophet ﷺ performed 'Umrah in Rajab, Ibn 'Umar (may Allah be pleased with them both) said so, and when this reached A'ishah (may Allah be pleased with her) she said: \"May Allah have mercy on Abu 'Abd ar-Rahman. He never performed an 'Umrah without Ibn 'Umar being with him, and he never performed 'Umrah in Rajab.\" (Sahih al-Bukhari 1775 and 1776; Sahih Muslim 1255). For this reason a number of scholars, including Shaykh Ibn Baz in <a href=\"https://binbaz.org.sa/fatwas/21168/\">his fatwa on singling out Rajab for 'Umrah</a> (Arabic), concluded that one should not believe 'Umrah in Rajab has a special virtue backed by authentic evidence, although performing it then is allowed as in any other month, and it is reported that some of the early generations used to perform 'Umrah in it.</p>\n\n<h2>How can you make the most of Rajab to prepare for Ramadan?</h2>\n<p>The best thing to take away from Rajab is not a number of special deeds but small, steady habits that carry you into Ramadan ready. Here is a practical five-step plan:</p>\n<!--IMG:3-->\n<ol>\n<li><strong>Choose one sin to give up:</strong> acting on Allah's words ﴿فَلَا تَظْلِمُوا فِيهِنَّ أَنفُسَكُمْ﴾, \"so do not wrong yourselves during them\", and start by setting right any wrong you have done to others.</li>\n<li><strong>Keep the five daily prayers on time:</strong> then gradually add the regular sunnah prayers.</li>\n<li><strong>Start a daily portion of Quran:</strong> even two pages, then increase it in Sha'ban until you reach a juz' (one thirtieth of the Quran) a day in Ramadan. You will find plans and the maths in our <a href=\"/en/blog/quran-khatma-ramadan-schedule/\">Ramadan Quran completion schedule</a>.</li>\n<li><strong>Fast what you can:</strong> such as Mondays and Thursdays or the White Days. If you owe days from last Ramadan, make them up first, because they are an obligatory debt.</li>\n<li><strong>Track yourself daily:</strong> with a simple list of prayers, adhkar and reading, as we explain in our <a href=\"/en/blog/daily-worship-tracker/\">daily worship tracker</a>.</li>\n</ol>\n<p>These are approximate dates for Rajab 1448 AH and what follows, according to the Umm al-Qura calendar. They may differ by a day depending on the moon sighting in your country:</p>\n<!--IMG:4-->\n<table>\n<thead><tr><th>Occasion</th><th>Hijri date</th><th>Expected Gregorian date</th></tr></thead>\n<tbody>\n<tr><td>Start of Rajab</td><td>1 Rajab 1448 AH</td><td>Thursday 10 December 2026</td></tr>\n<tr><td>The White Days of Rajab</td><td>13, 14 and 15 Rajab</td><td>22, 23 and 24 December 2026</td></tr>\n<tr><td>Last day of Rajab (if it has 30 days)</td><td>30 Rajab</td><td>Friday 8 January 2027</td></tr>\n<tr><td>Start of Sha'ban</td><td>1 Sha'ban 1448 AH</td><td>Saturday 9 January 2027</td></tr>\n<tr><td>Start of Ramadan</td><td>1 Ramadan 1448 AH</td><td>Around 8 February 2027</td></tr>\n</tbody>\n</table>\n<p>After Rajab comes Sha'ban, the month in which the Prophet ﷺ used to fast a great deal. We explain it in detail in our article on <a href=\"/en/blog/fasting-shaban/\">fasting in Sha'ban</a>.</p>\n\n<h2>How should we deal with the Rajab messages that go around?</h2>\n<p>At the start of Rajab many well-meant messages spread, full of hadith, du'as and specific rewards. The best way to deal with them:</p>\n<ul>\n<li><strong>Check before you share:</strong> look up the hadith text in the <a href=\"https://dorar.net/hadith\">Dorar hadith encyclopedia</a> (Arabic) and look at the hadith scholar's verdict.</li>\n<li><strong>Don't attribute to the Prophet ﷺ what is not authentic:</strong> lying about him is not like lying about anyone else, and what is authentic of the religion is enough for you.</li>\n<li><strong>Advise gently:</strong> the person who sent the message usually means well, so send them the authentic alternative with a kind word instead of a rebuke.</li>\n<li><strong>Don't let a weak report make you give up good deeds:</strong> if Salat ar-Ragha'ib is not established, night prayer is; and if no special virtue for fasting Rajab is established, fasting in general is one of the greatest ways of drawing near to Allah.</li>\n</ul>\n\n<h2>Summary of the virtues of Rajab</h2>\n<p>Rajab is a sacred month that Allah honoured in His Book and that the Prophet ﷺ named during the Farewell Pilgrimage. Its established virtue is its sanctity: in it the sin of wrongdoing is greater, and doing more good is encouraged. As for singling it out for Salat ar-Ragha'ib, specific rewards for fasting its days, or a particular du'a attributed to the Prophet ﷺ, none of that is established. The date of the Isra' and Mi'raj is disputed, and no special deed has been prescribed for its night. So welcome Rajab by leaving sins, fasting what you can and keeping a steady portion of Quran, and make it the start of your road to Ramadan. The rulings we have mentioned are a summary of the views of scholars, so ask the scholars in your country about your particular situation.</p>\n\n<!--CTA:rafiq-->\n",
+ "faq": [
+  {
+   "q": "Is there an authentic hadith about the virtue of Rajab?",
+   "a": "Rajab's general virtue as one of the sacred months is established by Allah's words in Surah at-Tawbah, verse 36, and by the hadith of Abu Bakrah in al-Bukhari and Muslim. As for the hadith that single it out for a fast, a prayer or a specific reward, al-Hafiz Ibn Hajar concluded that none of them is authentic enough to serve as proof, and most are weak or fabricated."
+  },
+  {
+   "q": "Is the du'a \"Allahumma barik lana fi Rajab wa Sha'ban wa ballighna Ramadan\" authentic?",
+   "a": "It was reported by Imam Ahmad with a weak chain that includes Za'idah ibn Abi ar-Ruqad, of whom al-Bukhari said his hadith are rejected. An-Nawawi, Ibn Rajab and al-Albani graded the hadith weak. You may ask Allah for blessing and to reach Ramadan in any words, but do not attribute this wording to the Prophet ﷺ as if it were authentically from him."
+  },
+  {
+   "q": "Is it allowed to fast in Rajab?",
+   "a": "Fasting in Rajab is allowed as in any other month, such as Mondays and Thursdays and the White Days, and the majority of jurists considered it recommended to fast often in the sacred months in general. But no authentic hadith speaks of the virtue of fasting Rajab specifically, and some scholars disliked fasting all of it as a way of venerating it, because of what is reported from 'Umar (may Allah be pleased with him)."
+  },
+  {
+   "q": "What is the ruling on Salat ar-Ragha'ib?",
+   "a": "Salat ar-Ragha'ib is twelve rak'ahs prayed in a specific way on the night of the first Friday of Rajab. Its hadith is fabricated, and an-Nawawi and others counted it a blameworthy innovation because it was not reported from the Prophet ﷺ or the Companions. Whoever wants to pray at night then should pray whatever he can, as on any other night."
+  },
+  {
+   "q": "When does Rajab 1448 AH begin?",
+   "a": "Rajab 1448 AH is expected to begin on Thursday 10 December 2026 according to the Umm al-Qura calendar, with its White Days around 22, 23 and 24 December, and Sha'ban beginning around 9 January 2027. The actual start depends on the sighting of the new moon and the announcement of the official authority in each country."
+  }
+ ],
+ "internal_links": [
+  "sacred-months",
+  "quran-khatma-ramadan-schedule",
+  "daily-worship-tracker",
+  "fasting-shaban"
+ ],
+ "sources": [
+  {
+   "title": "The Noble Quran: Surah at-Tawbah 9:36 - Quran.com",
+   "url": "https://quran.com/9/36"
+  },
+  {
+   "title": "Sahih al-Bukhari 3197: the year is twelve months, four of them sacred - Sunnah.com",
+   "url": "https://sunnah.com/bukhari:3197"
+  },
+  {
+   "title": "Dorar: the hadith \"Rajab is the month of Allah and Sha'ban is my month\" (fabricated) (Arabic)",
+   "url": "https://dorar.net/h/7lAxODTU"
+  },
+  {
+   "title": "IslamQA: is the hadith \"O Allah, bless us in Rajab and Sha'ban\" authentic? (Arabic)",
+   "url": "https://islamqa.info/ar/202017"
+  },
+  {
+   "title": "IslamQA: the innovation of Salat ar-Ragha'ib (Arabic)",
+   "url": "https://islamqa.info/ar/60180"
+  },
+  {
+   "title": "Egypt's Dar al-Ifta: the ruling on fasting Rajab and the authenticity of the hadith about it (Arabic)",
+   "url": "https://www.dar-alifta.org/ar/fatwa/details/15062/"
+  },
+  {
+   "title": "Dorar: the report of 'Umar about those who fasted all of Rajab (al-Irwa' 957) (Arabic)",
+   "url": "https://dorar.net/h/p7QcHkfk"
+  },
+  {
+   "title": "Sahih al-Bukhari 1775: the Prophet's ﷺ 'Umrahs and A'ishah's words that he never performed 'Umrah in Rajab - Sunnah.com",
+   "url": "https://sunnah.com/bukhari:1775"
+  },
+  {
+   "title": "Shaykh Ibn Baz: the ruling on singling out Rajab for 'Umrah (Arabic)",
+   "url": "https://binbaz.org.sa/fatwas/21168/"
+  }
+ ]
+}

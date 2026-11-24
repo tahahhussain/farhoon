@@ -1,0 +1,195 @@
+{
+ "number": 14,
+ "slug": "quran-offline-app",
+ "category": "Islamic Apps",
+ "title": "Quran Offline App: How to Read, Listen and Reflect Without Internet",
+ "meta_title": "Quran Offline App: Read and Listen Offline | Farhoon",
+ "meta_description": "What really works in a Quran offline app? A checklist for any app, approximate recitation sizes, and steps to prepare your phone for travel and Umrah.",
+ "focus_keyword": "quran offline app",
+ "keywords": [
+  {
+   "keyword": "quran offline app",
+   "type": "primary",
+   "est_monthly_searches": "2,000–8,000 (estimated)",
+   "intent": "commercial",
+   "kgr_note": "Medium; many app store pages rank, but few explanatory articles, KGR around 0.3–0.6 (estimated)"
+  },
+  {
+   "keyword": "quran without internet",
+   "type": "secondary",
+   "est_monthly_searches": "500–2,000 (estimated)",
+   "intent": "commercial",
+   "kgr_note": "Medium; download pages dominate, KGR around 0.3–0.5 (estimated)"
+  },
+  {
+   "keyword": "offline quran app for android",
+   "type": "long-tail",
+   "est_monthly_searches": "500–1,500 (estimated)",
+   "intent": "commercial",
+   "kgr_note": "Easy to medium, KGR near 0.25 (estimated)"
+  },
+  {
+   "keyword": "download full quran offline",
+   "type": "long-tail",
+   "est_monthly_searches": "1,000–3,000 (estimated)",
+   "intent": "commercial",
+   "kgr_note": "Medium; direct download intent and many file sites, KGR around 0.4 (estimated)"
+  },
+  {
+   "keyword": "quran tafsir offline",
+   "type": "long-tail",
+   "est_monthly_searches": "200–800 (estimated)",
+   "intent": "commercial",
+   "kgr_note": "Easy; few pages explain it, KGR usually under 0.25 (estimated)"
+  },
+  {
+   "keyword": "full quran mp3 size",
+   "type": "question",
+   "est_monthly_searches": "100–500 (estimated)",
+   "intent": "informational",
+   "kgr_note": "Easy; few explanatory answers, KGR under 0.25 (estimated)"
+  },
+  {
+   "keyword": "do prayer times work offline",
+   "type": "question",
+   "est_monthly_searches": "100–300 (estimated)",
+   "intent": "informational",
+   "kgr_note": "Very easy (estimated)"
+  },
+  {
+   "keyword": "quran app for umrah and travel",
+   "type": "LSI",
+   "est_monthly_searches": "100–300 (estimated)",
+   "intent": "commercial",
+   "kgr_note": "Supporting term that sets the article apart, weak competition (estimated)"
+  }
+ ],
+ "keyword_variations": [
+  "offline quran app",
+  "quran app offline",
+  "quran offline",
+  "al quran offline",
+  "quran without internet app",
+  "mushaf offline",
+  "offline mushaf android",
+  "quran app no internet",
+  "full quran offline download",
+  "quran audio offline",
+  "offline quran mp3",
+  "quran mp3 offline",
+  "tafsir offline app",
+  "quran app that works without internet",
+  "quran app for travel",
+  "تطبيق قرآن بدون إنترنت"
+ ],
+ "featured_snippet": {
+  "target_query": "does a quran app work without internet",
+  "type": "paragraph",
+  "html": "<p>Yes, a Quran app works without the internet if the Mushaf text is built into it. Reading, built-in tafsir, prayer times, the qibla and adhkar usually work offline, while recitations and extra tafsirs need a one-time download first, and some sections such as videos and encyclopedias stay tied to the internet.</p>"
+ },
+ "excerpt": "What really works offline in Quran apps? A practical checklist, a rough estimate of recitation sizes, and steps to prepare your phone before travel, Umrah and Hajj.",
+ "reading_minutes": 11,
+ "featured_image": {
+  "headline": "The Quran with you, offline",
+  "alt": "Quran offline app on a phone for reading and listening while travelling"
+ },
+ "content_html": "<p>Getting ready for a long journey, or for Hajj or Umrah where networks are overloaded? Living in an area with weak coverage or expensive data? Then a <strong>Quran offline app</strong> becomes a need, not a luxury. In this guide we explain exactly what really works offline in Quran apps and what needs a connection, give you a checklist for judging any app, practical steps to prepare your phone before you travel, and a rough estimate of the storage recitations need.</p>\n\n<h2>Does a Quran app work without the internet?</h2>\n<div class=\"f-snippet\"><p>Yes, a Quran app works without the internet if the Mushaf text is built into it. Reading, built-in tafsir, prayer times, the qibla and adhkar usually work offline, while recitations and extra tafsirs need a one-time download first, and some sections such as videos and encyclopedias stay tied to the internet.</p></div>\n<p>So the answer is not a simple \"yes\" or \"no\" for the whole app, but for each section of it. That is why the sections below explain what \"offline\" means for each part of an app, so you do not discover a gap while you are on the plane or in the courtyard of the Haram.</p>\n\n<h2>What does \"offline\" really mean in Quran apps?</h2>\n<p>Many developers write \"works offline\" on their store page, but they usually mean part of the app, not all of it. Here are the main parts and how each behaves:</p>\n<h3>The Mushaf text: characters or page images?</h3>\n<p>Apps display the Mushaf in one of two ways. The first is <strong>digital text</strong> in a special Uthmani script font. It is tiny, because the whole Quran is only a few megabytes of text and fonts, so it usually comes built into the app and works offline straight away. The second is <strong>page images</strong> that match a printed edition. These look better to people used to the page layout, but they are larger, and some apps do not include them in the install file but download them the first time you open the app. If your app is the second kind, open it once on a good connection before you travel so all the pages finish downloading.</p>\n<h3>Audio recitations</h3>\n<p>This is the heaviest part of any Quran app, so it is not normally included in the install file. Most apps stream recitations from the internet and let you download them surah by surah, or the whole Quran for a particular reciter. A recitation you have not downloaded will not play offline, whatever the store page says.</p>\n<h3>Tafsir</h3>\n<p>Some short tafsirs (Quranic commentaries), such as Tafsir al-Muyassar and Tafsir as-Sa'di, are relatively small, so some apps build them in. Longer tafsirs such as Ibn Kathir, al-Tabari and al-Qurtubi are large, so they are usually shown from the internet or downloaded on request. If you are unsure which of the two short tafsirs to choose, we compared them in <a href=\"/en/blog/tafsir-saadi-vs-muyassar/\">the difference between Tafsir as-Sa'di and Tafsir al-Muyassar</a>.</p>\n<h3>Prayer times</h3>\n<p>Many people assume prayer times need the internet. In fact, apps that calculate locally work out the times on the phone itself from three things: longitude, latitude and the date, together with the chosen calculation method. Once you set your city, or the phone finds your location once, you no longer need a connection. Apps that fetch times from a server, however, stop working when the network drops. Our guide to <a href=\"/en/blog/prayer-times-calculation-methods/\">prayer times calculation methods</a> explains why different bodies calculate differently.</p>\n<h3>The qibla</h3>\n<p>A qibla compass relies on the phone's sensors (magnetometer and accelerometer) and your location coordinates, and needs no internet. Even GPS location works without a data plan, although it may be a little slower the first time, because the internet helps the phone find satellites quickly.</p>\n<h3>Adhkar and du'as</h3>\n<p>These are small texts, so any good app should have them built in and working offline.</p>\n<h3>What usually needs the internet</h3>\n<ul>\n<li>Videos and recorded lessons.</li>\n<li>Radio stations and live streams.</li>\n<li>Large encyclopedias and searches in databases on servers.</li>\n<li>Syncing between devices, if the app uses an account.</li>\n<li>Recitations and tafsirs you have not downloaded in advance.</li>\n</ul>\n\n<h2>Checklist: how to judge any offline Mushaf app before relying on it</h2>\n<p>Before you rely on an app for your trip, check it against these points. You can use them for any app, not just ours:</p>\n<table>\n<thead>\n<tr><th>Item</th><th>What to look for</th><th>How to check</th></tr>\n</thead>\n<tbody>\n<tr><td>Mushaf text</td><td>Built into the app and working straight after installation</td><td>Turn on airplane mode right after installing and open any surah</td></tr>\n<tr><td>Source of the text</td><td>The Madinah Mushaf from the King Fahd Complex, or a verified text such as Tanzil that matches it</td><td>The \"About\" page or the store description</td></tr>\n<tr><td>Downloading recitations</td><td>Download per surah or the whole Quran, showing what has been downloaded</td><td>Download a short surah, then play it in airplane mode</td></tr>\n<tr><td>Recitation size</td><td>Shows the size before downloading, and lets you delete what you do not need</td><td>The app's downloads or storage settings</td></tr>\n<tr><td>Tafsir</td><td>At least one short tafsir built in, and the option to download longer ones</td><td>Open a verse's tafsir in airplane mode</td></tr>\n<tr><td>Prayer times</td><td>Calculated locally on the phone, with an adhan that works when the app is closed</td><td>Set your city, disconnect, and wait for a prayer time</td></tr>\n<tr><td>Permissions and privacy</td><td>Location only for prayer times and qibla, notifications for the adhan, no compulsory account</td><td>The \"Data safety\" section of the store page and your phone's settings</td></tr>\n<tr><td>Ads</td><td>No ads, or at least reading does not stop because of them when the internet drops</td><td>The \"Contains ads\" label on Google Play</td></tr>\n</tbody>\n</table>\n<!--IMG:2-->\n\n<p>Ads are directly linked to working offline: some free apps depend on ads, so blank spaces or error messages appear when the network drops. We covered the privacy and ad criteria in detail in our guide to the <a href=\"/en/blog/islamic-app-no-ads/\">best Islamic app without ads</a>, so we will not repeat them here.</p>\n\n<h3>Where does the Mushaf text in apps come from?</h3>\n<p>The best-known reference in the Muslim world is the Madinah Mushaf printed by the <a href=\"https://qurancomplex.gov.sa/\">King Fahd Complex for the Printing of the Holy Quran</a> in the riwayah (transmission) of Hafs from Asim. The Complex has its own digital fonts and official apps. Many developers also use the text of the Tanzil project, an open text whose <a href=\"https://tanzil.net/docs/medina_mushaf\">documentation</a> says it is based on the Madinah Mushaf in the Hafs transmission and was checked against it. What matters is that the app clearly states the source of its text; if it does not, that is a warning sign.</p>\n\n<!--CTA:rafiq-->\n\n<h2>How much storage does downloading the full Quran take?</h2>\n<p>The text alone is tiny; the real space goes to audio. The size of an audio file depends on two things: the <strong>bitrate</strong> (compression quality) and the <strong>length of the recitation</strong>, which varies between reciters depending on their speed and style (murattal, measured recitation, or mujawwad, slow melodic recitation).</p>\n<p>Most MP3 recitations in apps range from 64 to 128 kilobits per second. The rough maths is simple: one hour at 128 is about 58 MB, and at 64 about 29 MB. A complete murattal recitation of the Quran lasts roughly 15 to 30 hours depending on the reciter, and mujawwad recitations are much longer.</p>\n<table>\n<thead>\n<tr><th>Quality</th><th>Surah Al-Baqarah (about two hours, approx.)</th><th>Juz Amma (about 40 minutes, approx.)</th><th>Whole Quran, murattal</th></tr>\n</thead>\n<tbody>\n<tr><td>64 kbps</td><td>About 50–70 MB</td><td>About 20 MB</td><td>About 450–900 MB</td></tr>\n<tr><td>128 kbps</td><td>About 100–140 MB</td><td>About 40 MB</td><td>About 0.9–1.7 GB</td></tr>\n</tbody>\n</table>\n<!--IMG:3-->\n\n<p>These are <strong>approximate</strong> figures for illustration, not for any particular app. A real example: a published full recitation by Shaykh Mishary Alafasy at 128 kbps is described by its publisher as about 30 hours long and about 1.6 GB in size. In short, the whole Quran in one reciter's voice needs anything from a few hundred megabytes to more than a gigabyte. If your phone's storage is limited, download the surahs you actually read and listen to rather than the entire Quran.</p>\n<h3>Tips to save storage and data</h3>\n<ul>\n<li>Download recitations over Wi-Fi at home or in the hotel, not on mobile data.</li>\n<li>Choose one reciter for the full download, and stream others when you have a connection.</li>\n<li>Start with the surahs you need: Al-Fatihah, Juz Amma, Al-Mulk, Al-Kahf and Al-Baqarah, for example.</li>\n<li>Delete recitations by reciters you no longer listen to, from the app's settings.</li>\n<li>If the app lets you download long tafsirs, download only the ones you read.</li>\n</ul>\n\n<h2>How do I prepare my phone before travel, Umrah or Hajj?</h2>\n<p>In Makkah and Madinah during the busy seasons, networks are extremely congested, and on planes, trains and remote roads coverage drops. Here are practical steps to do a day or two before you travel:</p>\n<ol>\n<li><strong>Update the app</strong> from the store on a good connection, then open it once so any initial download completes.</li>\n<li><strong>Check your storage</strong> in your phone's settings, leaving enough room for the photos and videos you will take on the trip.</li>\n<li><strong>Download the surahs</strong> you want to hear with your favourite reciter, and make sure each shows a completed-download mark.</li>\n<li><strong>Download the tafsir</strong> you need if it is not built in.</li>\n<li><strong>Test in airplane mode:</strong> open the Mushaf, play a downloaded surah, open a verse's tafsir and move between sections. Whatever does not work now will not work there.</li>\n<li><strong>Set your prayer times city:</strong> choose your destination city or turn on automatic location so it updates when you arrive, and check the right calculation method for that country.</li>\n<li><strong>Allow the adhan to run in the background:</strong> on Android, exclude the app from battery optimisation and allow notifications and exact alarms.</li>\n<li><strong>Calibrate the compass:</strong> move the phone in a figure-of-eight away from metal and electronics; details are in our guide to finding the <a href=\"/en/blog/qibla-direction-phone/\">qibla direction with your phone</a>.</li>\n<li><strong>Carry a power bank</strong>, because the screen, audio and location drain the battery on long days.</li>\n</ol>\n<p>If you want to complete the Quran while travelling or in Ramadan, you can plan your daily portion in advance. Our <a href=\"/en/blog/quran-khatma-ramadan-schedule/\">Quran khatam Ramadan schedule</a> has practical ways to divide it that also work outside Ramadan.</p>\n\n<h2>Quran without internet on your phone: who needs it most?</h2>\n<ul>\n<li><strong>Travellers:</strong> on planes, trains and motorways, and when you arrive in a country before buying a local SIM card.</li>\n<li><strong>Pilgrims on Hajj and Umrah:</strong> where millions of devices compete for the networks at the holy sites and the two Harams.</li>\n<li><strong>People in areas with weak coverage:</strong> in villages and rural areas and many cities in Egypt, Sudan, Yemen and elsewhere, where outages are frequent or data is expensive.</li>\n<li><strong>Anyone saving data:</strong> streaming Surah Al-Baqarah every day, for example, uses hundreds of megabytes a month, while downloading it once over Wi-Fi is enough.</li>\n<li><strong>The elderly and children:</strong> an app that works offline does not surprise them with error messages, ads or update requests.</li>\n</ul>\n\n<h2>Etiquette of reading and listening on your phone</h2>\n<p>The phone is a means; worship is the goal, so the means should not make us forget the etiquette of the Quran. The virtue of reciting is great, as in the hadith:</p>\n<blockquote>\"Whoever reads a letter from the Book of Allah will have a good deed for it, and a good deed is rewarded tenfold. I do not say that Alif-Lam-Mim is one letter; rather Alif is a letter, Lam is a letter and Mim is a letter.\" (Jami' at-Tirmidhi 2910, graded sahih by al-Albani)</blockquote>\n<p>And he ﷺ said:</p>\n<blockquote>\"Recite the Quran, for on the Day of Resurrection it will come as an intercessor for its companions.\" (Sahih Muslim 804)</blockquote>\n<p>As for listening, its etiquette is to pay attention. Allah says:</p>\n<blockquote><p>﴿وَإِذَا قُرِئَ الْقُرْآنُ فَاسْتَمِعُوا لَهُ وَأَنصِتُوا لَعَلَّكُمْ تُرْحَمُونَ﴾</p><p>\"So when the Qur'an is recited, then listen to it and pay attention that you may receive mercy.\" (Surah Al-A'raf 7:204, translation: Sahih International)</p></blockquote>\n<p>Practical etiquette with your phone:</p>\n<ul>\n<li>Turn on \"Do Not Disturb\" while reciting so messages do not interrupt you.</li>\n<li>Do not play recitation in places where no one is listening, such as noisy places of entertainment; if it is for yourself, use headphones.</li>\n<li>In Al-Masjid al-Haram and Al-Masjid an-Nabawi, use headphones or recite quietly so you do not disturb people praying and reciting.</li>\n<li>Reflect on what you read and give a short tafsir a share of your daily portion, because the aim is to understand the words, not just pass over them.</li>\n</ul>\n<p>On the question of purity: most scholars require wudu (ablution) to touch a paper Mushaf, while many contemporary scholars hold that a phone does not take the ruling of the Mushaf for touching, because the text on it appears and disappears. So someone in minor impurity may read from it, though being in a state of purity is better. As for someone in major impurity (janabah), most scholars hold that they may not recite the Quran, and reading from a phone does not change that ruling. Anyone with a particular situation should ask the scholars in their country.</p>\n<p>To check the grading of any hadith you find in an app or a message, you can refer to the <a href=\"https://dorar.net/hadith\">hadith encyclopedia of Dorar al-Saniyyah</a> (in Arabic).</p>\n\n<h2>Good apps that work offline</h2>\n<p>In fairness, there are many good Quran apps, each suited to a different need. Examples include, but are not limited to:</p>\n<ul>\n<li><strong>The official apps of the King Fahd Complex</strong>, such as the \"Madinah Mushaf\" app, whose strength is that they come from the body that prints the Mushaf itself.</li>\n<li><strong>Quran.com and the Quran for Android app</strong> from the Quran.com team, an open-source project that shows the Mushaf pages and downloads them, with recitations, for offline use.</li>\n<li><strong>The Ayat app from King Saud University</strong>, rich in tafsirs, recitations and translations.</li>\n</ul>\n<p>More important than the app's name is testing it yourself with the checklist above before you travel, because features and policies change with updates.</p>\n\n<h2>What works offline in Rafiq Al-Taa?</h2>\n<p>At Farhoon we are building <strong>Rafiq Al-Taa</strong>, a free Islamic app with an Arabic interface. It is now in closed testing and coming soon to Google Play. Here is exactly what works offline and what does not, so you know what to expect:</p>\n<table>\n<thead>\n<tr><th>Section</th><th>Offline</th><th>Note</th></tr>\n</thead>\n<tbody>\n<tr><td>Madinah Mushaf text</td><td>Works</td><td>Built into the app</td></tr>\n<tr><td>Tafsir al-Muyassar and Tafsir as-Sa'di</td><td>Works</td><td>Both built into the app</td></tr>\n<tr><td>Tafsir Ibn Kathir, al-Tabari, al-Qurtubi and al-Baghawi</td><td>After a one-time download</td><td>The download runs in the background</td></tr>\n<tr><td>Recitations</td><td>After downloading the surah</td><td>Streamed when online; each surah can be downloaded once, and the app warns you if a surah is not downloaded while you are offline</td></tr>\n<tr><td>Prayer times and adhan</td><td>Works</td><td>Calculated on the phone, and the adhan plays even when the app is closed</td></tr>\n<tr><td>Qibla compass</td><td>Works</td><td>Relies on the phone's sensors</td></tr>\n<tr><td>Adhkar and Hisn al-Muslim</td><td>Works</td><td>Built into the app</td></tr>\n<tr><td>Scholars' encyclopedia and al-Sha'rawi clips</td><td>Needs internet</td><td>Content shown from the network</td></tr>\n</tbody>\n</table>\n<!--IMG:4-->\n\n<p>The app has no ads and no account, so no section stops working when the network drops because of an ad or a sign-in.</p>\n\n<!--CTA:rafiq-->\n\n<h2>Summary</h2>\n<p>A Quran app that works offline is not an app where \"everything works without the internet\". It is an app that builds in what can be built in, lets you download the rest once, and tells you clearly what is missing. Prepare your phone before you travel, test it in airplane mode, estimate the storage you need, and then let your focus be the Quran itself, not the device. For a web reference to the text and tafsirs when you are online, there is <a href=\"https://quran.com/\">Quran.com</a>.</p>",
+ "faq": [
+  {
+   "q": "Can I read the Quran on my phone without the internet?",
+   "a": "Yes, if the Mushaf text is built into the app, which is the case for most well-known apps because the text is small. Apps that show page images may need to download them the first time. The surest test is to turn on airplane mode right after installing and open any surah; if it appears, reading works offline."
+  },
+  {
+   "q": "How big is the whole Quran in one reciter's voice?",
+   "a": "It depends on the file quality and how long the reciter's recitation is. Roughly, a complete murattal recitation needs about 450 to 900 MB at 64 kbps, and about a gigabyte or more at 128 kbps. Mujawwad recitations are larger. So if storage is limited, it is best to download only the surahs you need."
+  },
+  {
+   "q": "Do prayer times work without the internet?",
+   "a": "Yes, in apps that calculate the times on the phone, because the calculation uses the city's coordinates, the date and the calculation method, with no server needed. You only need to set the city once or let the phone find your location. Apps that fetch times from the internet may stop when the network drops, so test this before you travel."
+  },
+  {
+   "q": "Does the qibla compass work without data?",
+   "a": "Yes. The compass relies on the phone's magnetic sensors and your location coordinates, and GPS itself works without a data plan, though it may be a little slower the first time. What matters is calibrating the compass by moving the phone in a figure-of-eight, and keeping away from metal and electrical devices when finding the direction."
+  },
+  {
+   "q": "Is there offline tafsir in Quran apps?",
+   "a": "Yes. Some apps build in short tafsirs such as Tafsir al-Muyassar and Tafsir as-Sa'di, so they work offline, and some let you download longer tafsirs such as Ibn Kathir, al-Tabari and al-Qurtubi once. Open any verse's tafsir in airplane mode to find out whether the tafsir you need is available offline before you travel."
+  },
+  {
+   "q": "What should I prepare on my phone before Umrah or Hajj?",
+   "a": "Update your Quran app, download the surahs and tafsir you need over Wi-Fi, check your storage, then test everything in airplane mode. Set your prayer times city, allow the adhan to run in the background, calibrate the qibla compass, and carry a power bank, because networks are very congested in the busy seasons."
+  }
+ ],
+ "internal_links": [
+  "tafsir-saadi-vs-muyassar",
+  "prayer-times-calculation-methods",
+  "islamic-app-no-ads",
+  "qibla-direction-phone",
+  "quran-khatma-ramadan-schedule"
+ ],
+ "sources": [
+  {
+   "title": "King Fahd Complex for the Printing of the Holy Quran",
+   "url": "https://qurancomplex.gov.sa/"
+  },
+  {
+   "title": "Tanzil - Medina Mushaf (documentation of the text source)",
+   "url": "https://tanzil.net/docs/medina_mushaf"
+  },
+  {
+   "title": "Dorar al-Saniyyah: hadith encyclopedia (Arabic)",
+   "url": "https://dorar.net/hadith"
+  },
+  {
+   "title": "Quran.com",
+   "url": "https://quran.com/"
+  },
+  {
+   "title": "Quran for Android (GitHub)",
+   "url": "https://github.com/quran/quran_android"
+  },
+  {
+   "title": "King Saud University electronic Mushaf (Ayat)",
+   "url": "https://quran.ksu.edu.sa/"
+  },
+  {
+   "title": "Quran Full - Alafasy 128kbps dataset (size example)",
+   "url": "https://huggingface.co/datasets/RASHID778/Quran-Full"
+  },
+  {
+   "title": "Sabq: King Fahd Complex invites the public to use the Madinah Mushaf app (Arabic)",
+   "url": "https://sabq.org/article/muKJIVG"
+  }
+ ],
+ "images": [
+  {
+   "alt": "Quran offline app on a phone for reading and listening while travelling",
+   "caption": "",
+   "spec": "",
+   "file": "quran-offline-app-cover-en.webp",
+   "type": "cover"
+  },
+  {
+   "alt": "Checklist for judging any Quran offline app before relying on it",
+   "caption": "Checklist: how to judge any offline Mushaf app before relying on it",
+   "spec": "from the article",
+   "file": "quran-offline-app-table-en.webp",
+   "type": "table"
+  },
+  {
+   "alt": "Approximate storage needed to download Quran recitations for offline listening at 64 and 128 kbps",
+   "caption": "How much storage does downloading the full Quran take?",
+   "spec": "from the article",
+   "file": "quran-offline-app-chart-en.webp",
+   "type": "table"
+  },
+  {
+   "alt": "Table of what works offline in the Rafiq Al-Taa Quran app and what needs the internet",
+   "caption": "What works offline in Rafiq Al-Taa?",
+   "spec": "from the article",
+   "file": "quran-offline-app-guide-en.webp",
+   "type": "table"
+  }
+ ],
+ "cta_text": "In Rafiq Al-Taa, our free ad-free app (Arabic interface), the Mushaf, al-Muyassar and as-Sa'di tafsirs, prayer times and adhkar work offline, and recitations download surah by surah. Coming soon to Google Play."
+}

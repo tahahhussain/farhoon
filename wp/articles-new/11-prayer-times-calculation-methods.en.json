@@ -1,0 +1,208 @@
+{
+ "number": 11,
+ "slug": "prayer-times-calculation-methods",
+ "category": "Prayer",
+ "title": "Prayer Times Calculation Methods: Why Apps and Mosques Differ",
+ "meta_title": "Prayer Times Calculation Methods Explained | Farhoon",
+ "meta_description": "Prayer times calculation methods explained: Fajr and Isha angles, Umm al-Qura vs Egyptian, Hanafi vs Shafi'i Asr, and how to match your app to your country",
+ "focus_keyword": "prayer times calculation methods",
+ "keywords": [
+  {
+   "keyword": "prayer times calculation methods",
+   "type": "primary",
+   "est_monthly_searches": "1,000–3,000 (estimated)",
+   "intent": "informational",
+   "kgr_note": "Medium; ranking pages are mostly developer docs (praytimes.org, Aladhan) without a juristic explanation. Our edge: hadith-based definitions plus a diagnosis table (estimated)"
+  },
+  {
+   "keyword": "why are prayer times different",
+   "type": "question",
+   "est_monthly_searches": "500–1,500 (estimated)",
+   "intent": "informational",
+   "kgr_note": "Easy to medium; answered piecemeal in app help pages and forums, KGR possibly under 0.25 (estimated)"
+  },
+  {
+   "keyword": "fajr angle",
+   "type": "secondary",
+   "est_monthly_searches": "500–1,500 (estimated)",
+   "intent": "informational",
+   "kgr_note": "Medium; debate pages and astronomy papers compete (estimated)"
+  },
+  {
+   "keyword": "umm al qura prayer times",
+   "type": "secondary",
+   "est_monthly_searches": "2,000–8,000 (estimated)",
+   "intent": "navigational",
+   "kgr_note": "Hard; users often want the timetable itself (estimated)"
+  },
+  {
+   "keyword": "hanafi vs shafi asr time",
+   "type": "question",
+   "est_monthly_searches": "500–2,000 (estimated)",
+   "intent": "informational",
+   "kgr_note": "Easy to medium; fatwa pages rarely explain the app setting (estimated)"
+  },
+  {
+   "keyword": "egyptian general authority of survey prayer times",
+   "type": "long-tail",
+   "est_monthly_searches": "200–800 (estimated)",
+   "intent": "navigational",
+   "kgr_note": "Easy; mostly app setting searches (estimated)"
+  },
+  {
+   "keyword": "muslim world league calculation method",
+   "type": "LSI",
+   "est_monthly_searches": "500–1,500 (estimated)",
+   "intent": "informational",
+   "kgr_note": "Medium (estimated)"
+  },
+  {
+   "keyword": "prayer times high latitudes",
+   "type": "LSI",
+   "est_monthly_searches": "200–700 (estimated)",
+   "intent": "informational",
+   "kgr_note": "Easy to medium; relevant for UK, Scandinavia and Canada readers (estimated)"
+  }
+ ],
+ "keyword_variations": [
+  "prayer time calculation method",
+  "prayer times calculation",
+  "how are prayer times calculated",
+  "why do prayer times differ between apps",
+  "fajr angle 18 degrees",
+  "fajr angle 19.5",
+  "isha angle",
+  "umm al qura method",
+  "umm ul qura calendar",
+  "egyptian general authority of survey",
+  "mwl method",
+  "isna method",
+  "hanafi asr",
+  "shafi asr",
+  "asr hanafi or standard",
+  "salah times calculation",
+  "namaz time calculation method",
+  "high latitude rule prayer"
+ ],
+ "featured_snippet": {
+  "target_query": "what are the prayer times calculation methods",
+  "type": "paragraph",
+  "html": "<p>Prayer times calculation methods are astronomical standards adopted by official bodies. The main settings are the sun's angle below the horizon at Fajr and Isha (roughly 15° to 19.5°), or a fixed number of minutes after Maghrib as in the Umm al-Qura calendar, the Asr rule (a shadow one or two times an object's length), and small safety minutes. That is why times differ between apps, and your country's official calendar is the reference.</p>"
+ },
+ "excerpt": "A complete guide to prayer times calculation methods: the Islamic definition of each time, Fajr and Isha angles, Umm al-Qura, Egyptian and other methods in one table, Hanafi vs Shafi'i Asr, and how to match your app to your country.",
+ "reading_minutes": 13,
+ "featured_image": {
+  "headline": "Why do prayer times differ?",
+  "alt": "Prayer times calculation methods and the sun's angle below the horizon at Fajr and Isha"
+ },
+ "content_html": "<p>Compare the Fajr adhan in two apps, or between your app and your local mosque, and you may find a gap of one to twenty minutes. This is usually not a mistake but a matter of different <strong>prayer times calculation methods</strong>: each official body has its own angle for Fajr and Isha, its own rule for Asr, and its own safety minutes. This guide explains the Sunnah's signs, the astronomy behind them, the main methods, and how to match your app to your official calendar.</p>\n\n<h2>What are the prayer times calculation methods?</h2>\n<div class=\"f-snippet\"><p>Prayer times calculation methods are astronomical standards adopted by official bodies. The main settings are the sun's angle below the horizon at Fajr and Isha (roughly 15° to 19.5°), or a fixed number of minutes after Maghrib as in the Umm al-Qura calendar, the Asr rule (a shadow one or two times an object's length), and small safety minutes. That is why times differ between apps, and your country's official calendar is the reference.</p></div>\n<p>Dhuhr, Maghrib and sunrise are tied to clear events, so methods differ on them only by safety minutes. The real differences are in <strong>Fajr and Isha</strong>, which depend on twilight that fades gradually, and <strong>Asr</strong>, where jurists differed over the shadow length.</p>\n\n<h2>What are the Islamic times of the five daily prayers?</h2>\n<p>Allah gave the prayer fixed times. He says:</p>\n<blockquote><p>﴿إِنَّ الصَّلَاةَ كَانَتْ عَلَى الْمُؤْمِنِينَ كِتَابًا مَّوْقُوتًا﴾</p><p>\"Indeed, prayer has been decreed upon the believers a decree of specified times.\" (Surah An-Nisa 4:103, translation: Sahih International)</p></blockquote>\n<p>And He points to them all:</p>\n<blockquote><p>﴿أَقِمِ الصَّلَاةَ لِدُلُوكِ الشَّمْسِ إِلَىٰ غَسَقِ اللَّيْلِ وَقُرْآنَ الْفَجْرِ ۖ إِنَّ قُرْآنَ الْفَجْرِ كَانَ مَشْهُودًا﴾</p><p>\"Establish prayer at the decline of the sun [from its meridian] until the darkness of the night and [also] the Qur'an [i.e., recitation] of dawn. Indeed, the recitation of dawn is ever witnessed.\" (Surah Al-Isra 17:78, translation: Sahih International)</p></blockquote>\n<p>The Sunnah detailed them, notably in the <strong>hadith of Jibril leading the prayer</strong>. Ibn Abbas (may Allah be pleased with him) reported that the Prophet ﷺ said: \"Jibril led me in prayer at the House (the Ka'bah) twice.\" He described Jibril leading the five prayers at the start of their times on the first day and at the end of their preferred times on the second, then saying: \"The time is between these two times.\" (Sunan Abi Dawud 393 and Jami' at-Tirmidhi 149; al-Albani graded it hasan sahih in Sahih Abi Dawud)</p>\n<p>The fullest hadith on the start and end of each time is that of Abdullah ibn Amr (may Allah be pleased with them both): the Prophet ﷺ said:</p>\n<blockquote>\"The time of Dhuhr is when the sun has passed its zenith and a man's shadow is equal to his height, as long as the time of Asr has not come. The time of Asr lasts as long as the sun has not turned yellow. The time of Maghrib lasts as long as the twilight has not disappeared. The time of Isha lasts until the middle of the night. And the time of the Subh (Fajr) prayer is from the break of dawn as long as the sun has not risen.\" (Sahih Muslim 612)</blockquote>\n<p>You can read an explanation of this hadith in the <a href=\"https://hadeethenc.com/en/browse/hadith/10596\">Encyclopedia of Translated Prophetic Hadiths</a>. From these hadiths jurists took the signs that astronomers now turn into numbers:</p>\n<table>\n<thead><tr><th>Prayer</th><th>The Islamic sign that the time has begun</th><th>Its astronomical equivalent</th></tr></thead>\n<tbody>\n<tr><td>Fajr</td><td>The true dawn (al-fajr as-sadiq): the white light spreading across the eastern horizon</td><td>The sun at a set angle below the horizon (between 15° and 19.5°, depending on the method)</td></tr>\n<tr><td>Dhuhr</td><td>The sun passing the middle of the sky (zawal)</td><td>A minute or more after solar noon (the sun's highest point), as a precaution</td></tr>\n<tr><td>Asr</td><td>An object's shadow equals its length after the noon shadow, or twice its length for the Hanafis</td><td>Calculating the sun's altitude at which that shadow length is reached</td></tr>\n<tr><td>Maghrib</td><td>The whole disc of the sun has set</td><td>The upper edge of the disc disappears, allowing for atmospheric refraction</td></tr>\n<tr><td>Isha</td><td>The twilight (shafaq) has disappeared</td><td>The sun at a set angle below the horizon (roughly 15° to 18°), or a fixed number of minutes after Maghrib</td></tr>\n</tbody>\n</table>\n<!--IMG:2-->\n\n<p>The preferred time for Isha ends at the middle of the night, as in Muslim's hadith, and Fajr ends at sunrise, which is why apps show <strong>sunrise</strong> (shuruq) even though it is not the time of an obligatory prayer.</p>\n\n<h2>How does astronomy turn prayer times into numbers?</h2>\n<p>Latitude, longitude and date give the sun's position at every moment; the method's rules are then applied.</p>\n<h3>Dhuhr: solar noon is not always at 12:00</h3>\n<p>Solar noon rarely falls at 12:00; it depends on your position within your time zone and on the \"equation of time\", a small yearly variation in the sun's apparent speed that can reach about a quarter of an hour. Most bodies add a minute or more so the sun has clearly begun to move west.</p>\n<h3>Maghrib and sunrise: the edge of the disc and refraction</h3>\n<p>Sunset is counted when the sun's upper edge disappears, and refraction lets us see the sun while it is slightly below the horizon, so software uses the sun's centre about 0.83° below it. Methods broadly agree here, so Maghrib is similar across apps.</p>\n<h3>Fajr and Isha: the sun's depression angle</h3>\n<p>Twilight fades gradually after sunset and grows before sunrise. Astronomers measure it by how far <strong>the sun is below the horizon, in degrees</strong>. A <strong>Fajr angle</strong> of 18° means Fajr begins when the sun's centre is eighteen degrees below the eastern horizon.</p>\n<p>A larger angle means earlier Fajr or later Isha. In Arab countries, 18° versus 19.5° means roughly seven to ten minutes, more further from the equator or in northern summers.</p>\n<h3>Isha by minutes instead of an angle</h3>\n<p>Some bodies set Isha a fixed interval after Maghrib, notably the <strong>Umm al-Qura calendar</strong> in Saudi Arabia: 90 minutes after Maghrib all year, and 120 minutes in Ramadan to make Taraweeh easier. Qatar also uses 90 minutes. It is stable and simple, though not an exact daily match for twilight.</p>\n<h3>Why does the Isha angle vary? Red and white twilight</h3>\n<p>The majority of jurists hold that Isha begins when the <strong>red twilight</strong> disappears, while Abu Hanifa (may Allah have mercy on him) held it is the <strong>white twilight</strong> that remains after it. The white disappears later and needs a larger angle. This and differing local observations explain why Isha angles range from 15° to 18°.</p>\n\n<h2>Hanafi and Shafi'i Asr time: what is the difference?</h2>\n<p>At midday an upright object casts a short \"noon shadow\" (fay' az-zawal), longer in winter, which then grows; Asr is measured from it:</p>\n<ul>\n<li><strong>The majority view</strong> (the Malikis, Shafi'is and Hanbalis, and also the view of Abu Hanifa's two students, Abu Yusuf and Muhammad): Asr begins when an object's shadow equals its length, plus the noon shadow. The two hadiths above indicate this. In apps it is labelled \"Shafi'i\" or \"Standard\".</li>\n<li><strong>The view of Abu Hanifa</strong>: Asr begins when an object's shadow is twice its length, plus the noon shadow. In apps it is labelled \"Hanafi\".</li>\n</ul>\n<p>The gap usually ranges from half an hour to over an hour, larger in summer than in winter. If your app's Asr is much later than your mosque's, check the Asr setting first. Hanafi Asr is used in Pakistan, India and Bangladesh; most Arab countries follow the majority view.</p>\n\n<!--CTA:rafiq-->\n\n<p><strong>Rafiq Al-Taa</strong> is a free, ad-free Islamic app with an Arabic interface, coming soon to Google Play. It picks your country's official calculation method automatically: the Egyptian General Authority of Survey in Egypt, Umm al-Qura in Saudi Arabia, Bahrain and Yemen, the Dubai method in the UAE, the Kuwait and Qatar methods in those countries, the Moroccan (19°/17°) and Algerian (18°/17°) methods, and the Muslim World League in many other countries, with Hanafi Asr in Pakistan, India and Bangladesh. You can change the method by hand, adjust each prayer by minutes, and the adhan plays on time even when the app is closed. More about the app in <a href=\"/en/blog/islamic-app-no-ads/\">the best Islamic app without ads</a>.</p>\n\n<h2>The best-known prayer time calculation methods and their angles</h2>\n<p>These are the most widely used methods, as documented by open-source prayer time libraries and astronomical references. Bodies may revise their standards, so the final reference is always their own published calendar:</p>\n<table>\n<thead><tr><th>Method</th><th>Fajr angle</th><th>Isha</th><th>Mainly used in</th><th>Notes</th></tr></thead>\n<tbody>\n<tr><td>Umm al-Qura (Makkah)</td><td>18.5°</td><td>90 minutes after Maghrib, 120 in Ramadan</td><td>Saudi Arabia</td><td>Isha by fixed interval, not an angle</td></tr>\n<tr><td>Egyptian General Authority of Survey</td><td>19.5°</td><td>17.5°</td><td>Egypt, and used by apps in other countries</td><td>Earliest Fajr among the common Arab methods</td></tr>\n<tr><td>Muslim World League (MWL)</td><td>18°</td><td>17°</td><td>Europe, the Far East, and many countries as the default</td><td>The most widespread method in apps</td></tr>\n<tr><td>Dubai (UAE)</td><td>18.2°</td><td>18.2°</td><td>UAE</td><td>Small safety minutes added to sunrise, Dhuhr, Asr and Maghrib</td></tr>\n<tr><td>Kuwait</td><td>18°</td><td>17.5°</td><td>Kuwait</td><td>—</td></tr>\n<tr><td>Qatar</td><td>18°</td><td>90 minutes after Maghrib</td><td>Qatar</td><td>Like Umm al-Qura for Isha</td></tr>\n<tr><td>University of Islamic Sciences, Karachi</td><td>18°</td><td>18°</td><td>Pakistan, India, Bangladesh, Afghanistan</td><td>Usually paired with Hanafi Asr</td></tr>\n<tr><td>Islamic Society of North America (ISNA)</td><td>15°</td><td>15°</td><td>North America (now less used)</td><td>Latest Fajr and earliest Isha among the methods</td></tr>\n<tr><td>Moroccan Ministry of Habous</td><td>19° (according to the value used in common calculations)</td><td>17°</td><td>Morocco</td><td>The ministry publishes official tables for each city, which are the reference</td></tr>\n<tr><td>Algerian Ministry of Religious Affairs and Endowments</td><td>18°</td><td>17°</td><td>Algeria</td><td>Same angles as the Muslim World League</td></tr>\n<tr><td>Turkish Presidency of Religious Affairs (Diyanet)</td><td>18°</td><td>17°</td><td>Turkey and Turkish communities</td><td>Adds \"temkin\" minutes to some times</td></tr>\n<tr><td>Moonsighting Committee</td><td>18° as a base</td><td>18° as a base</td><td>UK and North America</td><td>Adjusts by season and latitude, and uses the one-seventh-of-the-night rule at high latitudes</td></tr>\n</tbody>\n</table>\n<!--IMG:3-->\n\n<p>Notice that the clearest difference between the Arab methods is in <strong>Fajr</strong>, from 18° to 19.5°, and in <strong>Isha</strong>, between an angle and fixed minutes. Someone in Cairo using the Muslim World League instead of the Egyptian method will see Fajr a few minutes after the city's mosques, a very common complaint.</p>\n\n<h2>What are \"temkin\" and safety minutes, and how do altitude and city size affect times?</h2>\n<p>A calculation gives an exact moment for one point, but cities are wide and altitudes vary, so many bodies add safety minutes, which Turkey calls \"temkin\". Examples, as approximated by common software libraries:</p>\n<ul>\n<li><strong>Turkish Diyanet method:</strong> sunrise about 7 minutes earlier, Dhuhr about 5 minutes later, Asr about 4 minutes later, and Maghrib about 7 minutes later.</li>\n<li><strong>Dubai method:</strong> about 3 safety minutes for sunrise, Dhuhr, Asr and Maghrib.</li>\n<li><strong>Moonsighting Committee:</strong> about 5 minutes after solar noon for Dhuhr, and 3 minutes after sunset for Maghrib.</li>\n<li><strong>Most other methods:</strong> at least one minute after solar noon for Dhuhr.</li>\n</ul>\n<h3>A city's width from east to west</h3>\n<p>Each degree of longitude equals 4 minutes of the sun's apparent movement, so in a city fifty kilometres wide from east to west, sunset can differ by about two minutes between its edges. Calendars use one reference point, so on the western edge the adhan may precede actual sunset, one reason for safety minutes.</p>\n<h3>Altitude above sea level</h3>\n<p>On a mountain or in a high city you see the sun a little longer, so sunset is later and sunrise earlier. The effect is small, reaching a few minutes only at high altitudes; most calendars leave it to the safety minutes.</p>\n<h3>Time zone and daylight saving time</h3>\n<p>A full-hour gap in every prayer comes from your phone's time zone or daylight saving setting, not the method. Set the clock to update automatically from the network.</p>\n\n<h2>How are prayer times calculated at high latitudes?</h2>\n<p>Far from the equator, as in northern Europe and Canada, the sun may not drop 18° below the horizon on summer nights, so twilight persists and the usual formula fails. In the far north the sun may not set for days. So approximate rules based on scholarly ijtihad (reasoned judgement) are used:</p>\n<ul>\n<li><strong>Middle of the night:</strong> the night (from sunset to sunrise) is split in half, so Isha is no later than its midpoint and Fajr no earlier than it.</li>\n<li><strong>One-seventh of the night:</strong> the night is split into seven parts; Isha comes after the first seventh and Fajr at the start of the last seventh.</li>\n<li><strong>Angle-based method:</strong> the night is divided in the ratio of the method's angle to 60, so a 15° angle puts Isha after the first quarter of the night, for example.</li>\n</ul>\n<p>Fiqh councils have studied this, and many scholars hold that times should be estimated by the nearest place where they are distinct, or by similar rules, with known differences on the details. In such countries, follow the calendar of your city's Islamic centre or main mosque, as it unites people on one time.</p>\n\n<h2>The Fajr angle debate: 18°, 19.5° or less?</h2>\n<p>Some ask whether official Fajr is too early. It is a matter of ijtihad in fiqh and observation; we present it neutrally:</p>\n<ul>\n<li><strong>Large angles:</strong> the Egyptian General Authority of Survey has used 19.5° for decades, Umm al-Qura 18.5°, and the Muslim World League and several other bodies 18°. <a href=\"https://www.dar-alifta.org/ar/fatwa/details/13816\">Egypt's Dar al-Ifta issued a fatwa on the time of Fajr</a> (in Arabic) confirming that the Authority's timing is correct, and that the range between 18° and 19.5° is what has been followed in practice for determining the true dawn.</li>\n<li><strong>Observational studies with smaller values:</strong> astronomical and university bodies in some Arab countries reported smaller values from field observation, in some cases around 14° to 16°, and called for review.</li>\n<li><strong>Why observations vary:</strong> the clarity of the horizon, light pollution in cities, dust and humidity, the observer's experience, and how the moment of true dawn is defined.</li>\n</ul>\n<p>Our advice: do not settle this yourself in your app's settings. Follow your country's official calendar, which mosques use and official fatwa bodies have chosen. If you want extra personal caution for Fajr or for when to stop eating before a fast, ask trusted scholars in your country.</p>\n\n<h3>Why is the mosque's and ministry's calendar the reference?</h3>\n<p>An app is a calculation tool; the official calendar is the decision of qualified astronomers and jurists who know the country, so it comes first:</p>\n<ol>\n<li><strong>Unity:</strong> a neighbourhood prays at one time, and those fasting break their fast at one adhan.</li>\n<li><strong>Ending disagreement:</strong> angles are a matter of ijtihad, and the official choice settles it in practice.</li>\n<li><strong>Local knowledge:</strong> the body knows its cities and altitudes and sets suitable safety minutes.</li>\n<li><strong>Updates:</strong> revised standards reach the official calendar first; apps may lag.</li>\n</ol>\n<p>The best-known reference bodies in the Arab world are Umm al-Qura in Saudi Arabia, the Egyptian General Authority of Survey, the General Authority of Islamic Affairs and Endowments in the UAE, the Ministries of Awqaf and Islamic Affairs in Kuwait and in Qatar, the Ministry of Habous and Islamic Affairs in Morocco, and the Ministry of Religious Affairs and Endowments in Algeria. Knowing the correct time is part of performing the prayer properly, just as finding the <a href=\"/en/blog/qibla-direction-phone/\">qibla direction with your phone</a> is part of its conditions.</p>\n\n<h2>How do you match your app with your country's calendar and fix a 1 to 3 minute gap?</h2>\n<p>Do this when you install the app and whenever you move country:</p>\n<ol>\n<li><strong>Check your location:</strong> turn on location and confirm the app shows your actual city.</li>\n<li><strong>Check your clock:</strong> set date, time and time zone to automatic.</li>\n<li><strong>Choose your country's method</strong> and the Asr rule followed where you live.</li>\n<li><strong>Compare for three days:</strong> note each prayer's difference from your city's official calendar or mosque timetable.</li>\n<li><strong>Read the gap:</strong> a steady one to three minutes in one prayer usually means safety minutes or a different reference point.</li>\n<li><strong>Adjust by minutes:</strong> adjust each prayer manually until the app matches.</li>\n<li><strong>Recheck after two weeks:</strong> a gap that keeps changing points to the method, not the minutes.</li>\n</ol>\n<p>Quick diagnosis:</p>\n<table>\n<thead><tr><th>What you notice</th><th>Likely cause</th><th>Fix</th></tr></thead>\n<tbody>\n<tr><td>A steady 1 to 3 minute gap in one or more prayers</td><td>Safety minutes or a different reference point in the city</td><td>Adjust that prayer by minutes manually</td></tr>\n<tr><td>A gap of 5 to 15 minutes in Fajr only</td><td>A different Fajr angle from the official method</td><td>Choose your country's official method</td></tr>\n<tr><td>An Isha gap that grows and shrinks with the seasons</td><td>An angle in the app and fixed minutes in the calendar, or the reverse</td><td>Choose your country's official method</td></tr>\n<tr><td>Asr half an hour or more later</td><td>Hanafi Asr selected instead of the majority view, or the reverse</td><td>Switch the Asr rule to the one followed in your country</td></tr>\n<tr><td>Every prayer an hour early or late</td><td>Time zone or daylight saving time</td><td>Set the time to automatic in your phone's settings</td></tr>\n<tr><td>Every prayer off by varying minutes</td><td>Wrong location</td><td>Turn on location or choose your city manually</td></tr>\n</tbody>\n</table>\n<!--IMG:4-->\n\n<p>Once the time is right, what matters is praying at its start. Track your prayers in a <a href=\"/en/blog/daily-worship-tracker/\">daily worship tracker</a>, and to build the habit in your children as described in <a href=\"/en/blog/teach-child-prayer/\">how to teach your child to pray</a>.</p>\n\n<h2>Summary: calculation is a tool, the official calendar is the reference</h2>\n<p>Prayer times differ between apps and mosques for known reasons: Fajr and Isha angles, Isha by minutes or angle, the Asr rule, safety minutes, and location and time zone. The times are fixed by signs set out in the Sunnah; differences lie only in turning them into numbers. Choose your country's official method, match it with the ministry calendar or your mosque, and adjust small gaps by hand. The juristic views here summarise what is well known; for special cases such as high latitudes, consult your country's scholars.</p>\n\n<!--CTA:rafiq-->\n",
+ "faq": [
+  {
+   "q": "Why does Fajr time differ between two apps on the same phone?",
+   "a": "Because each app may use a different calculation method, and the biggest difference is the Fajr angle: the Egyptian General Authority of Survey uses 19.5°, Umm al-Qura 18.5°, the Muslim World League 18°, and some methods 15°. Every change in the angle shifts the time by minutes. Choose your country's official method in both apps and they will come close."
+  },
+  {
+   "q": "What is the difference between Hanafi and Shafi'i Asr in apps?",
+   "a": "\"Shafi'i\" (or Standard) Asr is the majority view: the time begins when an object's shadow equals its length after the noon shadow. \"Hanafi\" Asr is the view of Abu Hanifa: when the shadow is twice its length. So Hanafi Asr is usually between half an hour and more than an hour later, depending on season and latitude. Choose the one followed in your country."
+  },
+  {
+   "q": "How many minutes are there between Maghrib and Isha in the Umm al-Qura calendar?",
+   "a": "The Umm al-Qura calendar used in Saudi Arabia sets Isha ninety minutes after Maghrib all year, and one hundred and twenty minutes in Ramadan. That is why the gap between Maghrib and Isha in Saudi Arabia does not change with the seasons, unlike methods that calculate Isha by the sun's angle below the horizon."
+  },
+  {
+   "q": "What does an 18 degree Fajr angle mean?",
+   "a": "It means Fajr begins when the centre of the sun is eighteen degrees below the eastern horizon, the moment at which the true dawn is estimated to appear. Bodies differ on this angle, from roughly 15° to 19.5°, according to their ijtihad and observation results. The reference is whatever the official body in your country adopts."
+  },
+  {
+   "q": "My app is two minutes off from the mosque. What should I do?",
+   "a": "First check that the city, time zone, calculation method and Asr setting are correct. If a steady gap of one to three minutes remains, it is usually safety minutes added by the official body or your position within the city. Use the option to adjust each prayer by minutes until the app matches the mosque or ministry calendar."
+  },
+  {
+   "q": "Should I follow the app or the mosque calendar for prayer and fasting?",
+   "a": "The reference is the official calendar adopted in your country, which mosques call the adhan by, because it unites people on one time and settles the ijtihad-based disagreement over angles. An app is a useful tool once it is set to match that calendar. If you have a specific question about extra caution for Fajr or suhoor, ask the scholars in your country."
+  },
+  {
+   "q": "How are prayer times calculated where twilight does not disappear in summer?",
+   "a": "At high latitudes the sun may not drop far enough for Fajr and Isha to be distinct, so approximate rules are used, such as the middle of the night, one-seventh of the night, or the angle-based method. Many scholars hold that times should be estimated by the nearest place where they are distinct. It is best to follow your city's Islamic centre calendar."
+  }
+ ],
+ "internal_links": [
+  "islamic-app-no-ads",
+  "qibla-direction-phone",
+  "daily-worship-tracker",
+  "teach-child-prayer"
+ ],
+ "sources": [
+  {
+   "title": "Adhan (batoulapps): Calculation methods and parameters",
+   "url": "https://github.com/batoulapps/adhan-js/blob/master/METHODS.md"
+  },
+  {
+   "title": "Adhan (batoulapps): CalculationMethod source (method adjustments)",
+   "url": "https://github.com/batoulapps/adhan-js/blob/master/src/CalculationMethod.ts"
+  },
+  {
+   "title": "PrayTimes.org: Prayer Times Calculation (methods, Asr, high latitudes)",
+   "url": "https://praytimes.org/docs/calculation"
+  },
+  {
+   "title": "Dar al-Ifta al-Misriyyah: fatwa on the time of Fajr (Arabic)",
+   "url": "https://www.dar-alifta.org/ar/fatwa/details/13816"
+  },
+  {
+   "title": "Dar al-Ifta al-Misriyyah: following the prayer times issued by the Egyptian Survey Authority (Arabic)",
+   "url": "https://www.dar-alifta.org/ar/fatwa/details/13253"
+  },
+  {
+   "title": "Encyclopedia of Translated Prophetic Hadiths: the time of Dhuhr is when the sun passes its zenith (Muslim)",
+   "url": "https://hadeethenc.com/en/browse/hadith/10596"
+  },
+  {
+   "title": "Hadith of Jibril leading the prayer (Sunan Abi Dawud 393, Jami' at-Tirmidhi 149) - Sunnah.com",
+   "url": "https://sunnah.com/abudawud:393"
+  },
+  {
+   "title": "Surah An-Nisa 4:103 - Quran.com",
+   "url": "https://quran.com/4/103"
+  },
+  {
+   "title": "Surah Al-Isra 17:78 - Quran.com",
+   "url": "https://quran.com/17/78"
+  },
+  {
+   "title": "Turkish Presidency of Religious Affairs (Diyanet): prayer times",
+   "url": "https://namazvakitleri.diyanet.gov.tr/"
+  }
+ ],
+ "images": [
+  {
+   "file": "prayer-times-calculation-methods-cover-en.webp",
+   "alt": "Prayer times calculation methods and the sun's angle below the horizon at Fajr and Isha",
+   "caption": "",
+   "type": "cover",
+   "spec": ""
+  },
+  {
+   "file": "prayer-times-calculation-methods-table-en.webp",
+   "alt": "Islamic times of the five daily prayers and their astronomical equivalents: prayer times calculation methods",
+   "caption": "What are the Islamic times of the five daily prayers?",
+   "type": "table",
+   "spec": "from the article"
+  },
+  {
+   "file": "prayer-times-calculation-methods-chart-en.webp",
+   "alt": "Table of the best-known prayer times calculation methods with their Fajr and Isha angles",
+   "caption": "The best-known prayer time calculation methods and their angles",
+   "type": "table",
+   "spec": "from the article"
+  },
+  {
+   "file": "prayer-times-calculation-methods-guide-en.webp",
+   "alt": "How to match your prayer app with your country's official calendar: diagnosis table for prayer time differences",
+   "caption": "How do you match your app with your country's calendar and fix a 1 to 3 minute gap?",
+   "type": "table",
+   "spec": "from the article"
+  }
+ ],
+ "cta_text": "Rafiq Al-Taa, our free ad-free app (Arabic interface), calculates prayer times by your country's official method, lets you adjust each prayer by minutes, and plays the adhan even when closed. Coming soon to Google Play."
+}
