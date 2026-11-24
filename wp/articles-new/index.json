@@ -148,5 +148,185 @@
   "file": "35-meem-sakinah-rules.json",
   "slug": "meem-sakinah-rules",
   "title": "أحكام الميم الساكنة: شرح مبسط بالأمثلة وأبيات التحفة وجدول ملخص"
+ },
+ {
+  "number": 36,
+  "file": "36-ramadan-guide.json",
+  "slug": "ramadan-guide",
+  "title": "دليل رمضان الشامل ١٤٤٨هـ: الأحكام والعبادات من الاستعداد حتى العيد"
+ },
+ {
+  "number": 37,
+  "file": "37-prepare-for-ramadan.json",
+  "slug": "prepare-for-ramadan",
+  "title": "كيف أستعد لرمضان؟ خطة عملية من شعبان حتى ليلة الشهر"
+ },
+ {
+  "number": 38,
+  "file": "38-ramadan-virtues.json",
+  "slug": "ramadan-virtues",
+  "title": "فضل شهر رمضان وصيامه: الأحاديث الصحيحة والضعيفة المشهورة"
+ },
+ {
+  "number": 39,
+  "file": "39-fasting-intention.json",
+  "slug": "fasting-intention",
+  "title": "نية الصيام: وقتها وهل تجب كل ليلة في رمضان وحكم التلفظ بها"
+ },
+ {
+  "number": 40,
+  "file": "40-suhoor-virtue-time.json",
+  "slug": "suhoor-virtue-time",
+  "title": "فضل السحور ووقته: سنة التأخير وأفضل ما يؤكل قبل الفجر"
+ },
+ {
+  "number": 41,
+  "file": "41-imsak-before-fajr.json",
+  "slug": "imsak-before-fajr",
+  "title": "الإمساك قبل الفجر: حكم إمساكية العشر دقائق والأكل أثناء الأذان"
+ },
+ {
+  "number": 42,
+  "file": "42-iftar-dua.json",
+  "slug": "iftar-dua",
+  "title": "دعاء الإفطار الصحيح: «ذهب الظمأ» ومصدره والصيغ الضعيفة المنتشرة"
+ },
+ {
+  "number": 43,
+  "file": "43-ramadan-duas.json",
+  "slug": "ramadan-duas",
+  "title": "أدعية رمضان من القرآن والسنة الصحيحة: جامع موثّق بالمصادر"
+ },
+ {
+  "number": 44,
+  "file": "44-laylat-al-qadr-dua.json",
+  "slug": "laylat-al-qadr-dua",
+  "title": "دعاء ليلة القدر «اللهم إنك عفو تحب العفو فاعف عني»: مصدره ومعناه"
+ },
+ {
+  "number": 45,
+  "file": "45-fasting-invalidators.json",
+  "slug": "fasting-invalidators",
+  "title": "مبطلات الصوم: القائمة كاملة وما يوجب القضاء وما يوجب الكفارة"
+ },
+ {
+  "number": 46,
+  "file": "46-things-that-dont-break-fast.json",
+  "slug": "things-that-dont-break-fast",
+  "title": "ما لا يفطر الصائم: الإبرة والقطرة وبخاخ الربو والسواك والتحليل"
+ },
+ {
+  "number": 47,
+  "file": "47-fasting-kaffarah-fidyah.json",
+  "slug": "fasting-kaffarah-fidyah",
+  "title": "الكفارة والفدية في الصيام: الفرق بينهما والمقدار ومن تلزمه"
+ },
+ {
+  "number": 48,
+  "file": "48-who-can-break-fast-ramadan.json",
+  "slug": "who-can-break-fast-ramadan",
+  "title": "من يُرخَّص لهم في الفطر في رمضان؟ الأعذار السبعة وحكم كل عذر"
+ },
+ {
+  "number": 49,
+  "file": "49-fasting-sick-traveler.json",
+  "slug": "fasting-sick-traveler",
+  "title": "صيام المريض والمسافر: متى يفطر، ومسافة السفر، والأمراض المزمنة"
+ },
+ {
+  "number": 50,
+  "file": "50-pregnant-breastfeeding-fasting.json",
+  "slug": "pregnant-breastfeeding-fasting",
+  "title": "صيام الحامل والمرضع: القضاء أم الفدية؟ أقوال المذاهب الأربعة"
+ },
+ {
+  "number": 51,
+  "file": "51-taraweeh-rakaat.json",
+  "slug": "taraweeh-rakaat",
+  "title": "عدد ركعات صلاة التراويح: ١١ أم ٢٠؟ الأدلة والخلاف وصفة الصلاة"
+ },
+ {
+  "number": 52,
+  "file": "52-witr-qunut-dua.json",
+  "slug": "witr-qunut-dua",
+  "title": "دعاء القنوت في الوتر: الصيغة الثابتة ومحله وحكمه في المذاهب"
+ },
+ {
+  "number": 53,
+  "file": "53-laylat-al-qadr-signs.json",
+  "slug": "laylat-al-qadr-signs",
+  "title": "علامات ليلة القدر الثابتة ومتى تُتحرّى في رمضان ١٤٤٨هـ"
+ },
+ {
+  "number": 54,
+  "file": "54-last-ten-nights-itikaf.json",
+  "slug": "last-ten-nights-itikaf",
+  "title": "العشر الأواخر من رمضان والاعتكاف: الأحكام وبرنامج عملي لكل ليلة"
+ },
+ {
+  "number": 55,
+  "file": "55-quran-tadabbur-ramadan.json",
+  "slug": "quran-tadabbur-ramadan",
+  "title": "تدبر القرآن في رمضان: خطوات عملية وأسئلة للتأمل وأمثلة تطبيقية"
+ },
+ {
+  "number": 56,
+  "file": "56-khatm-quran-dua.json",
+  "slug": "khatm-quran-dua",
+  "title": "دعاء ختم القرآن: ما ثبت وما لم يثبت، وأدعية صحيحة تدعو بها"
+ },
+ {
+  "number": 57,
+  "file": "57-family-quran-khatma.json",
+  "slug": "family-quran-khatma",
+  "title": "ختم القرآن مع الأسرة في رمضان: توزيع الأجزاء وأدوار الأطفال"
+ },
+ {
+  "number": 58,
+  "file": "58-menstruating-woman-quran.json",
+  "slug": "menstruating-woman-quran",
+  "title": "قراءة القرآن للحائض: أقوال العلماء ومسّ المصحف والقراءة من الجوال"
+ },
+ {
+  "number": 59,
+  "file": "59-ramadan-daily-routine.json",
+  "slug": "ramadan-daily-routine",
+  "title": "برنامج يومي في رمضان: جدول ساعة بساعة للموظف والطالب والأم"
+ },
+ {
+  "number": 60,
+  "file": "60-children-fasting.json",
+  "slug": "children-fasting",
+  "title": "صيام الأطفال: متى يجب الصوم على الطفل وكيف أدرّبه خطوة بخطوة"
+ },
+ {
+  "number": 61,
+  "file": "61-ramadan-activities-kids.json",
+  "slug": "ramadan-activities-kids",
+  "title": "أنشطة رمضان للأطفال: أفكار بسيطة تحبّبهم في الشهر مع جدول أسبوعي"
+ },
+ {
+  "number": 62,
+  "file": "62-iftar-saim-reward.json",
+  "slug": "iftar-saim-reward",
+  "title": "فضل تفطير الصائم وصدقة رمضان: الحديث الصحيح ومعناه وأفكار عملية"
+ },
+ {
+  "number": 63,
+  "file": "63-ramadan-moon-sighting.json",
+  "slug": "ramadan-moon-sighting",
+  "title": "رؤية هلال رمضان: كيف يثبت دخول الشهر واختلاف المطالع"
+ },
+ {
+  "number": 64,
+  "file": "64-zakat-al-fitr-cash-or-food.json",
+  "slug": "zakat-al-fitr-cash-or-food",
+  "title": "زكاة الفطر نقدًا أم طعامًا؟ أقوال العلماء وأدلتهم والفتاوى المعاصرة"
+ },
+ {
+  "number": 65,
+  "file": "65-zakat-in-ramadan.json",
+  "slug": "zakat-in-ramadan",
+  "title": "إخراج زكاة المال في رمضان: هل يجوز تعجيلها أو تأخيرها للشهر؟"
  }
 ]
