@@ -1,5 +1,75 @@
 [
  {
+  "number": 1,
+  "file": "01-zakat-al-mal-calculation.json",
+  "slug": "zakat-al-mal-calculation",
+  "title": "كيفية حساب زكاة المال خطوة بخطوة مع مثال عملي وجدول",
+  "en": "01-zakat-al-mal-calculation.en.json"
+ },
+ {
+  "number": 2,
+  "file": "02-gold-zakat-nisab.json",
+  "slug": "gold-zakat-nisab",
+  "title": "نصاب زكاة الذهب بالجرام لكل عيار وطريقة حساب زكاته",
+  "en": "02-gold-zakat-nisab.en.json"
+ },
+ {
+  "number": 3,
+  "file": "03-zakat-al-fitr.json",
+  "slug": "zakat-al-fitr",
+  "title": "مقدار زكاة الفطر بالكيلو ووقت إخراجها وحكم إخراجها نقدًا",
+  "en": "03-zakat-al-fitr.en.json"
+ },
+ {
+  "number": 4,
+  "file": "04-islamic-app-no-ads.json",
+  "slug": "islamic-app-no-ads",
+  "title": "تطبيق اسلامي بدون اعلانات: دليلك المنصف لاختيار الأنسب",
+  "en": "04-islamic-app-no-ads.en.json"
+ },
+ {
+  "number": 5,
+  "file": "05-morning-evening-adhkar-virtues.json",
+  "slug": "morning-evening-adhkar-virtues",
+  "title": "فضل أذكار الصباح والمساء: وقتها وأهم الأذكار بأعدادها ومصادرها",
+  "en": "05-morning-evening-adhkar-virtues.en.json"
+ },
+ {
+  "number": 6,
+  "file": "06-daily-worship-tracker.json",
+  "slug": "daily-worship-tracker",
+  "title": "جدول الطاعات اليومي: خطة عملية للعبادة مع جدول أسبوعي للطباعة",
+  "en": "06-daily-worship-tracker.en.json"
+ },
+ {
+  "number": 7,
+  "file": "07-qibla-direction-phone.json",
+  "slug": "qibla-direction-phone",
+  "title": "تحديد اتجاه القبلة بالجوال بدقة: المعايرة والطرق البديلة والأحكام",
+  "en": "07-qibla-direction-phone.en.json"
+ },
+ {
+  "number": 8,
+  "file": "08-teach-child-prayer.json",
+  "slug": "teach-child-prayer",
+  "title": "كيف أعلّم طفلي الصلاة؟ دليل عملي حسب العمر بأساليب محببة",
+  "en": "08-teach-child-prayer.en.json"
+ },
+ {
+  "number": 9,
+  "file": "09-kids-daily-adhkar.json",
+  "slug": "kids-daily-adhkar",
+  "title": "أذكار الأطفال اليومية: أذكار قصيرة صحيحة مع شرح مبسط وروتين",
+  "en": "09-kids-daily-adhkar.en.json"
+ },
+ {
+  "number": 10,
+  "file": "10-noon-sakinah-tanween-rules.json",
+  "slug": "noon-sakinah-tanween-rules",
+  "title": "أحكام النون الساكنة والتنوين: شرح مبسط بالأمثلة وجدول ملخص",
+  "en": "10-noon-sakinah-tanween-rules.en.json"
+ },
+ {
   "number": 11,
   "file": "11-prayer-times-calculation-methods.json",
   "slug": "prayer-times-calculation-methods",
