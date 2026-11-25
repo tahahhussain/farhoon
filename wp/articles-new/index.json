@@ -353,5 +353,185 @@
   "file": "65-zakat-in-ramadan.json",
   "slug": "zakat-in-ramadan",
   "title": "إخراج زكاة المال في رمضان: هل يجوز تعجيلها أو تأخيرها للشهر؟"
+ },
+ {
+  "number": 66,
+  "file": "66-eid-rulings-guide.json",
+  "slug": "eid-rulings-guide",
+  "title": "أحكام العيد وسننه: دليل شامل لعيد الفطر وعيد الأضحى"
+ },
+ {
+  "number": 67,
+  "file": "67-eid-prayer.json",
+  "slug": "eid-prayer",
+  "title": "صلاة العيد: حكمها ووقتها وكيفيتها خطوة بخطوة ومن فاتته"
+ },
+ {
+  "number": 68,
+  "file": "68-eid-takbirat.json",
+  "slug": "eid-takbirat",
+  "title": "تكبيرات العيد: صيغها الثابتة عن الصحابة ووقتها في عيد الفطر"
+ },
+ {
+  "number": 69,
+  "file": "69-six-days-shawwal.json",
+  "slug": "six-days-shawwal",
+  "title": "صيام الست من شوال: فضلها والتتابع وتقديم القضاء والجمع بالنية"
+ },
+ {
+  "number": 70,
+  "file": "70-eid-greeting.json",
+  "slug": "eid-greeting",
+  "title": "التهنئة بالعيد: «تقبل الله منا ومنكم» وما ورد عن الصحابة وآداب العيد"
+ },
+ {
+  "number": 71,
+  "file": "71-umrah-steps.json",
+  "slug": "umrah-steps",
+  "title": "مناسك العمرة خطوة بخطوة: الإحرام والطواف والسعي والتقصير"
+ },
+ {
+  "number": 72,
+  "file": "72-hajj-steps.json",
+  "slug": "hajj-steps",
+  "title": "مناسك الحج خطوة بخطوة يومًا بيوم: من التروية إلى طواف الوداع"
+ },
+ {
+  "number": 73,
+  "file": "73-hajj-types.json",
+  "slug": "hajj-types",
+  "title": "أنواع النسك: التمتع والقران والإفراد، الفرق بينها وأيها أفضل"
+ },
+ {
+  "number": 74,
+  "file": "74-ihram-how-to.json",
+  "slug": "ihram-how-to",
+  "title": "كيفية الإحرام للعمرة والحج: الغسل واللباس والنية والتلبية"
+ },
+ {
+  "number": 75,
+  "file": "75-ihram-prohibitions.json",
+  "slug": "ihram-prohibitions",
+  "title": "محظورات الإحرام التسعة وفدية كل محظور، وما يباح للمحرم"
+ },
+ {
+  "number": 76,
+  "file": "76-miqat-places.json",
+  "slug": "miqat-places",
+  "title": "المواقيت المكانية للحج والعمرة ومن أين يحرم القادم بالطائرة"
+ },
+ {
+  "number": 77,
+  "file": "77-tawaf-sai-rulings.json",
+  "slug": "tawaf-sai-rulings",
+  "title": "صفة الطواف والسعي وأحكامهما والأخطاء الشائعة فيهما"
+ },
+ {
+  "number": 78,
+  "file": "78-arafah-day-pilgrim.json",
+  "slug": "arafah-day-pilgrim",
+  "title": "يوم عرفة للحاج: وقت الوقوف بعرفة وأعماله وحدوده وأفضل الدعاء"
+ },
+ {
+  "number": 79,
+  "file": "79-muzdalifah-mina-jamarat.json",
+  "slug": "muzdalifah-mina-jamarat",
+  "title": "المبيت بمزدلفة ومنى ورمي الجمرات وأعمال يوم النحر بالترتيب"
+ },
+ {
+  "number": 80,
+  "file": "80-farewell-tawaf.json",
+  "slug": "farewell-tawaf",
+  "title": "طواف الوداع: حكمه ووقته ومن يسقط عنه، وهل يجب على المعتمر"
+ },
+ {
+  "number": 81,
+  "file": "81-hajj-umrah-duas.json",
+  "slug": "hajj-umrah-duas",
+  "title": "أدعية الحج والعمرة الثابتة: التلبية والطواف والصفا والمروة وعرفة"
+ },
+ {
+  "number": 82,
+  "file": "82-hajj-conditions-istitaa.json",
+  "slug": "hajj-conditions-istitaa",
+  "title": "شروط وجوب الحج والاستطاعة: هل يجب الحج على الفور أم التراخي؟"
+ },
+ {
+  "number": 83,
+  "file": "83-women-hajj-rulings.json",
+  "slug": "women-hajj-rulings",
+  "title": "أحكام حج المرأة وعمرتها: المحرم واللباس والحيض في النسك"
+ },
+ {
+  "number": 84,
+  "file": "84-hajj-on-behalf.json",
+  "slug": "hajj-on-behalf",
+  "title": "الحج عن الغير والعمرة عن الميت والعاجز: الشروط والنية بالأدلة"
+ },
+ {
+  "number": 85,
+  "file": "85-prophets-mosque-visit.json",
+  "slug": "prophets-mosque-visit",
+  "title": "زيارة المسجد النبوي: فضلها وآدابها وما يشرع فيها وما لا يشرع"
+ },
+ {
+  "number": 86,
+  "file": "86-dhul-hijjah-ten-days.json",
+  "slug": "dhul-hijjah-ten-days",
+  "title": "فضل العشر من ذي الحجة وأعمالها: الأدلة وصيام التسع وخطة يومية"
+ },
+ {
+  "number": 87,
+  "file": "87-arafah-day-fasting.json",
+  "slug": "arafah-day-fasting",
+  "title": "صيام يوم عرفة: فضله ولمن يُشرع وموعده ١٤٤٨ وحكم صيامه يوم السبت"
+ },
+ {
+  "number": 88,
+  "file": "88-takbir-dhul-hijjah.json",
+  "slug": "takbir-dhul-hijjah",
+  "title": "التكبير في عشر ذي الحجة: وقت التكبير المطلق والمقيد وأدلته"
+ },
+ {
+  "number": 89,
+  "file": "89-udhiyah-rulings.json",
+  "slug": "udhiyah-rulings",
+  "title": "أحكام الأضحية: حكمها وشروطها ووقتها وتوزيعها باختصار ودليل"
+ },
+ {
+  "number": 90,
+  "file": "90-udhiyah-hair-nails.json",
+  "slug": "udhiyah-hair-nails",
+  "title": "من أراد أن يضحي: حكم الأخذ من الشعر والأظفار ومن يشمله النهي"
+ },
+ {
+  "number": 91,
+  "file": "91-tashreeq-days.json",
+  "slug": "tashreeq-days",
+  "title": "أيام التشريق: فضلها وحكم صيامها وأعمالها ومواعيدها ١٤٤٨هـ"
+ },
+ {
+  "number": 92,
+  "file": "92-makkah-journey-kids.json",
+  "slug": "makkah-journey-kids",
+  "title": "رحلة إلى مكة للأطفال: نعلّمهم الكعبة والحج بالقصة والنشاط"
+ },
+ {
+  "number": 93,
+  "file": "93-phone-for-hajj-umrah.json",
+  "slug": "phone-for-hajj-umrah",
+  "title": "تجهيز الجوال للحج والعمرة: مصحف وأذكار وقبلة دون إنترنت"
+ },
+ {
+  "number": 94,
+  "file": "94-hijri-calendar-1448.json",
+  "slug": "hijri-calendar-1448",
+  "title": "التقويم الهجري ١٤٤٨: الأشهر والمناسبات بالتاريخ الميلادي"
+ },
+ {
+  "number": 95,
+  "file": "95-traveler-prayer-qasr-jam.json",
+  "slug": "traveler-prayer-qasr-jam",
+  "title": "صلاة المسافر: القصر والجمع ومسافة السفر ومدة الإقامة"
  }
 ]
