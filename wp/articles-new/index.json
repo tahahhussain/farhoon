@@ -603,5 +603,65 @@
   "file": "95-traveler-prayer-qasr-jam.json",
   "slug": "traveler-prayer-qasr-jam",
   "title": "صلاة المسافر: القصر والجمع ومسافة السفر ومدة الإقامة"
+ },
+ {
+  "number": 96,
+  "file": "96-isra-miraj.json",
+  "slug": "isra-miraj",
+  "title": "الإسراء والمعراج: القصة من القرآن والسنة الصحيحة ودروسها وتاريخها"
+ },
+ {
+  "number": 97,
+  "file": "97-tayammum.json",
+  "slug": "tayammum",
+  "title": "التيمم: متى يجوز وكيفيته الصحيحة خطوة بخطوة ومبطلاته وأحكامه"
+ },
+ {
+  "number": 98,
+  "file": "98-wudu-nullifiers.json",
+  "slug": "wudu-nullifiers",
+  "title": "نواقض الوضوء: المتفق عليها والمختلف فيها عند المذاهب الأربعة"
+ },
+ {
+  "number": 99,
+  "file": "99-how-to-make-wudu.json",
+  "slug": "how-to-make-wudu",
+  "title": "صفة الوضوء الصحيحة خطوة بخطوة: الفروض والسنن ودعاء ما بعده"
+ },
+ {
+  "number": 100,
+  "file": "100-how-to-pray.json",
+  "slug": "how-to-pray",
+  "title": "صفة الصلاة كما صلاها النبي ﷺ خطوة بخطوة من التكبير إلى التسليم"
+ },
+ {
+  "number": 101,
+  "file": "101-prayer-conditions-pillars.json",
+  "slug": "prayer-conditions-pillars",
+  "title": "شروط الصلاة وأركانها وواجباتها بالترتيب مع الفرق بينها"
+ },
+ {
+  "number": 102,
+  "file": "102-sujud-sahw.json",
+  "slug": "sujud-sahw",
+  "title": "سجود السهو: أسبابه وكيفيته وهل يكون قبل السلام أم بعده"
+ },
+ {
+  "number": 103,
+  "file": "103-khushu-in-prayer.json",
+  "slug": "khushu-in-prayer",
+  "title": "الخشوع في الصلاة: معناه وحكمه ووسائل عملية لتحقيقه من السنة"
+ },
+ {
+  "number": 104,
+  "file": "104-congregational-prayer.json",
+  "slug": "congregational-prayer",
+  "title": "صلاة الجماعة: حكمها في المذاهب وفضلها وبكم تنعقد وكيف تُدرك"
+ },
+ {
+  "number": 105,
+  "file": "105-funeral-prayer.json",
+  "slug": "funeral-prayer",
+  "title": "صلاة الجنازة: كيفيتها خطوة بخطوة والدعاء للميت وفضلها"
  }
 ]
